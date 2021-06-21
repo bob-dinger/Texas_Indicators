@@ -6,9 +6,10 @@
 
 [Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution](./education/Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution/report.md)
 
+<!--->
 [Median earnings of high school graduates who earned an Associate's or Bachelor's degree from a Texas public higher education institution](./education/Median earnings of high school graduates who earned an Associate's or Bachelor's degree from a Texas public higher education institution/report.md)
+--->
 
-[Number of seats in quality accredited childcare centers](./education/Number of seats in quality accredited childcare centers/report.md)
 
 [Percent of annual graduates demonstrating college, career, or military readiness](./education/Percent of annual graduates demonstrating college, career, or military readiness/report.md)
 
@@ -31,6 +32,8 @@
 [Percent of students graduating high school within 4 years](./education/Percent of students graduating high school within 4 years/report.md)
 
 [Percent of working population earning a mid- or high-wage](./education/Percent of working population earning a mid- or high-wage/report.md)
+
+[Number of seats in quality accredited childcare centers](./education/Number of seats in quality accredited childcare centers/report.md)
 
 ## government
 
