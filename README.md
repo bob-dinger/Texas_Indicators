@@ -10,7 +10,8 @@
 
 [Percent of annual graduates demonstrating college, career, or military readiness](./education/Percent of annual graduates demonstrating college, career, or military readiness/report.md)
 
-[Percent of eligible 3- and 4-year-olds enrolled in public Pre-K](./education/Percent of eligible 3- and 4-year-olds enrolled in public Pre-K/report.md)
+[Percent of eligible 3- and 4-year-olds enrolled in public Pre-K]
+<!--- (./education/Percent of eligible 3- and 4-year-olds enrolled in public Pre-K/report.md) --->
 
 [Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation](./education/Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation/report.md)
 
