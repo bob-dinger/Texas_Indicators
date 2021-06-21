@@ -6,7 +6,7 @@
 
 [Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution](./education/Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution/report.md)
 
-<!--->
+<!---
 [Median earnings of high school graduates who earned an Associate's or Bachelor's degree from a Texas public higher education institution](./education/Median earnings of high school graduates who earned an Associate's or Bachelor's degree from a Texas public higher education institution/report.md)
 --->
 
