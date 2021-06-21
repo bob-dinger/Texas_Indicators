@@ -1,5 +1,7 @@
 # Texas 2036 Indicators
 
+[Indicator Table](./Indicators.md)
+
 ## education
 
 [Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution](./education/Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution/report.md)
