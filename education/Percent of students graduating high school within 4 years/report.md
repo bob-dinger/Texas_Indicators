@@ -12,10 +12,14 @@
 
 ### Source
 TAPR
+
 SCOMP4 (Table)
+
 State 4-Year Longitudinal Rate
+
 SAGC4X19R (Variable)
-District 2018 4-Year Longitudinal: (Graduates) for All Students Rate
+
+State 2019 4-Year Longitudinal: (Graduates) for All Students Rate
 
 
 ### Notes:

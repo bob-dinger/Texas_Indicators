@@ -3,9 +3,10 @@
 ## Education & Workforce
 
 ### Value
+
 |  Value      | Rank        | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | -----------|
-| 72.9      | N/A         |    65.5   | N/A         | 📈       | 
+| 72.9        | N/A         |    65.5     | N/A         |   📈       | 
 
 ### Data
 
