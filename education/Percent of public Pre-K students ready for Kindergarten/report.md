@@ -2,6 +2,15 @@
 
 ## Education & Workforce
 
+### Secondary Indicator
+
+### **Goal**
+
+Early childhood
+
+Texas children get a strong early start to succeed in school and life
+
+
 ### Value
 
 |  Value      | Rank        | Previous Value | Previous Rank | Trend | 
