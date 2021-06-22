@@ -11,13 +11,13 @@
 
 #### Primary
 
-[Percent of annual graduates demonstrating college, career, or military readiness](./education/Percent of annual graduates demonstrating college, career, or military readiness/report.md)
+🟢 [Percent of annual graduates demonstrating college, career, or military readiness](./education/Percent of annual graduates demonstrating college, career, or military readiness/report.md)
 
-[Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment](./education/Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment/report.md)
+🔴 [Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment](./education/Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment/report.md)
 
-[Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation](./education/Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation/report.md)
+🟢 [Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation](./education/Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation/report.md)
 
-[4th grade reading]
+🔴 [4th grade reading]
 
 [Living Wages](./education/Living Wages/report.md)
 
@@ -44,7 +44,7 @@
 
 [Percent of public Pre-K students ready for Kindergarten](./education/Percent of public Pre-K students ready for Kindergarten/report.md)
 
-[Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects](./education/Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects/report.md)
+🔴 [Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects](./education/Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects/report.md)
 
 
 
