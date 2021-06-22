@@ -27,15 +27,15 @@
 	}
 </style>
 <table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>State</th><th>Associates Or Higher</th></tr></thead><tbody>
+<thead><tr class="tableizer-firstrow"><th>State</th><th>Associates or Higher</th></tr></thead><tbody>
  <tr><td>Massachusetts</td><td>59.60%</td></tr>
  <tr><td>Minnesota</td><td>57.00%</td></tr>
  <tr><td>New York</td><td>55.00%</td></tr>
  <tr><td>New Jersey</td><td>54.80%</td></tr>
  <tr><td>Vermont</td><td>53.90%</td></tr>
  <tr><td>Connecticut</td><td>51.70%</td></tr>
- <tr><td>Nebraska</td><td>51.60%</td></tr>
  <tr><td>Colorado</td><td>51.60%</td></tr>
+ <tr><td>Nebraska</td><td>51.60%</td></tr>
  <tr><td>Illinois</td><td>51.20%</td></tr>
  <tr><td>Virginia</td><td>50.80%</td></tr>
  <tr><td>Maryland</td><td>50.60%</td></tr>
@@ -64,6 +64,8 @@
  <tr><td>Delaware</td><td>41.90%</td></tr>
  <tr><td>Georgia</td><td>41.00%</td></tr>
  <tr><td>Indiana</td><td>39.60%</td></tr>
+ <tr color="orange"><td>Texas</td><td>39.10%</td></tr>
+ <tr><td>Kentucky</td><td>39.00%</td></tr>
  <tr><td>Wyoming</td><td>38.90%</td></tr>
  <tr><td>Tennessee</td><td>38.60%</td></tr>
  <tr><td>Arizona</td><td>38.10%</td></tr>
