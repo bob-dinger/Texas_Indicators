@@ -19,41 +19,38 @@
 
 🔴 [4th grade reading]
 
-[Living Wages](./education/Living Wages/report.md)
+[Percent of working population earning a mid- or high-wage](./education/Living Wages/report.md)
+
 
 #### Secondary
 
-[Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution](./education/Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution/report.md)
+🟢 [Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution](./education/Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution/report.md)
 
 <!---
 [Median earnings of high school graduates who earned an Associate's or Bachelor's degree from a Texas public higher education institution](./education/Median earnings of high school graduates who earned an Associate's or Bachelor's degree from a Texas public higher education institution/report.md)
 --->
 
 
-
-
-[Percent of eligible 3- and 4-year-olds enrolled in public Pre-K](./education/Percent of eligible 3- and 4-year-olds enrolled in public Pre-K/report.md)
+🟢 [Percent of eligible 3- and 4-year-olds enrolled in public Pre-K](./education/Percent of eligible 3- and 4-year-olds enrolled in public Pre-K/report.md)
 
 
 
-[Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation](./education/Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation/report.md)
+🟢 [Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation](./education/Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation/report.md)
 
-[Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation and returned](./education/Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation and returned/report.md)
+🟢 [Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation and returned](./education/Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation and returned/report.md)
 
-[Percent of population age 25-34 with a postsecondary credential](./education/Percent of population age 25-34 with a postsecondary credential/report.md)
+🟢 [Percent of population age 25-34 with a postsecondary credential](./education/Percent of population age 25-34 with a postsecondary credential/report.md)
 
-[Percent of public Pre-K students ready for Kindergarten](./education/Percent of public Pre-K students ready for Kindergarten/report.md)
+🟢 [Percent of public Pre-K students ready for Kindergarten](./education/Percent of public Pre-K students ready for Kindergarten/report.md)
 
 🔴 [Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects](./education/Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects/report.md)
 
+🔴 [8th Grade Math]
+
+🟢 [Percent of students graduating high school within 4 years](./education/Percent of students graduating high school within 4 years/report.md)
 
 
-[Percent of students graduating high school within 4 years](./education/Percent of students graduating high school within 4 years/report.md)
-
-[Percent of working population earning a mid- or high-wage](./education/Percent of working population earning a mid- or high-wage/report.md)
-
-[Number of seats in quality accredited childcare centers](./education/Number of seats in quality accredited childcare centers/report.md)
-
+🟢 [Number of seats in quality accredited childcare centers](./education/Number of seats in quality accredited childcare centers/report.md)
 
 
 ## Health
