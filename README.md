@@ -9,7 +9,19 @@
 
 ## Education
 
-### Primary
+#### Primary
+
+[Percent of annual graduates demonstrating college, career, or military readiness](./education/Percent of annual graduates demonstrating college, career, or military readiness/report.md)
+
+[Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment](./education/Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment/report.md)
+
+[Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation](./education/Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation/report.md)
+
+[4th grade reading]
+
+[Living Wages]
+
+#### Secondary
 
 [Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution](./education/Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution/report.md)
 
@@ -18,11 +30,11 @@
 --->
 
 
-[Percent of annual graduates demonstrating college, career, or military readiness](./education/Percent of annual graduates demonstrating college, career, or military readiness/report.md)
+
 
 [Percent of eligible 3- and 4-year-olds enrolled in public Pre-K](./education/Percent of eligible 3- and 4-year-olds enrolled in public Pre-K/report.md)
 
-[Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation](./education/Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation/report.md)
+
 
 [Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation](./education/Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation/report.md)
 
@@ -34,7 +46,7 @@
 
 [Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects](./education/Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects/report.md)
 
-[Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment](./education/Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment/report.md)
+
 
 [Percent of students graduating high school within 4 years](./education/Percent of students graduating high school within 4 years/report.md)
 

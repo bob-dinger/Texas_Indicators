@@ -15,4 +15,8 @@
 ### Source
 [Kindergarten Readiness Report](./CrystalReportViewer1.pdf)
 
-### Notes:
+### Notes
+
+Indicators Page:
+
+![Ind](./indicators_page.PNG)
