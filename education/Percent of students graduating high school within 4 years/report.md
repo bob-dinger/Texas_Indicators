@@ -2,6 +2,13 @@
 
 ## Education & Workforce
 
+### Primary Indicator
+
+### **Goal**
+K-12
+
+Texas students graduate high school ready for postsecondary success
+
 ### Value
 
 |  Value      | Rank        | Previous Value | Previous Rank | Trend | 
@@ -22,4 +29,4 @@ SAGC4X19R (Variable)
 State 2019 4-Year Longitudinal: (Graduates) for All Students Rate
 
 
-### Notes:
+### Notes

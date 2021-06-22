@@ -2,6 +2,15 @@
 
 ## Education & Workforce
 
+### Secondary Indicator
+
+### **Goal**
+
+Jobs
+
+Texans have the knowledge and skills to access careers enabling economic security
+
+
 ### Value
 
 

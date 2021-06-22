@@ -19,7 +19,7 @@
 
 [4th grade reading]
 
-[Living Wages]
+[Living Wages](./education/Living Wages/report.md)
 
 #### Secondary
 
