@@ -4,8 +4,18 @@
 
 ### Value
 
+|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | -----------|
+| 90%       |     N/A      |    90%     | N/A          | flat  
+
 ### Data
 
 ### Source
+TAPR
+SCOMP4 (Table)
+State 4-Year Longitudinal Rate
+SAGC4X19R (Variable)
+District 2018 4-Year Longitudinal: (Graduates) for All Students Rate
+
 
 ### Notes:

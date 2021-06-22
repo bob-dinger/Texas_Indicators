@@ -287,45 +287,29 @@
 
 ## Prosperity & Well-Being
 
-[Amount of venture capital investment in emerging companies]
+[Amount of venture capital investment in emerging companies](./prosperity/Amount of venture capital investment in emerging companies/report.md)
 
-<!---(./prosperity/Amount of venture capital investment in emerging companies/report.md)--->
-
-[Annual percent change in real GDP]
-
-<!---(./prosperity/Annual percent change in real GDP/report.md)--->
+[Annual percent change in real GDP](./prosperity/Annual percent change in real GDP/report.md)
 
 [Gini index of income inequality]
 
 <!---(./prosperity/Gini index of income inequality/report.md)--->
 
-[Net domestic migration gain or loss]
+[Net domestic migration gain or loss](./prosperity/Net domestic migration gain or loss/report.md)
 
-<!---(./prosperity/Net domestic migration gain or loss/report.md)--->
+[Number of Fortune 500 headquarters](./prosperity/Number of Fortune 500 headquarters/report.md)
 
-[Number of Fortune 500 headquarters]
+[Number of Inc. 5000 headquarters](./prosperity/Number of Inc. 5000 headquarters/report.md)
 
-<!---(./prosperity/Number of Fortune 500 headquarters/report.md)--->
-
-[Number of Inc. 5000 headquarters]
-
-<!---(./prosperity/Number of Inc. 5000 headquarters/report.md)--->
-
-[Number of new small businesses]
-
-<!---(./prosperity/Number of new small businesses/report.md)--->
+[Number of new small businesses](./prosperity/Number of new small businesses/report.md)
 
 [Percent of population below the supplemental poverty line]
 
 <!---(./prosperity/Percent of population below the supplemental poverty line/report.md)--->
 
-[Ranking on Gallup National Health and Well-Being Index]
+[Ranking on Gallup National Health and Well-Being Index](./prosperity/Ranking on Gallup National Health and Well-Being Index/report.md)
 
-<!---(./prosperity/Ranking on Gallup National Health and Well-Being Index/report.md)--->
-
-[Ranking on ITIF State New Economy Index]
-
-<!---(./prosperity/Ranking on ITIF State New Economy Index/report.md)--->
+[Ranking on ITIF State New Economy Index](./prosperity/Ranking on ITIF State New Economy Index/report.md)
 
 [Real per capita personal income and income growth]
 
