@@ -2,6 +2,10 @@
 
 [Indicator Table](./Indicators.md)
 
+🟢 = Updated Variable
+🔴 = No update available
+<!---🟠  --->
+
 ## Education
 
 ### Primary
