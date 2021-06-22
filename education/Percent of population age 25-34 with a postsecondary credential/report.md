@@ -13,7 +13,7 @@
 
 ### Data
 
-<style type="text/css">
+<!-- <style type="text/css">
 	table.tableizer-table {
 		font-size: 14px;
 		border: 1px solid #CCC; 
@@ -29,9 +29,9 @@
 		color: #FFF;
 		font-weight: bold;
 	}
-</style>
-<table class="tableizer-table">
-<thead><tr class="tableizer-firstrow"><th>State</th><th>Associates or Higher</th></tr></thead><tbody>
+</style> -->
+<table width="100%">
+<thead><tr><th>State</th><th>Associates or Higher</th></tr></thead><tbody>
  <tr><td>Massachusetts</td><td>59.60%</td></tr>
  <tr><td>Minnesota</td><td>57.00%</td></tr>
  <tr><td>New York</td><td>55.00%</td></tr>
