@@ -7,7 +7,7 @@
 🔴 = No update available
 <!---🟠  --->
 
-## Education
+## Education & Workforce
 
 #### Primary
 
@@ -19,7 +19,7 @@
 
 🔴 [4th grade reading]
 
-[Percent of working population earning a mid- or high-wage](./education/Living Wages/report.md)
+🟢 [Percent of working population earning a mid- or high-wage](./education/Percent of working population earning a mid- or high-wage/report.md)
 
 
 #### Secondary
@@ -32,8 +32,6 @@
 
 
 🟢 [Percent of eligible 3- and 4-year-olds enrolled in public Pre-K](./education/Percent of eligible 3- and 4-year-olds enrolled in public Pre-K/report.md)
-
-
 
 🟢 [Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation](./education/Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation/report.md)
 
@@ -296,39 +294,39 @@
 
 ## Prosperity & Well-Being
 
-[Amount of venture capital investment in emerging companies](./prosperity/Amount of venture capital investment in emerging companies/report.md)
+🟢 [Amount of venture capital investment in emerging companies](./prosperity/Amount of venture capital investment in emerging companies/report.md)
 
-[Annual percent change in real GDP](./prosperity/Annual percent change in real GDP/report.md)
+🟢 [Annual percent change in real GDP](./prosperity/Annual percent change in real GDP/report.md)
 
-[Gini index of income inequality]
+🟢 [Gini index of income inequality]
 
 <!---(./prosperity/Gini index of income inequality/report.md)--->
 
-[Net domestic migration gain or loss](./prosperity/Net domestic migration gain or loss/report.md)
+🟢 [Net domestic migration gain or loss](./prosperity/Net domestic migration gain or loss/report.md)
 
-[Number of Fortune 500 headquarters](./prosperity/Number of Fortune 500 headquarters/report.md)
+🟢 [Number of Fortune 500 headquarters](./prosperity/Number of Fortune 500 headquarters/report.md)
 
-[Number of Inc. 5000 headquarters](./prosperity/Number of Inc. 5000 headquarters/report.md)
+🟢 [Number of Inc. 5000 headquarters](./prosperity/Number of Inc. 5000 headquarters/report.md)
 
-[Number of new small businesses](./prosperity/Number of new small businesses/report.md)
+🟢 [Number of new small businesses](./prosperity/Number of new small businesses/report.md)
 
-[Percent of population below the supplemental poverty line]
+🟢 [Percent of population below the supplemental poverty line]
 
 <!---(./prosperity/Percent of population below the supplemental poverty line/report.md)--->
 
-[Ranking on Gallup National Health and Well-Being Index](./prosperity/Ranking on Gallup National Health and Well-Being Index/report.md)
+🟢 [Ranking on Gallup National Health and Well-Being Index](./prosperity/Ranking on Gallup National Health and Well-Being Index/report.md)
 
-[Ranking on ITIF State New Economy Index](./prosperity/Ranking on ITIF State New Economy Index/report.md)
+🟢 [Ranking on ITIF State New Economy Index](./prosperity/Ranking on ITIF State New Economy Index/report.md)
 
-[Real per capita personal income and income growth]
+🟢 [Real per capita personal income and income growth]
 
 <!---(./prosperity/Real per capita personal income and income growth/report.md)--->
 
-[Regional price parity]
+🟢 [Regional price parity]
 
 <!---(./prosperity/Regional price parity/report.md)--->
 
-[Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income]
+🟢 [Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income]
 
 <!---(./prosperity/Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income/report.md)--->
 
