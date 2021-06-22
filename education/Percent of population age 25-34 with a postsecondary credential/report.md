@@ -3,9 +3,13 @@
 ## Education & Workforce
 
 ### Value
+
+
 |  Value      | Rank        | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | -----------|
-| 39.1%     |     36   |    38.9 | 36        | flat       | 
+| 39.1%       |     36      |    38.9     | 36          | flat       | 
+
+
 
 ### Data
 
