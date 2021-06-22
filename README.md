@@ -17,7 +17,7 @@
 
 🟢 [Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation](./education/Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation/report.md)
 
-🔴 [4th grade reading]
+🔴 [4th grade reading](./education/4th grade reading/report.md)
 
 🟢 [Percent of working population earning a mid- or high-wage](./education/Percent of working population earning a mid- or high-wage/report.md)
 
@@ -43,7 +43,7 @@
 
 🔴 [Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects](./education/Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects/report.md)
 
-🔴 [8th Grade Math]
+🔴 [8th Grade Math](./education/8th grade math/report.md)
 
 🟢 [Percent of students graduating high school within 4 years](./education/Percent of students graduating high school within 4 years/report.md)
 
