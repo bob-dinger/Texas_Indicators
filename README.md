@@ -63,13 +63,13 @@
 
 <!---(./health/Ratio of population to primary care providers in a county/report.md)--->
 
-[Percent of adults who report having a "personal" health care provider]
+🟠 * [Percent of adults who report having a "personal" health care provider]
 
 🟢 [Percent of population without health insurance]
 
 <!---(./health/Percent of population without health insurance/report.md)--->
 
-[Percent of adults who report needing to see a doctor in past year but could not due to cost]
+🟠 * [Percent of adults who report needing to see a doctor in past year but could not due to cost]
 
 [Premature death from treatable medical conditions deaths per 100,000 population]
 
@@ -81,10 +81,9 @@
 
 [birth weight below 5.5 pounds]
 
-🔴 [percents of adults and children who are obese]
+🟠 * [percents of adults and children who are obese]
 
-[Percent of adults who reported smoking daily or some days]
-
+🟠 * [Percent of adults who reported smoking daily or some days]
 
 [Potentially avoidable hospital visits among adults per 1,000 insurance enrollees]
 
@@ -141,7 +140,21 @@
 
 <!---(./health/State's direct expenditures on health care per capita/report.md)--->
 
+🟠 * [Number of deaths due to drug injury per 100,000 population]
 
+🟠 * [Average number of mentally unhealthy days within the last 30 days reported by adults]
+
+🟠 * [Percent of adults who reported no physical activity]
+
+🟠 * [Percent of adults ages 65 to 75 who reported receiving colorectal cancer screening within the recommended time period]
+
+🟠 * [Percent of population who report having one or more of the following chronic conditions—diabetes, cardiovascular disease, and asthma]
+
+🟠 * [Percent of adults who reported either binge or chronic drinking]
+
+🟠 * [Average number of physically unhealthy days within the last 30 days reported by adults]
+
+🟠 * = From Behavioral Risk Factor Surveillance Survey (to be released in August)
 
 ## Infrastructure
 
