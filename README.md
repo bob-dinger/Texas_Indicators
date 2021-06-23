@@ -75,7 +75,7 @@
 
 <!---(./health/Premature death from treatable medical conditions deaths per 100,000 population/report.md)--->
 
-[Number of years from birth a person is expected to live]
+🟢 [Number of years from birth a person is expected to live]
 
 <!---(./health/Number of years from birth a person is expected to live/report.md)--->
 
@@ -112,17 +112,13 @@
 
 <!---(./health/Medicaid expenditures as percent of state budget/report.md)--->
 
-[Number of births per 1,000 females ages 15-19]
+🟢 [Number of births per 1,000 females ages 15-19]
 
 <!---(./health/Number of births per 1,000 females ages 15-19/report.md)--->
 
-[Number of people homeless per 10,000 population]
+🟢 [Number of people homeless per 10,000 population]
 
 <!---(./health/Number of people homeless per 10,000 population/report.md)--->
-
-[Percent of children under age 17 who experienced two or more ACEs]
-
-<!---(./health/Percent of children under age 17 who experienced two or more ACEs/report.md)--->
 
 [Percent of households with limited or uncertain access to food]
 
@@ -173,7 +169,11 @@
 
 <!---(./infrastructure/Percent of population with access to fixed broadband at an acceptable speed of 253 mbps or higher; will shift to 1Gbps download speeds in future/report.md)--->
 
+
 [Average price paid for electricity across all end user sectors]
+
+<!---(./natural resources/Average price paid for electricity across all end user sectors/report.md)--->
+
 
 [Percent difference between the forecasted total generation available and the forecasted peak demand in the following year]
 
@@ -231,22 +231,23 @@
 
 ### Primary
 
-[Number of violent crimes reported per 100,000 population]
+🔴 [Number of violent crimes reported per 100,000 population]
 
-[Number of property crimes reported per 100,000 population]
+🔴 [Number of property crimes reported per 100,000 population]
 
+🔴 [Percent of children under age 17 who experienced two or more ACEs]
 
-[Percent of children under age 17 who experienced two or more ACEs]
+🟢 [Percent of population below the supplemental poverty line]
 
-[Percent of population below the supplemental poverty line]
-
-[Percent of individuals released from incarceration who are rearrested within three years]
+🟢 [Percent of individuals released from incarceration who are rearrested within three years]
 
 <!---(./justice/Percent of individuals released from incarceration who are rearrested within three years/report.md)--->
 
-[The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel, senior litigators or attorneys, and other senior executives of large companies to identify those jurisdictions with the best and worst legal climates]
+🔴 [The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel, senior litigators or attorneys, and other senior executives of large companies to identify those jurisdictions with the best and worst legal climates]
 
+🔴 [Percent of children under age 17 who experienced two or more ACEs]
 
+<!---(./health/Percent of children under age 17 who experienced two or more ACEs/report.md)--->
 
 
 ### Secondary
@@ -254,7 +255,7 @@
 [Average cost per inmate]
 <!---(./justice/Average cost per inmate/report.md)--->
 
-[Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas]
+🟢 [Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas]
 
 <!---(./justice/Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas/report.md)--->
 
@@ -290,10 +291,10 @@
 
 <!---(./natural resources/Number of acres preserved in the Public Land System or through easements per 1,000 Texans/report.md)--->
 
-[Number of total visits to Texas state parks per 1,000 Texans]
+🔴 [Number of total visits to Texas state parks per 1,000 Texans]
 
 
-[Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population]
+🟢 [Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population]
 
 <!---(./natural resources/Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population/report.md)--->
 
@@ -314,9 +315,7 @@
 
 <!---(./natural resources/Amount of residential water used per day per capita, delivered through Texas water utilities/report.md)--->
 
-[Average price paid for electricity across all end user sectors]
 
-<!---(./natural resources/Average price paid for electricity across all end user sectors/report.md)--->
 
 
 
@@ -414,13 +413,13 @@
 
 ### Primary
 
-[Percent of population responding that "things in my state are on track"]
+🔴 [Percent of population responding that "things in my state are on track"]
 
-[Percent of voting-age population who vote in major elections]
+🟢 [Percent of voting-age population who vote in major elections]
 
 <!---(./government/Percent of voting-age population who vote in major elections/report.md)--->
 
-[Ranking on Mercatus Center State Fiscal Rankings]
+🔴 [Ranking on Mercatus Center State Fiscal Rankings]
 
 [Combined state and local taxes by business as percent of pre-tax gross operation margin]
 
@@ -432,18 +431,18 @@
 
 [Ranking on taxpayer ROI index contrasting quality of public services to state and local taxes per capita]
 
-[Turnover rate of state employees]
+🟢 [Turnover rate of state employees]
 
 <!---(./government/Turnover rate of state employees/report.md)--->
 
-[Percent of population using government services who indicate that they are satisfied with digital services]
+🔴 [Percent of population using government services who indicate that they are satisfied with digital services]
 
 [Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income.]
 
 ### Secondary
 
 
-[State ranking on Govtech Digital States Survey]
+🟢 [State ranking on Govtech Digital States Survey]
 
 <!---(./government/State ranking on Govtech Digital States Survey/report.md)--->
 
