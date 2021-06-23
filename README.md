@@ -53,9 +53,56 @@
 
 ## Health
 
+### Primary
+
+[Ratio of population to mental health providers in a county]
+
+<!---(./health/Ratio of population to mental health providers in a county/report.md)--->
+
+[Ratio of population to primary care providers in a county]
+
+<!---(./health/Ratio of population to primary care providers in a county/report.md)--->
+
+[Percent of adults who report having a "personal" health care provider]
+
+[Percent of population without health insurance]
+
+<!---(./health/Percent of population without health insurance/report.md)--->
+
+[Percent of adults who report needing to see a doctor in past year but could not due to cost]
+
+[Premature death from treatable medical conditions deaths per 100,000 population]
+
+<!---(./health/Premature death from treatable medical conditions deaths per 100,000 population/report.md)--->
+
+[Number of years from birth a person is expected to live]
+
+<!---(./health/Number of years from birth a person is expected to live/report.md)--->
+
+[birth weight below 5.5 pounds]
+
+[percents of adults and children who are obese]
+
+[Percent of adults who reported smoking daily or some days]
+
+
+[Potentially avoidable hospital visits among adults per 1,000 insurance enrollees]
+
+<!---(./health/Potentially avoidable hospital visits among adults per 1,000 insurance enrollees/report.md)--->
+
+[Percent of children ages 19-35 months who received recommended vaccines]
+
+<!---(./health/Percent of children ages 19-35 months who received recommended vaccines/report.md)--->
+
 [Average annual percent increase in per person health care expenditures in Texas]
 
 <!---(./health/Average annual percent increase in per person health care expenditures in Texas/report.md)--->
+
+[the percentage of adults who reported that they received the flu vaccine within the past 12 months]
+
+<!---(./health/the percentage of adults who reported that they received the flu vaccine within the past 12 months/report.md)--->
+
+### Secondary
 
 [Influenza and pneumonia mortality Number of deaths in Texas whose underlying]
 
@@ -73,14 +120,6 @@
 
 <!---(./health/Number of people homeless per 10,000 population/report.md)--->
 
-[Number of years from birth a person is expected to live]
-
-<!---(./health/Number of years from birth a person is expected to live/report.md)--->
-
-[Percent of children ages 19-35 months who received recommended vaccines]
-
-<!---(./health/Percent of children ages 19-35 months who received recommended vaccines/report.md)--->
-
 [Percent of children under age 17 who experienced two or more ACEs]
 
 <!---(./health/Percent of children under age 17 who experienced two or more ACEs/report.md)--->
@@ -89,17 +128,6 @@
 
 <!---(./health/Percent of households with limited or uncertain access to food/report.md)--->
 
-[Percent of population without health insurance]
-
-<!---(./health/Percent of population without health insurance/report.md)--->
-
-[Potentially avoidable hospital visits among adults per 1,000 insurance enrollees]
-
-<!---(./health/Potentially avoidable hospital visits among adults per 1,000 insurance enrollees/report.md)--->
-
-[Premature death from treatable medical conditions deaths per 100,000 population]
-
-<!---(./health/Premature death from treatable medical conditions deaths per 100,000 population/report.md)--->
 
 [Premiums plus deductibles as percent of income]
 
@@ -109,14 +137,6 @@
 
 <!---(./health/Ratio of population to dental health providers in a county/report.md)--->
 
-[Ratio of population to mental health providers in a county]
-
-<!---(./health/Ratio of population to mental health providers in a county/report.md)--->
-
-[Ratio of population to primary care providers in a county]
-
-<!---(./health/Ratio of population to primary care providers in a county/report.md)--->
-
 [State budget allocation for public health per capita]
 
 <!---(./health/State budget allocation for public health per capita/report.md)--->
@@ -125,11 +145,41 @@
 
 <!---(./health/State's direct expenditures on health care per capita/report.md)--->
 
-[the percentage of adults who reported that they received the flu vaccine within the past 12 months]
 
-<!---(./health/the percentage of adults who reported that they received the flu vaccine within the past 12 months/report.md)--->
 
 ## Infrastructure
+
+### Primary
+
+[Annual cost of time lost and fuel spent from passenger car delays, per auto commuter]
+
+[Percent of workers using any mode to access work except single-occupancy vehicles]
+
+<!---(./infrastructure/Percent of workers using any mode to access work except single-occupancy vehicles/report.md)--->
+
+[Total freight flows moved through Texas by all modes of transit in ton-miles]
+
+<!---(./infrastructure/Total freight flows moved through Texas by all modes of transit in ton-miles/report.md)--->
+
+[Number of fatalities on roads involving at least one motor vehicle, including pedestrians and pedacyclists per 100 million vehicle miles traveled (VMT)]
+
+<!---(./infrastructure/Number of fatalities on roads involving at least one motor vehicle, including pedestrians and pedacyclists per 100 million vehicle miles traveled (VMT)/report.md)--->
+
+[Percent of households with subscription to fixed broadband service of any speed]
+
+<!---(./infrastructure/Percent of households with subscription to fixed broadband service of any speed/report.md)--->
+
+[Percent of population with access to fixed broadband at an acceptable speed of 253 mbps or higher; will shift to 1Gbps download speeds in future]
+
+<!---(./infrastructure/Percent of population with access to fixed broadband at an acceptable speed of 253 mbps or higher; will shift to 1Gbps download speeds in future/report.md)--->
+
+[Average price paid for electricity across all end user sectors]
+
+[Percent difference between the forecasted total generation available and the forecasted peak demand in the following year]
+
+[State preparedness, response to, and recovery from health consequences of large-scale emergencies measured by the National Health Security Preparedness Index]
+
+### Secondary
 
 [Additional costs of moving power due to physical limitations of transmission infrastructure3]
 
@@ -143,9 +193,7 @@
 
 <!---(./infrastructure/Number of combined passenger and freight railway accidents/report.md)--->
 
-[Number of fatalities on roads involving at least one motor vehicle, including pedestrians and pedacyclists per 100 million vehicle miles traveled (VMT)]
 
-<!---(./infrastructure/Number of fatalities on roads involving at least one motor vehicle, including pedestrians and pedacyclists per 100 million vehicle miles traveled (VMT)/report.md)--->
 
 [Percent of bridges on national highway system rated in “good or fair condition]
 
@@ -155,21 +203,9 @@
 
 <!---(./infrastructure/Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index/report.md)--->
 
-[Percent of households with subscription to fixed broadband service of any speed]
-
-<!---(./infrastructure/Percent of households with subscription to fixed broadband service of any speed/report.md)--->
-
-[Percent of population with access to fixed broadband at an acceptable speed of 253 mbps or higher; will shift to 1Gbps download speeds in future]
-
-<!---(./infrastructure/Percent of population with access to fixed broadband at an acceptable speed of 253 mbps or higher; will shift to 1Gbps download speeds in future/report.md)--->
-
 [Percent of population with access to only 1 fixed broadband provider]
 
 <!---(./infrastructure/Percent of population with access to only 1 fixed broadband provider/report.md)--->
-
-[Percent of workers using any mode to access work except single-occupancy vehicles]
-
-<!---(./infrastructure/Percent of workers using any mode to access work except single-occupancy vehicles/report.md)--->
 
 [Percent of workers who access work by telecommuting]
 
@@ -178,10 +214,6 @@
 [Percent of workers who access work by walking and biking]
 
 <!---(./infrastructure/Percent of workers who access work by walking and biking/report.md)--->
-
-[Total freight flows moved through Texas by all modes of transit in ton-miles]
-
-<!---(./infrastructure/Total freight flows moved through Texas by all modes of transit in ton-miles/report.md)--->
 
 [Transportation costs in an area as a percentage of area median household income6]
 
@@ -197,8 +229,29 @@
 
 ## Justice & Safety
 
-[Average cost per inmate]
+### Primary
 
+[Number of violent crimes reported per 100,000 population]
+
+[Number of property crimes reported per 100,000 population]
+
+
+[Percent of children under age 17 who experienced two or more ACEs]
+
+[Percent of population below the supplemental poverty line]
+
+[Percent of individuals released from incarceration who are rearrested within three years]
+
+<!---(./justice/Percent of individuals released from incarceration who are rearrested within three years/report.md)--->
+
+[The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel, senior litigators or attorneys, and other senior executives of large companies to identify those jurisdictions with the best and worst legal climates]
+
+
+
+
+### Secondary
+
+[Average cost per inmate]
 <!---(./justice/Average cost per inmate/report.md)--->
 
 [Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas]
@@ -212,10 +265,6 @@
 [Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education]
 
 <!---(./justice/Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education/report.md)--->
-
-[Percent of individuals released from incarceration who are rearrested within three years]
-
-<!---(./justice/Percent of individuals released from incarceration who are rearrested within three years/report.md)--->
 
 [Percent of TDCJ budget allocated to prison diversions]
 
@@ -294,9 +343,15 @@
 
 ## Prosperity & Well-Being
 
-🟢 [Amount of venture capital investment in emerging companies](./prosperity/Amount of venture capital investment in emerging companies/report.md)
+### Primary
 
 🟢 [Annual percent change in real GDP](./prosperity/Annual percent change in real GDP/report.md)
+
+🔴 [Quality of Life ranking on Forbes "Best States for Business" Index]
+
+### Secondary
+
+🟢 [Amount of venture capital investment in emerging companies](./prosperity/Amount of venture capital investment in emerging companies/report.md)
 
 🟢 [Gini index of income inequality]
 
