@@ -272,6 +272,44 @@
 
 ## Natural Resources
 
+### Primary
+
+[Percent of population living in areas that do not have attainment for all pollutants under current National Ambient Air Quality Standards (NAAQS)]
+
+<!---(./natural resources/Percent of population living in areas that do not have attainment for all pollutants under current National Ambient Air Quality Standards (NAAQS)/report.md)--->
+
+[Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040]
+
+<!---(./natural resources/Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040/report.md)--->
+
+[Percent of public water systems (PWS) not identified as a serious violator based on uncorrected violations]
+
+<!---(./natural resources/Percent of public water systems (PWS) not identified as a serious violator based on uncorrected violations/report.md)--->
+
+[Number of acres preserved in the Public Land System or through easements per 1,000 Texans]
+
+<!---(./natural resources/Number of acres preserved in the Public Land System or through easements per 1,000 Texans/report.md)--->
+
+[Number of total visits to Texas state parks per 1,000 Texans]
+
+
+[Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population]
+
+<!---(./natural resources/Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population/report.md)--->
+
+[Amount of water used for irrigation, per acre of cropland in Texas]
+
+[Energy content of oil, natural gas, coal, and nuclear energy extracted from the ground or generated in-state]
+
+[Energy content generated from renewable sources in-state]
+
+[Quantity of carbon produced in-state from generating one unit of energy]
+
+<!---(./natural resources/Quantity of carbon produced in-state from generating one unit of energy/report.md)--->
+
+
+### Secondary
+
 [Amount of residential water used per day per capita, delivered through Texas water utilities]
 
 <!---(./natural resources/Amount of residential water used per day per capita, delivered through Texas water utilities/report.md)--->
@@ -280,25 +318,18 @@
 
 <!---(./natural resources/Average price paid for electricity across all end user sectors/report.md)--->
 
-[Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040]
 
-<!---(./natural resources/Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040/report.md)--->
 
 [Gas disposed through venting and flaring per unit of oil and gas produced]
 
 <!---(./natural resources/Gas disposed through venting and flaring per unit of oil and gas produced/report.md)--->
 
-[Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population]
-
-<!---(./natural resources/Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population/report.md)--->
 
 [Net farm income measured by revenue less expenses from production in the current year]
 
 <!---(./natural resources/Net farm income measured by revenue less expenses from production in the current year/report.md)--->
 
-[Number of acres preserved in the Public Land System or through easements per 1,000 Texans]
 
-<!---(./natural resources/Number of acres preserved in the Public Land System or through easements per 1,000 Texans/report.md)--->
 
 [Number of days out of total reported days with an Air Quality Index (AQI) rating from Unhealthy for Certain Groups to Hazardous]
 
@@ -308,9 +339,7 @@
 
 <!---(./natural resources/Percent difference between the forecasted total generation available and the forecasted peak demand in the following year/report.md)--->
 
-[Percent of population living in areas that do not have attainment for all pollutants under current National Ambient Air Quality Standards (NAAQS)]
 
-<!---(./natural resources/Percent of population living in areas that do not have attainment for all pollutants under current National Ambient Air Quality Standards (NAAQS)/report.md)--->
 
 [Percent of population living in counties with 8-hour ozone values greater than the national standard]
 
@@ -320,9 +349,7 @@
 
 <!---(./natural resources/Percent of population living in counties with annual particulate matter (PM) 2.5 values greater than the national standard5/report.md)--->
 
-[Percent of public water systems (PWS) not identified as a serious violator based on uncorrected violations]
 
-<!---(./natural resources/Percent of public water systems (PWS) not identified as a serious violator based on uncorrected violations/report.md)--->
 
 [Percent of public water systems in compliance with major testing, monitoring, and reporting procedures]
 
@@ -332,9 +359,7 @@
 
 <!---(./natural resources/Percent of surface water bodies inspected found to have major impairments/report.md)--->
 
-[Quantity of carbon produced in-state from generating one unit of energy]
 
-<!---(./natural resources/Quantity of carbon produced in-state from generating one unit of energy/report.md)--->
 
 [Value of agricultural output from Texas, as a percent of total US agricultural output]
 
@@ -385,7 +410,17 @@
 
 <!---(./prosperity/Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income/report.md)--->
 
-## Government
+## Government Performance
+
+### Primary
+
+[Percent of population responding that "things in my state are on track"]
+
+[Percent of voting-age population who vote in major elections]
+
+<!---(./government/Percent of voting-age population who vote in major elections/report.md)--->
+
+[Ranking on Mercatus Center State Fiscal Rankings]
 
 [Combined state and local taxes by business as percent of pre-tax gross operation margin]
 
@@ -395,14 +430,20 @@
 
 <!---(./government/Combined state and local taxes by individuals as percent of income/report.md)--->
 
-[Percent of voting-age population who vote in major elections]
+[Ranking on taxpayer ROI index contrasting quality of public services to state and local taxes per capita]
 
-<!---(./government/Percent of voting-age population who vote in major elections/report.md)--->
+[Turnover rate of state employees]
+
+<!---(./government/Turnover rate of state employees/report.md)--->
+
+[Percent of population using government services who indicate that they are satisfied with digital services]
+
+[Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income.]
+
+### Secondary
+
 
 [State ranking on Govtech Digital States Survey]
 
 <!---(./government/State ranking on Govtech Digital States Survey/report.md)--->
 
-[Turnover rate of state employees]
-
-<!---(./government/Turnover rate of state employees/report.md)--->
