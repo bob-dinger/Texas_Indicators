@@ -55,17 +55,17 @@
 
 ### Primary
 
-[Ratio of population to mental health providers in a county]
+🟢 [Ratio of population to mental health providers in a county]
 
 <!---(./health/Ratio of population to mental health providers in a county/report.md)--->
 
-[Ratio of population to primary care providers in a county]
+🟢 [Ratio of population to primary care providers in a county]
 
 <!---(./health/Ratio of population to primary care providers in a county/report.md)--->
 
 [Percent of adults who report having a "personal" health care provider]
 
-[Percent of population without health insurance]
+🟢 [Percent of population without health insurance]
 
 <!---(./health/Percent of population without health insurance/report.md)--->
 
@@ -81,7 +81,7 @@
 
 [birth weight below 5.5 pounds]
 
-[percents of adults and children who are obese]
+🔴 [percents of adults and children who are obese]
 
 [Percent of adults who reported smoking daily or some days]
 
@@ -94,7 +94,7 @@
 
 <!---(./health/Percent of children ages 19-35 months who received recommended vaccines/report.md)--->
 
-[Average annual percent increase in per person health care expenditures in Texas]
+🟢 [Average annual percent increase in per person health care expenditures in Texas]
 
 <!---(./health/Average annual percent increase in per person health care expenditures in Texas/report.md)--->
 
@@ -104,11 +104,11 @@
 
 ### Secondary
 
-[Influenza and pneumonia mortality Number of deaths in Texas whose underlying]
+🟢 [Influenza and pneumonia mortality Number of deaths in Texas whose underlying]
 
 <!---(./health/Influenza and pneumonia mortality Number of deaths in Texas whose underlying/report.md)--->
 
-[Medicaid expenditures as percent of state budget]
+🟢 [Medicaid expenditures as percent of state budget]
 
 <!---(./health/Medicaid expenditures as percent of state budget/report.md)--->
 
@@ -133,11 +133,11 @@
 
 <!---(./health/Ratio of population to dental health providers in a county/report.md)--->
 
-[State budget allocation for public health per capita]
+🟢 [State budget allocation for public health per capita]
 
 <!---(./health/State budget allocation for public health per capita/report.md)--->
 
-[State's direct expenditures on health care per capita]
+🟢 [State's direct expenditures on health care per capita]
 
 <!---(./health/State's direct expenditures on health care per capita/report.md)--->
 
