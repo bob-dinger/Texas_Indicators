@@ -12,12 +12,32 @@ Texans are served effectively, efficiently, and impartially by the justice syste
 
 ### Value
 
-
+|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | -----------|
+|      13.7   | 45        |      14.2    |   43    | flat      | 
 
 ### Data
 
+![data](./spm_data.PNG)
+
 ### Source
 
-[TX Legislative Budget Board - Statewide Criminal and Juvenile Justice - Recidivism and Revocation Rates](https://www.lbb.state.tx.us/documents/publications/policy_report/6293_cjda_recidivism-revocation.pdf)
+
+[Census - The Supplemental Poverty Measure: 2019](./p60-272.pdf)
+
+[2019 Source](https://www.census.gov/library/publications/2020/demo/p60-272.html)
+
+[2018 Source](https://www.census.gov/data/tables/2019/demo/income-poverty/p60-268.html)
 
 ### Notes
+
+
+### Indicator Page
+
+[Indicator Link](https://indicators.texas2036.org/indicator/90)
+
+![Link](./supplemental.PNG)
+
+### DataLab Page
+
+N/A

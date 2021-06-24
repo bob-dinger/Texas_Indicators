@@ -1,0 +1,46 @@
+# Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education
+
+## Justice & Safety
+
+### Primary Indicator
+
+### **Goal**
+
+Protection for the vulnerable
+
+Texas protects the vulnerable from traumatic experiences
+
+
+### Value
+
+196,902
+
+### Data
+
+![dsd](./incidents_2019.PNG)
+
+
+
+
+### Source
+
+[2019 Crime in Texas](https://www.dps.texas.gov/sites/default/files/documents/crimereports/19/cit2019.pdf)
+
+County Data Reporting Improvement Plans:
+https://www.dps.texas.gov/section/crime-records-service/county-data-reporting-improvement-plans
+
+
+### Notes
+
+2020 Crime Report has not been released yet. 
+
+[TX - DPS - Crime Reports](https://www.dps.texas.gov/section/crime-records-service/crime-texas)
+
+### Indicator Page
+
+N/A
+
+
+### DataLab Page
+
+[DataLab Link](https://datalab.texas2036.org/mlcgkac/texas-family-violence-offenses?accesskey=yduocag)

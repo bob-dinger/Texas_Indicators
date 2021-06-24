@@ -15,7 +15,7 @@ Protection for the vulnerable
 
 |  Value      | Rank        | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | -----------|
-| 72.9        | N/A         |    65.5     | N/A         |   📈       | 
+|     5,950      | N/A         |    6,437       | N/A         |   📈       | 
 
 
 ### Data
@@ -26,4 +26,22 @@ Protection for the vulnerable
 
 [NNEDV - Annual Domestic Violence Counts Survey](https://nnedv.org/content/domestic-violence-counts-15th-annual/)
 
+[Previous Source](https://nnedv.org/content/domestic-violence-counts-14th-annual-census-report/)
+
+
+[Texas Summary - 15th annual report](https://nnedv.org/wp-content/uploads/2021/05/15th-Annual-DV-Counts-Report-Texas-Summary.pdf)
+
+[Texas Summary - 15th annual report](https://nnedv.org/wp-content/uploads/2020/03/Library_Census_2019_-TX.pdf)
+
+
+
 ### Notes
+
+
+### Indicator Page
+
+N/A
+
+### DataLab Page
+
+N/A

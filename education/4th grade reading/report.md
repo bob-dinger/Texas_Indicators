@@ -21,7 +21,7 @@ Texas children get a strong early start to succeed in school and life
 ### **Data**
 
 
-![4th grade math1](./4th grade reading.PNG)
+![4th grade reading](./4th grade reading.PNG)
 
 
 ![4th grade math](./tx_4th_grade_reading.PNG)
