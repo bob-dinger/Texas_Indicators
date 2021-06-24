@@ -21,14 +21,13 @@ Texas students graduate high school ready for postsecondary success
 
 ![Image](./8th grade math.PNG)
 
-
-
-<!-- ![First Year Earnings](./earnings_2016_grads.PNG) -->
-
+![Rank](./8th grade math_data.PNG)
 
 ### **Source**
+
 [NAEP](https://www.nationsreportcard.gov/ndecore/xplore/NDE)
 
+[NAEP Map](https://www.nationsreportcard.gov/mathematics/states/achievement/?grade=8)
 
 ### **Notes**
 NAEP Assessment is every 2 years (previous was 2019)
@@ -43,7 +42,7 @@ Average Scale Score
 
 ### Indicator Page
 
-[Indicator Page](https://indicators.texas2036.org/indicator/35)
+[Indicator Page](https://indicators.texas2036.org/indicator/42)
 
 ![sd](./indicators_4th grade reading.PNG)
 
