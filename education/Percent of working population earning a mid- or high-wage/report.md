@@ -1,4 +1,4 @@
-# Number of seats in quality accredited childcare centers
+# Percent of Population earning a mid- or high-wage
 
 ## Education & Workforce
 
@@ -12,11 +12,15 @@ Texans have the knowledge and skills to access careers enabling economic securit
 
 ### Value
 
+|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | -----------|
+|         | N/A         |         | N/A         |   📈       | 
 
 
 ### Data
 
 ### Source
-[United Way - Alice (2020 Report)](./2020ALICEReport_TX_FINAL.pdf)
+[United Way - ALICE Report](2020ALICEReport_TX_FINAL.pdf)
 
 ### Notes
+Alice has a stability wage for each county. 

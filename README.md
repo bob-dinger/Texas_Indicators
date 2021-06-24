@@ -278,7 +278,7 @@
 
 🟢 [Number of people homeless per 10,000 population](./health/Number of people homeless per 10,000 population/report.md)
 
-[Percent of households paying >50 percent of income for housing]
+[Percent of households paying more than 50 percent of income for housing]
 
 [Percent of households with limited or uncertain access to food](./health/Percent of households with limited or uncertain access to food/report.md)
 

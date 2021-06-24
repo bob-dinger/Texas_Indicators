@@ -2,7 +2,13 @@
 
 ## Justice & Safety
 
+### Primary Indicator
 
+### **Goal**
+
+Justice system
+
+Texans are served effectively, efficiently, and impartially by the justice system
 
 ### Value
 
@@ -10,4 +16,4 @@
 
 ### Source
 
-### Notes:
+### Notes

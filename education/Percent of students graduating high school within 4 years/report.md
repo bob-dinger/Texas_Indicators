@@ -5,6 +5,7 @@
 ### Primary Indicator
 
 ### **Goal**
+
 K-12
 
 Texas students graduate high school ready for postsecondary success
@@ -16,6 +17,7 @@ Texas students graduate high school ready for postsecondary success
 | 90%       |     N/A      |    90%     | N/A          | flat  
 
 ### Data
+
 
 ### Source
 TAPR

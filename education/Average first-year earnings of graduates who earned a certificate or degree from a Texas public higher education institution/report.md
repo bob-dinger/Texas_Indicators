@@ -6,6 +6,8 @@
 
 ### **Goal**
 
+Postsecondary
+
 Texas students earn a postsecondary credential to access the jobs of today and tomorrow
 
 
