@@ -265,7 +265,7 @@
 
 [Percent of TDCJ budget allocated to prison diversions](./justice/Percent of TDCJ budget allocated to prison diversions/report.md)
 
-[Injury or death of population less than age 18 due to maltreatment per 100,000 population](./justice/Injury or death of population less than age 18 due to maltreatment per 100,000 population/report.md)
+🔴 [Injury or death of population less than age 18 due to maltreatment per 100,000 population](./justice/Injury or death of population less than age 18 due to maltreatment per 100,000 population/report.md)
 
 🟢 [Number of people homeless per 10,000 population](./health/Number of people homeless per 10,000 population/report.md)
 

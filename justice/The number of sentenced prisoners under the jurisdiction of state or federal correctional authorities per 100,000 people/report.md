@@ -12,17 +12,33 @@ Texans are served effectively, efficiently, and impartially by the justice syste
 
 ### Value
 
+|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | -----------|
+|      158,429 (2019) | 1         |   163,628 (2018)    | 1        | down       | 
+
 ### Data
+
+![federal and state](federalandstate.PNG)
+
+![counts](./counts.PNG)
+
+![trend](./trend.PNG)
 
 ### Source
 
-[s](https://www.lbb.state.tx.us/Documents/Publications/Info_Graphic/812_MonthlyReport_FY2021.pdf)
+[TX - LBB - Monthly Report](https://www.lbb.state.tx.us/Documents/Publications/Info_Graphic/812_MonthlyReport_FY2021.pdf)
+
+[BJS - Federal & State Counts - 2019](https://bjs.ojp.gov/content/pub/pdf/p19.pdf)
+
+[BJS - Federal & State Counts - 2018](https://bjs.ojp.gov/content/pub/pdf/p18.pdf)
 
 ### Notes
 
 
 ### Indicator Page
 
-
+N/A
 
 ### DataLab Page
+
+N/A

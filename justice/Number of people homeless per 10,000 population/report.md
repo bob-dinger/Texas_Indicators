@@ -12,9 +12,17 @@ Protection for the vulnerable
 
 ### Value
 
+|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | -----------|
+|      27,229 | 4         |   25,848    | 4        | flat       | 
+
 ### Data
 
+![homeless](./homeless_counts.PNG)
+
 ### Source
+
+[HUD - Point in Time Homeless Estimates](https://www.huduser.gov/portal/datasets/ahar/2020-ahar-part-1-pit-estimates-of-homelessness-in-the-us.html)
 
 ### Notes
 
@@ -22,6 +30,8 @@ Protection for the vulnerable
 
 ### Indicator Page
 
-
+N/A
 
 ### DataLab Page
+
+N/A

@@ -12,14 +12,30 @@ Protection for the vulnerable
 
 ### Value
 
+|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | -----------|
+|    13.1%    | 43          |   14.3%     | 36          | flat       | 
+
 ### Data
 
+![sdf](data_insecurity.PNG)
+
 ### Source
+
+[USDA - Household Food Security in the United States in 2019](https://www.ers.usda.gov/webdocs/publications/99282/err-275.pdf)
+
+[Previous Source](https://frac.org/maps/food-security/tables/tab2_foodinsec_chg_2008_2018.html)
 
 ### Notes
 
 ### Indicator Page
 
-
+N/A
 
 ### DataLab Page
+
+[DataLab Link](https://datalab.texas2036.org/huzjiee/us-overall-food-insecurity?accesskey=gcgvysc)
+
+![datalab image](./datalab_foodinsecurity.PNG)
+
+
