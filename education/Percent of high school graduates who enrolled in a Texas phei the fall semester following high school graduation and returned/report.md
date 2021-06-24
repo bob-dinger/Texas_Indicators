@@ -2,6 +2,14 @@
 
 ## Education & Workforce
 
+### Secondary Indicator
+
+### **Goal**
+
+Postsecondary
+
+Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+
 ### Value
 
 |  Value      | Rank        | Previous Value | Previous Rank | Trend | 
@@ -16,4 +24,12 @@
 [Texas Higher Ed Accountability](http://www.txhigheredaccountability.org/AcctPublic/Measures/ManageMeasures?instTypeID=1)
 
 
-### Notes:
+### Notes
+
+### Indicator Page
+
+N/A
+
+### DataLab Page
+
+N/A

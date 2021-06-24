@@ -2,6 +2,14 @@
 
 ## Education & Workforce
 
+### Secondary Indicator
+
+### **Goal**
+
+Early childhood
+
+Texas children get a strong early start to succeed in school and life
+
 ### Value
 
 |  Value      | Rank        | Previous Value | Previous Rank | Trend | 
@@ -18,3 +26,11 @@
 Source Download is a file called CrystalReportViewer1.pdf which contains the variables.
 
 [File Attachment](./CrystalReportViewer1.pdf)
+
+### Indicator Page
+
+[Indicator Link](https://indicators.texas2036.org/indicator/38)
+
+### DataLab Page
+
+[Pre-K Enrollment](https://datalab.texas2036.org/USECVITN2017R/texas-2036?accesskey=uxfcvbg)

@@ -29,3 +29,13 @@ Previous Year:
 [Texas Higher Education Almanac - 2020](http://reportcenter.highered.texas.gov/agency-publication/almanac/2020-texas-public-higher-education-almanac/)
 
 ### **Notes**
+
+
+### Indicator Page
+
+N/A
+
+
+### DataLab Link
+
+N/A

@@ -10,7 +10,6 @@ Early childhood
 
 Texas children get a strong early start to succeed in school and life
 
-
 ### Value
 
 |  Value      | Rank        | Previous Value | Previous Rank | Trend | 
@@ -26,6 +25,17 @@ Texas children get a strong early start to succeed in school and life
 
 ### Notes
 
-Indicators Page:
+
+### Indicator Page
+
+[Indicator Link](https://indicators.texas2036.org/indicator/37)
 
 ![Ind](./indicators_page.PNG)
+
+### DataLab Page
+
+[DataLab Link](https://datalab.texas2036.org/cezqfzd/tapr-kindergarten-readiness-texas?accesskey=bshtgdg)
+
+![Ind](./datalab_kg.PNG)
+
+

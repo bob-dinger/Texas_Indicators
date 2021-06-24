@@ -31,3 +31,11 @@ Texas students earn a postsecondary credential to access the jobs of today and t
 [Texas Higher Education Almanac - 2020](http://reportcenter.highered.texas.gov/agency-publication/almanac/2020-texas-public-higher-education-almanac/)
 
 ### Notes
+
+### Indicator Page
+
+N/A
+
+### DataLab Page
+
+N/A
