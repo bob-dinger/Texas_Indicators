@@ -240,53 +240,44 @@
 
 ### Primary
 
-🔴 [Number of violent crimes reported per 100,000 population]
+🔴 [Number of violent crimes reported per 100,000 population](/justice/Number of violent crimes reported per 100,000 population/report.md)
 
-🔴 [Number of property crimes reported per 100,000 population]
+🔴 [Number of property crimes reported per 100,000 population](./justice/Number of property crimes reported per 100,000 population/report.md)
 
-🟢 [Percent of population below the supplemental poverty line]
+🟢 [Percent of population below the supplemental poverty line](./justice/Percent of population below the supplemental poverty line/report.md)
 
 🟢 [Percent of individuals released from incarceration who are rearrested within three years](./justice/Percent of individuals released from incarceration who are rearrested within three years/report.md)
 
-🔴 [The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel, senior litigators or attorneys, and other senior executives of large companies to identify those jurisdictions with the best and worst legal climates]
+🔴 [The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel, senior litigators or attorneys, and other senior executives of large companies to identify those jurisdictions with the best and worst legal climates](./justice/The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel/report.md)
 
-🔴 [Percent of children under age 17 who experienced two or more ACEs]
-
-<!---(./justice/Percent of children under age 17 who experienced two or more ACEs/report.md)--->
+🟢 [Percent of children under age 17 who experienced two or more ACEs](./justice/Percent of children under age 17 who experienced two or more ACEs/report.md)
 
 
 ### Secondary
 
-[Average cost per inmate]
-<!---(./justice/Average cost per inmate/report.md)--->
+🟢 [Average cost per inmate](./justice/Average cost per inmate/report.md)
 
 🟢 [Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas](./justice/Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas/report.md)
 
-[Corrections expenditures as percent of total state general funds expenditures]
+🟢 [Corrections expenditures as percent of total state general funds expenditures](./justice/Corrections expenditures as percent of total state general funds expenditures/report.md)
 
-<!---(./justice/Corrections expenditures as percent of total state general funds expenditures/report.md)--->
+🟢 [Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education](./justice/Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education/report.md)
 
-[Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education]
+[Percent of TDCJ budget allocated to prison diversions](./justice/Percent of TDCJ budget allocated to prison diversions/report.md)
 
-<!---(./justice/Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education/report.md)--->
-
-[Percent of TDCJ budget allocated to prison diversions]
-
-<!---(./justice/Percent of TDCJ budget allocated to prison diversions/report.md)--->
-
-[Injury or death of population less than age 18 due to maltreatment per 100,000 population]
+[Injury or death of population less than age 18 due to maltreatment per 100,000 population](./justice/Injury or death of population less than age 18 due to maltreatment per 100,000 population/report.md)
 
 🟢 [Number of people homeless per 10,000 population](./health/Number of people homeless per 10,000 population/report.md)
 
-[Percent of households paying more than 50 percent of income for housing]
+🟢 [Percent of households paying more than 50 percent of income for housing](./justice/Percent of households paying more than 50 percent of income for housing/report.md)
 
 [Percent of households with limited or uncertain access to food](./health/Percent of households with limited or uncertain access to food/report.md)
 
-[Percent of Population Living in Food Deserts]
+[Percent of Population Living in Food Deserts](./justice/Percent of Population Living in Food Deserts/report.md)
 
-[Criminal Justice spend per capita]
+🟢 [Criminal Justice spend per capita](./justice/Criminal Justice spend per capita/report.md)
 
-[The number of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 people]
+🟢 [The number of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 people](./justice/The number of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 people/report.md)
 
 
 
