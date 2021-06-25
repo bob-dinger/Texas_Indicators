@@ -1,6 +1,3 @@
-
-
-
 # Quality of Life ranking on Forbes "Best States for Business" Index
 
 
@@ -10,12 +7,15 @@
 
 ### **Goal**
 
-Quality of life
+Economic growth
 
-Texas is the best place to live and work
+Texas spurs economic growth through an innovative and business-friendly climate
 
-### Value
+### **Value**
 
+|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | -----------|
+|             | N/A         |             | N/A         | 📈        | 
 
 ### Data
 
