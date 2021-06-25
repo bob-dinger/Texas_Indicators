@@ -51,6 +51,90 @@
 🟢 [Number of seats in quality accredited childcare centers](./education/Number of seats in quality accredited childcare centers/report.md)
 
 
+
+## Prosperity & Well-Being
+
+### Primary
+
+🟢 [Annual percent change in real GDP](./prosperity/Annual percent change in real GDP/report.md)
+
+🔴 [Quality of Life ranking on Forbes "Best States for Business" Index]
+
+### Secondary
+
+🟢 [Amount of venture capital investment in emerging companies](./prosperity/Amount of venture capital investment in emerging companies/report.md)
+
+🟢 [Gini index of income inequality](./prosperity/Gini index of income inequality/report.md)
+
+🟢 [Net domestic migration gain or loss](./prosperity/Net domestic migration gain or loss/report.md)
+
+🟢 [Number of Fortune 500 headquarters](./prosperity/Number of Fortune 500 headquarters/report.md)
+
+🟢 [Number of Inc. 5000 headquarters](./prosperity/Number of Inc. 5000 headquarters/report.md)
+
+🟢 [Number of new small businesses](./prosperity/Number of new small businesses/report.md)
+
+🟢 [Percent of population below the supplemental poverty line]
+
+<!---(./prosperity/Percent of population below the supplemental poverty line/report.md)--->
+
+🟢 [Ranking on Gallup National Health and Well-Being Index](./prosperity/Ranking on Gallup National Health and Well-Being Index/report.md)
+
+🟢 [Ranking on ITIF State New Economy Index](./prosperity/Ranking on ITIF State New Economy Index/report.md)
+
+🟢 [Real per capita personal income and income growth](./prosperity/Real per capita personal income and income growth/report.md)
+
+🟢 [Regional price parity](./prosperity/Regional price parity/report.md)
+
+🟢 [Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income]
+
+<!---(./prosperity/Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income/report.md)--->
+
+## Justice & Safety
+
+### Primary
+
+🔴 [Number of violent crimes reported per 100,000 population](/justice/Number of violent crimes reported per 100,000 population/report.md)
+
+🔴 [Number of property crimes reported per 100,000 population](./justice/Number of property crimes reported per 100,000 population/report.md)
+
+🟢 [Percent of population below the supplemental poverty line](./justice/Percent of population below the supplemental poverty line/report.md)
+
+🟢 [Percent of individuals released from incarceration who are rearrested within three years](./justice/Percent of individuals released from incarceration who are rearrested within three years/report.md)
+
+🔴 [The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel, senior litigators or attorneys, and other senior executives of large companies to identify those jurisdictions with the best and worst legal climates](./justice/The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel/report.md)
+
+🟢 [Percent of children under age 17 who experienced two or more ACEs](./justice/Percent of children under age 17 who experienced two or more ACEs/report.md)
+
+
+### Secondary
+
+🟢 [Average cost per inmate](./justice/Average cost per inmate/report.md)
+
+🟢 [Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas](./justice/Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas/report.md)
+
+🟢 [Corrections expenditures as percent of total state general funds expenditures](./justice/Corrections expenditures as percent of total state general funds expenditures/report.md)
+
+🟢 [Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education](./justice/Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education/report.md)
+
+[Percent of TDCJ budget allocated to prison diversions](./justice/Percent of TDCJ budget allocated to prison diversions/report.md)
+
+🔴 [Injury or death of population less than age 18 due to maltreatment per 100,000 population](./justice/Injury or death of population less than age 18 due to maltreatment per 100,000 population/report.md)
+
+🟢 [Number of people homeless per 10,000 population](./health/Number of people homeless per 10,000 population/report.md)
+
+🟢 [Percent of households paying more than 50 percent of income for housing](./justice/Percent of households paying more than 50 percent of income for housing/report.md)
+
+[Percent of households with limited or uncertain access to food](./health/Percent of households with limited or uncertain access to food/report.md)
+
+[Percent of Population Living in Food Deserts](./justice/Percent of Population Living in Food Deserts/report.md)
+
+🟢 [Criminal Justice spend per capita](./justice/Criminal Justice spend per capita/report.md)
+
+🟢 [The number of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 people](./justice/The number of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 people/report.md)
+
+
+
 ## Health
 
 ### Primary
@@ -236,48 +320,7 @@
 
 <!---(./infrastructure/Using Level of Service; grading from A to F of traffic operating conditions on Texas Highway Freight Network4/report.md)--->
 
-## Justice & Safety
 
-### Primary
-
-🔴 [Number of violent crimes reported per 100,000 population](/justice/Number of violent crimes reported per 100,000 population/report.md)
-
-🔴 [Number of property crimes reported per 100,000 population](./justice/Number of property crimes reported per 100,000 population/report.md)
-
-🟢 [Percent of population below the supplemental poverty line](./justice/Percent of population below the supplemental poverty line/report.md)
-
-🟢 [Percent of individuals released from incarceration who are rearrested within three years](./justice/Percent of individuals released from incarceration who are rearrested within three years/report.md)
-
-🔴 [The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel, senior litigators or attorneys, and other senior executives of large companies to identify those jurisdictions with the best and worst legal climates](./justice/The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel/report.md)
-
-🟢 [Percent of children under age 17 who experienced two or more ACEs](./justice/Percent of children under age 17 who experienced two or more ACEs/report.md)
-
-
-### Secondary
-
-🟢 [Average cost per inmate](./justice/Average cost per inmate/report.md)
-
-🟢 [Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas](./justice/Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas/report.md)
-
-🟢 [Corrections expenditures as percent of total state general funds expenditures](./justice/Corrections expenditures as percent of total state general funds expenditures/report.md)
-
-🟢 [Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education](./justice/Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education/report.md)
-
-[Percent of TDCJ budget allocated to prison diversions](./justice/Percent of TDCJ budget allocated to prison diversions/report.md)
-
-🔴 [Injury or death of population less than age 18 due to maltreatment per 100,000 population](./justice/Injury or death of population less than age 18 due to maltreatment per 100,000 population/report.md)
-
-🟢 [Number of people homeless per 10,000 population](./health/Number of people homeless per 10,000 population/report.md)
-
-🟢 [Percent of households paying more than 50 percent of income for housing](./justice/Percent of households paying more than 50 percent of income for housing/report.md)
-
-[Percent of households with limited or uncertain access to food](./health/Percent of households with limited or uncertain access to food/report.md)
-
-[Percent of Population Living in Food Deserts](./justice/Percent of Population Living in Food Deserts/report.md)
-
-🟢 [Criminal Justice spend per capita](./justice/Criminal Justice spend per capita/report.md)
-
-🟢 [The number of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 people](./justice/The number of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 people/report.md)
 
 
 
@@ -376,43 +419,7 @@
 <!---(./natural resources/Value of agricultural output from Texas, as a percent of total US agricultural output/report.md)--->
 
 
-## Prosperity & Well-Being
 
-### Primary
-
-🟢 [Annual percent change in real GDP](./prosperity/Annual percent change in real GDP/report.md)
-
-🔴 [Quality of Life ranking on Forbes "Best States for Business" Index]
-
-### Secondary
-
-🟢 [Amount of venture capital investment in emerging companies](./prosperity/Amount of venture capital investment in emerging companies/report.md)
-
-🟢 [Gini index of income inequality](./prosperity/Gini index of income inequality/report.md)
-
-🟢 [Net domestic migration gain or loss](./prosperity/Net domestic migration gain or loss/report.md)
-
-🟢 [Number of Fortune 500 headquarters](./prosperity/Number of Fortune 500 headquarters/report.md)
-
-🟢 [Number of Inc. 5000 headquarters](./prosperity/Number of Inc. 5000 headquarters/report.md)
-
-🟢 [Number of new small businesses](./prosperity/Number of new small businesses/report.md)
-
-🟢 [Percent of population below the supplemental poverty line]
-
-<!---(./prosperity/Percent of population below the supplemental poverty line/report.md)--->
-
-🟢 [Ranking on Gallup National Health and Well-Being Index](./prosperity/Ranking on Gallup National Health and Well-Being Index/report.md)
-
-🟢 [Ranking on ITIF State New Economy Index](./prosperity/Ranking on ITIF State New Economy Index/report.md)
-
-🟢 [Real per capita personal income and income growth](./prosperity/Real per capita personal income and income growth/report.md)
-
-🟢 [Regional price parity](./prosperity/Regional price parity/report.md)
-
-🟢 [Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income]
-
-<!---(./prosperity/Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income/report.md)--->
 
 ## Government Performance
 
