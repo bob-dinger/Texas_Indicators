@@ -388,9 +388,7 @@
 
 🟢 [Amount of venture capital investment in emerging companies](./prosperity/Amount of venture capital investment in emerging companies/report.md)
 
-🟢 [Gini index of income inequality]
-
-<!---(./prosperity/Gini index of income inequality/report.md)--->
+🟢 [Gini index of income inequality](./prosperity/Gini index of income inequality/report.md)
 
 🟢 [Net domestic migration gain or loss](./prosperity/Net domestic migration gain or loss/report.md)
 
@@ -408,13 +406,9 @@
 
 🟢 [Ranking on ITIF State New Economy Index](./prosperity/Ranking on ITIF State New Economy Index/report.md)
 
-🟢 [Real per capita personal income and income growth]
+🟢 [Real per capita personal income and income growth](./prosperity/Real per capita personal income and income growth/report.md)
 
-<!---(./prosperity/Real per capita personal income and income growth/report.md)--->
-
-🟢 [Regional price parity]
-
-<!---(./prosperity/Regional price parity/report.md)--->
+🟢 [Regional price parity](./prosperity/Regional price parity/report.md)
 
 🟢 [Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income]
 

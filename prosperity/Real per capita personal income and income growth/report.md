@@ -2,7 +2,17 @@
 
 ## Prosperity & Well Being
 
-### Value
+### **Goal**
+
+Economic growth
+
+Texas spurs economic growth through an innovative and business-friendly climate
+
+### **Value**
+
+|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | -----------|
+|             | N/A         |             | N/A         | 📈        | 
 
 ### Data
 
