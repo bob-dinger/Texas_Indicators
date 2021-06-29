@@ -143,7 +143,7 @@
 
 🟢 [Ratio of population to primary care providers in a county](./health/Ratio of population to primary care providers in a county/report.md)
 
-🟠 * [Percent of adults who report having a "personal" health care provider]
+🟢 [Percent of adults who report having a "personal" health care provider](./health/Percent of adults who report having a personal health care provider/report.md)
 
 🟢 [Percent of population without health insurance](./health/Percent of population without health insurance/report.md)
 
@@ -155,17 +155,15 @@
 
 🟢 [Number of years from birth a person is expected to live](./health/Number of years from birth a person is expected to live/report.md)
 
-[birth weight below 5.5 pounds]
+🟢 [birth weight below 5.5 pounds](./health/Percent of infants weighing 5.5 lb at birth/report.md)
 
-🟠 * [percents of adults and children who are obese]
+🟢 [percents of adults and children who are obese]
 
-🟠 * [Percent of adults who reported smoking daily or some days]
+🟢 [Percent of adults who reported smoking daily or some days]
 
-[Potentially avoidable hospital visits among adults per 1,000 insurance enrollees](./health/Potentially avoidable hospital visits among adults per 1,000 insurance enrollees/report.md)
+🟢 [Potentially avoidable hospital visits among adults per 1,000 insurance enrollees](./health/Potentially avoidable hospital visits among adults per 1,000 insurance enrollees/report.md)
 
-[Percent of children ages 19-35 months who received recommended vaccines]
-
-<!---(./health/Percent of children ages 19-35 months who received recommended vaccines/report.md)--->
+🟢 [Percent of children ages 19-35 months who received recommended vaccines](./health/Percent of children ages 19-35 months who received recommended vaccines/report.md)
 
 🟢 [Average annual percent increase in per person health care expenditures in Texas]
 
@@ -183,16 +181,13 @@
 
 <!---(./health/Medicaid expenditures as percent of state budget/report.md)--->
 
-🟢 [Number of births per 1,000 females ages 15-19]
-
-<!---(./health/Number of births per 1,000 females ages 15-19/report.md)--->
-
+🟢 [Number of births per 1,000 females ages 15-19](./health/Number of births per 1,000 females ages 15-19/report.md)
 
 [Premiums plus deductibles as percent of income]
 
 <!---(./health/Premiums plus deductibles as percent of income/report.md)--->
 
-[Ratio of population to dental health providers in a county](./health/Ratio of population to dental health providers in a county/report.md)
+🟢 [Ratio of population to dental health providers in a county](./health/Ratio of population to dental health providers in a county/report.md)
 
 🟢 [State budget allocation for public health per capita]
 
@@ -202,13 +197,13 @@
 
 <!---(./health/State's direct expenditures on health care per capita/report.md)--->
 
-🟠 * [Number of deaths due to drug injury per 100,000 population]
+🟢 [Number of deaths due to drug injury per 100,000 population](./health/Number of deaths due to drug injury per 100,000 population/report.md)
 
 🟠 * [Average number of mentally unhealthy days within the last 30 days reported by adults]
 
 🟠 * [Percent of adults who reported no physical activity]
 
-🟠 * [Percent of adults ages 65 to 75 who reported receiving colorectal cancer screening within the recommended time period]
+🟢 [Percent of adults ages 65 to 75 who reported receiving colorectal cancer screening within the recommended time period](./health/Percent of adults ages 65 to 75 who reported receiving colorectal cancer screening within the recommended time period/report.md)
 
 🟠 * [Percent of population who report having one or more of the following chronic conditions—diabetes, cardiovascular disease, and asthma]
 
@@ -216,7 +211,7 @@
 
 🟠 * [Average number of physically unhealthy days within the last 30 days reported by adults]
 
-🟠 * = From Behavioral Risk Factor Surveillance Survey (to be released in August)
+<!-- 🟠 * = From Behavioral Risk Factor Surveillance Survey (to be released in August) -->
 
 ## Infrastructure
 
