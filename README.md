@@ -139,19 +139,13 @@
 
 ### Primary
 
-🟢 [Ratio of population to mental health providers in a county]
+🟢 [Ratio of population to mental health providers in a county](./health/Ratio of population to mental health providers in a county/report.md)
 
-<!---(./health/Ratio of population to mental health providers in a county/report.md)--->
-
-🟢 [Ratio of population to primary care providers in a county]
-
-<!---(./health/Ratio of population to primary care providers in a county/report.md)--->
+🟢 [Ratio of population to primary care providers in a county](./health/Ratio of population to primary care providers in a county/report.md)
 
 🟠 * [Percent of adults who report having a "personal" health care provider]
 
-🟢 [Percent of population without health insurance]
-
-<!---(./health/Percent of population without health insurance/report.md)--->
+🟢 [Percent of population without health insurance](./health/Percent of population without health insurance/report.md)
 
 🟠 * [Percent of adults who report needing to see a doctor in past year but could not due to cost]
 
@@ -159,9 +153,7 @@
 
 <!---(./health/Premature death from treatable medical conditions deaths per 100,000 population/report.md)--->
 
-🟢 [Number of years from birth a person is expected to live]
-
-<!---(./health/Number of years from birth a person is expected to live/report.md)--->
+🟢 [Number of years from birth a person is expected to live](./health/Number of years from birth a person is expected to live/report.md)
 
 [birth weight below 5.5 pounds]
 
@@ -169,9 +161,7 @@
 
 🟠 * [Percent of adults who reported smoking daily or some days]
 
-[Potentially avoidable hospital visits among adults per 1,000 insurance enrollees]
-
-<!---(./health/Potentially avoidable hospital visits among adults per 1,000 insurance enrollees/report.md)--->
+[Potentially avoidable hospital visits among adults per 1,000 insurance enrollees](./health/Potentially avoidable hospital visits among adults per 1,000 insurance enrollees/report.md)
 
 [Percent of children ages 19-35 months who received recommended vaccines]
 
@@ -181,9 +171,7 @@
 
 <!---(./health/Average annual percent increase in per person health care expenditures in Texas/report.md)--->
 
-[the percentage of adults who reported that they received the flu vaccine within the past 12 months]
-
-<!---(./health/the percentage of adults who reported that they received the flu vaccine within the past 12 months/report.md)--->
+[the percentage of adults who reported that they received the flu vaccine within the past 12 months](./health/the percentage of adults who reported that they received the flu vaccine within the past 12 months/report.md)
 
 ### Secondary
 
@@ -200,17 +188,11 @@
 <!---(./health/Number of births per 1,000 females ages 15-19/report.md)--->
 
 
-
-
-
-
 [Premiums plus deductibles as percent of income]
 
 <!---(./health/Premiums plus deductibles as percent of income/report.md)--->
 
-[Ratio of population to dental health providers in a county]
-
-<!---(./health/Ratio of population to dental health providers in a county/report.md)--->
+[Ratio of population to dental health providers in a county](./health/Ratio of population to dental health providers in a county/report.md)
 
 🟢 [State budget allocation for public health per capita]
 

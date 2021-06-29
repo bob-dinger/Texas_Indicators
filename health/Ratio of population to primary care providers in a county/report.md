@@ -2,10 +2,39 @@
 
 ## Health
 
+### Primary Indicator
+
+### **Goal**
+
+Health Access
+
+Texans have access to basic health care
+
 ### Value
+
+|Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
+|   2020      |    191.7     |    47     |    2019     |      113.5    |   45    |    up   |
 
 ### Data
 
+![map](./map_primary.PNG)
+
+![data](./data_primary.PNG)
+
 ### Source
 
-### Notes:
+[AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/PCP_NPPES/state/ALL?edition-year=2020)
+
+### Notes
+
+
+
+### Indicator Page
+
+[Indicator Link](https://indicators.texas2036.org/indicator/101)
+
+### DataLab Page
+
+
+[DataLab Link](https://datalab.texas2036.org/fywtqfb/texas-county-health-ranking?accesskey=rzotuvb)
