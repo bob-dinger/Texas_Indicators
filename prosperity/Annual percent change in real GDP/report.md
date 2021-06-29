@@ -12,9 +12,9 @@ Texas spurs economic growth through an innovative and business-friendly climate
 
 ### **Value**
 
-|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
-| ----------- | ----------- | ----------- | ----------- | -----------|
-|    -4.6      | N/A         |    2.7     | N/A         | 📈        | 
+| Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
+|             |    -4.6      | N/A         |             |    2.7     | N/A         | 📈        | 
 
 ### Data
 

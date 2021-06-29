@@ -13,9 +13,9 @@ Texas children get a strong early start to succeed in school and life
 
 ### Value
 
-|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
-| ----------- | ----------- | ----------- | ----------- | -----------|
-|             | N/A         |             | N/A         |   📈       | 
+| Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
+|             |             | N/A         |             |             | N/A         |   📈       | 
 
 ### Data
 

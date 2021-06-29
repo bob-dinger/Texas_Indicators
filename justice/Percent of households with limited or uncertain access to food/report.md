@@ -12,9 +12,10 @@ Protection for the vulnerable
 
 ### Value
 
-|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
-| ----------- | ----------- | ----------- | ----------- | -----------|
-|    13.1%    | 43          |   14.3%     | 36          | flat       | 
+| Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
+|             |    13.1%    | 43          |             |   14.3%     | 36          | flat       | 
+
 
 ### Data
 

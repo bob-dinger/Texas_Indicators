@@ -12,9 +12,9 @@ Texas protects the vulnerable from traumatic experiences
 
 ### Value
 
-|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
-| ----------- | ----------- | ----------- | ----------- | -----------|
-|  2.5 (2017)     | N/A         |   3.0 (2015)       | N/A         |   down       | 
+| Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
+|             |  2.5 (2017)     | N/A         |             |   3.0 (2015)       | N/A         |   down       | 
 
 ### Data
 

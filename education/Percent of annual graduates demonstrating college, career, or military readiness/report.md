@@ -12,9 +12,9 @@ Texas students earn a postsecondary credential to access the jobs of today and t
 
 ### Value
 
-|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
-| ----------- | ----------- | ----------- | ----------- | -----------|
-| 72.9        | N/A         |    65.5     | N/A         |   📈       | 
+| Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
+|             | 72.9        | N/A         |             |    65.5     | N/A         |   📈       | 
 
 ### Data
 

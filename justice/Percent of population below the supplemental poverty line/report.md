@@ -12,9 +12,9 @@ Texans are served effectively, efficiently, and impartially by the justice syste
 
 ### Value
 
-|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
-| ----------- | ----------- | ----------- | ----------- | -----------|
-|      13.7   | 45        |      14.2    |   43    | flat      | 
+| Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
+|             |      13.7   | 45        |             |      14.2    |   43    | flat      | 
 
 ### Data
 

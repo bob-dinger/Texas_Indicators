@@ -12,9 +12,9 @@ Protection for the vulnerable
 
 ### Value
 
-|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
-| ----------- | ----------- | ----------- | ----------- | -----------|
-|     1,432      | N/A         |          | N/A         |   📈       | 
+| Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
+|             |     1,432      | N/A         |             |          | N/A         |   📈       | 
 
 ### Data
 

@@ -12,9 +12,9 @@ Texas students graduate high school ready for postsecondary success
 
 ### Value
 
-|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
-| ----------- | ----------- | ----------- | ----------- | -----------|
-| 90%       |     N/A      |    90%     | N/A          | flat  
+| Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
+|             | 90%       |     N/A      |             |    90%     | N/A          | flat  
 
 ### Data
 

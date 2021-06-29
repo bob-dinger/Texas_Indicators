@@ -12,9 +12,9 @@ Texas is the best place to live and work
 
 ### **Value**
 
-|  Value      | Rank        | Previous Value | Previous Rank | Trend | 
-| ----------- | ----------- | ----------- | ----------- | -----------|
-|   114,818   | 2        |      80,607       | 2         | up        | 
+| Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
+|             |   114,818   | 2        |             |      80,607       | 2         | up        | 
 
 ### Data
 
