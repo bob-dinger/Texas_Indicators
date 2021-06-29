@@ -169,9 +169,7 @@
 
 ### Secondary
 
-🟢 [Influenza and pneumonia mortality Number of deaths in Texas whose underlying]
-
-<!---(./health/Influenza and pneumonia mortality Number of deaths in Texas whose underlying/report.md)--->
+🟢 [Influenza and pneumonia mortality Number of deaths in Texas whose underlying](./health/Influenza and pneumonia mortality Number of deaths in Texas whose underlying/report.md)
 
 🟢 [Medicaid expenditures as percent of state budget](./health/Medicaid expenditures as percent of state budget/report.md)
 
@@ -204,6 +202,11 @@
 🟢 [Percent of adults who reported either binge or chronic drinking](./health/Percent of adults who reported either binge or chronic drinking/report.md)
 
 🟢 [Average number of physically unhealthy days within the last 30 days reported by adults](./health/Average number of physically unhealthy days within the last 30 days reported by adults/report.md)
+
+🟢 [Injury or death of population less than age 18 due to maltreatment per 100,000 population](./health/Injury or death of population less than age 18 due to maltreatment per 100,000 population/report.md)
+
+🟢 [Number of infant deaths (before age 1) per 1,000 live births](./health/Number of infant deaths before age 1 per 1,000 live births/report.md)
+
 
 
 <!-- 🟠 * = From Behavioral Risk Factor Surveillance Survey (to be released in August) -->
