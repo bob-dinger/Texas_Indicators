@@ -149,17 +149,15 @@
 
 🟠 * [Percent of adults who report needing to see a doctor in past year but could not due to cost]
 
-[Premature death from treatable medical conditions deaths per 100,000 population]
-
-<!---(./health/Premature death from treatable medical conditions deaths per 100,000 population/report.md)--->
+[Premature death from treatable medical conditions deaths per 100,000 population](./health/Premature death from treatable medical conditions deaths per 100,000 population/report.md)
 
 🟢 [Number of years from birth a person is expected to live](./health/Number of years from birth a person is expected to live/report.md)
 
 🟢 [birth weight below 5.5 pounds](./health/Percent of infants weighing 5.5 lb at birth/report.md)
 
-🟢 [percents of adults and children who are obese]
+🟢 [percents of adults and children who are obese](./health/Percent of adults and children who are obese/report.md)
 
-🟢 [Percent of adults who reported smoking daily or some days]
+🟢 [Percent of adults who reported smoking daily or some days](./health/Percent of adults who reported smoking daily or some days/report.md)
 
 🟢 [Potentially avoidable hospital visits among adults per 1,000 insurance enrollees](./health/Potentially avoidable hospital visits among adults per 1,000 insurance enrollees/report.md)
 
@@ -199,17 +197,18 @@
 
 🟢 [Number of deaths due to drug injury per 100,000 population](./health/Number of deaths due to drug injury per 100,000 population/report.md)
 
-🟠 * [Average number of mentally unhealthy days within the last 30 days reported by adults]
+🟢 [Average number of mentally unhealthy days within the last 30 days reported by adults](./health/Average number of mentally unhealthy days within the last 30 days reported by adults/report.md)
 
-🟠 * [Percent of adults who reported no physical activity]
+🟢 [Percent of adults who reported no physical activity](./health/Percent of adults who reported no physical activity/report.md)
 
 🟢 [Percent of adults ages 65 to 75 who reported receiving colorectal cancer screening within the recommended time period](./health/Percent of adults ages 65 to 75 who reported receiving colorectal cancer screening within the recommended time period/report.md)
 
-🟠 * [Percent of population who report having one or more of the following chronic conditions—diabetes, cardiovascular disease, and asthma]
+🟢 [Percent of population who report having one or more of the following chronic conditions—diabetes, cardiovascular disease, and asthma](./health/Percent of population who report having one or more of the following chronic conditions—diabetes, cardiovascular disease, and asthma/report.md)
 
-🟠 * [Percent of adults who reported either binge or chronic drinking]
+🟢 [Percent of adults who reported either binge or chronic drinking](./health/Percent of adults who reported either binge or chronic drinking/report.md)
 
-🟠 * [Average number of physically unhealthy days within the last 30 days reported by adults]
+🟢 [Average number of physically unhealthy days within the last 30 days reported by adults](./health/Average number of physically unhealthy days within the last 30 days reported by adults/report.md)
+
 
 <!-- 🟠 * = From Behavioral Risk Factor Surveillance Survey (to be released in August) -->
 
