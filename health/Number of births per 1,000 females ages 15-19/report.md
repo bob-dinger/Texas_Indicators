@@ -16,6 +16,7 @@ Texas students earn a postsecondary credential to access the jobs of today and t
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020       | 25.3       |  42         |      2019   |   27.6      |      44    |    up       | 
 
+
 ### Data
 
 ![map](./map_teenbirths.PNG)

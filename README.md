@@ -147,7 +147,7 @@
 
 🟢 [Percent of population without health insurance](./health/Percent of population without health insurance/report.md)
 
-🟠 * [Percent of adults who report needing to see a doctor in past year but could not due to cost]
+🟢 [Percent of adults who report needing to see a doctor in past year but could not due to cost](./health/Percent of adults who report needing to see a doctor in past year but could not due to cost/report.md)
 
 [Premature death from treatable medical conditions deaths per 100,000 population](./health/Premature death from treatable medical conditions deaths per 100,000 population/report.md)
 
@@ -163,9 +163,7 @@
 
 🟢 [Percent of children ages 19-35 months who received recommended vaccines](./health/Percent of children ages 19-35 months who received recommended vaccines/report.md)
 
-🟢 [Average annual percent increase in per person health care expenditures in Texas]
-
-<!---(./health/Average annual percent increase in per person health care expenditures in Texas/report.md)--->
+🟢 [Average annual percent increase in per person health care expenditures in Texas](./health/Average annual percent increase in per person health care expenditures in Texas/report.md)
 
 [the percentage of adults who reported that they received the flu vaccine within the past 12 months](./health/the percentage of adults who reported that they received the flu vaccine within the past 12 months/report.md)
 
@@ -175,9 +173,7 @@
 
 <!---(./health/Influenza and pneumonia mortality Number of deaths in Texas whose underlying/report.md)--->
 
-🟢 [Medicaid expenditures as percent of state budget]
-
-<!---(./health/Medicaid expenditures as percent of state budget/report.md)--->
+🟢 [Medicaid expenditures as percent of state budget](./health/Medicaid expenditures as percent of state budget/report.md)
 
 🟢 [Number of births per 1,000 females ages 15-19](./health/Number of births per 1,000 females ages 15-19/report.md)
 
