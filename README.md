@@ -217,35 +217,24 @@
 
 [Annual cost of time lost and fuel spent from passenger car delays, per auto commuter]
 
-[Percent of workers using any mode to access work except single-occupancy vehicles]
+🟢 [Percent of workers using any mode to access work except single-occupancy vehicles](./infrastructure/Percent of workers using any mode to access work except single-occupancy vehicles/report.md)
 
-<!---(./infrastructure/Percent of workers using any mode to access work except single-occupancy vehicles/report.md)--->
-
-[Total freight flows moved through Texas by all modes of transit in ton-miles]
+🔴 [Total freight flows moved through Texas by all modes of transit in ton-miles]
 
 <!---(./infrastructure/Total freight flows moved through Texas by all modes of transit in ton-miles/report.md)--->
 
-[Number of fatalities on roads involving at least one motor vehicle, including pedestrians and pedacyclists per 100 million vehicle miles traveled (VMT)]
+🟢 [Number of fatalities on roads involving at least one motor vehicle, including pedestrians and pedacyclists per 100 million vehicle miles traveled (VMT)](./infrastructure/Number of fatalities on roads involving at least one motor vehicle, including pedestrians and pedacyclists per 100 million vehicle miles traveled (VMT)/report.md)
 
-<!---(./infrastructure/Number of fatalities on roads involving at least one motor vehicle, including pedestrians and pedacyclists per 100 million vehicle miles traveled (VMT)/report.md)--->
+🟢 [Percent of households with subscription to fixed broadband service of any speed](./infrastructure/Percent of households with subscription to fixed broadband service of any speed/report.md)
 
-[Percent of households with subscription to fixed broadband service of any speed]
+🟢 [Percent of population with access to fixed broadband at an acceptable speed of 253 mbps or higher; will shift to 1Gbps download speeds in future](./infrastructure/Percent of population with access to fixed broadband at an acceptable speed of 253 mbps or higher; will shift to 1Gbps download speeds in future/report.md)
 
-<!---(./infrastructure/Percent of households with subscription to fixed broadband service of any speed/report.md)--->
-
-[Percent of population with access to fixed broadband at an acceptable speed of 253 mbps or higher; will shift to 1Gbps download speeds in future]
-
-<!---(./infrastructure/Percent of population with access to fixed broadband at an acceptable speed of 253 mbps or higher; will shift to 1Gbps download speeds in future/report.md)--->
-
-
-[Average price paid for electricity across all end user sectors]
-
-<!---(./natural resources/Average price paid for electricity across all end user sectors/report.md)--->
-
+🟢 [Average price paid for electricity across all end user sectors](./natural resources/Average price paid for electricity across all end user sectors/report.md)
 
 [Percent difference between the forecasted total generation available and the forecasted peak demand in the following year]
 
-[State preparedness, response to, and recovery from health consequences of large-scale emergencies measured by the National Health Security Preparedness Index]
+🟢 [State preparedness, response to, and recovery from health consequences of large-scale emergencies measured by the National Health Security Preparedness Index](./infrastructure/State preparedness, response to, and recovery from health consequences of large-scale emergencies measured by the National Health Security Preparedness Index/report.md)
+
 
 ### Secondary
 
@@ -253,39 +242,22 @@
 
 <!---(./infrastructure/Additional costs of moving power due to physical limitations of transmission infrastructure3/report.md)--->
 
-[Average time taken for an individual to travel from home to work, excluding telecommuting]
+🟢 [Average time taken for an individual to travel from home to work, excluding telecommuting](./infrastructure/Average time taken for an individual to travel from home to work, excluding telecommuting/report.md)
 
-<!---(./infrastructure/Average time taken for an individual to travel from home to work, excluding telecommuting/report.md)--->
-
-[Number of combined passenger and freight railway accidents]
-
-<!---(./infrastructure/Number of combined passenger and freight railway accidents/report.md)--->
+🟢 [Number of combined passenger and freight railway accidents](./infrastructure/Number of combined passenger and freight railway accidents/report.md)
 
 
+[Percent of bridges on national highway system rated in “good or fair condition](./infrastructure/Percent of bridges on national highway system rated in “good or fair condition/report.md)
 
-[Percent of bridges on national highway system rated in “good or fair condition]
+🟢 [Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index](./infrastructure/Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index/report.md)
 
-<!---(./infrastructure/Percent of bridges on national highway system rated in “good or fair condition/report.md)--->
+🟢 [Percent of population with access to only 1 fixed broadband provider](./infrastructure/Percent of population with access to only 1 fixed broadband provider/report.md)
 
-[Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index]
+🟢 [Percent of workers who access work by telecommuting](./infrastructure/Percent of workers who access work by telecommuting/report.md)
 
-<!---(./infrastructure/Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index/report.md)--->
+🟢 [Percent of workers who access work by walking and biking](./infrastructure/Percent of workers who access work by walking and biking/report.md)
 
-[Percent of population with access to only 1 fixed broadband provider]
-
-<!---(./infrastructure/Percent of population with access to only 1 fixed broadband provider/report.md)--->
-
-[Percent of workers who access work by telecommuting]
-
-<!---(./infrastructure/Percent of workers who access work by telecommuting/report.md)--->
-
-[Percent of workers who access work by walking and biking]
-
-<!---(./infrastructure/Percent of workers who access work by walking and biking/report.md)--->
-
-[Transportation costs in an area as a percentage of area median household income6]
-
-<!---(./infrastructure/Transportation costs in an area as a percentage of area median household income6/report.md)--->
+🟢 [Transportation costs in an area as a percentage of area median household income6](./infrastructure/Transportation costs in an area as a percentage of area median household income6/report.md)
 
 [Using container dwell time; the average amount of time a container sits idle in a port]
 
