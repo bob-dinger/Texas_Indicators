@@ -14,7 +14,7 @@ Texans live long, healthy, and productive lives
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020       | 10.9%       |  13         |      2019   |   11.8%      |      19    |    up       | 
+|   2019       | 1.77%       |  46         |      2019   |   1.78%      |      46    |    flat       | 
 
 ### Data
 
@@ -22,6 +22,7 @@ Texans live long, healthy, and productive lives
 
 ### Notes
 
+[census]
 
 ### Indicator Page
 

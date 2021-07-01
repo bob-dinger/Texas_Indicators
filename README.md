@@ -215,7 +215,7 @@
 
 ### Primary
 
-[Annual cost of time lost and fuel spent from passenger car delays, per auto commuter]
+🟢 [Annual cost of time lost and fuel spent from passenger car delays, per auto commuter](./infrastructure/Annual cost of time lost and fuel spent from passenger car delays, per auto commuter/report.md)
 
 🟢 [Percent of workers using any mode to access work except single-occupancy vehicles](./infrastructure/Percent of workers using any mode to access work except single-occupancy vehicles/report.md)
 
@@ -231,23 +231,21 @@
 
 🟢 [Average price paid for electricity across all end user sectors](./natural resources/Average price paid for electricity across all end user sectors/report.md)
 
-[Percent difference between the forecasted total generation available and the forecasted peak demand in the following year]
+🟢 [Percent difference between the forecasted total generation available and the forecasted peak demand in the following year]
 
 🟢 [State preparedness, response to, and recovery from health consequences of large-scale emergencies measured by the National Health Security Preparedness Index](./infrastructure/State preparedness, response to, and recovery from health consequences of large-scale emergencies measured by the National Health Security Preparedness Index/report.md)
 
-
 ### Secondary
 
-[Additional costs of moving power due to physical limitations of transmission infrastructure3]
+[Additional costs of moving power due to physical limitations of transmission infrastructure]
 
-<!---(./infrastructure/Additional costs of moving power due to physical limitations of transmission infrastructure3/report.md)--->
+<!---(./infrastructure/Additional costs of moving power due to physical limitations of transmission infrastructure/report.md)--->
 
 🟢 [Average time taken for an individual to travel from home to work, excluding telecommuting](./infrastructure/Average time taken for an individual to travel from home to work, excluding telecommuting/report.md)
 
 🟢 [Number of combined passenger and freight railway accidents](./infrastructure/Number of combined passenger and freight railway accidents/report.md)
 
-
-[Percent of bridges on national highway system rated in “good or fair condition](./infrastructure/Percent of bridges on national highway system rated in “good or fair condition/report.md)
+🟢 [Percent of bridges on national highway system rated in “good or fair condition](./infrastructure/Percent of bridges on national highway system rated in “good or fair condition/report.md)
 
 🟢 [Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index](./infrastructure/Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index/report.md)
 
@@ -263,9 +261,9 @@
 
 <!---(./infrastructure/Using container dwell time; the average amount of time a container sits idle in a port/report.md)--->
 
-[Using Level of Service; grading from A to F of traffic operating conditions on Texas Highway Freight Network4]
+[Using Level of Service; grading from A to F of traffic operating conditions on Texas Highway Freight Network]
 
-<!---(./infrastructure/Using Level of Service; grading from A to F of traffic operating conditions on Texas Highway Freight Network4/report.md)--->
+<!---(./infrastructure/Using Level of Service; grading from A to F of traffic operating conditions on Texas Highway Freight Network/report.md)--->
 
 
 

@@ -38,5 +38,8 @@ https://nhspi.org/wp-content/uploads/2019/05/NHSPI_2019_Measures.pdf
 
 ### Indicator Page
 
+[Indicator Link](https://indicators.texas2036.org/indicator/72)
 
 ### DataLab Page
+
+[DataLab Link](https://datalab.texas2036.org/jtrjelb/national-health-security-preparedness-index-for-u-s?accesskey=xueewzb)

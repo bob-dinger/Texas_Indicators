@@ -12,11 +12,20 @@ NAEP
 college ready (combined like them)
 child care centers (have to go to TRS to cross reference)
 
+# Health
+
+
 # Justice
 
 Add rank for barriers
 
 
 # Prosperity
+
+# Infrastructure
+
+# Natural Resources
+
+# Government
 
 
