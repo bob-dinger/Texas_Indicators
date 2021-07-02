@@ -14,7 +14,7 @@ Texans live long, healthy, and productive lives
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2019       | 6.7      |  13         |      2018   |  6.6     |      19    |    up       | 
+|   2019      | 6.7         |  13         |      2018   |  6.6        |      19     |    up      | 
 
 ### Data
 

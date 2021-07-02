@@ -6,11 +6,26 @@
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2019      |  1.25      |    33       |      2017   |   1.29      |          |    flat       | 
+|   2020      |    -3.02%   |    N/A      |      2019   |   -.04%     |             |            | 
 
 ### Data
 
+2020:
+
+![2020](./2020.PNG)
+
+2019:
+
+![2019](./2019.PNG)
+
+
+2021 (for reference, note February)
+
+![2021](./2021.PNG)
+
 ### Source
+
+[ERCOT](http://www.ercot.com/gridinfo)
 
 ### Notes
 
