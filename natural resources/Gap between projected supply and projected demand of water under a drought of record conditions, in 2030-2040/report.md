@@ -20,6 +20,10 @@ Texans live long, healthy, and productive lives
 
 ### Source
 
+[2022 State Water Plan](https://2022.texasstatewaterplan.org/statewide)
+
+[Previous Source - 2017 State Water Plan](https://2017.texasstatewaterplan.org/statewide)
+
 ### Notes
 
 
@@ -27,3 +31,5 @@ Texans live long, healthy, and productive lives
 
 
 ### DataLab Page
+
+[DataLab Link](https://datalab.texas2036.org/osauetb/texas-state-water-plan?accesskey=isfkysd)

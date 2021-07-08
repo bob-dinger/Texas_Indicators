@@ -6,9 +6,9 @@
 
 ### Goal
 
-Population health
+Quality of water
 
-Texans live long, healthy, and productive lives
+Texans have clean water
 
 ### Value
 

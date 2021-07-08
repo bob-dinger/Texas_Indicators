@@ -288,20 +288,17 @@
 
 🔴 [Number of total visits to Texas state parks per 1,000 Texans]
 
-
 🟢 [Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population]
 
 <!---(./natural resources/Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population/report.md)--->
 
 [Amount of water used for irrigation, per acre of cropland in Texas]
 
-[Energy content of oil, natural gas, coal, and nuclear energy extracted from the ground or generated in-state]
+🟢 [Energy content of oil, natural gas, coal, and nuclear energy extracted from the ground or generated in-state](./natural resources/Energy content of oil, natural gas, coal, and nuclear energy extracted from the ground or generated in-state/report.md)
 
-[Energy content generated from renewable sources in-state]
+🟢 [Energy content generated from renewable sources in-state](./natural resources/Energy content generated from renewable sources in-state/report.md)
 
-[Quantity of carbon produced in-state from generating one unit of energy]
-
-<!---(./natural resources/Quantity of carbon produced in-state from generating one unit of energy/report.md)--->
+🟢 [Quantity of carbon produced in-state from generating one unit of energy](./natural resources/Quantity of carbon produced in-state from generating one unit of energy/report.md)
 
 
 ### Secondary
@@ -310,30 +307,19 @@
 
 <!---(./natural resources/Amount of residential water used per day per capita, delivered through Texas water utilities/report.md)--->
 
+🟢 [Gas disposed through venting and flaring per unit of oil and gas produced](./natural resources/Gas disposed through venting and flaring per unit of oil and gas produced/report.md)
 
+🟢 [Total oil and gas production in Texas, as a percent of total US production](./natural resources/Total oil and gas production in Texas, as a percent of total US production/report.md)
 
-
-
-[Gas disposed through venting and flaring per unit of oil and gas produced]
-
-<!---(./natural resources/Gas disposed through venting and flaring per unit of oil and gas produced/report.md)--->
-
+🟢 [Total renewable energy produced in-state, as a percent of total US production](./natural resources/Total renewable energy produced in-state, as a percent of total US production/report.md)
 
 [Net farm income measured by revenue less expenses from production in the current year]
 
 <!---(./natural resources/Net farm income measured by revenue less expenses from production in the current year/report.md)--->
 
-
-
 [Number of days out of total reported days with an Air Quality Index (AQI) rating from Unhealthy for Certain Groups to Hazardous]
 
 <!---(./natural resources/Number of days out of total reported days with an Air Quality Index (AQI) rating from Unhealthy for Certain Groups to Hazardous/report.md)--->
-
-[Percent difference between the forecasted total generation available and the forecasted peak demand in the following year]
-
-<!---(./natural resources/Percent difference between the forecasted total generation available and the forecasted peak demand in the following year/report.md)--->
-
-
 
 [Percent of population living in counties with 8-hour ozone values greater than the national standard]
 
@@ -343,8 +329,6 @@
 
 <!---(./natural resources/Percent of population living in counties with annual particulate matter (PM) 2.5 values greater than the national standard5/report.md)--->
 
-
-
 [Percent of public water systems in compliance with major testing, monitoring, and reporting procedures]
 
 <!---(./natural resources/Percent of public water systems in compliance with major testing, monitoring, and reporting procedures/report.md)--->
@@ -353,14 +337,9 @@
 
 <!---(./natural resources/Percent of surface water bodies inspected found to have major impairments/report.md)--->
 
-
-
 [Value of agricultural output from Texas, as a percent of total US agricultural output]
 
 <!---(./natural resources/Value of agricultural output from Texas, as a percent of total US agricultural output/report.md)--->
-
-
-
 
 ## Government Performance
 

@@ -20,10 +20,15 @@ Texans live long, healthy, and productive lives
 
 ### Source
 
+[previous](https://www.epa.gov/air-trends/air-quality-design-values#report)
+
 ### Notes
 
 
 ### Indicator Page
 
+N/A
 
 ### DataLab Page
+
+[DataLab Link](https://datalab.texas2036.org/onngqtd/air-quality-statistics-report?accesskey=bgckqcg)
