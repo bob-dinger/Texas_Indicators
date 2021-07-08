@@ -14,7 +14,7 @@ Texas spurs economic growth through an innovative and business-friendly climate
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |    -4.6      | N/A         |             |    2.7     | N/A         | 📈        | 
+|    2020     |    -4.6%     | N/A         |    2019     |    2.7%    | N/A         | 📈        | 
 
 ### Data
 

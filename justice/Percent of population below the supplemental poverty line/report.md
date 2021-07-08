@@ -29,6 +29,10 @@ Texans are served effectively, efficiently, and impartially by the justice syste
 
 [2018 Source](https://www.census.gov/data/tables/2019/demo/income-poverty/p60-268.html)
 
+[Census - The Supplemental Poverty Measure: 2019](https://www.census.gov/library/publications/2020/demo/p60-272.html)
+
+[Census - The Supplemental Poverty Measure: 2018](https://www.census.gov/library/publications/2019/demo/p60-268.html)
+
 ### Notes
 
 

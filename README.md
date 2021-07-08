@@ -74,10 +74,6 @@
 
 🟢 [Number of new small businesses](./prosperity/Number of new small businesses/report.md)
 
-🟢 [Percent of population below the supplemental poverty line]
-
-<!---(./prosperity/Percent of population below the supplemental poverty line/report.md)--->
-
 🟢 [Ranking on Gallup National Health and Well-Being Index](./prosperity/Ranking on Gallup National Health and Well-Being Index/report.md)
 
 🟢 [Ranking on ITIF State New Economy Index](./prosperity/Ranking on ITIF State New Economy Index/report.md)

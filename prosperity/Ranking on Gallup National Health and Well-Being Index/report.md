@@ -12,7 +12,7 @@ Texas is the best place to live and work
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |           | 35         |             |             | 25         | down        | 
+|    2020     |             | 35          |     2019    |             | 25         | down        | 
 
 ### Data
 

@@ -16,7 +16,7 @@ Texans have the knowledge and skills to access careers enabling economic securit
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             | 39.1%       |     36      |             |    38.9     | 36          | flat       | 
+|     2020    | 39.1%       |     36      |    2019     |    38.9     | 36          | flat       | 
 
 
 

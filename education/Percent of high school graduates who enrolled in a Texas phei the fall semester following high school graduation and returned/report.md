@@ -14,7 +14,7 @@ Texas students earn a postsecondary credential to access the jobs of today and t
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             | 87.6%      |    N/A  |             |    87.6%  | N/A         | flat       | 
+|    2020     | 87.6%      |    N/A  |    2019     |    87.6%  | N/A         | flat       | 
 
 ### Data
 ![Texas Higher Ed Accountability](./retention.PNG)

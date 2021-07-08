@@ -15,7 +15,7 @@ Texas students earn a postsecondary credential to access the jobs of today and t
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             | $44,260       | N/A         |             |    $43,203    | N/A         | 📈       | 
+|    2020     | $44,260       | N/A         |    2019     |    $43,203    | N/A         | 📈     | 
 
 ### **Data**
 ![First Year Earnings](./earnings_2017_grads.PNG)

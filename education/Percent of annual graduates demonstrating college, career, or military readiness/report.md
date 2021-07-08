@@ -14,7 +14,7 @@ Texas students earn a postsecondary credential to access the jobs of today and t
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             | 72.9        | N/A         |             |    65.5     | N/A         |   📈       | 
+|   2020      | 72.9        | N/A         |    2019     |    65.5     | N/A         |   📈       | 
 
 ### Data
 

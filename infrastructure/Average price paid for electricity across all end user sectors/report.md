@@ -22,6 +22,8 @@ Texans live long, healthy, and productive lives
 
 [EIA](https://www.eia.gov/electricity/sales_revenue_price/)
 
+https://www.eia.gov/electricity/state/
+
 ### Notes
 
 

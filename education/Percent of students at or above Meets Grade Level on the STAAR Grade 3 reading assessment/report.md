@@ -14,12 +14,20 @@ Texas students graduate high school ready for postsecondary success
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             | 45%       |     N/A      |             |    43%     | N/A          | flat  |
+|    2019     | 45%         |     N/A      |    2018     |    43%     | N/A          | flat  |
 
 ### Data
 
 ### Source
 
-TAPR
+[TAPR](https://rptsvr1.tea.texas.gov/perfreport/tapr/2020/xplore/DownloadSelData.html)
 
-### Notes:
+### Notes
+
+### Indicator Page
+
+
+### DataLab Page
+
+
+

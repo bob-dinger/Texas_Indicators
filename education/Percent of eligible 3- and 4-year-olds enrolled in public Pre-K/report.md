@@ -14,7 +14,7 @@ Texas children get a strong early start to succeed in school and life
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             | 53.2%      | N/A         |             |    52.4%  | N/A         | 📈       | 
+|    2020     | 53.2%      | N/A         |   2019      |    52.4%  | N/A         | 📈       | 
 
 ### Data
 ![Pre-K Eligible Enrolled](./prek.PNG)
