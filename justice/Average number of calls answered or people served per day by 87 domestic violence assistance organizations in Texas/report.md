@@ -6,16 +6,15 @@
 
 ### **Goal**
 
-Texas protects the vulnerable from traumatic experiences
-
 Protection for the vulnerable
 
+Texas protects the vulnerable from traumatic experiences
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |     5,950      | N/A        |              |    6,437       | N/A         |   📈       | 
+|    2020     |     5,950   | N/A         |     2019    |    6,437    | N/A         |   down      | 
 
 
 ### Data

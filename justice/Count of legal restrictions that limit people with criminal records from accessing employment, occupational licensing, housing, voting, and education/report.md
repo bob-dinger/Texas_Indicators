@@ -2,7 +2,7 @@
 
 ## Justice & Safety
 
-### Primary Indicator
+### Secondary Indicator
 
 ### **Goal**
 
@@ -14,7 +14,7 @@ Protection for the vulnerable
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |     1,432      | N/A         |             |          | N/A         |   📈       | 
+|    2020    |     1,432      | N/A         |             |          | N/A         |   📈       | 
 
 ### Data
 

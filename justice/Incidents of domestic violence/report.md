@@ -1,4 +1,4 @@
-# Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education
+# Incidents of domestic violence
 
 ## Justice & Safety
 
@@ -15,9 +15,9 @@ Texas protects the vulnerable from traumatic experiences
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |             |             |             |             |             |             |
+|   2019      |    196,902  |             |     2018    |   197,023   |             |            |
 
-196,902
+
 
 ### Data
 

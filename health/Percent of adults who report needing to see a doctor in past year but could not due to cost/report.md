@@ -1,3 +1,5 @@
+# Percent of adults who report needing to see a doctor in past year but could not due to cost
+
 # Health
 
 ### Primary Indicator

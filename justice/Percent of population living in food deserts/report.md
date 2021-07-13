@@ -14,7 +14,7 @@ Texans are served effectively, efficiently, and impartially by the justice syste
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |     39.64%        | N/A         |             |             | N/A         | 📈       | 
+|     2019    |     39.64%  | N/A         |             |             | N/A       |     | 
 
  9,967,978 
  25,145,561
@@ -22,7 +22,7 @@ Texans are served effectively, efficiently, and impartially by the justice syste
 
 ### Data
 
-[Food Acces Research Atlas](./FoodAccessResearchAtlasData2019.xlsx)
+[Food Access Research Atlas](./FoodAccessResearchAtlasData2019.xlsx)
 
 
 ### Source

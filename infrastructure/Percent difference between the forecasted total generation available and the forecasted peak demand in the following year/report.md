@@ -2,6 +2,14 @@
 
 ## Natural Resources
 
+### Primary Indicator
+
+### **Goal**
+
+Early childhood
+
+Texas children get a strong early start to succeed in school and life
+
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 

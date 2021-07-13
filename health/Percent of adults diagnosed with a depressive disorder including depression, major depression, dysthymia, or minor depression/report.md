@@ -1,3 +1,5 @@
+# Percent of adults diagnosed with a depressive disorder including depression, major depression, dysthymia, or minor depression
+
 # Health
 
 ### Primary Indicator

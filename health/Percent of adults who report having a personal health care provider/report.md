@@ -1,3 +1,5 @@
+# Percent of adults who report having a personal health care provider
+
 # Health
 
 ### Primary Indicator

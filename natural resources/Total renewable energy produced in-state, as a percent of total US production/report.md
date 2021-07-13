@@ -1,4 +1,3 @@
-
 # Total renewable energy produced in-state, as a percent of total US production
 
 ## Natural Resources

@@ -8,7 +8,7 @@ Quality of life
 
 Texas is the best place to live and work
 
-### **Value**
+### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|

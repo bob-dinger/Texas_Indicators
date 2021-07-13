@@ -14,7 +14,7 @@ Texans are served effectively, efficiently, and impartially by the justice syste
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |      13.7   | 45        |             |      14.2    |   43    | flat      | 
+|    2019     |      13.7   | 45        |    2018     |      14.2    |   43    | flat      | 
 
 ### Data
 

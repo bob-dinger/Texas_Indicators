@@ -14,7 +14,7 @@ Protection for the vulnerable
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |    13.1%    | 43          |             |   14.3%     | 36          | flat       | 
+|    2019     |    13.1%    | 43          |    2016   |   14.3%     | 36          | flat       | 
 
 
 ### Data

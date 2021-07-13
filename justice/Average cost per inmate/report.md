@@ -14,7 +14,7 @@ Texas protects the vulnerable from traumatic experiences
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |             | N/A         |             |             | N/A         | 📈       | 
+|   2020      |     $69.27  | N/A         |    2019     |     $64.35   | N/A        | down       | 
 
 ### Data
 

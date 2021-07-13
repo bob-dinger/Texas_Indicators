@@ -1,4 +1,3 @@
-
 # Annual cost of time lost and fuel spent from passenger car delays, per auto commuter
 
 ## Infrastructure
