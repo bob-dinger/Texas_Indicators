@@ -1,11 +1,21 @@
-# ?New Economy
-Ranking on ITIF State New Economy Index
-## Prosperity
-### Goal: Economic growth
-Texas spurs economic growth through an innovative and business-friendly climate
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# New Economy
+
+Ranking on ITIF State New Economy Index
+
+## Prosperity
+
+### Goal: Economic growth
+
+Texas spurs economic growth through an innovative and business-friendly climate
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
 
 ### Value
 

@@ -7,6 +7,8 @@ Texas is ready to address the human, economic, and environmental consequences of
 Updated: yes
 Data Release Date: 
 
+Comparisons: States
+
 ### Value
 
 | Year        |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 

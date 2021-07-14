@@ -7,6 +7,10 @@ Texas students earn a postsecondary credential to access the jobs of today and t
 Updated: yes
 Data Release Date: 
 
+Comparisons: States
+
+Comparisons: States
+
 ### Value
 
 ### Data

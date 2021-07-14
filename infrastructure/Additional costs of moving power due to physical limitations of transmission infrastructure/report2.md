@@ -7,6 +7,8 @@ Texas maintains a sufficient, reliable, and cost-competitive energy infrastructu
 Updated: yes
 Data Release Date: 
 
+Comparisons: States
+
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 

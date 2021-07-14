@@ -7,6 +7,8 @@ Texans have clean water
 Updated: yes
 Data Release Date: 
 
+Comparisons: States
+
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 

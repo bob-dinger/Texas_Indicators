@@ -7,6 +7,8 @@ Texans and their communities are empowered to adopt healthy lifestyles
 Updated: yes
 Data Release Date: 
 
+Comparisons: States
+
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 

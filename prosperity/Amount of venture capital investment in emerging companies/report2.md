@@ -1,4 +1,4 @@
-# ?Venture Capital
+# Venture Capital
 
 Amount of venture capital investment in emerging companies
 
@@ -14,6 +14,8 @@ Updated: yes
 
 Data Release Date: 
 
+
+Comparisons: States
 
 ### Value
 

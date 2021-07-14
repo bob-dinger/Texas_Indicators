@@ -7,6 +7,8 @@ Texas maintains a safe transportaiton infrastructure
 Updated: yes
 Data Release Date: 
 
+Comparisons: States
+
 ### Value
 
 

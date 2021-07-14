@@ -1,4 +1,4 @@
-# ?Collateral consequences
+# Collateral consequences
 
 Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education
 
@@ -14,6 +14,8 @@ Updated: yes
 
 Data Release Date: 
 
+
+Comparisons: States
 
 ### Value
 

@@ -1,17 +1,26 @@
-# Capacity of quality early childcare centers
-Number of seats in quality accredited childcare centers
-## Education
-### Goal: Early childhood
-Texas children get a strong early start to succeed in school and life
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Capacity of quality early childcare centers
+
+Number of seats in quality accredited childcare centers
+
+## Education
+
+### Goal: Early childhood
+
+Texas children get a strong early start to succeed in school and life
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |             | N/A         |             |             | N/A         |   📈       | 
+|             |             | N/A         |             |             | N/A         |          | 
 
 ### Data
 

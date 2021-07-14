@@ -1,11 +1,20 @@
-# Cost of congestion
-Annual cost of time lost and fuel spent from passenger car delays, per auto commuter
-## Transportation
-### Goal: Mobility of individuals
-Texans can travel to their destinations effectively and efficiently
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Cost of congestion
+
+Annual cost of time lost and fuel spent from passenger car delays, per auto commuter
+
+## Transportation
+
+### Goal: Mobility of individuals
+
+Texans can travel to their destinations effectively and efficiently
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
 
 ### Value
 

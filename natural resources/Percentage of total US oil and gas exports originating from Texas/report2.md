@@ -7,6 +7,8 @@ Texas leads in energy production with responsible natural resource stewardship
 Updated: yes
 Data Release Date: 
 
+Comparisons: States
+
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 

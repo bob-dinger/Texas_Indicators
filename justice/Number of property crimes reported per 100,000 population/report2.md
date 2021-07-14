@@ -1,12 +1,21 @@
 # Property crime rate
-
-Number of property crimes reported per 100,000 population
-## Justice & Safety
-### Goal: Public safety
-Texans are protected from threats to their well-being and property
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+
+
+Number of property crimes reported per 100,000 population
+
+## Justice & Safety
+
+### Goal: Public safety
+
+Texans are protected from threats to their well-being and property
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
 
 ### Value
 

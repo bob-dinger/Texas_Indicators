@@ -1,17 +1,27 @@
-# ?8th grade math
-Percent of students at or above Proficient on the NAEP Grade 8 math assessment
-## Education
-### Goal: K-12
-Texas students graduate high school ready for postsecondary success
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# 8th grade math
+
+Percent of students at or above Proficient on the NAEP Grade 8 math assessment
+
+## Education
+
+### Goal: K-12
+
+Texas students graduate high school ready for postsecondary success
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2019      |     280     | N/A         |    2017     |    282      | N/A         | 📈     | 
+|   2019      |     280     | N/A         |    2017     |    282      | N/A         |      | 
 
 
 ### **Data**

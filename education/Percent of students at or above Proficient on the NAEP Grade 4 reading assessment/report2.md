@@ -1,17 +1,26 @@
-# 3rd grade reading
-Percent of students at or above Proficient on the NAEP Grade 4 reading assessment
-## Education
-### Goal: Early childhood
-Texas children get a strong early start to succeed in school and life
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# 4rd grade reading
+
+Percent of students at or above Proficient on the NAEP Grade 4 reading assessment
+
+## Education
+
+### Goal: Early childhood
+
+Texas children get a strong early start to succeed in school and life
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
 
 ### Value
 
 | Year        |  Value      | Rank        | Previous Year| Previous Value| Previous Rank  | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2019     |    216      | 44          |      2017   |   215       | N/A         | 📈         | 
+|    2019     |    216      | 44          |      2017   |   215       | N/A         |          | 
 
 ### **Data**
 

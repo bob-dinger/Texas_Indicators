@@ -15,6 +15,7 @@ Updated: yes
 
 Data Release Date: 
 
+Comparisons: Texas
 
 ### Value
 

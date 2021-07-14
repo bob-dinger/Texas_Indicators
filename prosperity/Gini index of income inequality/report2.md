@@ -7,6 +7,8 @@ Texas is the best place to live and work
 Updated: yes
 Data Release Date: 
 
+Comparisons: States
+
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 

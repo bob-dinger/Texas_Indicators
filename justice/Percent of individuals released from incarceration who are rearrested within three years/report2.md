@@ -16,6 +16,8 @@ Updated: yes
 Data Release Date: January 2021
 
 
+Comparisons: States
+
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 

@@ -1,4 +1,4 @@
-# ?Postsecondary attainment (age 25-34)
+# Postsecondary attainment (age 25-34)
 
 Percent of population age 25-34 with a postsecondary credential
 
@@ -14,6 +14,7 @@ Updated: yes
 
 Data Release Date: 
 
+Comparisons: States
 
 ### Value
 

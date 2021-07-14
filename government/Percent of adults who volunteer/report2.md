@@ -8,6 +8,8 @@ Texans actively participate in governing their communities
 Updated: yes
 Data Release Date: 
 
+Comparisons: States
+
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 

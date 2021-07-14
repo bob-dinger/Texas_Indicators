@@ -1,17 +1,27 @@
-# GDP growth
-Annual percent change in real GDP
-## Prosperity
-### Goal: Economic growth
-Texas spurs economic growth through an innovative and business-friendly climate
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# GDP growth
+
+Annual percent change in real GDP
+
+## Prosperity
+
+### Goal: Economic growth
+
+Texas spurs economic growth through an innovative and business-friendly climate
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2020     |    -4.6%     | N/A         |    2019     |    2.7%    | N/A         | 📈        | 
+|    2020     |    -4.6%     | N/A         |    2019     |    2.7%    | N/A         | down        | 
 
 ### Data
 

@@ -2,6 +2,8 @@
 
 [Indicator Table](./Indicators.md)
 
+[Indicator Table 2](./indicator_table.html)
+
 🟢 = Updated Variable
 
 🔴 = No update available
