@@ -14,14 +14,13 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: States
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2019      |     280     | N/A         |    2017     |    282      | N/A         |      | 
+|   2019      |     30%     | 32          |    2017     |    33%      | 24          |   down     | 
 
 
 ### **Data**

@@ -1,19 +1,27 @@
-# Daily water use per person
-Amount of residential water used per day per capita, delivered through Texas water utilities
-## Water
-### Goal: Sufficient water
-Texans can rely on a sufficient water supply
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Daily water use per person
 
-Comparisons: States
+Amount of residential water used per day per capita, delivered through Texas water utilities
+
+## Water
+
+### Goal: Sufficient water
+
+Texans can rely on a sufficient water supply
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: Texas
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2018       |    82      |             |      2016   |     88      |             |    up      | 
+|   2018       |    82      |     N/A    |      2016   |     88      |     N/A     |    up      | 
 
 \* gallons
 

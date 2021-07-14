@@ -20,11 +20,13 @@ Comparisons: States
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      |             |             |    2019     |             |             |            | 
+|   2020      |     A-      |      6      |    2018     |      B      |     25      |     up     | 
 
 ### Data
 
 ### Source
+
+[GovTech](https://www.govtech.com/cdg/digital-states/digital-states-survey-2020-results-announced.html)
 
 ### Notes
 

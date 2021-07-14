@@ -1,13 +1,20 @@
-# Prison spending
-Average cost per inmate
-## Justice & Safety
-### Goal: Justice system
-Texans are served effectively, efficiently, and impartially by the justice system
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Prison spending
 
-Comparisons: States
+Average cost per inmate
+
+## Justice & Safety
+
+### Goal: Justice system
+
+Texans are served effectively, efficiently, and impartially by the justice system
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
 
 ### Value
 

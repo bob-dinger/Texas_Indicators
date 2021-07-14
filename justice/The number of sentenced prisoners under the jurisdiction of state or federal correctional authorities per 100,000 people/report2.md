@@ -21,7 +21,7 @@ Comparisons: States
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2019     |158,429 (2019) | 1         |     2018    |   163,628   | 1        | down       | 
+|    2019     |158,429      | 1           |     2018    |   163,628   | 1        | up       | 
 
 ### Data
 

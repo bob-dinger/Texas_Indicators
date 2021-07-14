@@ -4,6 +4,22 @@
 
 [Indicator Table 2](./indicator_table.html)
 
+Full Indicator Table
+
+Indicators By Policy Area
+
+Indicators By Goal
+
+Indicators by Type (Primary/Secondary)
+
+Indicators by Update Status
+
+Indicators by Comparison Level
+
+Percent Positive Trend By Policy Area
+
+
+
 🟢 = Updated Variable
 
 🔴 = No update available

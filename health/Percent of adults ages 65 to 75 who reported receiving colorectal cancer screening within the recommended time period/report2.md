@@ -20,7 +20,7 @@ Comparisons: States
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020     | 59.7        |  49        |     N/A    |    N/A     | N/A         |           | 
+|   2021     | 66.2%        |  47         |     2019   |   66.2%      | 47          |   flat     | 
 
 ### Data
 
@@ -37,8 +37,9 @@ Comparisons: States
 
 ### Indicator Page
 
+N/A
 
 
 ### DataLab Page
 
-
+[DataLab Link](https://datalab.texas2036.org/bwhqgjc/behavioral-risk-factor-surveillance-system-brfss-prevalence-data?accesskey=cmiyhag)

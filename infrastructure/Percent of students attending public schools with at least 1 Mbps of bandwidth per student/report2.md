@@ -1,11 +1,18 @@
-# Access in schools
-Percent of students attending public schools with at least 1 Mbps of bandwidth per student
-## Digital
-### Goal: Digital connectivity
-Texans can digitally participate in economic opportunities and essential services
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Access in schools
+
+Percent of students attending public schools with at least 1 Mbps of bandwidth per student
+
+## Digital
+
+### Goal: Digital connectivity
+
+Texans can digitally participate in economic opportunities and essential services
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
 
@@ -13,11 +20,18 @@ Comparisons: States
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020       |            |             |      2019   |             |             |            | 
+|   2020      |      34%    |     20     |      2019   |     31%      |    N/A      |    up      | 
 
 ### Data
 
+![tx](./students.PNG)
+
+![national](./national.PNG)
+
 ### Source
+
+[ConnectK12.org](https://connectk12.org/states/TX)
+
 https://stateofthestates.educationsuperhighway.org/?postalCd=TX#state
 
 ### Notes

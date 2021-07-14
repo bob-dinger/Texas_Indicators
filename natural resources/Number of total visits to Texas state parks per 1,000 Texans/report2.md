@@ -1,25 +1,47 @@
-# Park utilization
-Number of total visits to Texas state parks per 1,000 Texans
-## Land
-### Goal: Parks and wildlife
-Texas enhances and protects its state parks, and public and private open spaces and wildlife
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Park utilization
 
-Comparisons: States
+Number of total visits to Texas state parks per 1,000 Texans
+
+## Land
+
+### Goal: Parks and wildlife
+
+Texas enhances and protects its state parks, and public and private open spaces and wildlife
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2018     |             |             |             |             |             |            |
+|   2019      |    296.89   |      N/A    |     2017    |    342.76   |     N/A     |    down    |
 
 
 ### Data
 
-8,771,744
-9.7 million - 2017
+2019:
+
+![2019](./2019_parkvisits.PNG)
+
+2017:
+
+![2019](./2017_parkvisits.PNG)
+
+8,771,744 - 2018 visits
+
+2019:
+8.61
+29 (population)
+
+2017:
+9.7 
+28.3 (population)
 
 ### Source
 

@@ -1,13 +1,20 @@
-# Grid congestion cost
-Additional costs of moving power due to physical limitations of transmission infrastructure
-## Energy
-### Goal: Energy distribution
-Texas maintains a sufficient, reliable, and cost-competitive energy infrastructure
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Grid congestion cost
 
-Comparisons: States
+Additional costs of moving power due to physical limitations of transmission infrastructure
+
+## Energy
+
+### Goal: Energy distribution
+
+Texas maintains a sufficient, reliable, and cost-competitive energy infrastructure
+
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: Texas
 
 ### Value
 

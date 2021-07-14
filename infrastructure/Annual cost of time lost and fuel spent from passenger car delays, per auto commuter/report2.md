@@ -14,13 +14,13 @@ Updated: yes
 
 Data Release Date: 
 
-Comparisons: States
+Comparisons: Metros
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      |             |             |      2019   |             |             |            | 
+|   2020      |    $1,097    |             |      2019   |    $1,635     |             |            | 
 
 ### Data
 
@@ -43,6 +43,8 @@ Comparisons: States
 https://mobility.tamu.edu/umr/congestion-data/
 
 ### Notes
+
+Using Houston as a proxy for the state.
 
 
 ### Indicator Page

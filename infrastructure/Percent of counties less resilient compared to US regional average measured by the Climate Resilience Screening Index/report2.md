@@ -1,13 +1,20 @@
-# Natural disaster resiliency
-Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index
-## Resiliency
-### Goal: Hazard readiness
-Texas is ready to address the human, economic, and environmental consequences of natural disasters and hazards
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Natural disaster resiliency
 
-Comparisons: States
+Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index
+
+## Resiliency
+
+### Goal: Hazard readiness
+
+Texas is ready to address the human, economic, and environmental consequences of natural disasters and hazards
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Counties
 
 ### Value
 

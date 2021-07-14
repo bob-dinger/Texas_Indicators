@@ -1,11 +1,18 @@
-# Total freight movement
-Total freight flows moved through Texas by all modes of transit in ton-miles
-## Transportation
-### Goal: Mobility of goods
-Texas enables economic growth by moving goods efficiently
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Total freight movement
+
+Total freight flows moved through Texas by all modes of transit in ton-miles
+
+## Transportation
+
+### Goal: Mobility of goods
+
+Texas enables economic growth by moving goods efficiently
+
+### Type: Primary indicator
+
+Updated: no (data hasn't been updated since 2017)
+
+Data Release Date: 
 
 Comparisons: States
 

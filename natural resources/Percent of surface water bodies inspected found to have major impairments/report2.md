@@ -1,25 +1,38 @@
-# Surface water quality
-Percent of surface water bodies inspected found to have major impairments
-## Water
-### Goal: Quality of water
-Texans have clean water
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Surface water quality
 
-Comparisons: States
+Percent of surface water bodies inspected found to have major impairments
+
+## Water
+
+### Goal: Quality of water
+
+Texans have clean water
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |             |             |             |             |             |            |
+|   2020      |    1009     |             |   2018     |    979     |             |   down     |
 
 ### Data
 
 ### Source
 
-https://wayback.archive-it.org/414/20200910072303/https://www.tceq.texas.gov/assets/public/waterquality/swqm/assess/20txir/2020_exec_summ.pdf
+[Integrated Report Summary](https://wayback.archive-it.org/414/20200910072303/https://www.tceq.texas.gov/assets/public/waterquality/swqm/assess/20txir/2020_exec_summ.pdf)
+
+[Impaired Segments](https://tceq.maps.arcgis.com/apps/webappviewer/index.html?id=b0ab6bac411a49189106064b70bbe778)
+
+https://wayback.archive-it.org/414/20200910072303/
+
+https://www.tceq.texas.gov/assets/public/waterquality/swqm/assess/20txir/2020_exec_summ.pdf
 
 [Texas Integrated Report of Surface Water Quality for Clean Water Act Sections 305(b) and 303(d)](https://www.tceq.texas.gov/waterquality/assessment)
 

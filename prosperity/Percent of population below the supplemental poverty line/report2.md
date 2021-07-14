@@ -1,12 +1,19 @@
 # Supplemental poverty rate
-
-Percent of population below the supplemental poverty line
-## Justice & Safety
-### Goal: Safety net
-Texans have access to resources to meet basic needs when they are in crisis
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+
+
+Percent of population below the supplemental poverty line
+
+## Justice & Safety
+
+### Goal: Safety net
+
+Texans have access to resources to meet basic needs when they are in crisis
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
 

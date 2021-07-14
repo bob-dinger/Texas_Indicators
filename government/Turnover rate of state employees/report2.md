@@ -14,18 +14,24 @@ Updated: yes
 
 Data Release Date: 
 
-Comparisons: States
+Comparisons: Texas
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020       |            |             |    2019     |             |             |            | 
+|   2020      |  18.6%      |    N/A     |    2019     |     20.3%   |     N/A      |     up    | 
 
 
 ### Data
 
 ### Source
+
+[Annual Report on Classified Employee Turnover for Fiscal Year 2020](https://sao.texas.gov/SAOReports/ReportNumber?id=21-703)
+
+[Annual Report on Classified Employee Turnover for Fiscal Year 2019](https://sao.texas.gov/SAOReports/ReportNumber?id=20-703)
+
+
 
 ### Notes
 

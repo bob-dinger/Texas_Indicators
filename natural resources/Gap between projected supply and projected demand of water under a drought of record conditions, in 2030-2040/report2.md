@@ -1,13 +1,20 @@
-# Water shortage
-Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040
-## Water
-### Goal: Sufficient water
-Texans can rely on a sufficient water supply
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Water shortage
 
-Comparisons: States
+Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040
+
+## Water
+
+### Goal: Sufficient water
+
+Texans can rely on a sufficient water supply
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
 
 ### Value
 

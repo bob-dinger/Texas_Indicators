@@ -1,11 +1,18 @@
-# Electricity prices
-Average price paid for electricity across all end user sectors
-## Energy
-### Goal: Energy distribution
-Texas maintains a sufficient, reliable, and cost-competitive energy infrastructure
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Electricity prices
+
+Average price paid for electricity across all end user sectors
+
+## Energy
+
+### Goal: Energy distribution
+
+Texas maintains a sufficient, reliable, and cost-competitive energy infrastructure
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
 
