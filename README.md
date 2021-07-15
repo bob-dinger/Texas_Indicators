@@ -2,6 +2,8 @@
 
 [Full Indicator Table](./indicator_table.html)
 
+![Indicators](./indicators_image.PNG)
+
 [Indicators By Policy Area](./area_table.html)
 
 [Indicators By Goal](./goal_table.html)
