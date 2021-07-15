@@ -1,12 +1,20 @@
 # Infant mortality
-
-Number of infant deaths before age 1 per 1,000 live births
-## Health Outcomes
-### Goal: Population health
-Texans live long, healthy, and productive lives
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+
+
+Number of infant deaths before age 1 per 1,000 live births
+
+## Health Outcomes
+
+### Goal: Public health
+
+Texans live long, healthy, and productive lives
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
 

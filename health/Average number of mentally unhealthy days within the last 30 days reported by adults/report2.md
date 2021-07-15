@@ -1,12 +1,19 @@
 # Mentally unhealthy days
-
-Average number of mentally unhealthy days within the last 30 days reported by adults
-## Health Outcomes
-### Goal: Population health
-Texans live long, healthy, and productive lives
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+
+Average number of mentally unhealthy days within the last 30 days reported by adults
+
+## Health Outcomes
+
+### Goal: Public health
+
+Texans live long, healthy, and productive lives
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
 

@@ -4,7 +4,7 @@ Number of years from birth a person is expected to live
 
 ## Health Outcomes
 
-### Goal: Population health
+### Goal: Public health
 
 Texans live long, healthy, and productive lives
 

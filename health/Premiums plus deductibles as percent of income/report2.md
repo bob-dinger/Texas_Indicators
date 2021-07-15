@@ -1,12 +1,19 @@
 # Out-of-pocket health care spend
-
-Premiums plus deductibles as percent of income
-## Health Access
-### Goal: Affordability of health care
-Texans are able to afford the basic health care they need
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+
+Premiums plus deductibles as percent of income
+
+## Health Access
+
+### Goal: Affordability of health care
+
+Texans are able to afford the basic health care they need
+
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
 
 Comparisons: States
 

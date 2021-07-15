@@ -1,12 +1,19 @@
 # Volunteerism
-
-Percent of adults who volunteer
-## Engagement
-### Goal: Civic engagement
-Texans actively participate in governing their communities
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+
+
+Percent of adults who volunteer
+
+## Engagement
+
+### Goal: Civic engagement
+
+Texans actively participate in governing their communities
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
 

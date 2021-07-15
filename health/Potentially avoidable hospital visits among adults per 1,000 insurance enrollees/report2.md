@@ -1,12 +1,19 @@
 # Preventable hospital admissions
-
-Potentially avoidable hospital visits among adults per 1,000 insurance enrollees
-## Health Outcomes
-### Goal: Value-driven system
-Texas has a high-value health care system that optimizes cost and delivers results
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+
+Potentially avoidable hospital visits among adults per 1,000 insurance enrollees
+
+## Health Outcomes
+
+### Goal: Value-driven system
+
+Texas has a high-value health care system that optimizes cost and delivers results
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
 

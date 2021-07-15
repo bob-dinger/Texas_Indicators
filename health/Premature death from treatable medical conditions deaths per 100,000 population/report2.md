@@ -1,12 +1,19 @@
 # Mortality amenable to health care
-
-Premature death from treatable medical conditions deaths per 100,000 population
-## Health Outcomes
-### Goal: Population health
-Texans live long, healthy, and productive lives
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+
+Premature death from treatable medical conditions deaths per 100,000 population
+
+## Health Outcomes
+
+### Goal: Public health
+
+Texans live long, healthy, and productive lives
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
 

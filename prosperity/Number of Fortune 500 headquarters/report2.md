@@ -14,28 +14,35 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: States
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |             | N/A         |             |             | N/A         |          | 
+|     2021    |   48        | 3           |   2020      |    49       |       3     |    flat    | 
 
 ### Data
 
+NY - 53
+CA - 53
+TX - 48
+
+
 ### Source
+
+[Fortune500](https://fortune.com/fortune500/2021/search/)
 
 ### Notes
 
 
-
 ### Indicator Page
 
-
+N/A
 
 ### DataLab Page
+
+N/A
 
 
 

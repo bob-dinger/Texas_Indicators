@@ -1,11 +1,18 @@
-# Public health spend
-State budget allocation for public health per capita
-## Health Outcomes
-### Goal: Public health
-Texans and their communities are empowered to adopt healthy lifestyles
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Public health spend
+
+State budget allocation for public health per capita
+
+## Health Outcomes
+
+### Goal: Public health
+
+Texans and their communities are empowered to adopt healthy lifestyles
+
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
 
 Comparisons: States
 

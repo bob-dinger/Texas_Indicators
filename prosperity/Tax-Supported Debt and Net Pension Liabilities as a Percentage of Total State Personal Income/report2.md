@@ -10,10 +10,9 @@ Texas strategically manages state expenditures to deliver the best value to taxp
 
 ### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
-Data Release Date: 
-
+Data Release Date: October 2020
 
 Comparisons: States
 
@@ -21,14 +20,17 @@ Comparisons: States
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             | N/A         |             | N/A         |             | N/A         |          | 
+|   2019      |     1.1%    |      12     |             |             | N/A         |          | 
 
 ### Data
 
+![tx](./tx_debt.PNG)
+
 ### Source
 
-### Notes
+[Fitch](https://www.grsconsulting.com/2020/10/28/fitch-ratings-releases-2020-state-liability-report/)
 
+### Notes
 
 
 ### Indicator Page

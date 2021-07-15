@@ -1,12 +1,18 @@
 # Uninsured rate 
-
-Percent of population without health insurance
-## Health Affordability
-### Goal: Affordability of health care
-Texans are able to afford the basic health care they need
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+
+Percent of population without health insurance
+
+## Health Affordability
+
+### Goal: Affordability of health care
+
+Texans are able to afford the basic health care they need
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
 

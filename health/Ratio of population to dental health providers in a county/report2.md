@@ -1,12 +1,19 @@
 # Availability of dental health care providers
-
-Ratio of population to dental health providers in a county
-## Health Access
-### Goal: Availability of health care
-Texans have access to basic health care
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+
+Ratio of population to dental health providers in a county
+
+## Health Access
+
+### Goal: Availability of health care
+
+Texans have access to basic health care
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
 

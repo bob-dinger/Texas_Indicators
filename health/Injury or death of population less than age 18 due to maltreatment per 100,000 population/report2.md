@@ -1,12 +1,19 @@
 # Child maltreatment
-
-Injury or death of population less than age 18 due to maltreatment per 100,000 population
-## Justice & Safety
-### Goal: Protection for the vulnerable
-Texas protects the vulnerable from traumatic experiences
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+
+Injury or death of population less than age 18 due to maltreatment per 100,000 population
+
+## Justice & Safety
+
+### Goal: Protection for the vulnerable
+
+Texas protects the vulnerable from traumatic experiences
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
 

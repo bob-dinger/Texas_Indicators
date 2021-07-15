@@ -4,7 +4,7 @@ Percent of adults diagnosed with a depressive disorder including depression, maj
 
 ## Health Outcomes
 
-### Goal: Population health
+### Goal: Public health
 
 Texans live long, healthy, and productive lives
 

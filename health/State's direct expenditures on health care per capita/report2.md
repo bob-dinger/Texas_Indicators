@@ -1,11 +1,18 @@
-# Direct state spend per capita
-State's direct expenditures on health care per capita
-## Health Outcomes
-### Goal: Value-driven system
-Texas has a high-value health care system that optimizes cost and delivers results
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Direct state spend per capita
+
+State's direct expenditures on health care per capita
+
+## Health Outcomes
+
+### Goal: Value-driven system
+
+Texas has a high-value health care system that optimizes cost and delivers results
+
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
 
 Comparisons: States
 

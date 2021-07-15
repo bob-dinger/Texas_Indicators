@@ -1,11 +1,18 @@
-# Availability of physical health care providers 
-Ratio of population to primary care providers in a county
-## Health Access
-### Goal: Availability of health care
-Texans have access to basic health care
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Availability of physical health care providers 
+
+Ratio of population to primary care providers in a county
+
+## Health Access
+
+### Goal: Availability of health care
+
+Texans have access to basic health care
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
 

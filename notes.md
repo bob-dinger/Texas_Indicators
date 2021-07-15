@@ -29,3 +29,6 @@ Add rank for barriers
 # Government
 
 
+[Indicators by Update Status]
+
+[Indicators by Comparison Level]

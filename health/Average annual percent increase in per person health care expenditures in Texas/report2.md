@@ -1,12 +1,18 @@
 # Health care expenditure growth
-
-Average annual percent increase in per person health care expenditures in Texas
-## Health Outcomes
-### Goal: Value-driven system
-Texas has a high-value health care system that optimizes cost and delivers results
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+
+Average annual percent increase in per person health care expenditures in Texas
+
+## Health Outcomes
+
+### Goal: Value-driven system
+
+Texas has a high-value health care system that optimizes cost and delivers results
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
 

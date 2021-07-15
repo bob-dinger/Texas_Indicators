@@ -1,5 +1,4 @@
-# ?Individual tax burden
- ?
+# Individual tax burden
 
 Combined state and local taxes by individuals as percent of income
 
@@ -21,18 +20,21 @@ Comparisons: States
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020       |            |             |    2019     |             |             |            | 
+|   2018       |    8.88%    |    17      |    2017     |   8.68%     |    15       |  flat     | 
 
 ### Data
 
+![data tax](./data_tax.PNG)
+
 ### Source
+
+[Tax Policy Center](https://www.taxpolicycenter.org/statistics/state-and-local-tax-revenue-percentage-personal-income)
 
 ### Notes
 
 ### Indicator Page
 
-N/A
-
+[Indicator Link](https://indicators.texas2036.org/indicator/117)
 
 ### DataLab Page
 

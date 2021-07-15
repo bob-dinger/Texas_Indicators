@@ -1,12 +1,18 @@
 # Low birthweight
-
-Percent of infants weighing 5.5 lb at birth
-## Health Outcomes
-### Goal: Population health
-Texans live long, healthy, and productive lives
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+
+Percent of infants weighing 5.5 lb at birth
+
+## Health Outcomes
+
+### Goal: Public health
+
+Texans live long, healthy, and productive lives
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
 
