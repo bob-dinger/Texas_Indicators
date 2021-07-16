@@ -29,7 +29,8 @@
 
 <!-- ![goal](./trend.PNG) -->
 
-[Percent Positive Trend By Policy Area]
+[Percent Positive Trend By Policy Area](./trend_table.md)
 
-[Link to Excel Spreadsheet]
+[Link to Excel Spreadsheet](./Indicators.xlsx)
+
 
