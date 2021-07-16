@@ -1,11 +1,18 @@
-# Per capita income
-Real per capita personal income and income growth
-## Prosperity
-### Goal: Quality of life
-Texas is the best place to live and work
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Per capita income
+
+Real per capita personal income and income growth
+
+## Prosperity
+
+### Goal: Quality of life
+
+Texas is the best place to live and work
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
 
@@ -13,7 +20,7 @@ Comparisons: States
 
 | Year        |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2019     |     3.0%     | N/A         |   2018      |     4.4%     | N/A         |          | 
+|    2019     |     3.0%     | N/A         |   2018      |     4.4%     | N/A         |  down    | 
 
 ### Data
 

@@ -10,10 +10,9 @@ Texas is the best place to live and work
 
 ### Type: Secondary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
-
 
 Comparisons: States
 

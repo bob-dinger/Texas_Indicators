@@ -11,6 +11,8 @@
 
 [Indicators By Comparison Level](./comparison_table.html)
 
+[Indicators by Trend](./trend_table.html)
+
 [Full Indicator Table](./indicator_table.html)
 
 [Percent Positive Trend By Policy Area]

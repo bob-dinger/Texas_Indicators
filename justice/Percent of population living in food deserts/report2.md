@@ -1,11 +1,18 @@
-# Access to healthy food
-Percent of population living in food deserts
-## Justice & Safety
-### Goal: Safety net
-Texans have access to resources to meet basic needs when they are in crisis
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Access to healthy food
+
+Percent of population living in food deserts
+
+## Justice & Safety
+
+### Goal: Safety net
+
+Texans have access to resources to meet basic needs when they are in crisis
+
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
 
 Comparisons: States
 
@@ -13,7 +20,7 @@ Comparisons: States
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|     2019    |     39.64%  | N/A         |             |             | N/A       |     | 
+|     2019    |     39.64%  | N/A         |             |             | N/A       |  N/A  | 
 
  9,967,978 
  25,145,561

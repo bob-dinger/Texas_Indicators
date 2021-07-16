@@ -10,7 +10,7 @@ Texas children get a strong early start to succeed in school and life
 
 ### Type: Secondary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 

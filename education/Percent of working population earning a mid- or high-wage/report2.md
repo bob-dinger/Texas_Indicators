@@ -10,10 +10,9 @@ Texans have the knowledge and skills to access careers enabling economic securit
 
 ### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
-
 
 Comparisons: States
 

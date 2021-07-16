@@ -1,19 +1,26 @@
-# Electricity sufficiency
-Percent difference between the forecasted total generation available and the forecasted peak demand in the following year
-## Energy
-### Goal: Energy distribution
-Texas maintains a sufficient, reliable, and cost-competitive energy infrastructure
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Electricity sufficiency
 
-Comparisons: States
+Percent difference between the forecasted total generation available and the forecasted peak demand in the following year
+
+## Energy
+
+### Goal: Energy distribution
+
+Texas maintains a sufficient, reliable, and cost-competitive energy infrastructure
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      |    -3.02%   |    N/A      |      2019   |   -.04%     |             |            | 
+|   2020      |    -3.02%   |    N/A      |      2019   |   -.04%     |             |   down    | 
 
 ### Data
 
