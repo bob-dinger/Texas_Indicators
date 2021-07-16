@@ -1,7 +1,5 @@
 
-[Full Indicator Table](./indicator_table.html)
 
-![Indicators](./indicators_image.PNG)
 
 [Indicators By Policy Area](./area_table.html)
 
@@ -10,6 +8,10 @@
 [Indicators by Type (Primary/Secondary)](./primary_table.html)
 
 [Indicators By Topic](./topic_table.html)
+
+[Indicators By Comparison Level](./comparison_table.html)
+
+[Full Indicator Table](./indicator_table.html)
 
 [Percent Positive Trend By Policy Area]
 
