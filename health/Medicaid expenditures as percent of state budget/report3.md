@@ -1,14 +1,42 @@
-# Medicaid expenditures as percent of state budget
+# State budget impact
+
+Medicaid expenditures as percent of state budget
+## Health Outcomes
+### Goal: Value-driven system
+Texas has a high-value health care system that optimizes cost and delivers results
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Health
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### **Goal**
+Latest Value: 29.3% 
 
-Postsecondary
+State Rank: 35
 
-Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 29.4%
+
+Previous State Rank: 34
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
