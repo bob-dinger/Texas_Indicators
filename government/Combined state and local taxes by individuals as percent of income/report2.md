@@ -4,7 +4,7 @@ Combined state and local taxes by individuals as percent of income
 
 ## Fiscal Sustainability
 
-### Goal: Broad, stable revenue base
+### Goal: Broad stable revenue base
 
 Texas people and businesses contribute taxes and fees to meet strategic needs and remain competitive as we grow and change
 

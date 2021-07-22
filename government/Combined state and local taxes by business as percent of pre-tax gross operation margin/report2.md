@@ -4,7 +4,7 @@ Combined state and local taxes by business as percent of pre-tax gross operation
 
 ## Fiscal Sustainability
 
-### Goal: Broad, stable revenue base
+### Goal: Broad stable revenue base
 
 Texas people and businesses contribute taxes and fees to meet strategic needs and remain competitive as we grow and change
 
