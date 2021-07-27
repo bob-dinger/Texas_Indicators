@@ -32,17 +32,17 @@ Previous State Rank: N/A
 
 Metric Trend: flat
 
-Target: 
+Target: 80%
 
-Baseline: 
+Baseline: 45%
 
 Previous Target Value: 
 
-Previous Trend: 
+Previous Trend: Flat
 
-Previous Peer Rank: 
+Previous Peer Rank: N/A
 
-Previous State Rank (og): 
+Previous State Rank (og): N/A
 
 ### Value
 

@@ -32,17 +32,17 @@ Previous State Rank:
 
 Metric Trend: up
 
-Target: 
+Target: 68
 
-Baseline: 
+Baseline: 68
 
-Previous Target Value: 
+Previous Target Value: N/A
 
-Previous Trend: 
+Previous Trend: Worsening
 
-Previous Peer Rank: 
+Previous Peer Rank: N/A
 
-Previous State Rank (og): 
+Previous State Rank (og): N/A
 
 ### Value
 

@@ -32,7 +32,8 @@ Previous State Rank:
 
 Metric Trend: 
 
-Target: 40% reduction in 2030-2040 annual projected gap (equal to 2.3 M acre-feet/year)
+Target: 2.3 M acre-feet/year
+40% reduction in 2030-2040 annual projected gap (equal to 2.3 M acre-feet/year)
 
 Baseline: 5.6
 

@@ -1,0 +1,59 @@
+"SARPP Regional Price Parities by state"
+"RPPs: All items (Index)" 
+"Bureau of Economic Analysis" 
+"State or DC"
+"GeoFips","GeoName","2018"
+"00000","United States",100.0
+"01000","Alabama",85.9
+"02000","Alaska",105.7
+"04000","Arizona",96.4
+"05000","Arkansas",84.7
+"06000","California",116.2
+"08000","Colorado",101.3
+"09000","Connecticut",105.5
+"10000","Delaware",98.7
+"11000","District of Columbia",115.2
+"12000","Florida",100.7
+"13000","Georgia",93.1
+"15000","Hawaii",118.5
+"16000","Idaho",92.0
+"17000","Illinois",97.8
+"18000","Indiana",89.2
+"19000","Iowa",89.4
+"20000","Kansas",90.0
+"21000","Kentucky",87.5
+"22000","Louisiana",88.5
+"23000","Maine",100.6
+"24000","Maryland",107.7
+"25000","Massachusetts",110.3
+"26000","Michigan",92.3
+"27000","Minnesota",97.7
+"28000","Mississippi",85.6
+"29000","Missouri",88.7
+"30000","Montana",92.9
+"31000","Nebraska",89.6
+"32000","Nevada",96.8
+"33000","New Hampshire",106.4
+"34000","New Jersey",116.1
+"35000","New Mexico",90.5
+"36000","New York",116.7
+"37000","North Carolina",91.7
+"38000","North Dakota",90.7
+"39000","Ohio",88.5
+"40000","Oklahoma",87.7
+"41000","Oregon",101.8
+"42000","Pennsylvania",97.1
+"44000","Rhode Island",99.9
+"45000","South Carolina",91.0
+"46000","South Dakota",88.1
+"47000","Tennessee",89.3
+"48000","Texas",96.5
+"49000","Utah",96.0
+"50000","Vermont",103.7
+"51000","Virginia",101.6
+"53000","Washington",108.6
+"54000","West Virginia",87.7
+"55000","Wisconsin",91.9
+"56000","Wyoming",92.3
+"Legend / Footnotes:"
+"Last updated: December 15, 2020-- new statistics for 2019; revised statistics for 2017-2018."
