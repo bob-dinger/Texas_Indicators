@@ -1,20 +1,54 @@
-# Percent of public water systems (PWS) not identified as a serious violator based on uncorrected violations
+# Drinking water attainment
 
-## Natural Resources
+Percent of public water systems (PWS) not identified as a serious violator based on uncorrected violations
 
-### Primary Indicator
+## Water
 
-### Goal
-
-Quality of water
+### Goal: Quality of water
 
 Texans have clean water
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 93.73 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 93.38
+
+Previous State Rank: N/A
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020       | 93.73       |          |      2019   |   93.38      |          |    flat       | 
+|   2020      | 93.73       |    N/A      |      2019   |   93.38     |    N/A      |    flat    | 
 
 ### Data
 

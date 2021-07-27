@@ -1,20 +1,55 @@
-# Net domestic migration gain or loss
+# Net Migration Gain
 
-## Prosperity & Well Being
+Net domestic migration gain or loss
 
-### Secondary Indicator
+## Prosperity
 
-### **Goal**
-
-Quality of life
+### Goal: Quality of life
 
 Texas is the best place to live and work
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
+
+Date: 2019
+
+Latest Value: 114,818 
+
+State Rank: 2
+
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 80,607
+
+Previous State Rank: 2
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |   114,818   | 2        |             |      80,607       | 2         | up        | 
+|   2019     |   114,818   | 2        |   2018     |      80,607       | 2         | up        | 
 
 ### Data
 

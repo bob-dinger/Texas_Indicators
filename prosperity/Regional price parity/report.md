@@ -1,12 +1,48 @@
-# Regional price parity
+# Cost of living
 
-## Prosperity & Well Being
+Regional price parity
 
-### **Goal**
+## Prosperity
 
-Quality of life
+### Goal: Quality of life
 
 Texas is the best place to live and work
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: Annually - December 15, 2020
+
+Comparisons: States
+
+Date: 2019
+
+Latest Value: 96.5 
+
+State Rank: 27
+
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 96.5
+
+Previous State Rank: 28
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
@@ -23,7 +59,7 @@ Texas is the best place to live and work
 
 ### Source
 
-[BEA](https://www.bea.gov/news/2020/real-personal-income-state-and-metropolitan-area-2019)
+[BEA](https://www.bea.gov/data/prices-inflation/regional-price-parities-state-and-metro-area)
 
 ### Notes
 

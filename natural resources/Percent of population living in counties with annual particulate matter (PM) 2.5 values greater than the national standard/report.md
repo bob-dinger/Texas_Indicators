@@ -1,24 +1,60 @@
-# Percent of population living in counties with annual particulate matter (PM) 2.5 values greater than the national standard5
+# Particle pollution
 
-## Natural Resources
+Percent of population living in counties with annual particulate matter (PM) 2.5 values greater than the national standard
 
-### Primary Indicator
+## Air
 
-### Goal
+### Goal: Quality of air
 
-Population health
+Texans have clean air
 
-Texans live long, healthy, and productive lives
+### Type: Secondary indicator
+
+Updated: no (not updated since 2012)
+
+Data Release Date: 
+
+Comparisons: Counties
+
+Date: 2012
+
+Latest Value: 0% 
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      |             |             |      2019   |             |             |            | 
+|   2012      |     0%    |             |      2019   |             |             |            | 
 
 ### Data
 
 ### Source
+
+[Current](https://www3.epa.gov/airquality/greenbook/kbcty.html)
 
 [previous](https://www.epa.gov/air-trends/air-quality-design-values#report)
 
@@ -32,3 +68,5 @@ N/A
 ### DataLab Page
 
 [DataLab Link](https://datalab.texas2036.org/onngqtd/air-quality-statistics-report?accesskey=bgckqcg)
+
+[DataLab Link](https://datalab.texas2036.org/onngqtd/air-quality-statistics-report?accesskey=lpmly)

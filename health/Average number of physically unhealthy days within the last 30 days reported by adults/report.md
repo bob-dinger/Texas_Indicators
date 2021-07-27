@@ -1,14 +1,49 @@
-# Average number of physically unhealthy days within the last 30 days reported by adults
+# Physically unhealthy days
 
-## Health
+Average number of physically unhealthy days within the last 30 days reported by adults
 
-### Primary Indicator
+## Health Outcomes
 
-### Goal
-
-Population health
+### Goal: Public health
 
 Texans live long, healthy, and productive lives
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 10.9% 
+
+State Rank: 13
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 11.8%
+
+Previous State Rank: 19
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

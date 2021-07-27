@@ -1,14 +1,48 @@
-# Additional costs of moving power due to physical limitations of transmission infrastructure
+# Grid congestion cost
 
-## Infrastructure
+Additional costs of moving power due to physical limitations of transmission infrastructure
 
-### Primary Indicator
+## Energy
 
-### Goal
+### Goal: Energy distribution
 
-Population health
+Texas maintains a sufficient, reliable, and cost-competitive energy infrastructure
 
-Texans live long, healthy, and productive lives
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 2020
+
+Latest Value:  
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

@@ -1,14 +1,41 @@
-# Energy content of oil, natural gas, coal, and nuclear energy extracted from the ground or generated in-state
+# Traditional energy production
+Energy content of oil, natural gas, coal, and nuclear energy extracted from the ground or generated in-state
+## Land
+### Goal: Energy production
+Texas leads in energy production with responsible natural resource stewardship
+### Type: Primary indicator
+Updated: yes
+Data Release Date: 
 
-## Natural Resources
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### Goal
+Latest Value: 22,509.1 
 
-Energy production
+State Rank: 1
 
-Texas leads in energy production with responsible natural resource stewardship
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 19716932
+
+Previous State Rank: 1
+
+Metric Trend: flat
+
+Target: Rank 1
+
+Baseline: 16,800
+
+Previous Target Value: 16800
+
+Previous Trend: Mixed
+
+Previous Peer Rank: 1
+
+Previous State Rank (og): 1
 
 ### Value
 

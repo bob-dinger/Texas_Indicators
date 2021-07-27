@@ -1,14 +1,41 @@
-# Percent of adults who reported no physical activity
+# Physical inactivity
+Percent of adults who reported no physical activity
+## Health Outcomes
+### Goal: Public health
+Texans and their communities are empowered to adopt healthy lifestyles
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Health
+Comparisons: States
 
-### Primary Indicator
+Date: 2020
 
-### Goal
+Latest Value: 27.2% 
 
-Population health
+State Rank: 32
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 25.6%
+
+Previous State Rank: 35
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

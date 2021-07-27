@@ -1,33 +1,66 @@
-# 4th grade reading
+# 4rd grade reading
 
-## Education & Workforce 
+Percent of students at or above Proficient on the NAEP Grade 4 reading assessment
 
-### Primary Indicator
+## Education
 
-### **Goal**
-
-Early childhood
+### Goal: Early childhood
 
 Texas children get a strong early start to succeed in school and life
 
+### Type: Primary indicator
 
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2019
+
+Latest Value: 30% 
+
+State Rank: 42
+
+Peer Rank: 
+
+Previous Date: 2017
+
+Previous Value: 29%
+
+Previous State Rank: 45
+
+Metric Trend: up
+
+Target: Top 3
+
+Baseline: 30%
+
+Previous Target Value: 38%
+
+Previous Trend: Flat
+
+Previous Peer Rank: 12
+
+Previous State Rank (og): 44
 
 ### Value
 
 | Year        |  Value      | Rank        | Previous Year| Previous Value| Previous Rank  | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2019     |    216      | 44          |      2017   |   215       | N/A         | 📈         | 
+|    2019     |    30%      | 42          |      2017   |   29%       |    45       |    up      | 
 
 ### **Data**
 
-
 ![4th grade reading](./4th grade reading.PNG)
-
 
 ![4th grade math](./tx_4th_grade_reading.PNG)
 
 
 ### **Source**
+
+[NAEP](https://www.nationsreportcard.gov/profiles/stateprofile?chort=1&sub=RED&sj=AL&sfj=NP&st=AP&year=2019R3)
+
 [NAEP](https://www.nationsreportcard.gov/ndecore/xplore/NDE)
 
 [NAEP Map](https://www.nationsreportcard.gov/reading/states/scores/?grade=4)

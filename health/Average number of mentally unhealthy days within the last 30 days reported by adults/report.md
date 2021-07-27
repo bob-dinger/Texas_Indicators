@@ -1,14 +1,48 @@
-# Average number of mentally unhealthy days within the last 30 days reported by adults
+# Mentally unhealthy days
 
-## Health
+Average number of mentally unhealthy days within the last 30 days reported by adults
 
-### Primary Indicator
+## Health Outcomes
 
-### Goal
-
-Population health
+### Goal: Public health
 
 Texans live long, healthy, and productive lives
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 12.2% 
+
+State Rank: 12
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 11.7%
+
+Previous State Rank: 15
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

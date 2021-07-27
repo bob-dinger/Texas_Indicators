@@ -1,14 +1,49 @@
-# Injury or death of population less than age 18 due to maltreatment per 100,000 population
+# Child maltreatment
 
-## Health
+Injury or death of population less than age 18 due to maltreatment per 100,000 population
 
-### Primary Indicator
+## Justice & Safety
 
-### Goal
+### Goal: Protection for the vulnerable
 
-Population health
+Texas protects the vulnerable from traumatic experiences
 
-Texans live long, healthy, and productive lives
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
+
+Date: 2017
+
+Latest Value: 2.5 
+
+State Rank: 39
+
+Peer Rank: 
+
+Previous Date: 2016
+
+Previous Value: 3.0
+
+Previous State Rank: 43
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

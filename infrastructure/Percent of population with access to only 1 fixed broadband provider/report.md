@@ -1,14 +1,41 @@
-# Percent of population with access to only 1 fixed broadband provider
+# Choice in providers
+Percent of population with access to only 1 fixed broadband provider
+## Digital
+### Goal: Digital connectivity
+Texans can digitally participate in economic opportunities and essential services
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Infrastructure
+Comparisons: States
 
-### Primary Indicator
+Date: 2020
 
-### Goal
+Latest Value: 10.9% 
 
-Population health
+State Rank: 13
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 11.8%
+
+Previous State Rank: 19
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

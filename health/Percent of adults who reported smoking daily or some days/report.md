@@ -1,14 +1,41 @@
-# Percent of adults who reported smoking daily or some days
+# Tobacco use
+Percent of adults who reported smoking daily or some days
+## Health Outcomes
+### Goal: Public health
+Texans and their communities are empowered to adopt healthy lifestyles
+### Type: Primary indicator
+Updated: yes
+Data Release Date: 
 
-## Health
+Comparisons: States
 
-### Primary Indicator
+Date: 2020
 
-### Goal
+Latest Value: 14.7% 
 
-Population health
+State Rank: 16
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 14.4%
+
+Previous State Rank: 12
+
+Metric Trend: down
+
+Target: Top 6
+
+Baseline: 14%
+
+Previous Target Value: 15%
+
+Previous Trend: Flat
+
+Previous Peer Rank: 4
+
+Previous State Rank (og): 12
 
 ### Value
 

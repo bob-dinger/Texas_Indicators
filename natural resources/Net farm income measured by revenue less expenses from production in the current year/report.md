@@ -1,14 +1,41 @@
-# Net farm income measured by revenue less expenses from production in the current year
+# Farm profitability
+Net farm income measured by revenue less expenses from production in the current year
+## Land
+### Goal: Agricultural production
+Texas leads in agricultural production with responsible natural resource stewardship
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Natural Resources
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### Goal
+Latest Value: 5,555,251 
 
-Agricultural production
+State Rank: 2
 
-Texas leads in agricultural production with responsible natural resource stewardship
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 4,162,362
+
+Previous State Rank: 3
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

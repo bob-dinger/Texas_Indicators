@@ -1,14 +1,41 @@
-# Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population
+# Agricultural output per capita
+?Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population
+## Land
+### Goal: Agricultural production
+Texas leads in agricultural production with responsible natural resource stewardship
+### Type: Primary indicator
+Updated: yes
+Data Release Date: 
 
-## Natural Resources
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### Goal
+Latest Value: $854.80 
 
-Population health
+State Rank: 
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: $853.50
+
+Previous State Rank: 
+
+Metric Trend: up
+
+Target: Top 6
+
+Baseline: $730
+
+Previous Target Value: 820
+
+Previous Trend: Mixed
+
+Previous Peer Rank: 8
+
+Previous State Rank (og): 30
 
 ### Value
 

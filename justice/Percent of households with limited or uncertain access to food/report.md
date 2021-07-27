@@ -1,14 +1,41 @@
-# Percent of households with limited or uncertain access to food
+# Food insecurity
+Percent of households with limited or uncertain access to food
+## Justice & Safety
+### Goal: Safety net
+Texans have access to resources to meet basic needs when they are in crisis
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Justice & Safety
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### **Goal**
+Latest Value: 13.1% 
 
-Texas protects the vulnerable from traumatic experiences
+State Rank: 43
 
-Protection for the vulnerable
+Peer Rank: 
+
+Previous Date: 2016
+
+Previous Value: 14.3%
+
+Previous State Rank: 36
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

@@ -1,14 +1,41 @@
-# Miles of road on interstate highways, other freeways and expressways, principal arterial, and minor arterial roads considered good
+# Road condition
+Miles of road on interstate highways, other freeways and expressways, principal arterial, and minor arterial roads considered good
+## Transportation
+### Goal: Safety
+Texas maintains a safe transportaiton infrastructure
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Infrastructure
+Comparisons: States
 
-### Primary Indicator
+Date: 2017
 
-### Goal
+Latest Value: 3.79 
 
-Population health
+State Rank: 28
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2016
+
+Previous Value: 5.44
+
+Previous State Rank: 33
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

@@ -1,20 +1,54 @@
-# Percent difference between the forecasted total generation available and the forecasted peak demand in the following year
+# Electricity sufficiency
 
-## Natural Resources
+Percent difference between the forecasted total generation available and the forecasted peak demand in the following year
 
-### Primary Indicator
+## Energy
 
-### **Goal**
+### Goal: Energy distribution
 
-Early childhood
+Texas maintains a sufficient, reliable, and cost-competitive energy infrastructure
 
-Texas children get a strong early start to succeed in school and life
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 2020
+
+Latest Value: -3.02% 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: -.04%
+
+Previous State Rank: 
+
+Metric Trend: down
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      |    -3.02%   |    N/A      |      2019   |   -.04%     |             |            | 
+|   2020      |    -3.02%   |    N/A      |      2019   |   -.04%     |             |   down    | 
 
 ### Data
 

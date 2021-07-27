@@ -1,14 +1,48 @@
-# State's direct expenditures on health care per capita
+# Direct state spend per capita
 
-## Health
+State's direct expenditures on health care per capita
 
-### Primary Indicator
+## Health Outcomes
 
-### **Goal**
+### Goal: Value-driven system
 
-Postsecondary
+Texas has a high-value health care system that optimizes cost and delivers results
 
-Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 
+
+Latest Value:  
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

@@ -1,14 +1,41 @@
-# Percent of households with subscription to fixed broadband service of any speed
+# Broadband subscription
+Percent of households with subscription to fixed broadband service of any speed
+## Digital
+### Goal: Digital connectivity
+Texans can digitally participate in economic opportunities and essential services
+### Type: Primary indicator
+Updated: yes
+Data Release Date: 
 
-## Infrastructure
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### Goal
+Latest Value: 86.26% 
 
-Population health
+State Rank: 
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 84.51%
+
+Previous State Rank: 
+
+Metric Trend: up
+
+Target: Top 6
+
+Baseline: 66%
+
+Previous Target Value: 71%
+
+Previous Trend: Improving
+
+Previous Peer Rank: 12
+
+Previous State Rank (og): 37
 
 ### Value
 

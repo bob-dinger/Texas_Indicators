@@ -1,14 +1,48 @@
-# Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index
+# Natural disaster resiliency
 
-## Infrastructure
+Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index
 
-### Primary Indicator
+## Resiliency
 
-### Goal
+### Goal: Hazard readiness
 
-Population health
+Texas is ready to address the human, economic, and environmental consequences of natural disasters and hazards
 
-Texans live long, healthy, and productive lives
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Counties
+
+Date: 2020
+
+Latest Value: 39.37% 
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 61.02%
+
+Previous State Rank: 
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

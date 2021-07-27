@@ -1,14 +1,49 @@
-# Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040
+# Water shortage
 
-## Natural Resources
+Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040
 
-### Primary Indicator
+## Water
 
-### Goal
+### Goal: Sufficient water
 
-Population health
+Texans can rely on a sufficient water supply
 
-Texans live long, healthy, and productive lives
+### Type: Primary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 
+
+Latest Value:  
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 2.3 M acre-feet/year
+40% reduction in 2030-2040 annual projected gap (equal to 2.3 M acre-feet/year)
+
+Baseline: 5.6
+
+Previous Target Value: 2.3
+
+Previous Trend: Worsening
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

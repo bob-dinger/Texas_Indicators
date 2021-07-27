@@ -1,16 +1,49 @@
-# Number of violent crimes reported per 100,000 population
+# Violent crime rate
 
+
+Number of violent crimes reported per 100,000 population
 
 ## Justice & Safety
 
-### Primary Indicator
-
-### **Goal**
-
-Public safety
+### Goal: Public safety
 
 Texans are protected from threats to their well-being and property
 
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 419 
+
+State Rank: 35
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 411
+
+Previous State Rank: 34
+
+Metric Trend: down
+
+Target: Top 9
+
+Baseline: 411
+
+Previous Target Value: 397
+
+Previous Trend: Flat
+
+Previous Peer Rank: 11
+
+Previous State Rank (og): 34
 
 ### Value
 

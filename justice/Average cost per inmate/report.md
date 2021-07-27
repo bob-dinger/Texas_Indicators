@@ -1,14 +1,48 @@
-# Average cost per inmate
+# Prison spending
+
+Average cost per inmate
 
 ## Justice & Safety
 
-### Primary Indicator
+### Goal: Justice system
 
-### **Goal**
+Texans are served effectively, efficiently, and impartially by the justice system
 
-Protection for the vulnerable
+### Type: Secondary indicator
 
-Texas protects the vulnerable from traumatic experiences
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 2020
+
+Latest Value: $69.27 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: $64.35
+
+Previous State Rank: N/A
+
+Metric Trend: down
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

@@ -1,14 +1,48 @@
-# Percent of children under age 17 who experienced two or more ACEs
+# Housing cost burden
+
+Percent of households paying 50 percent of income for housing
 
 ## Justice & Safety
 
-### Primary Indicator
+### Goal: Safety net
 
-### **Goal**
+Texans have access to resources to meet basic needs when they are in crisis
 
-Texas protects the vulnerable from traumatic experiences
+### Type: Secondary indicator
 
-Protection for the vulnerable
+Updated: no
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 
+
+Latest Value:  
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

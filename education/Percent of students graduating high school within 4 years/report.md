@@ -1,14 +1,48 @@
-# Percent of students graduating high school within 4 years
+# High school graduation
 
-## Education & Workforce
+Percent of students graduating high school within 4 years
 
-### Primary Indicator
+## Education
 
-### **Goal**
-
-K-12
+### Goal: K-12
 
 Texas students graduate high school ready for postsecondary success
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 90% 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 90%
+
+Previous State Rank: N/A
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

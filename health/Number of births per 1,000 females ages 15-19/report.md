@@ -1,14 +1,41 @@
-# Number of births per 1,000 females ages 15-19
+# Teen births
+Number of births per 1,000 females ages 15-19
+## Health Outcomes
+### Goal: Public health
+Texans and their communities are empowered to adopt healthy lifestyles
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Health
+Comparisons: States
 
-### Primary Indicator
+Date: 2020
 
-### **Goal**
+Latest Value: 25.3 
 
-Postsecondary
+State Rank: 42
 
-Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 27.6
+
+Previous State Rank: 44
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

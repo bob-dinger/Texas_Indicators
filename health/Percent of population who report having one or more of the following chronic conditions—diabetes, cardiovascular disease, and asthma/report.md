@@ -1,14 +1,48 @@
-# Percent of population who report having one or more of the following chronic conditions—diabetes, cardiovascular disease, and asthma
+# Incidence of chronic disease
 
-## Health
+Percent of population who report having one or more of the following chronic conditions—diabetes, cardiovascular disease, and asthma
 
-### Primary Indicator
+## Health Outcomes
 
-### Goal
-
-Population health
+### Goal: Public health
 
 Texans live long, healthy, and productive lives
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 8.1% 
+
+State Rank: 9
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 9.6%
+
+Previous State Rank: N/A
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

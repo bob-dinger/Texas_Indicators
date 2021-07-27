@@ -1,14 +1,49 @@
-# Premiums plus deductibles as percent of income
+# Out-of-pocket health care spend
 
-## Health
+Premiums plus deductibles as percent of income
 
-### Primary Indicator
+## Health Access
 
-### **Goal**
+### Goal: Affordability of health care
 
-Postsecondary
+Texans are able to afford the basic health care they need
 
-Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
+
+Comparisons: States
+
+Date: 
+
+Latest Value:  
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

@@ -1,21 +1,54 @@
-# Number of seats in quality accredited childcare centers
+# Capacity of quality early childcare centers
 
-## Education & Workforce
+Number of seats in quality accredited childcare centers
 
-### Secondary Indicator
+## Education
 
-### **Goal**
-
-Early Childhood
+### Goal: Early childhood
 
 Texas children get a strong early start to succeed in school and life
 
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 
+
+Latest Value:  
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: N/A
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |             | N/A         |             |             | N/A         |   📈       | 
+|             |             | N/A         |             |             | N/A         |          | 
 
 ### Data
 

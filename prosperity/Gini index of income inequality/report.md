@@ -1,16 +1,49 @@
-# Gini index of income inequality
+# Income inequality
 
-## Prosperity & Well Being
+Gini index of income inequality
 
-### Secondary Indicator
+## Prosperity
 
-### **Goal**
-
-### **Goal**
-
-Quality of life
+### Goal: Quality of life
 
 Texas is the best place to live and work
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
+
+Date: 
+
+Latest Value: .48 
+
+State Rank: 38
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: .48
+
+Previous State Rank: 37
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

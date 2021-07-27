@@ -1,20 +1,54 @@
-# Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects
+# STAAR performance
 
-## Education & Workforce
+Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects
 
-### Secondary Indicator
+## Education
 
-### **Goal**
-
-K-12
+### Goal: K-12
 
 Texas students graduate high school ready for postsecondary success
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 2019
+
+Latest Value: 50% 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 48%
+
+Previous State Rank: N/A
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|     2019     | 45%       |     N/A      |    2018     |    43%     | N/A          | flat     | 
+|     2019     | 50%       |     N/A      |    2018     |    48%     | N/A          | flat     | 
 
 ### Data
 

@@ -1,20 +1,54 @@
-# Percent of annual graduates demonstrating college, career, or military readiness
+# College, Career, or Military Ready Graduates
 
-## Education & Workforce
+Percent of annual graduates demonstrating college, career, or military readiness
 
-### Primary Indicator
+## Education
 
-### **Goal**
+### Goal: K-12
 
-Postsecondary
+Texas students graduate high school ready for postsecondary success
 
-Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 2020
+
+Latest Value: 72.9% 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 65.5%
+
+Previous State Rank: N/A
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      | 72.9        | N/A         |    2019     |    65.5     | N/A         |   📈       | 
+|   2020      | 72.9%        | N/A         |    2019     |    65.5%     | N/A         |   up       | 
 
 ### Data
 

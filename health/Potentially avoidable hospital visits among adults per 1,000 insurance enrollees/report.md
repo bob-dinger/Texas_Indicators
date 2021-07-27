@@ -1,15 +1,49 @@
-# Potentially avoidable hospital visits among adults per 1,000 insurance enrollees
+# Preventable hospital admissions
 
-## Health
+Potentially avoidable hospital visits among adults per 1,000 insurance enrollees
 
-### Primary Indicator
+## Health Outcomes
 
-### **Goal**
-
-Health Outcomes
+### Goal: Value-driven system
 
 Texas has a high-value health care system that optimizes cost and delivers results
 
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 4656 
+
+State Rank: 32
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 53.2
+
+Previous State Rank: 34
+
+Metric Trend: up
+
+Target: Top 3
+
+Baseline: 7.2
+
+Previous Target Value: 5.9
+
+Previous Trend: Mixed
+
+Previous Peer Rank: 10
+
+Previous State Rank (og): 40
 
 ### Value
 

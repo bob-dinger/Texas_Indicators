@@ -1,14 +1,42 @@
-# Percent of population below the supplemental poverty line
+# Supplemental poverty rate
+
+Percent of population below the supplemental poverty line
+## Justice & Safety
+### Goal: Safety net
+Texans have access to resources to meet basic needs when they are in crisis
+### Type: Primary indicator
+Updated: yes
+Data Release Date: 
 
-## Justice & Safety
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### **Goal**
+Latest Value: 13.7 
 
-Justice system
+State Rank: 45
 
-Texans are served effectively, efficiently, and impartially by the justice system
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 14.2
+
+Previous State Rank: 43
+
+Metric Trend: flat
+
+Target: Top 3
+
+Baseline: 14.2%
+
+Previous Target Value: 10.8%
+
+Previous Trend: Worsening
+
+Previous Peer Rank: 9
+
+Previous State Rank (og): 42
 
 ### Value
 

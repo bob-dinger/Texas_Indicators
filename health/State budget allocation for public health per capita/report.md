@@ -1,14 +1,48 @@
-# State budget allocation for public health per capita
+# Public health spend
 
-## Health
+State budget allocation for public health per capita
 
-### Primary Indicator
+## Health Outcomes
 
-### **Goal**
+### Goal: Public health
 
-Postsecondary
+Texans and their communities are empowered to adopt healthy lifestyles
 
-Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 
+
+Latest Value:  
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

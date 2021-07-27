@@ -1,20 +1,54 @@
-# Percent of adults ages 65 to 75 who reported receiving colorectal cancer screening within the recommended time period
+# Health screenings for seniors
 
-# Health
+Percent of adults ages 65 to 75 who reported receiving colorectal cancer screening within the recommended time period
 
-### Primary Indicator
+## Health Outcomes
 
-### Goal
+### Goal: Value-driven system
 
-Population health
+Texas has a high-value health care system that optimizes cost and delivers results
 
-Texans live long, healthy, and productive lives
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2021
+
+Latest Value: 66.2% 
+
+State Rank: 47
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 66.2%
+
+Previous State Rank: 47
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020     | 59.7        |  49        |      2019    |    N/A     | N/A         |           | 
+|   2021     | 66.2%        |  47         |     2019   |   66.2%      | 47          |   flat     | 
 
 ### Data
 
@@ -31,8 +65,9 @@ Texans live long, healthy, and productive lives
 
 ### Indicator Page
 
+N/A
 
 
 ### DataLab Page
 
-
+[DataLab Link](https://datalab.texas2036.org/bwhqgjc/behavioral-risk-factor-surveillance-system-brfss-prevalence-data?accesskey=cmiyhag)

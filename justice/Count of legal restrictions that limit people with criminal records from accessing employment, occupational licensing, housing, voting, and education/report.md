@@ -1,20 +1,55 @@
-# Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education
+# Collateral consequences
+
+Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education
 
 ## Justice & Safety
 
-### Secondary Indicator
+### Goal: Justice system
 
-### **Goal**
+Texans are served effectively, efficiently, and impartially by the justice system
 
-Texas protects the vulnerable from traumatic experiences
+### Type: Secondary indicator
 
-Protection for the vulnerable
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 1,432 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: N/A
+
+Previous Value: N/A
+
+Previous State Rank: N/A
+
+Metric Trend: N/A
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2020    |     1,432      | N/A         |             |          | N/A         |   📈       | 
+|    2020    |     1,432      | N/A         |     N/A      |    N/A     | N/A         |   N/A    | 
 
 ### Data
 

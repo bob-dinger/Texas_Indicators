@@ -1,14 +1,48 @@
-# Ratio of population to primary care providers in a county
+# Availability of physical health care providers 
 
-## Health
+Ratio of population to primary care providers in a county
 
-### Primary Indicator
+## Health Access
 
-### **Goal**
-
-Health Access
+### Goal: Availability of health care
 
 Texans have access to basic health care
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 191.7 
+
+State Rank: 47
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 113.5
+
+Previous State Rank: 45
+
+Metric Trend: up
+
+Target: Top 3
+
+Baseline: 1,660:1
+
+Previous Target Value: 1,230:1
+
+Previous Trend: Flat
+
+Previous Peer Rank: 12
+
+Previous State Rank (og): 45
 
 ### Value
 

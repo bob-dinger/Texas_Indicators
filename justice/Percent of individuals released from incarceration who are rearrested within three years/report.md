@@ -1,20 +1,55 @@
-# Percent of individuals released from incarceration who are rearrested within three years
+# Recidivism
+
+
+Percent of individuals released from incarceration who are rearrested within three years
 
 ## Justice & Safety
 
-### Primary Indicator
-
-### **Goal**
-
-Justice system
+### Goal: Justice system
 
 Texans are served effectively, efficiently, and impartially by the justice system
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: January 2021
+
+Comparisons: Texas
+
+Date: 2020
+
+Latest Value: 19.4 
+
+State Rank: 22
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 16.8
+
+Previous State Rank: 12
+
+Metric Trend: down
+
+Target: Below national average
+
+Baseline: 63%
+
+Previous Target Value: 68%
+
+Previous Trend: Flat
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |     19.4   | 22         |             |      16.8   |   12      | down      | 
+|    2020     |     19.4   | 22         |    2019    |      16.8   |   12      | down      | 
 
 ### Data
 

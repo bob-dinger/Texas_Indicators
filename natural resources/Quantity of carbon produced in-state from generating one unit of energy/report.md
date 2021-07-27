@@ -1,14 +1,41 @@
-# Quantity of carbon produced in-state from generating one unit of energy
+# Carbon Intensity
+Quantity of carbon produced in-state from generating one unit of energy
+## Land
+### Goal: Energy production
+Texas leads in energy production with responsible natural resource stewardship
+### Type: Primary indicator
+Updated: yes
+Data Release Date: 
 
-## Natural Resources
+Comparisons: States
 
-### Primary Indicator
+Date: 2018
 
-### Goal
+Latest Value: 8.3 
 
-Energy production
+State Rank: 13
 
-Texas leads in energy production with responsible natural resource stewardship
+Peer Rank: 
+
+Previous Date: 2017
+
+Previous Value: 8.2
+
+Previous State Rank: 19
+
+Metric Trend: up
+
+Target: Top 3
+
+Baseline: 50
+
+Previous Target Value: 48
+
+Previous Trend: Flat
+
+Previous Peer Rank: 4
+
+Previous State Rank (og): 14
 
 ### Value
 

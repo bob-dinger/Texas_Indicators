@@ -1,18 +1,54 @@
-# Real per capita personal income and income growth
+# Per capita income
 
-## Prosperity & Well Being
+Real per capita personal income and income growth
 
-### **Goal**
+## Prosperity
 
-Economic growth
+### Goal: Quality of life
 
-Texas spurs economic growth through an innovative and business-friendly climate
+Texas is the best place to live and work
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: Annually - December 15, 2020
+
+Comparisons: States
+
+Date: 2019
+
+Latest Value: 3.0% 
+
+State Rank: 9
+
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 4.8%
+
+Previous State Rank: 6
+
+Metric Trend: down
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year        |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2019     |     3.0%     | N/A         |   2018      |     4.4%     | N/A         |          | 
+|    2019     |     3.0%     | N/A         |   2018      |     4.4%     | N/A         |  down    | 
 
 ### Data
 

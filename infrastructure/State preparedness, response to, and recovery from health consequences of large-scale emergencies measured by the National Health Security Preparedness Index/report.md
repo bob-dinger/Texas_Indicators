@@ -1,14 +1,41 @@
-# State preparedness, response to, and recovery from health consequences of large-scale emergencies measured by the National Health Security Preparedness Index
+# Emergency preparedness
+State preparedness, response to, and recovery from health consequences of large-scale emergencies measured by the National Health Security Preparedness Index
+## Resiliency
+### Goal: Hazard readiness
+Texas is ready to address the human, economic, and environmental consequences of natural disasters and hazards
+### Type: Primary indicator
+Updated: yes
+Data Release Date: 
 
-## Infrastructure
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### Goal
+Latest Value: 6.7 
 
-Population health
+State Rank: 13
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 6.6
+
+Previous State Rank: 19
+
+Metric Trend: up
+
+Target: Top 6
+
+Baseline: 6.5
+
+Previous Target Value: 6.7
+
+Previous Trend: Improving
+
+Previous Peer Rank: 9
+
+Previous State Rank (og): 38
 
 ### Value
 

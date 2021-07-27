@@ -1,14 +1,41 @@
-# Total oil and gas production in Texas, as a percent of total US production
+# Share of oil and gas production
+Total oil and gas production in Texas, as a percent of total US production
+## Land
+### Goal: Energy production
+Texas leads in energy production with responsible natural resource stewardship
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Natural Resources
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### Goal
+Latest Value: 33.69% 
 
-Population health
+State Rank: 1
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 35.18%
+
+Previous State Rank: 1
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

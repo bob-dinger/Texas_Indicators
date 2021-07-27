@@ -1,14 +1,41 @@
-# Total renewable energy produced in-state, as a percent of total US production
+# Share of renewable production
+Total renewable energy produced in-state, as a percent of total US production
+## Land
+### Goal: Energy production
+Texas leads in energy production with responsible natural resource stewardship
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Natural Resources
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### Goal
+Latest Value: 8.35% 
 
-Energy production
+State Rank: 2
 
-Texas leads in energy production with responsible natural resource stewardship
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 7.82%
+
+Previous State Rank: 3
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

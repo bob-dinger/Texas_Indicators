@@ -1,26 +1,60 @@
-# Measured using Travel Time Index, as a ratio of peak period travel time to free-flow travel time
+# Traffic severity
 
-## Infrastructure
+Measured using Travel Time Index, as a ratio of peak period travel time to free-flow travel time
 
-### Primary Indicator
+## Transportation
 
-### Goal
+### Goal: Mobility of individuals
 
-Population health
+Texans can travel to their destinations effectively and efficiently
 
-Texans live long, healthy, and productive lives
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Metros
+
+Date: 2020
+
+Latest Value: 1.08 
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 1.13
+
+Previous State Rank: 
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      |             |             |      2019   |             |             |            | 
+|   2020      |   1.08    |             |      2019   |   1.13    |             |    up     | 
 
 ### Data
 
 ### Source
 
-[2021 Urban Mobility Report](https://static.tti.tamu.edu/tti.tamu.edu/documents/mobility-report-2021.pdf)
+[2021 Urban Mobility Report](https://mobility.tamu.edu/umr/)
 
 ### Notes
 

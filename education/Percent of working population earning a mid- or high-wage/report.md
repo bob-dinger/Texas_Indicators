@@ -1,20 +1,54 @@
-# Percent of Population earning a mid- or high-wage
+# Living wages
 
-## Education & Workforce
+Percent of working population earning a mid- or high-wage
 
-### Primary Indicator
+## Workforce
 
-### **Goal**
-
-Jobs
+### Goal: Jobs
 
 Texans have the knowledge and skills to access careers enabling economic security
+
+### Type: Primary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value:  
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 
+
+Previous State Rank: N/A
+
+Metric Trend: 
+
+Target: Top 3
+
+Baseline: 58%
+
+Previous Target Value: 60%
+
+Previous Trend: 
+
+Previous Peer Rank: 10
+
+Previous State Rank (og): 39
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      |         | N/A         |    2019     |         | N/A         |   📈       | 
+|   2020      |         | N/A         |    2019     |         | N/A         |           | 
 
 
 ### Data

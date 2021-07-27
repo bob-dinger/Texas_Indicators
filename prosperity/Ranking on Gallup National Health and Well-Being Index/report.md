@@ -1,18 +1,54 @@
-# Ranking on Gallup National Health and Well-Being Index
+# Well-Being
 
-## Prosperity & Well Being
+Ranking on Gallup National Health and Well-Being Index
 
-### **Goal**
+## Prosperity
 
-Quality of life
+### Goal: Quality of life
 
 Texas is the best place to live and work
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: N/A 
+
+State Rank: 35
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: N/A
+
+Previous State Rank: 25
+
+Metric Trend: down
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2020     |             | 35          |     2019    |             | 25         | down        | 
+|    2020     |     N/A     | 35          |     2019    |     N/A     | 25         | down        | 
 
 ### Data
 

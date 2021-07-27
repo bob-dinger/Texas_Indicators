@@ -1,20 +1,54 @@
-# Percent of public Pre-K students ready for Kindergarten
+# Kindergarten readiness
 
-## Education & Workforce
+Percent of public Pre-K students ready for Kindergarten
 
-### Secondary Indicator
+## Education
 
-### **Goal**
-
-Early childhood
+### Goal: Early childhood
 
 Texas children get a strong early start to succeed in school and life
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 2020
+
+Latest Value: 56.6% 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 56.5%
+
+Previous State Rank: N/A
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2020     | 56.6%       |     N/A      |     2019    |    56.5     | N/A          | flat     |
+|    2020     | 56.6%       |     N/A      |     2019    |    56.5%     | N/A          | flat     |
 
 ### Data
 

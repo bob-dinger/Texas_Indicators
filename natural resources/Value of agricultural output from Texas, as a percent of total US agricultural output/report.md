@@ -1,14 +1,41 @@
-# Value of agricultural output from Texas, as a percent of total US agricultural output
+# Share of national agricultural output
+Value of agricultural output from Texas, as a percent of total US agricultural output
+## Land
+### Goal: Agricultural production
+Texas leads in agricultural production with responsible natural resource stewardship
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Natural Resources
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### Goal
+Latest Value: 5.9% 
 
-Population health
+State Rank: 3
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 6.0%
+
+Previous State Rank: 3
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

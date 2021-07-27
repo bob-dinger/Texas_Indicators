@@ -1,14 +1,48 @@
-# Percentage of total US oil and gas exports originating from Texas
+# Share of oil and gas exports
 
-## Natural Resources
+Percentage of total US oil and gas exports originating from Texas
 
-### Primary Indicator
+## Land
 
-### Goal
-
-Energy production
+### Goal: Energy production
 
 Texas leads in energy production with responsible natural resource stewardship
+
+### Type: Secondary indicator
+
+Updated: no (can't find)
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 
+
+Latest Value:  
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

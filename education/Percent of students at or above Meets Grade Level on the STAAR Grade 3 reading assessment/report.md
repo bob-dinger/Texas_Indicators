@@ -1,14 +1,48 @@
-# Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment
+# 3rd Grade Reading
 
-## Education & Workforce
+Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment
 
-### Secondary Indicator
+## Education
 
-### **Goal**
-
-K-12
+### Goal: K-12
 
 Texas students graduate high school ready for postsecondary success
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 2019
+
+Latest Value: 45% 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 43%
+
+Previous State Rank: N/A
+
+Metric Trend: flat
+
+Target: 80%
+
+Baseline: 45%
+
+Previous Target Value: 
+
+Previous Trend: Flat
+
+Previous Peer Rank: N/A
+
+Previous State Rank (og): N/A
 
 ### Value
 

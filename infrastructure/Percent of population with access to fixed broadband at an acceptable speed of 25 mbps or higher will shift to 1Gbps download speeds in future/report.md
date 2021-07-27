@@ -1,14 +1,41 @@
-# Percent of population with access to fixed broadband at an acceptable speed of 253 mbps or higher; will shift to 1Gbps download speeds in future
+# Broadband coverage
+Percent of population with access to fixed broadband at an acceptable speed of 25 mbps or higher will shift to 1Gbps download speeds in future
+## Digital
+### Goal: Digital connectivity
+Texans can digitally participate in economic opportunities and essential services
+### Type: Primary indicator
+Updated: yes
+Data Release Date: 
 
-## Infrastructure
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### Goal
+Latest Value: 94.1% 
 
-Population health
+State Rank: 13
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 92.7%
+
+Previous State Rank: 
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

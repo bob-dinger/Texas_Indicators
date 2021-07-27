@@ -1,14 +1,42 @@
-# Percent of adults who report needing to see a doctor in past year but could not due to cost
+# Texans unable to get care due to medical cost
+
+Percent of adults who report needing to see a doctor in past year but could not due to cost
+## Health Affordability
+### Goal: Affordability of health care
+Texans are able to afford the basic health care they need
+### Type: Primary indicator
+Updated: yes
+Data Release Date: 
 
-# Health
+Comparisons: States
 
-### Primary Indicator
+Date: 2019
 
-### Goal
+Latest Value: 18.8% 
 
-Population health
+State Rank: 50
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 16.8%
+
+Previous State Rank: 48
+
+Metric Trend: down
+
+Target: Top 3
+
+Baseline: 17%
+
+Previous Target Value: 11%
+
+Previous Trend: Improving
+
+Previous Peer Rank: 11
+
+Previous State Rank (og): 49
 
 ### Value
 

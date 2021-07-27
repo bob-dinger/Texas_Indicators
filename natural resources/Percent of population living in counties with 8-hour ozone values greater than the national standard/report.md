@@ -1,24 +1,62 @@
-# Percent of population living in counties with 8-hour ozone values greater than the national standard
+# Ozone pollution
 
-## Natural Resources
+Percent of population living in counties with 8-hour ozone values greater than the national standard
 
-### Primary Indicator
+## Air
 
-### Goal
+### Goal: Quality of air
 
-Population health
+Texans have clean air
 
-Texans live long, healthy, and productive lives
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: Counties
+
+Date: 2015
+
+Latest Value: 54.30% 
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |             |             |             |             |             |            |
+|    2015     |   54.30%    |             |             |             |             |            |
 
 ### Data
 
+![sdfd](./ozone.PNG)
+
 ### Source
+
+[Green Book](https://www3.epa.gov/airquality/greenbook/jbtc.html)
 
 ### Notes
 
@@ -27,3 +65,5 @@ Texans live long, healthy, and productive lives
 
 
 ### DataLab Page
+
+[DataLab Link](https://datalab.texas2036.org/onngqtd/air-quality-statistics-report?accesskey=lpmly)

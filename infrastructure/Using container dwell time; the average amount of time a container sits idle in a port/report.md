@@ -1,14 +1,48 @@
-# Using container dwell time; the average amount of time a container sits idle in a port
+# Port efficiency
 
-## Infrastructure
+Using container dwell time; the average amount of time a container sits idle in a port
 
-### Primary Indicator
+## Transportation
 
-### Goal
+### Goal: Mobility of goods
 
-Population health
+Texas enables economic growth by moving goods efficiently
 
-Texans live long, healthy, and productive lives
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value:  
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

@@ -1,20 +1,54 @@
-# Annual cost of time lost and fuel spent from passenger car delays, per auto commuter
+# Cost of congestion
 
-## Infrastructure
+Annual cost of time lost and fuel spent from passenger car delays, per auto commuter
 
-### Primary Indicator
+## Transportation
 
-### Goal
-
-Mobility of individuals
+### Goal: Mobility of individuals
 
 Texans can travel to their destinations effectively and efficiently
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Metros
+
+Date: 2020
+
+Latest Value: $1,097 
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: $1,635
+
+Previous State Rank: 
+
+Metric Trend: up
+
+Target: 922
+
+Baseline: 981
+
+Previous Target Value: 922
+
+Previous Trend: Worsening
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      |             |             |      2019   |             |             |            | 
+|   2020      |    $1,097    |             |      2019   |    $1,635     |             |    up     | 
 
 ### Data
 
@@ -37,6 +71,8 @@ Texans can travel to their destinations effectively and efficiently
 https://mobility.tamu.edu/umr/congestion-data/
 
 ### Notes
+
+Using Houston as a proxy for the state. 
 
 
 ### Indicator Page

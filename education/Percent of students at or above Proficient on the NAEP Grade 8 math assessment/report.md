@@ -1,20 +1,54 @@
 # 8th grade math
 
-## Education & Workforce 
+Percent of students at or above Proficient on the NAEP Grade 8 math assessment
 
-### Secondary Indicator
+## Education
 
-### **Goal**
-
-K-12
+### Goal: K-12
 
 Texas students graduate high school ready for postsecondary success
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2019
+
+Latest Value: 30% 
+
+State Rank: 32
+
+Peer Rank: 
+
+Previous Date: 2017
+
+Previous Value: 33%
+
+Previous State Rank: 24
+
+Metric Trend: down
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2019      |     280     | N/A         |    2017     |    282      | N/A         | 📈     | 
+|   2019      |     30%     | 32          |    2017     |    33%      | 24          |   down     | 
 
 
 ### **Data**

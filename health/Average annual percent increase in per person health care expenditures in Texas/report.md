@@ -1,14 +1,48 @@
-# Average annual percent increase in per person health care expenditures in Texas
+# Health care expenditure growth
 
-## Health
+Average annual percent increase in per person health care expenditures in Texas
 
-### Primary Indicator
+## Health Outcomes
 
-### **Goal**
+### Goal: Value-driven system
 
-Postsecondary
+Texas has a high-value health care system that optimizes cost and delivers results
 
-Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: $20.41 
+
+State Rank: 38
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: $17.16
+
+Previous State Rank: 40
+
+Metric Trend: flat
+
+Target: Top 3
+
+Baseline: 5.1
+
+Previous Target Value: 3.5%
+
+Previous Trend: Improving
+
+Previous Peer Rank: 5
+
+Previous State Rank (og): 25
 
 ### Value
 

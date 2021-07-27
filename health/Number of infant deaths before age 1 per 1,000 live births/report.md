@@ -1,14 +1,50 @@
-# Number of infant deaths before age 1 per 1,000 live births
+# Infant mortality
 
-# Health
 
-### Primary Indicator
+Number of infant deaths before age 1 per 1,000 live births
 
-### Goal
+## Health Outcomes
 
-Population health
+### Goal: Public health
 
 Texans live long, healthy, and productive lives
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
+
+Date: 2019
+
+Latest Value: 5.49 
+
+State Rank: 21
+
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 5.48
+
+Previous State Rank: 16
+
+Metric Trend: down
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

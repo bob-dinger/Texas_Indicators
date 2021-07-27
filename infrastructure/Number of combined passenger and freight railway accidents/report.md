@@ -1,14 +1,41 @@
-# Number of combined passenger and freight railway accidents
+# Railway accidents
+Number of combined passenger and freight railway accidents
+## Transportation
+### Goal: Safety
+Texas maintains a safe transportaiton infrastructure
+### Type: Secondary indicator
+Updated: yes
+Data Release Date: 
 
-## Infrastructure
+Comparisons: States
 
-### Primary Indicator
+Date: 2020
 
-### Goal
+Latest Value: 247 
 
-Population health
+State Rank: 13
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 330
+
+Previous State Rank: 19
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

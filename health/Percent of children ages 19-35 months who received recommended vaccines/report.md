@@ -1,15 +1,41 @@
-# Percent of children ages 19-35 months who received recommended vaccines
+# Immunizations
+Percent of children ages 19-35 months who received recommended vaccines
+## Health Outcomes
+### Goal: Value-driven system
+Texas has a high-value health care system that optimizes cost and delivers results
+### Type: Primary indicator
+Updated: yes
+Data Release Date: 
 
-## Health
+Comparisons: States
 
-### Primary Indicator
+Date: 2020
 
-### **Goal**
+Latest Value: 72.1% 
 
-Value-driven system
+State Rank: 42
 
-Texas has a high-value health care system that optimizes cost and delivers results
+Peer Rank: 
 
+Previous Date: 2019
+
+Previous Value: 67.8
+
+Previous State Rank: 41
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

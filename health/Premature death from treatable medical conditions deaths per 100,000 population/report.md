@@ -1,14 +1,49 @@
-# Premature death from treatable medical conditions deaths per 100,000 population
+# Mortality amenable to health care
 
-## Health
+Premature death from treatable medical conditions deaths per 100,000 population
 
-### Primary Indicator
+## Health Outcomes
 
-### **Goal**
+### Goal: Public health
 
-Postsecondary
+Texans live long, healthy, and productive lives
 
-Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 7,126 
+
+State Rank: 21
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 7,240
+
+Previous State Rank: 22
+
+Metric Trend: flat
+
+Target: Top 3
+
+Baseline: 95
+
+Previous Target Value: 71
+
+Previous Trend: Flat
+
+Previous Peer Rank: 10
+
+Previous State Rank (og): 36
 
 ### Value
 

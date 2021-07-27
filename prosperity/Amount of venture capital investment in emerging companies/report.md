@@ -1,20 +1,55 @@
-# Amount of venture capital investment in emerging companies
+# Venture Capital
 
-## Prosperity & Well Being
+Amount of venture capital investment in emerging companies
 
-### Secondary Indicator
+## Prosperity
 
-### **Goal**
-
-Economic growth
+### Goal: Economic growth
 
 Texas spurs economic growth through an innovative and business-friendly climate
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: $3,168 
+
+State Rank: 5
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: $3,358
+
+Previous State Rank: 5
+
+Metric Trend: flat
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |   $3,168    | 5         |             |      $3,358       | 5        | flat        | 
+|    2020     |   $3,168    | 5         |   2019      |      $3,358       | 5        | flat        | 
 
 ### Data
 

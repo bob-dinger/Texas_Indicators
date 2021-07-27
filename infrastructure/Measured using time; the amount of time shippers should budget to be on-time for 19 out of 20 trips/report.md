@@ -1,14 +1,48 @@
-# Measured using time; the amount of time shippers should budget to be on-time for 19 out of 20 trips
+# PTI-95
 
-## Infrastructure
+Measured using time; the amount of time shippers should budget to be on-time for 19 out of 20 trips
 
-### Primary Indicator
+## Mobility of Goods
 
-### Goal
+### Goal: Mobility of Goods
 
-Population health
+Texas enables economic growth by moving goods efficiently.
 
-Texans live long, healthy, and productive lives
+### Type: Secondary indicator
+
+Updated: no (Planning Time Index - Texas A&M did not have enough data to calcualate for 2020)
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value:  
+
+State Rank: 
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 
+
+Previous State Rank: 
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

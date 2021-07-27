@@ -1,14 +1,48 @@
-# Average price paid for electricity across all end user sectors
+# Electricity prices
 
-## Infrastructure
+Average price paid for electricity across all end user sectors
 
-### Primary Indicator
+## Energy
 
-### Goal
+### Goal: Energy distribution
 
-Population health
+Texas maintains a sufficient, reliable, and cost-competitive energy infrastructure
 
-Texans live long, healthy, and productive lives
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 8.60 
+
+State Rank: 9
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 8.48
+
+Previous State Rank: 8
+
+Metric Trend: down
+
+Target: Top 6
+
+Baseline: 8.5
+
+Previous Target Value: 9.6
+
+Previous Trend: Mixed
+
+Previous Peer Rank: 2
+
+Previous State Rank (og): 8
 
 ### Value
 

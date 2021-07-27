@@ -1,14 +1,48 @@
-# Percent of population without health insurance
+# Uninsured rate 
 
-## Health
+Percent of population without health insurance
 
-### Primary Indicator
+## Health Affordability
 
-### **Goal**
+### Goal: Affordability of health care
 
-Postsecondary
+Texans are able to afford the basic health care they need
 
-Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2020
+
+Latest Value: 18.7% 
+
+State Rank: 50
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 17.5%
+
+Previous State Rank: 50
+
+Metric Trend: flat
+
+Target: Top 3
+
+Baseline: 18%
+
+Previous Target Value: 6.4%
+
+Previous Trend: Mixed
+
+Previous Peer Rank: 12
+
+Previous State Rank (og): 50
 
 ### Value
 

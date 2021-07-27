@@ -1,15 +1,48 @@
-# Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation
+# ​Postsecondary enrollment
 
-## Education & Workforce
+Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation
 
-### Secondary Indicator
+## Education
 
-### **Goal**
-
-Postsecondary
+### Goal: Postsecondary
 
 Texas students earn a postsecondary credential to access the jobs of today and tomorrow
 
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 2020
+
+Latest Value: 51.6% 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 52.3%
+
+Previous State Rank: N/A
+
+Metric Trend: down
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 

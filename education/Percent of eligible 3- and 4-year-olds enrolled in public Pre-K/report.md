@@ -1,20 +1,54 @@
-# Percent of eligible 3- and 4-year-olds enrolled in public Pre-K
+# Enrollment in public Pre-K
 
-## Education & Workforce
+Percent of eligible 3- and 4-year-olds enrolled in public Pre-K
 
-### Secondary Indicator
+## Education
 
-### **Goal**
-
-Early childhood
+### Goal: Early childhood
 
 Texas children get a strong early start to succeed in school and life
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 2020
+
+Latest Value: 53.2% 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2019
+
+Previous Value: 52.4%
+
+Previous State Rank: N/A
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2020     | 53.2%      | N/A         |   2019      |    52.4%  | N/A         | 📈       | 
+|    2020     | 53.2%      | N/A         |   2019      |    52.4%  | N/A         | up       | 
 
 ### Data
 ![Pre-K Eligible Enrolled](./prek.PNG)

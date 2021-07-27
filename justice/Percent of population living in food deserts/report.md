@@ -1,20 +1,54 @@
-# Percent of population living in food deserts
+# Access to healthy food
+
+Percent of population living in food deserts
 
 ## Justice & Safety
 
-### Primary Indicator
+### Goal: Safety net
 
-### **Goal**
+Texans have access to resources to meet basic needs when they are in crisis
 
-Justice system
+### Type: Secondary indicator
 
-Texans are served effectively, efficiently, and impartially by the justice system
+Updated: no
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 2019
+
+Latest Value: 39.64% 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: N/A
+
+Metric Trend: N/A
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|     2019    |     39.64%  | N/A         |             |             | N/A       |     | 
+|     2019    |     39.64%  | N/A         |             |             | N/A       |  N/A  | 
 
  9,967,978 
  25,145,561

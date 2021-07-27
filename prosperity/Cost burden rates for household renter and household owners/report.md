@@ -1,20 +1,54 @@
-# Cost burden rates for household renter and household owners
+# Housing affordability
 
-## Prosperity & Well Being
+Cost burden rates for household renter and household owners
 
-### Secondary Indicator
+## Prosperity
 
-### **Goal**
-
-Quality of life
+### Goal: Quality of life
 
 Texas is the best place to live and work
+
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: States
+
+Date: 
+
+Latest Value:  
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: N/A
+
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|             |             | N/A         |             |             | N/A         | 📈        | 
+|             |             | N/A         |             |             | N/A         |          | 
 
 
 ### Data

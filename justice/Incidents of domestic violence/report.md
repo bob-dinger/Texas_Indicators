@@ -1,21 +1,55 @@
-# Incidents of domestic violence
+# Domestic violence
+
+
+Incidents of domestic violence
 
 ## Justice & Safety
 
-### Primary Indicator
-
-### **Goal**
-
-Protection for the vulnerable
+### Goal: Protection for the vulnerable
 
 Texas protects the vulnerable from traumatic experiences
 
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: Texas
+
+Date: 2019
+
+Latest Value: 196,902 
+
+State Rank: N/A
+
+Peer Rank: 
+
+Previous Date: 2018
+
+Previous Value: 197,023
+
+Previous State Rank: N/A
+
+Metric Trend: up
+
+Target: 
+
+Baseline: 
+
+Previous Target Value: 
+
+Previous Trend: 
+
+Previous Peer Rank: 
+
+Previous State Rank (og): 
 
 ### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2019      |    196,902  |             |     2018    |   197,023   |             |            |
+|   2019      |    196,902  |     N/A     |     2018    |   197,023   |       N/A   |    up      |
 
 
 
