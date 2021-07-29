@@ -2,15 +2,54 @@
 
 Influenza and pneumonia mortality Number of deaths in Texas whose underlying
 
-## Health
+## Infrastructure
 
-### Primary Indicator
+### Goal: Resiliency
 
-### **Goal**
+Texas is ready to address the human, economic, and environmental consequences of natural disasters and hazards
 
-Postsecondary
+### Type: Secondary indicator
 
-Texas students earn a postsecondary credential to access the jobs of today and tomorrow
+Updated: no
+
+Data Release Date: 
+
+Comparisons: Texas
+
+----
+
+Date: 
+
+Latest Value: 
+
+State Rank: 
+
+Peer Rank: 
+
+
+----
+
+Previous Date: 
+
+Previous Value:
+
+Previous State Rank: 
+
+Previous Peer Rank: 
+
+
+----
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Target Value: 
+
+Previous Trend: 
+
+
 
 ### Value
 

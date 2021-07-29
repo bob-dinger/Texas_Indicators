@@ -20,22 +20,22 @@ Comparisons: States
 
 ----
 
-Date: 2019
+Date: 2020
 
-Latest Value: 158,429 
+Latest Value: 520
 
-State Rank: 1
+State Rank: 6
 
 Peer Rank: 
 
 
 ----
 
-Previous Date: 2018
+Previous Date: 2019
 
-Previous Value: 163,628
+Previous Value: 529
 
-Previous State Rank: 1
+Previous State Rank: 6
 
 Previous Peer Rank: 
 
@@ -57,7 +57,7 @@ Previous Trend:
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2019     |158,429      | 1           |     2018    |   163,628   | 1        | up       | 
+|             |             |             |             |             |             |            | 
 
 ### Data
 
@@ -68,6 +68,12 @@ Previous Trend:
 ![trend](./images/trend.PNG)
 
 ### Source
+
+[worldpopulationreview](https://worldpopulationreview.com/state-rankings/prison-population-by-state)
+
+[sentencingproject](https://www.sentencingproject.org/the-facts/#rankings)
+
+
 
 [TX - LBB - Monthly Report](https://www.lbb.state.tx.us/Documents/Publications/Info_Graphic/812_MonthlyReport_FY2021.pdf)
 

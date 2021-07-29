@@ -14,7 +14,7 @@ Updated: yes
 
 Data Release Date:
 
-Comparisons: States
+Comparisons: Texas
 
 ----
 
@@ -55,18 +55,19 @@ Previous Trend:
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     | $44,260       | N/A         |    2019     |    $43,203    | N/A         | up     | 
 
-### **Data**
+### Data
+
 ![First Year Earnings](./images/earnings_2017_grads.PNG)
 
 Previous Year:
 
 ![First Year Earnings](./images/earnings_2016_grads.PNG)
 
-### **Source**
+### Source
 
 [Texas Higher Education Almanac - 2020](http://reportcenter.highered.texas.gov/agency-publication/almanac/2020-texas-public-higher-education-almanac/)
 
-### **Notes**
+### Notes
 
 
 ### Indicator Page

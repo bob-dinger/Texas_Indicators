@@ -1,6 +1,5 @@
 # Child maltreatment
 
-
 Injury or death of population less than age 18 due to maltreatment per 100,000 population
 
 ## Justice & Safety
@@ -11,12 +10,11 @@ Texas protects the vulnerable from traumatic experiences
 
 ### Type: Secondary indicator
 
-Updated: no
+Updated: no (not updated since 2017)
 
 Data Release Date: 
 
 Comparisons: States
-
 
 ----
 

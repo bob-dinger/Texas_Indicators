@@ -16,10 +16,6 @@ Data Release Date:
 
 Comparisons: States
 
-
-
-
-
 ----
 
 Date: 2020
@@ -30,7 +26,6 @@ State Rank: 4
 
 Peer Rank: 
 
-
 ----
 
 Previous Date: 2019
@@ -40,7 +35,6 @@ Previous Value: 25,848
 Previous State Rank: 4
 
 Previous Peer Rank: 
-
 
 ----
 Metric Trend: flat

@@ -10,7 +10,7 @@ Texas protects the vulnerable from traumatic experiences
 
 ### Type: Secondary indicator
 
-Updated: yes
+Updated: no (no update available)
 
 Data Release Date: 
 

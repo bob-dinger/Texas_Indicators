@@ -22,7 +22,7 @@ Date: 2020
 
 Latest Value: 1,432 
 
-State Rank: N/A
+State Rank:  
 
 Peer Rank: 
 

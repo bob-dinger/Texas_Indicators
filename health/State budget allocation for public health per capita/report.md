@@ -16,7 +16,6 @@ Data Release Date:
 
 Comparisons: States
 
-
 ----
 
 Date: 
