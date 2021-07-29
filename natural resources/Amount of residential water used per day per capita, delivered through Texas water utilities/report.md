@@ -14,8 +14,9 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: Texas
+
+----
 
 Date: 2018
 
@@ -25,25 +26,28 @@ State Rank: N/A
 
 Peer Rank: 
 
+----
+
 Previous Date: 2016
 
 Previous Value: 88
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -55,9 +59,9 @@ Previous State Rank (og):
 
 ### Data
 
-![2018](./2018_water.PNG)
+![2018](./images/2018_water.PNG)
 
-![2016](./2016_water.PNG)
+![2016](./images/2016_water.PNG)
 
 ### Source
 

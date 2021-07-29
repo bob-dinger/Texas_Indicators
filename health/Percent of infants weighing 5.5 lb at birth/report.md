@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 8.5% 
@@ -24,25 +27,30 @@ State Rank: 29
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 8.4%
 
 Previous State Rank: 26
 
+Previous Peer Rank: 5
+
+
+----
 Metric Trend: flat
 
 Target: Top 3
 
 Baseline: 8.4%
 
-Previous Target Value: 8.1%
+Target Value: 8.1%
 
 Previous Trend: Worsening
 
-Previous Peer Rank: 5
 
-Previous State Rank (og): 26
 
 ### Value
 
@@ -52,9 +60,9 @@ Previous State Rank (og): 26
 
 ### Data
 
-![map](./map_birthweight.PNG)
+![map](./images/map_birthweight.PNG)
 
-![data](./data_birthweight.PNG)
+![data](./images/data_birthweight.PNG)
 
 
 ### Source

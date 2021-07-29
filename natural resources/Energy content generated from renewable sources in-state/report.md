@@ -1,13 +1,23 @@
-# Renewable energy production
-Energy content generated from renewable sources in-state
-## Land
-### Goal: Energy production
-Texas leads in energy production with responsible natural resource stewardship
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Renewable energy production
+
+Energy content generated from renewable sources in-state
+
+## Land
+
+### Goal: Energy production
+
+Texas leads in energy production with responsible natural resource stewardship
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -17,25 +27,30 @@ State Rank: 2
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 900822
 
 Previous State Rank: 3
 
+Previous Peer Rank: 3
+
+
+----
 Metric Trend: up
 
 Target: Rank 1
 
 Baseline: 786
 
-Previous Target Value: 1120
+Target Value: 1120
 
 Previous Trend: Improving
 
-Previous Peer Rank: 3
 
-Previous State Rank (og): 3
 
 ### Value
 
@@ -47,9 +62,9 @@ Previous State Rank (og): 3
 
 ### Data
 
-![renewables](./2019_renewables.PNG)
+![renewables](./images/2019_renewables.PNG)
 
-![ren](./renewables.PNG)
+![ren](./images/renewables.PNG)
 
 
 ### Source

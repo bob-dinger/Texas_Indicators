@@ -1,13 +1,23 @@
-# Methane emissions
-Gas disposed through venting and flaring per unit of oil and gas produced
-## Land
-### Goal: Energy production
-Texas leads in energy production with responsible natural resource stewardship
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Methane emissions
+
+Gas disposed through venting and flaring per unit of oil and gas produced
+
+## Land
+
+### Goal: Energy production
+
+Texas leads in energy production with responsible natural resource stewardship
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -17,25 +27,30 @@ State Rank:
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 238,054
 
 Previous State Rank: 
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -46,7 +61,7 @@ Previous State Rank (og):
 
 ### Data
 
-![vented](./vented.PNG)
+![vented](./images/vented.PNG)
 
 ### Source
 

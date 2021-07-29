@@ -1,55 +1,55 @@
-State,scale_score,percent_above_basic,percent_above_proficient
-Massachusetts,294,78,47
-DoDEA,292,83,41
-New Jersey,292,76,44
-Minnesota,291,77,44
-Wisconsin,289,76,41
-New Hampshire,287,77,38
-South Dakota,287,76,39
-Virginia,287,75,38
-Vermont,287,75,38
-Wyoming,286,76,37
-Connecticut,286,72,39
-Idaho,286,74,37
-Washington,286,72,40
-Ohio,286,73,38
-Indiana,286,73,37
-North Dakota,286,75,37
-Pennsylvania,285,70,39
-Nebraska,285,74,37
-Utah,285,72,37
-Colorado,285,73,37
-Montana,284,73,36
-North Carolina,284,71,37
-Illinois,283,69,34
-Maine,282,71,34
-Kansas,282,71,33
-Iowa,282,72,33
-National public,281,68,33
-Missouri,281,70,32
-New York,280,66,34
-Michigan,280,68,31
-Maryland,280,65,33
-Tennessee,280,68,31
-Arizona,280,68,31
-Texas,280,68,30
-Oregon,280,67,31
-Georgia,279,67,31
-Florida,279,66,31
-Kentucky,278,67,29
-Delaware,277,65,29
-Oklahoma,276,66,26
-South Carolina,276,64,29
-Rhode Island,276,64,29
-California,276,61,29
-Hawaii,275,65,28
-Arkansas,274,63,27
-Alaska,274,63,29
-Nevada,274,62,26
-Mississippi,274,62,24
-West Virginia,272,62,24
-Louisiana,272,61,23
-District of Columbia,269,55,23
-New Mexico,269,56,21
-Alabama,269,57,21
-Puerto Rico,222,9,1
+State,Value_2019
+Massachusetts,47
+DoDEA,41
+New Jersey,44
+Minnesota,44
+Wisconsin,41
+New Hampshire,38
+South Dakota,39
+Virginia,38
+Vermont,38
+Wyoming,37
+Connecticut,39
+Idaho,37
+Washington,40
+Ohio,38
+Indiana,37
+North Dakota,37
+Pennsylvania,39
+Nebraska,37
+Utah,37
+Colorado,37
+Montana,36
+North Carolina,37
+Illinois,34
+Maine,34
+Kansas,33
+Iowa,33
+National public,33
+Missouri,32
+New York,34
+Michigan,31
+Maryland,33
+Tennessee,31
+Arizona,31
+Texas,30
+Oregon,31
+Georgia,31
+Florida,31
+Kentucky,29
+Delaware,29
+Oklahoma,26
+South Carolina,29
+Rhode Island,29
+California,29
+Hawaii,28
+Arkansas,27
+Alaska,29
+Nevada,26
+Mississippi,24
+West Virginia,24
+Louisiana,23
+District of Columbia,23
+New Mexico,21
+Alabama,21
+Puerto Rico,1

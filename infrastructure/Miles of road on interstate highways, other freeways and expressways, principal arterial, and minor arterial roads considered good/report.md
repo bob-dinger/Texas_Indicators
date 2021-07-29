@@ -1,13 +1,24 @@
-# Road condition
-Miles of road on interstate highways, other freeways and expressways, principal arterial, and minor arterial roads considered good
-## Transportation
-### Goal: Safety
-Texas maintains a safe transportaiton infrastructure
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Road condition
+
+Miles of road on interstate highways, other freeways and expressways, principal arterial, and minor arterial roads considered good
+
+## Transportation
+
+### Goal: Safety
+
+Texas maintains a safe transportaiton infrastructure
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2017
 
@@ -17,25 +28,30 @@ State Rank: 28
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2016
 
 Previous Value: 5.44
 
 Previous State Rank: 33
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -45,7 +61,7 @@ Previous State Rank (og):
 
 ### Data
 
-![urban](./urban.PNG)
+![urban](./images/urban.PNG)
 
 ### Source
 

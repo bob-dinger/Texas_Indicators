@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Texas
 
+
+----
+
 Date: 2021
 
 Latest Value: 1.46% 
@@ -24,25 +27,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 1.95%
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -69,7 +77,7 @@ $279.2 Billion
 
 
 
-![source](./corrections.PNG)
+![source](./images/corrections.PNG)
 
 ### Source
 

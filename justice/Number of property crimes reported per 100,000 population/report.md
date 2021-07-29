@@ -17,6 +17,9 @@ Data Release Date: September 2020
 
 Comparisons: Texas
 
+
+----
+
 Date: 2019
 
 Latest Value: 2,391 
@@ -25,25 +28,30 @@ State Rank: 15
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 2,363.2
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 7
+
+
+----
 Metric Trend: flat
 
 Target: Top 9
 
 Baseline: 2370
 
-Previous Target Value: 2464
+Target Value: 2464
 
 Previous Trend: Improving
 
-Previous Peer Rank: 7
 
-Previous State Rank (og): 28
 
 ### Value
 
@@ -53,7 +61,7 @@ Previous State Rank (og): 28
 
 ### Data
 
-![img](./propertycrime.PNG)
+![img](./images/propertycrime.PNG)
 
 Total Property Crimes:
 

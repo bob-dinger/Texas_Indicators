@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 
 
 Latest Value:  
@@ -24,25 +27,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 
 
 Previous Value: 
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 7
+
+
+----
 Metric Trend: 
 
 Target: #1
 
 Baseline: 15
 
-Previous Target Value: #1
+Target Value: #1
 
 Previous Trend: Mixed
 
-Previous Peer Rank: 7
 
-Previous State Rank (og): 15
 
 ### Value
 

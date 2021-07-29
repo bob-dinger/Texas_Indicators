@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Texas
 
+
+----
+
 Date: 2019
 
 Latest Value: 50% 
@@ -24,25 +27,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 48%
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 

@@ -1,13 +1,23 @@
-# Traffic fatality rate
-Number of fatalities on roads involving at least one motor vehicle per 100 million vehicle miles traveled
-## Transportation
-### Goal: Safety
-Texas maintains a safe transportaiton infrastructure
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Traffic fatality rate
+
+Number of fatalities on roads involving at least one motor vehicle per 100 million vehicle miles traveled
+
+## Transportation
+
+### Goal: Safety
+
+Texas maintains a safe transportaiton infrastructure
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: March 2021
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -17,36 +27,42 @@ State Rank: 33
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2017
 
 Previous Value: 1.29
 
-Previous State Rank: 
+Previous State Rank: 34
 
+Previous Peer Rank: 11
+
+
+----
 Metric Trend: flat
 
 Target: Top 9
 
 Baseline: 1.29
 
-Previous Target Value: 1.17
+Target Value: 1.17
 
 Previous Trend: Improving
 
-Previous Peer Rank: 11
 
-Previous State Rank (og): 34
 
 ### Value
 
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2019      |  1.25      |    33       |      2017   |   1.29      |          |    flat       | 
+|   2019      |  1.25      |    33       |      2018   |   1.29      |          |    flat       | 
 
 ### Data
 
-![VMT](./vmt.PNG)
+![VMT](./images/vmt.PNG)
+
 
 
 

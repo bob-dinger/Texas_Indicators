@@ -12,9 +12,17 @@ Texans have the knowledge and skills to access careers enabling economic securit
 
 Updated: yes
 
-Data Release Date: 
+Data Release Date:
+
+
+----
+
+Date: 
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -24,25 +32,35 @@ State Rank: 26
 
 Peer Rank: 
 
+----
+
+
+----
+
 Previous Date: 2018
 
 Previous Value: .853
 
 Previous State Rank: 26
 
+Previous Peer Rank: 
+
+
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -54,13 +72,13 @@ Previous State Rank (og):
 
 ### Data
 
-![migration](./migration.PNG)
+![migration](./images/migration.PNG)
 
 ### Source
 
 [Census]
 
-![sds](./place_of_birth_by_education_attainment.PNG)
+![sds](./images/place_of_birth_by_education_attainment.PNG)
 
 ### Notes
 

@@ -1,51 +1,66 @@
-# Broadband subscription
-Percent of households with subscription to fixed broadband service of any speed
-## Digital
-### Goal: Digital connectivity
-Texans can digitally participate in economic opportunities and essential services
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Broadband subscription
+
+Percent of households with subscription to fixed broadband service of any speed
+
+## Digital
+
+### Goal: Digital connectivity
+
+Texans can digitally participate in economic opportunities and essential services
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: December 2020
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
 Latest Value: 86.26% 
 
-State Rank: 
+State Rank: 22
 
 Peer Rank: 
+
+
+----
 
 Previous Date: 2018
 
 Previous Value: 84.51%
 
-Previous State Rank: 
+Previous State Rank: 25
 
+Previous Peer Rank: 12
+
+
+----
 Metric Trend: up
 
 Target: Top 6
 
 Baseline: 66%
 
-Previous Target Value: 71%
+Target Value: 71%
 
 Previous Trend: Improving
 
-Previous Peer Rank: 12
 
-Previous State Rank (og): 37
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2019       | 86.26%     |             |      2018   |   84.51%    |             |    up      | 
+|   2019       | 86.26%     |     22      |      2018   |   84.51%    |      25     |    up      | 
 
 ### Data
 
-![data](./broad.PNG)
+![data](./images/broad.PNG)
 
 ### Source
 

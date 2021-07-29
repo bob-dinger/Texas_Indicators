@@ -17,6 +17,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 79.2 
@@ -25,25 +28,30 @@ State Rank: 25
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2010
 
 Previous Value: 78.4
 
 Previous State Rank: 30
 
+Previous Peer Rank: 8
+
+
+----
 Metric Trend: up
 
 Target: Top 3
 
 Baseline: 78.5
 
-Previous Target Value: 80.5
+Target Value: 80.5
 
 Previous Trend: Flat
 
-Previous Peer Rank: 8
 
-Previous State Rank (og): 25
 
 ### Value
 
@@ -53,9 +61,9 @@ Previous State Rank (og): 25
 
 ### Data
 
-![sd](./le_grid.PNG)
+![sd](./images/le_grid.PNG)
 
-![sdfd](./le_2018.PNG)
+![sdfd](./images/le_2018.PNG)
 
 
 ### Source
@@ -77,11 +85,11 @@ https://cdn.jamanetwork.com/ama/content_public/journal/jama/938283/jsc190006supp
 
 [Indicator Link](https://indicators.texas2036.org/indicator/52)
 
-![indicator_le](./indicator_le.PNG)
+![indicator_le](./images/indicator_le.PNG)
 
 
 ### DataLab Page
 
 [DataLab Link](https://datalab.texas2036.org/USECVITN2017R/texas-2036?indicator=1000890&location=1001430&accesskey=nnbbtyd)
 
-![dllink](./datalab_lifeexpectancy.PNG)
+![dllink](./images/datalab_lifeexpectancy.PNG)

@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Texas
 
+
+----
+
 Date: 2020
 
 Latest Value: 53.2% 
@@ -24,25 +27,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 52.4%
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -51,7 +59,7 @@ Previous State Rank (og):
 |    2020     | 53.2%      | N/A         |   2019      |    52.4%  | N/A         | up       | 
 
 ### Data
-![Pre-K Eligible Enrolled](./prek.PNG)
+![Pre-K Eligible Enrolled](./images/prek.PNG)
 
 ### Source
 [TEA Pre-Kindergarten Report](https://www.texaseducationinfo.org/PickList.aspx?Page=Prekindergarten+Programs&ReportName=tpeir_pk_enroll_funds_state&PickList=School+Year&SubList=No&Title=Texas+Public+Prekindergarten+Programs+and+Enrollment+Ages+3+and+4+-+Statewide&Graph=N&from=Home%2fTopic%2fPrekindergarten+Programs)

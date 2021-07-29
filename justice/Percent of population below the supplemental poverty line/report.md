@@ -1,14 +1,25 @@
 # Supplemental poverty rate
-
-Percent of population below the supplemental poverty line
-## Justice & Safety
-### Goal: Safety net
-Texans have access to resources to meet basic needs when they are in crisis
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+
+
+Percent of population below the supplemental poverty line
+
+## Justice & Safety
+
+### Goal: Safety net
+
+Texans have access to resources to meet basic needs when they are in crisis
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -18,25 +29,30 @@ State Rank: 45
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 14.2
 
 Previous State Rank: 43
 
+Previous Peer Rank: 9
+
+
+----
 Metric Trend: flat
 
 Target: Top 3
 
 Baseline: 14.2%
 
-Previous Target Value: 10.8%
+Target Value: 10.8%
 
 Previous Trend: Worsening
 
-Previous Peer Rank: 9
 
-Previous State Rank (og): 42
 
 ### Value
 
@@ -46,7 +62,7 @@ Previous State Rank (og): 42
 
 ### Data
 
-![data](./spm_data.PNG)
+![data](./images/spm_data.PNG)
 
 ### Source
 
@@ -68,7 +84,7 @@ Previous State Rank (og): 42
 
 [Indicator Link](https://indicators.texas2036.org/indicator/90)
 
-![Link](./supplemental.PNG)
+![Link](./images/supplemental.PNG)
 
 ### DataLab Page
 

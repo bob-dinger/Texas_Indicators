@@ -17,6 +17,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2019
 
 Latest Value: 114,818 
@@ -25,25 +28,30 @@ State Rank: 2
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 80,607
 
 Previous State Rank: 2
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -53,7 +61,7 @@ Previous State Rank (og):
 
 ### Data
 
-![migration](./data_migration.PNG)
+![migration](./images/data_migration.PNG)
 
 
 ### Source
@@ -77,4 +85,4 @@ N/A
 
 [DataLab Link](https://datalab.texas2036.org/USECVITN2017R/texas-2036?indicator=1000860&location=1000000&accesskey=foizdgb)
 
-![dsd](./datalab_migration.PNG)
+![dsd](./images/datalab_migration.PNG)

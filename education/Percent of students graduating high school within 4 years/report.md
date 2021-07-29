@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 90% 
@@ -24,25 +27,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 90%
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -71,7 +79,7 @@ State 2019 4-Year Longitudinal: (Graduates) for All Students Rate
 
 [Indicator Link](https://indicators.texas2036.org/indicator/40)
 
-![Indicator](./indicator_grads.PNG)
+![Indicator](./images/indicator_grads.PNG)
 
 
 ### DataLab Page
@@ -79,4 +87,4 @@ State 2019 4-Year Longitudinal: (Graduates) for All Students Rate
 [DataLab Link](https://datalab.texas2036.org/iwztwdf/four-year-graduation-completion-and-dropout-data-class-of-texas?county=1000010&variable=1005480&accesskey=dxanhyf)
 
 
-![Indicator](./datalab_grads.PNG)
+![Indicator](./images/datalab_grads.PNG)

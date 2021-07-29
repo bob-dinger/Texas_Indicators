@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: N/A 
@@ -24,25 +27,30 @@ State Rank: 35
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: N/A
 
 Previous State Rank: 25
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -52,7 +60,7 @@ Previous State Rank (og):
 
 ### Data
 
-![well](./data_wellbeing.PNG)
+![well](./images/data_wellbeing.PNG)
 
 
 ### Source
@@ -68,13 +76,13 @@ Previous State Rank (og):
 
 [Indicator Link](https://indicators.texas2036.org/indicator/34)
 
-![d](./indicator_wellbeing.PNG)
+![d](./images/indicator_wellbeing.PNG)
 
 ### DataLab Page
 
 [DataLab Link](https://datalab.texas2036.org/pzraqxg/state-well-being-rankings?accesskey=eccapje)
 
-![d](./datalab_wellbeing.PNG)
+![d](./images/datalab_wellbeing.PNG)
 
 
 

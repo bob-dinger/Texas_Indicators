@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 39.1% 
@@ -24,25 +27,30 @@ State Rank: 36
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 38.9%
 
 Previous State Rank: 36
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -55,7 +63,7 @@ Previous State Rank (og):
 
 ### Data
 
-![associates](./associates.PNG)
+![associates](./images/associates.PNG)
  
 
 ### Source
@@ -70,10 +78,10 @@ Defined as Associate's Degree or higher.
 
 [Indicator Link](https://indicators.texas2036.org/indicator/46)
 
-![page](./indicator_ps.PNG)
+![page](./images/indicator_ps.PNG)
 
 ### DataLab Page
 
 [DataLab Link](https://datalab.texas2036.org/qssadab/united-states-educational-attainment?location=1005920&indicator=1003870&accesskey=chazdpc)
 
-![page](./datalab_attainment.PNG)
+![page](./images/datalab_attainment.PNG)

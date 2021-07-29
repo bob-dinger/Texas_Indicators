@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: $20.41 
@@ -24,25 +27,30 @@ State Rank: 38
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: $17.16
 
 Previous State Rank: 40
 
+Previous Peer Rank: 5
+
+
+----
 Metric Trend: flat
 
 Target: Top 3
 
 Baseline: 5.1
 
-Previous Target Value: 3.5%
+Target Value: 3.5%
 
 Previous Trend: Improving
 
-Previous Peer Rank: 5
 
-Previous State Rank (og): 25
 
 ### Value
 
@@ -52,9 +60,9 @@ Previous State Rank (og): 25
 
 ### Data
 
-![data](./data_percapita.PNG)
+![data](./images/data_percapita.PNG)
 
-![map](./map_percapita.PNG)
+![map](./images/map_percapita.PNG)
 
 ### Source
 

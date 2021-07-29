@@ -17,6 +17,9 @@ Data Release Date:
 
 Comparisons: Texas
 
+
+----
+
 Date: 2019
 
 Latest Value: 196,902 
@@ -25,25 +28,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 197,023
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -55,7 +63,7 @@ Previous State Rank (og):
 
 ### Data
 
-![dsd](./incidents_2019.PNG)
+![dsd](./images/incidents_2019.PNG)
 
 
 

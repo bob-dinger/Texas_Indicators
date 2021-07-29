@@ -1,13 +1,24 @@
-# Drug deaths
-Number of deaths due to drug injury per 100,000 population
-## Health Outcomes
-### Goal: Public health
-Texans and their communities are empowered to adopt healthy lifestyles
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Drug deaths
+
+Number of deaths due to drug injury per 100,000 population
+
+## Health Outcomes
+
+### Goal: Public health
+
+Texans and their communities are empowered to adopt healthy lifestyles
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2020
 
@@ -17,25 +28,30 @@ State Rank: 6
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 10.3
 
 Previous State Rank: 4
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -45,9 +61,9 @@ Previous State Rank (og):
 
 ### Data
 
-![map](./map_drugdeaths.PNG)
+![map](./images/map_drugdeaths.PNG)
 
-![data](./data_drugdeaths.PNG)
+![data](./images/data_drugdeaths.PNG)
 
 
 ### Source

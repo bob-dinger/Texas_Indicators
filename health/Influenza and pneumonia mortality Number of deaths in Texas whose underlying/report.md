@@ -1,4 +1,6 @@
-# Influenza and pneumonia mortality Number of deaths in Texas whose underlying
+# Influenza and pneumonia mortality
+
+Influenza and pneumonia mortality Number of deaths in Texas whose underlying
 
 ## Health
 

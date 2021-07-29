@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 18.7% 
@@ -24,25 +27,30 @@ State Rank: 50
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 17.5%
 
 Previous State Rank: 50
 
+Previous Peer Rank: 12
+
+
+----
 Metric Trend: flat
 
 Target: Top 3
 
 Baseline: 18%
 
-Previous Target Value: 6.4%
+Target Value: 6.4%
 
 Previous Trend: Mixed
 
-Previous Peer Rank: 12
 
-Previous State Rank (og): 50
 
 ### Value
 
@@ -52,9 +60,9 @@ Previous State Rank (og): 50
 
 ### Data
 
-![map](./map_uninsured.PNG)
+![map](./images/map_uninsured.PNG)
 
-![DATA](./data_uninsured.PNG)
+![DATA](./images/data_uninsured.PNG)
 
 
 ### Source

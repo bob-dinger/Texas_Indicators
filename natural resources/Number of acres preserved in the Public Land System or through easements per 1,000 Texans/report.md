@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2017
 
 Latest Value: 29.99 
@@ -24,25 +27,30 @@ State Rank:
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2012
 
 Previous Value: 27.87
 
 Previous State Rank: 
 
+Previous Peer Rank: N/A
+
+
+----
 Metric Trend: up
 
 Target: 68
 
 Baseline: 68
 
-Previous Target Value: N/A
+Target Value: N/A
 
 Previous Trend: Worsening
 
-Previous Peer Rank: N/A
 
-Previous State Rank (og): N/A
 
 ### Value
 

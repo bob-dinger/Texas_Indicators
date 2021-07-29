@@ -1,13 +1,24 @@
-# Availability of mental health care providers
-Ratio of population to mental health providers in a county
-## Health Access
-### Goal: Availability of health care
-Texans have access to basic health care
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Availability of mental health care providers
+
+Ratio of population to mental health providers in a county
+
+## Health Access
+
+### Goal: Availability of health care
+
+Texans have access to basic health care
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2020
 
@@ -17,25 +28,30 @@ State Rank: 49
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 111.8
 
 Previous State Rank: 49
 
+Previous Peer Rank: 12
+
+
+----
 Metric Trend: flat
 
 Target: Top 3
 
 Baseline: 960:1
 
-Previous Target Value: 310:1
+Target Value: 310:1
 
 Previous Trend: Flat
 
-Previous Peer Rank: 12
 
-Previous State Rank (og): 49
 
 ### Value
 
@@ -45,9 +61,9 @@ Previous State Rank (og): 49
 
 ### Data
 
-![map](./map_mental.PNG)
+![map](./images/map_mental.PNG)
 
-![data](./data_mental.PNG)
+![data](./images/data_mental.PNG)
 
 ### Source
 

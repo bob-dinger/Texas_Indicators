@@ -1,14 +1,57 @@
-# The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel
+# State Lawsuit Climate
+
+The U.S. Chamber’s Institute for Legal Reform conducts a survey of in-house general counsel
 
 ## Justice & Safety
 
-### Primary Indicator
-
-### **Goal**
-
-Justice system
+### Goal: Justice system
 
 Texans are served effectively, efficiently, and impartially by the justice system
+
+### Type: Primary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: States
+
+
+----
+
+Date: 
+
+Latest Value: 
+
+State Rank: 
+
+Peer Rank: 
+
+
+----
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: 38
+
+Previous Peer Rank: 7
+
+
+----
+Metric Trend: 
+
+Target: Top 3
+
+Baseline: 67.1%
+
+Target Value: 71%
+
+Previous Trend: Improving
+
+
+
 
 ### Value
 
@@ -18,7 +61,7 @@ Texans are served effectively, efficiently, and impartially by the justice syste
 
 ### Data
 
-![laws](./lawsuits.PNG)
+![laws](./images/lawsuits.PNG)
 
 ### Source
 

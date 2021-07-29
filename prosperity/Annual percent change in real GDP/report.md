@@ -16,6 +16,9 @@ Data Release Date: Quarterly
 
 Comparisons: States
 
+
+----
+
 Date: 2021 (Q1)
 
 Latest Value: 3.4% 
@@ -24,25 +27,30 @@ State Rank: 19
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2020 (Q1)
 
 Previous Value: -0.5 %
 
 Previous State Rank: 45
 
+Previous Peer Rank: 1
+
+
+----
 Metric Trend: up
 
 Target: #1
 
 Baseline: 4%
 
-Previous Target Value: 4%
+Target Value: 4%
 
 Previous Trend: Improving
 
-Previous Peer Rank: 1
 
-Previous State Rank (og): 1
 
 ### Value
 
@@ -52,7 +60,7 @@ Previous State Rank (og): 1
 
 ### Data
 
-![sdsd](./data_dgp.PNG)
+![sdsd](./images/data_dgp.PNG)
 
 
 ### Source
@@ -69,12 +77,12 @@ Previous State Rank (og): 1
 
 [Indicator Link](https://indicators.texas2036.org/indicator/28)
 
-![d](./indicator_gdp.PNG)
+![d](./images/indicator_gdp.PNG)
 
 ### DataLab Page
 
 
 [DataLab Link](https://datalab.texas2036.org/jlsrwmb/regional-economic-accounts-gross-domestic-product-by-us-states?accesskey=pdsbkzb)
 
-![SDFSD](./datalab_gdp.PNG)
+![SDFSD](./images/datalab_gdp.PNG)
 

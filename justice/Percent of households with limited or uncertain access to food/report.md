@@ -1,13 +1,24 @@
-# Food insecurity
-Percent of households with limited or uncertain access to food
-## Justice & Safety
-### Goal: Safety net
-Texans have access to resources to meet basic needs when they are in crisis
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Food insecurity
+
+Percent of households with limited or uncertain access to food
+
+## Justice & Safety
+
+### Goal: Safety net
+
+Texans have access to resources to meet basic needs when they are in crisis
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -17,25 +28,30 @@ State Rank: 43
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2016
 
 Previous Value: 14.3%
 
 Previous State Rank: 36
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -64,6 +80,6 @@ N/A
 
 [DataLab Link](https://datalab.texas2036.org/huzjiee/us-overall-food-insecurity?accesskey=gcgvysc)
 
-![datalab image](./datalab_foodinsecurity.PNG)
+![datalab image](./images/datalab_foodinsecurity.PNG)
 
 

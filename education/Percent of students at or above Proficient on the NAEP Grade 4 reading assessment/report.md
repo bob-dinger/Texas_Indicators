@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2019
 
 Latest Value: 30% 
@@ -24,25 +27,30 @@ State Rank: 42
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2017
 
 Previous Value: 29%
 
 Previous State Rank: 45
 
+Previous Peer Rank: 12
+
+
+----
 Metric Trend: up
 
 Target: Top 3
 
 Baseline: 30%
 
-Previous Target Value: 38%
+Target Value: 38%
 
 Previous Trend: Flat
 
-Previous Peer Rank: 12
 
-Previous State Rank (og): 44
 
 ### Value
 
@@ -52,9 +60,9 @@ Previous State Rank (og): 44
 
 ### **Data**
 
-![4th grade reading](./4th grade reading.PNG)
+![4th grade reading](./images/4th grade reading.PNG)
 
-![4th grade math](./tx_4th_grade_reading.PNG)
+![4th grade math](./images/tx_4th_grade_reading.PNG)
 
 
 ### **Source**
@@ -73,11 +81,11 @@ NAEP Assessment is every 2 years (previous was 2019)
 
 [Indicator Page](https://indicators.texas2036.org/indicator/35)
 
-![4th grade math - indicator](./indicators_4th grade reading.PNG)
+![4th grade math - indicator](./images/indicators_4th grade reading.PNG)
 
 
 ### DataLab Page
 
 [DataLab Link](https://datalab.texas2036.org/igxywpc/national-assessment-of-educational-progress-naep-assessments-of-united-states?accesskey=xojlwjb)
 
-![4th grade math - indicator](./datalab_4th grade reading.PNG)
+![4th grade math - indicator](./images/datalab_4th grade reading.PNG)

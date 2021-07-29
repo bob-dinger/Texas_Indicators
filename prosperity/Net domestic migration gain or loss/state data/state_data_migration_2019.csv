@@ -1,51 +1,51 @@
-y1_state_name,State,In,Out,NetIn
-FL Total Migration-US and Foreign,FL,565034,436820,128214
-TX Total Migration-US and Foreign,TX,517103,402285,114818
-AZ Total Migration-US and Foreign,AZ,221212,154498,66714
-NC Total Migration-US and Foreign,NC,272467,223631,48836
-SC Total Migration-US and Foreign,SC,154022,112089,41933
-GA Total Migration-US and Foreign,GA,256127,220399,35728
-TN Total Migration-US and Foreign,TN,177062,142907,34155
-NV Total Migration-US and Foreign,NV,123131,91893,31238
-WA Total Migration-US and Foreign,WA,207255,177352,29903
-ID Total Migration-US and Foreign,ID,68353,45250,23103
-CO Total Migration-US and Foreign,CO,189676,170814,18862
-OR Total Migration-US and Foreign,OR,109744,94548,15196
-AL Total Migration-US and Foreign,AL,94055,85235,8820
-DE Total Migration-US and Foreign,DE,33244,26866,6378
-UT Total Migration-US and Foreign,UT,76721,70391,6330
-MT Total Migration-US and Foreign,MT,32972,27450,5522
-ME Total Migration-US and Foreign,ME,28644,23229,5415
-NH Total Migration-US and Foreign,NH,40410,35879,4531
-IN Total Migration-US and Foreign,IN,116550,112345,4205
-OK Total Migration-US and Foreign,OK,78454,74430,4024
-AR Total Migration-US and Foreign,AR,60119,57866,2253
-MO Total Migration-US and Foreign,MO,118737,118256,481
-WY Total Migration-US and Foreign,WY,21908,21490,418
-SD Total Migration-US and Foreign,SD,23505,23095,410
-NM Total Migration-US and Foreign,NM,55454,55310,144
-KY Total Migration-US and Foreign,KY,81439,82499,-1060
-WI Total Migration-US and Foreign,WI,84638,85898,-1260
-VT Total Migration-US and Foreign,VT,14994,16337,-1343
-RI Total Migration-US and Foreign,RI,24803,26662,-1859
-ND Total Migration-US and Foreign,ND,24676,27109,-2433
-VA Total Migration-US and Foreign,VA,235580,239266,-3686
-MN Total Migration-US and Foreign,MN,83132,87729,-4597
-NE Total Migration-US and Foreign,NE,37503,42106,-4603
-WV Total Migration-US and Foreign,WV,30778,36077,-5299
-IA Total Migration-US and Foreign,IA,53682,59037,-5355
-AK Total Migration-US and Foreign,AK,26353,33857,-7504
-MS Total Migration-US and Foreign,MS,53180,61222,-8042
-HI Total Migration-US and Foreign,HI,48737,57742,-9005
-KS Total Migration-US and Foreign,KS,69430,79871,-10441
-OH Total Migration-US and Foreign,OH,151702,162721,-11019
-CT Total Migration-US and Foreign,CT,68525,80485,-11960
-PA Total Migration-US and Foreign,PA,187186,200156,-12970
-MI Total Migration-US and Foreign,MI,113621,127440,-13819
-MD Total Migration-US and Foreign,MD,141867,157783,-15916
-LA Total Migration-US and Foreign,LA,65758,84709,-18951
-MA Total Migration-US and Foreign,MA,108210,134296,-26086
-NJ Total Migration-US and Foreign,NJ,165661,192514,-26853
-IL Total Migration-US and Foreign,IL,165244,247351,-82107
-NY Total Migration-US and Foreign,NY,235541,389511,-153970
-CA Total Migration-US and Foreign,CA,417809,585372,-167563
+State,Value_2019,Value_2018
+FL,128214,121224
+TX,114818,80607
+AZ,66714,66009
+NC,48836,56978
+SC,41933,44861
+GA,35728,36738
+TN,34155,32778
+NV,31238,37336
+WA,29903,30054
+ID,23103,22747
+CO,18862,26840
+OR,15196,18736
+AL,8820,8385
+DE,6378,6975
+UT,6330,7583
+MT,5522,3649
+ME,5415,5960
+NH,4531,4483
+IN,4205,6360
+OK,4024,214
+AR,2253,2431
+MO,481,-972
+WY,418,-1759
+SD,410,823
+NM,144,-1901
+KY,-1060,244
+WI,-1260,555
+VT,-1343,-519
+RI,-1859,-2049
+ND,-2433,-3635
+VA,-3686,-6466
+MN,-4597,3838
+NE,-4603,-3960
+WV,-5299,-4193
+IA,-5355,-2467
+AK,-7504,-8907
+MS,-8042,-6534
+HI,-9005,-9126
+KS,-10441,-9849
+OH,-11019,-6315
+CT,-11960,-14449
+PA,-12970,-10097
+MI,-13819,-7497
+MD,-15916,-15477
+LA,-18951,-19769
+MA,-26086,-26536
+NJ,-26853,-32888
+IL,-82107,-87673
+NY,-153970,-159480
+CA,-167563,-151536

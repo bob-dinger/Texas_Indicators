@@ -17,6 +17,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 51.7 
@@ -25,25 +28,30 @@ State Rank: 39
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 52.9
 
 Previous State Rank: 33
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -53,9 +61,9 @@ Previous State Rank (og):
 
 ### Data
 
-![map](./map_dentists.PNG)
+![map](./images/map_dentists.PNG)
 
-![DATA](./data_dentists.PNG)
+![DATA](./images/data_dentists.PNG)
 
 
 ### Source

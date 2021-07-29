@@ -1,13 +1,23 @@
-# Telecommuting
-Percent of workers who access work by telecommuting
-## Transportation
-### Goal: Mobility of individuals
-Texans can travel to their destinations effectively and efficiently
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Telecommuting
+
+Percent of workers who access work by telecommuting
+
+## Transportation
+
+### Goal: Mobility of individuals
+
+Texans can travel to their destinations effectively and efficiently
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -17,25 +27,30 @@ State Rank: 13
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2017
 
 Previous Value: 22.5%
 
 Previous State Rank: 19
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 

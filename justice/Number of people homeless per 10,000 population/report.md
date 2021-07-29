@@ -19,6 +19,9 @@ Comparisons: States
 
 
 
+
+----
+
 Date: 2020
 
 Latest Value: 27,229 
@@ -27,25 +30,30 @@ State Rank: 4
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 25,848
 
 Previous State Rank: 4
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -55,7 +63,7 @@ Previous State Rank (og):
 
 ### Data
 
-![homeless](./homeless_counts.PNG)
+![homeless](./images/homeless_counts.PNG)
 
 ### Source
 

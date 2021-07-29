@@ -1,20 +1,60 @@
-# Percent of workers who access work by telecommuting
+# Percent of state agencies sharing data with other agencies (e.g., through shared enterprise systems)
 
-## Infrastructure
+## Resiliency
 
-### Primary Indicator
+### Goal: Digital connectivity
 
-### Goal
+Texans can digitally participate in economic opportunities and essential services
 
-Population health
+### Type: Secondary indicator
 
-Texans live long, healthy, and productive lives
+Updated: no
+
+Data Release Date: 
+
+Comparisons: States
+
+
+----
+
+Date: 
+
+Latest Value: 
+
+State Rank: 
+
+Peer Rank: 
+
+
+----
+
+Previous Date:
+
+Previous Value:
+
+Previous State Rank: 
+
+Previous Peer Rank: 
+
+
+----
+Metric Trend:
+
+Target: 
+
+Baseline: 
+
+Target Value: 
+
+Previous Trend: 
+
+
 
 ### Value
 
-| Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
+| Year        |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020       |            |             |      2019   |             |             |            | 
+|             |             |             |             |             |             |            | 
 
 ### Data
 
@@ -31,3 +71,4 @@ N/A
 ### DataLab Page
 
 N/A
+

@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2019
 
 Latest Value: 3.18 
@@ -24,25 +27,30 @@ State Rank: 34
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 3.61
 
 Previous State Rank: 34
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -57,7 +65,7 @@ Previous State Rank (og):
 
 [Census]
 
-![buckets](./incomebuckets.PNG)
+![buckets](./images/incomebuckets.PNG)
 
 ### Notes
 
@@ -71,6 +79,6 @@ N/A
 
 [DataLab Link](https://datalab.texas2036.org/mskvxdg/america-s-health-rankings-annual-report?state-name=1000430&indicator=1005850&Measure=13940880&accesskey=zjtgrfb)
 
-![sd](./datalab_gini.PNG)
+![sd](./images/datalab_gini.PNG)
 
 

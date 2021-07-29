@@ -12,37 +12,45 @@ Texas people and businesses contribute taxes and fees to meet strategic needs an
 
 Updated: yes
 
-Data Release Date: 
+Data Release Date: October 21, 2020
 
 Comparisons: States
 
-Date: 2016
 
-Latest Value: 8.31% 
+----
 
-State Rank: 18
+Date: 2021
+
+Latest Value: 5.46
+
+State Rank: 11
 
 Peer Rank: 
 
-Previous Date: 2015
 
-Previous Value: 8.2%
+----
 
-Previous State Rank: 16
+Previous Date: 2020
 
+Previous Value: 5.5
+
+Previous State Rank: 12
+
+Previous Peer Rank: 7
+
+
+----
 Metric Trend: flat
 
-Target: 
+Target: Top 6
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: N/A
 
-Previous Trend: 
+Previous Trend: Worsening
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -52,11 +60,13 @@ Previous State Rank (og):
 
 ### Data
 
-![tax burden](./taxburden.PNG)
+![tax burden](./images/taxburden.PNG)
 
 ### Source
 
-[State and Local Tax Burden](https://taxfoundation.org/publications/state-local-tax-burden-rankings/)
+[Tax Foundation](https://taxfoundation.org/2021-state-business-tax-climate-index/)
+
+<!-- [State and Local Tax Burden](https://taxfoundation.org/publications/state-local-tax-burden-rankings/)
 
 [Anderson Economic Group](https://www.andersoneconomicgroup.com/reports-articles-and-working-papers/state-business-tax-rankings/)
 
@@ -64,8 +74,7 @@ Previous State Rank (og):
 
 [2017 State Business Tax Burden Rankings](https://www.andersoneconomicgroup.com/Portals/0/AEG%20Tax%20Burden%20Study_2017_FINAL.pdf)
 
-
-[WalletHub](https://wallethub.com/edu/states-with-highest-lowest-tax-burden/20494)
+[WalletHub](https://wallethub.com/edu/states-with-highest-lowest-tax-burden/20494) -->
 
 ### Notes
 

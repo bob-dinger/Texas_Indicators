@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2019
 
 Latest Value: 30% 
@@ -24,25 +27,30 @@ State Rank: 32
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2017
 
 Previous Value: 33%
 
 Previous State Rank: 24
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -53,9 +61,9 @@ Previous State Rank (og):
 
 ### **Data**
 
-![Image](./8th grade math.PNG)
+![Image](./images/8th grade math.PNG)
 
-![Rank](./8th grade math_data.PNG)
+![Rank](./images/8th grade math_data.PNG)
 
 ### **Source**
 
@@ -72,13 +80,13 @@ Average Scale Score
 
 [DataLab Link](https://datalab.texas2036.org/igxywpc/national-assessment-of-educational-progress-naep-assessments-of-united-states)
 
-![4th grade math - indicator](./datalab_8th grade math.PNG)
+![4th grade math - indicator](./images/datalab_8th grade math.PNG)
 
 ### Indicator Page
 
 [Indicator Page](https://indicators.texas2036.org/indicator/42)
 
-![sd](./indicators_4th grade reading.PNG)
+![sd](./images/indicators_4th grade reading.PNG)
 
 ### Strategic Framework
 

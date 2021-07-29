@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2021
 
 Latest Value: 48 
@@ -24,25 +27,30 @@ State Rank: 3
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2020
 
 Previous Value: 49
 
 Previous State Rank: 3
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 

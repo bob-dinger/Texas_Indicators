@@ -12,7 +12,9 @@ Texas students earn a postsecondary credential to access the jobs of today and t
 
 Updated: yes
 
-Data Release Date: 
+Data Release Date:
+
+Date: 
 
 Comparisons: States
 
@@ -24,25 +26,32 @@ State Rank: N/A
 
 Peer Rank: 
 
+----
+
 Previous Date: 2019
 
 Previous Value: $43,203
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -51,11 +60,11 @@ Previous State Rank (og):
 |    2020     | $44,260       | N/A         |    2019     |    $43,203    | N/A         | up     | 
 
 ### **Data**
-![First Year Earnings](./earnings_2017_grads.PNG)
+![First Year Earnings](./images/earnings_2017_grads.PNG)
 
 Previous Year:
 
-![First Year Earnings](./earnings_2016_grads.PNG)
+![First Year Earnings](./images/earnings_2016_grads.PNG)
 
 ### **Source**
 

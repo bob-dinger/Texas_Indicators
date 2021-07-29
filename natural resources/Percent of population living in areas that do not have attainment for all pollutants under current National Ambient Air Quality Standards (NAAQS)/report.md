@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Counties
 
+
+----
+
 Date: 2018
 
 Latest Value: 60% 
@@ -24,25 +27,30 @@ State Rank:
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 
 
 Previous Value: 
 
 Previous State Rank: 
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: 
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 

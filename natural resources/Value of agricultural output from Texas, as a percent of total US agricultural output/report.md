@@ -1,13 +1,24 @@
-# Share of national agricultural output
-Value of agricultural output from Texas, as a percent of total US agricultural output
-## Land
-### Goal: Agricultural production
-Texas leads in agricultural production with responsible natural resource stewardship
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Share of national agricultural output
+
+Value of agricultural output from Texas, as a percent of total US agricultural output
+
+## Land
+
+### Goal: Agricultural production
+
+Texas leads in agricultural production with responsible natural resource stewardship
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -17,25 +28,30 @@ State Rank: 3
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 6.0%
 
 Previous State Rank: 3
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -45,7 +61,7 @@ Previous State Rank (og):
 
 ### Data
 
-![farm](./farm.PNG)
+![farm](./images/farm.PNG)
 
 ### Source
 

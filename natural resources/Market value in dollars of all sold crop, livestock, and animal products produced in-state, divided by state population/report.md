@@ -1,53 +1,66 @@
-# Agricultural output per capita
-?Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population
-## Land
-### Goal: Agricultural production
-Texas leads in agricultural production with responsible natural resource stewardship
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Agricultural output per capita
+
+Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population
+
+## Land
+
+### Goal: Agricultural production
+
+Texas leads in agricultural production with responsible natural resource stewardship
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: February 5, 2021
 
 Comparisons: States
 
+
+----
+
 Date: 2019
 
-Latest Value: $854.80 
+Latest Value: $839.83
 
-State Rank: 
+State Rank: 28
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
-Previous Value: $853.50
+Previous Value: $868.27
 
-Previous State Rank: 
+Previous State Rank: 29
 
-Metric Trend: up
+Previous Peer Rank: 8
+
+
+----
+Metric Trend: flat
 
 Target: Top 6
 
 Baseline: $730
 
-Previous Target Value: 820
+Target Value: $820
 
 Previous Trend: Mixed
 
-Previous Peer Rank: 8
 
-Previous State Rank (og): 30
 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2019       | $854.80       |           |      2018   |   $853.50      |          |    up     | 
+|   2019       | $839.83       |   28    |      2018   |   $868.27     |    29   |    flat     | 
 
 ### Data
 
-	crop		pop	
-2019	24,785,803	24,785,803,000	28995881	854.8042738
-2018	24,434,699	24,434,699,000	28628666	853.5046306
+
 
 
 ### Source

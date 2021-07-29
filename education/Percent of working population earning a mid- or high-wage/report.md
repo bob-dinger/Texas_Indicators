@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value:  
@@ -24,25 +27,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 10
+
+
+----
 Metric Trend: 
 
 Target: Top 3
 
 Baseline: 58%
 
-Previous Target Value: 60%
+Target Value: 60%
 
 Previous Trend: 
 
-Previous Peer Rank: 10
 
-Previous State Rank (og): 39
 
 ### Value
 
@@ -69,7 +77,7 @@ family of four.
 
 [Indicator Link](https://indicators.texas2036.org/indicator/127)
 
-![wage](./indicator_wage.PNG)
+![wage](./images/indicator_wage.PNG)
 
 ### DataLab Page
 

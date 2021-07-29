@@ -1,13 +1,24 @@
-# Teen births
-Number of births per 1,000 females ages 15-19
-## Health Outcomes
-### Goal: Public health
-Texans and their communities are empowered to adopt healthy lifestyles
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Teen births
+
+Number of births per 1,000 females ages 15-19
+
+## Health Outcomes
+
+### Goal: Public health
+
+Texans and their communities are empowered to adopt healthy lifestyles
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2020
 
@@ -17,25 +28,30 @@ State Rank: 42
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 27.6
 
 Previous State Rank: 44
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -46,9 +62,9 @@ Previous State Rank (og):
 
 ### Data
 
-![map](./map_teenbirths.PNG)
+![map](./images/map_teenbirths.PNG)
 
-![data](./data_teenbirths.PNG)
+![data](./images/data_teenbirths.PNG)
 
 
 ### Source

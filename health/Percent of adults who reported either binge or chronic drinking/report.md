@@ -1,13 +1,24 @@
-# Excessive drinking
-Percent of adults who reported either binge or chronic drinking
-## Health Outcomes
-### Goal: Public health
-Texans and their communities are empowered to adopt healthy lifestyles
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Excessive drinking
+
+Percent of adults who reported either binge or chronic drinking
+
+## Health Outcomes
+
+### Goal: Public health
+
+Texans and their communities are empowered to adopt healthy lifestyles
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2020
 
@@ -17,25 +28,30 @@ State Rank: 33
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 18.7%
 
 Previous State Rank: 33
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -45,9 +61,9 @@ Previous State Rank (og):
 
 ### Data
 
-![map](./map_drinking.PNG)
+![map](./images/map_drinking.PNG)
 
-![data](./data_drinking.PNG)
+![data](./images/data_drinking.PNG)
 
 
 ### Source

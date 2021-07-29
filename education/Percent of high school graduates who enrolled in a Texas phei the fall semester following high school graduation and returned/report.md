@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Texas
 
+
+----
+
 Date: 2020
 
 Latest Value: 87.6% 
@@ -24,25 +27,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 87.6%
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -51,7 +59,7 @@ Previous State Rank (og):
 |    2020     | 87.6%      |    N/A  |    2019     |    87.6%  | N/A         | flat       | 
 
 ### Data
-![Texas Higher Ed Accountability](./retention.PNG)
+![Texas Higher Ed Accountability](./images/retention.PNG)
 
 
 ### Source

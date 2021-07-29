@@ -17,6 +17,9 @@ Data Release Date: January 2021
 
 Comparisons: Texas
 
+
+----
+
 Date: 2020
 
 Latest Value: 19.4 
@@ -25,25 +28,30 @@ State Rank: 22
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 16.8
 
 Previous State Rank: 12
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: Below national average
 
 Baseline: 63%
 
-Previous Target Value: 68%
+Target Value: 68%
 
 Previous Trend: Flat
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 

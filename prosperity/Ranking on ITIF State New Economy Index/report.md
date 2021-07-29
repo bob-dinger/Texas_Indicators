@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 67.9 
@@ -24,25 +27,30 @@ State Rank: 14
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2017
 
 Previous Value: 
 
 Previous State Rank: 17
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -52,7 +60,7 @@ Previous State Rank (og):
 
 ### Data
 
-![data](./neweconomy.PNG)
+![data](./images/neweconomy.PNG)
 
 ### Source
 
@@ -72,5 +80,5 @@ N/A
 
 [DataLab Link](https://datalab.texas2036.org/aiorane/state-ranking-on-itif-state-economy-index?accesskey=vijqmte)
 
-![dad](./datalab_neweconomy.PNG)
+![dad](./images/datalab_neweconomy.PNG)
 

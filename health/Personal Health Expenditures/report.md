@@ -16,43 +16,51 @@ Data Release Date:
 
 Comparisons: States
 
-Date: 2020
+
+----
+
+Date: 2018
 
 Latest Value: $1,077.88 
 
-State Rank: 34
+State Rank: 44
 
 Peer Rank: 
 
-Previous Date: 2019
 
-Previous Value: 
+----
 
-Previous State Rank: 
+Previous Date: 2017
 
+Previous Value: $1,032.58
+
+Previous State Rank: 48
+
+Previous Peer Rank: 
+
+
+----
 Metric Trend: 
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
 |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2020     |  $1,077.88  |      34     |     2019    |             |             |            |
+|    2018     |  $1,077.88  |      44     |     2017    |             |             |            |
 
 ### Data
 
-![se](./spendingbystate.PNG)
+![se](./images/spendingbystate.PNG)
 
 
 ### Source

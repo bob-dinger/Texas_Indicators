@@ -17,6 +17,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 10.9% 
@@ -25,25 +28,30 @@ State Rank: 13
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 11.8%
 
 Previous State Rank: 19
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -53,9 +61,9 @@ Previous State Rank (og):
 
 ### Data
 
-![map](./map_physicaldays.PNG)
+![map](./images/map_physicaldays.PNG)
 
-![data](./data_physicaldays.PNG)
+![data](./images/data_physicaldays.PNG)
 
 
 ### Source

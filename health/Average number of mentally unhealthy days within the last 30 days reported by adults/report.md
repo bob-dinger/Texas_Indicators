@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 12.2% 
@@ -24,25 +27,30 @@ State Rank: 12
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 11.7%
 
 Previous State Rank: 15
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -52,9 +60,9 @@ Previous State Rank (og):
 
 ### Data
 
-![map](./map_mentaldays.PNG)
+![map](./images/map_mentaldays.PNG)
 
-![data](./data_mentaldays.PNG)
+![data](./images/data_mentaldays.PNG)
 
 
 ### Source

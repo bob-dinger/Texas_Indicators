@@ -1,13 +1,24 @@
-# Railway accidents
-Number of combined passenger and freight railway accidents
-## Transportation
-### Goal: Safety
-Texas maintains a safe transportaiton infrastructure
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Railway accidents
+
+Number of combined passenger and freight railway accidents
+
+## Transportation
+
+### Goal: Safety
+
+Texas maintains a safe transportaiton infrastructure
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2020
 
@@ -17,25 +28,30 @@ State Rank: 13
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 330
 
 Previous State Rank: 19
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 

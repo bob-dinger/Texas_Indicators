@@ -16,6 +16,8 @@ Data Release Date:
 
 Comparisons: Texas
 
+----
+
 Date: 2020
 
 Latest Value: 51.6% 
@@ -24,25 +26,29 @@ State Rank: N/A
 
 Peer Rank: 
 
+----
+
 Previous Date: 2019
 
 Previous Value: 52.3%
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -53,11 +59,11 @@ Previous State Rank (og):
 ### Data
 
 2020
-![Enrolled_2020](./2020_enrolled.PNG)
+![Enrolled_2020](./images/2020_enrolled.PNG)
 
 
 2019
-![Enrolled_2020](./2019_enrolled.PNG)
+![Enrolled_2020](./images/2019_enrolled.PNG)
 
 ### Source
 [Texas Higher Education Almanac - 2020](http://reportcenter.highered.texas.gov/agency-publication/almanac/2020-texas-public-higher-education-almanac/)
@@ -68,7 +74,7 @@ Previous State Rank (og):
 
 [Indicator Link](https://indicators.texas2036.org/indicator/44)
 
-![DLab](./indicator_enrollment.PNG)
+![DLab](./images/indicator_enrollment.PNG)
 
 ### DataLab Page
 
@@ -76,5 +82,5 @@ Doesn't match:
 
 [DataLab - Strategic Plan](https://datalab.texas2036.org/tcekgxe/texas-higher-education-strategic-plan-2015-2030?accesskey=rbhwazb)
 
-![DLab](./enrollment.PNG)
+![DLab](./images/enrollment.PNG)
 

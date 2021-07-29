@@ -1,13 +1,23 @@
-# Carbon Intensity
-Quantity of carbon produced in-state from generating one unit of energy
-## Land
-### Goal: Energy production
-Texas leads in energy production with responsible natural resource stewardship
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Carbon Intensity
+
+Quantity of carbon produced in-state from generating one unit of energy
+
+## Land
+
+### Goal: Energy production
+
+Texas leads in energy production with responsible natural resource stewardship
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
 
 Comparisons: States
+
+
+----
 
 Date: 2018
 
@@ -17,25 +27,30 @@ State Rank: 13
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2017
 
 Previous Value: 8.2
 
 Previous State Rank: 19
 
+Previous Peer Rank: 4
+
+
+----
 Metric Trend: up
 
 Target: Top 3
 
 Baseline: 50
 
-Previous Target Value: 48
+Target Value: 48
 
 Previous Trend: Flat
 
-Previous Peer Rank: 4
 
-Previous State Rank (og): 14
 
 ### Value
 
@@ -49,14 +64,16 @@ Previous State Rank (og): 14
 
 ### Source
 
-https://www.eia.gov/electricity/state/texas/
+[EIA - Table 7](https://www.eia.gov/environment/emissions/state/)
+
+<!-- https://www.eia.gov/electricity/state/texas/
 https://www.eia.gov/tools/faqs/faq.php?id=73&t=11
 https://www.eia.gov/state/print.php?sid=TX
 
 
 [EIA - Energy-Related CO2 Emission Data Tables](https://www.eia.gov/environment/emissions/state/)
 
-[EIA - U.S. Energy-Related Carbon Dioxide Emissions, 2019](https://www.eia.gov/environment/emissions/carbon/)
+[EIA - U.S. Energy-Related Carbon Dioxide Emissions, 2019](https://www.eia.gov/environment/emissions/carbon/) -->
 
 [Previous Source - up to 2016](https://www.eia.gov/environment/emissions/state/analysis/)
 

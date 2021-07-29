@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 46% 
@@ -24,25 +27,30 @@ State Rank: 39
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 44%
 
 Previous State Rank: 
 
+Previous Peer Rank: #8
+
+
+----
 Metric Trend: up
 
 Target: Top 6
 
 Baseline: 43%
 
-Previous Target Value: 48%
+Target Value: 48%
 
 Previous Trend: Mixed
 
-Previous Peer Rank: #8
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -53,9 +61,9 @@ Previous State Rank (og):
 ### Data
 
 
-![map](./map_flu.PNG)
+![map](./images/map_flu.PNG)
 
-![data](./data_flu.PNG)
+![data](./images/data_flu.PNG)
 
 
 ### Source

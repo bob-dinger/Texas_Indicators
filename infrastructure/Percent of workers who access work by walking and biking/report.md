@@ -1,13 +1,24 @@
-# Vehicle-less commuting
-Percent of workers who access work by walking and biking
-## Transportation
-### Goal: Mobility of individuals
-Texans can travel to their destinations effectively and efficiently
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Vehicle-less commuting
+
+Percent of workers who access work by walking and biking
+
+## Transportation
+
+### Goal: Mobility of individuals
+
+Texans can travel to their destinations effectively and efficiently
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -17,25 +28,30 @@ State Rank: 46
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 1.78%
 
 Previous State Rank: 46
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 

@@ -1,14 +1,54 @@
-# Criminal Justice Spend Per Capita
+# Criminal Justice Spending
+
+Criminal justice spend per capita
 
 ## Justice & Safety
 
-### Primary Indicator
-
-### **Goal**
-
-Justice system
+### Goal: Justice system
 
 Texans are served effectively, efficiently, and impartially by the justice system
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
+Comparisons: States
+
+----
+
+Date: 2020
+
+Latest Value: 1,432 
+
+State Rank: N/A
+
+Peer Rank: 
+
+----
+
+Previous Date: N/A
+
+Previous Value: N/A
+
+Previous State Rank: N/A
+
+Previous Peer Rank: 
+
+----
+
+Metric Trend: N/A
+
+Target: 
+
+Baseline: 
+
+Target Value: 
+
+Previous Trend: 
+
+
 
 ### Value
 

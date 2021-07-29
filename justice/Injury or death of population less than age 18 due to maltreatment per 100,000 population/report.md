@@ -11,11 +11,14 @@ Texas protects the vulnerable from traumatic experiences
 
 ### Type: Secondary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 
 Comparisons: States
+
+
+----
 
 Date: 2017
 
@@ -25,25 +28,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2015
 
 Previous Value: 3.0
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -53,7 +61,7 @@ Previous State Rank (og):
 
 ### Data
 
-![dsd](./maltreatment.PNG)
+![dsd](./images/maltreatment.PNG)
 
 ### Source
 

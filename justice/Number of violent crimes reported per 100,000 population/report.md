@@ -17,6 +17,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 419 
@@ -25,25 +28,30 @@ State Rank: 35
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 411
 
 Previous State Rank: 34
 
+Previous Peer Rank: 11
+
+
+----
 Metric Trend: down
 
 Target: Top 9
 
 Baseline: 411
 
-Previous Target Value: 397
+Target Value: 397
 
 Previous Trend: Flat
 
-Previous Peer Rank: 11
 
-Previous State Rank (og): 34
 
 ### Value
 
@@ -53,9 +61,9 @@ Previous State Rank (og): 34
 
 ### Data
 
-![map](./map_violentcrime.PNG)
+![map](./images/map_violentcrime.PNG)
 
-![data](./data_violentcrime.PNG)
+![data](./images/data_violentcrime.PNG)
 
 ### Source
 
@@ -68,12 +76,12 @@ Previous State Rank (og): 34
 
 [Indicator Link](https://indicators.texas2036.org/indicator/115)
 
-![ind](./indicator_violentcrime.PNG)
+![ind](./images/indicator_violentcrime.PNG)
 
 ### DataLab Page
 
 [DataLab Link](https://datalab.texas2036.org/dbkqjpe/texas-crime-rate-by-offense-crime-index-by-volume?accesskey=ahmmgjf)
 
 
-![datalab](./datalab_violentcrime.PNG)
+![datalab](./images/datalab_violentcrime.PNG)
 

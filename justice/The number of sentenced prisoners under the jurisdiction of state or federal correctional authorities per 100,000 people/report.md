@@ -17,6 +17,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2019
 
 Latest Value: 158,429 
@@ -25,25 +28,30 @@ State Rank: 1
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 163,628
 
 Previous State Rank: 1
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -55,9 +63,9 @@ Previous State Rank (og):
 
 ![federal and state](federalandstate.PNG)
 
-![counts](./counts.PNG)
+![counts](./images/counts.PNG)
 
-![trend](./trend.PNG)
+![trend](./images/trend.PNG)
 
 ### Source
 

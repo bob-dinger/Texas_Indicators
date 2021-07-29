@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Texas
 
+
+----
+
 Date: 2019
 
 Latest Value: 296.89 
@@ -24,25 +27,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2017
 
 Previous Value: 342.76
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -55,11 +63,11 @@ Previous State Rank (og):
 
 2019:
 
-![2019](./2019_parkvisits.PNG)
+![2019](./images/2019_parkvisits.PNG)
 
 2017:
 
-![2019](./2017_parkvisits.PNG)
+![2019](./images/2017_parkvisits.PNG)
 
 8,771,744 - 2018 visits
 

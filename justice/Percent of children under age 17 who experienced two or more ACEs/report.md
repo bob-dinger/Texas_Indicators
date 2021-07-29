@@ -1,14 +1,25 @@
 # Adverse Childhood Experiences
-
-Percent of children under age 17 who experienced two or more ACEs
-## Justice & Safety
-### Goal: Protection for the vulnerable
-Texas protects the vulnerable from traumatic experiences
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+
+
+Percent of children under age 17 who experienced two or more ACEs
+
+## Justice & Safety
+
+### Goal: Protection for the vulnerable
+
+Texas protects the vulnerable from traumatic experiences
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -18,25 +29,30 @@ State Rank: 22
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 16.8
 
 Previous State Rank: 12
 
+Previous Peer Rank: 6
+
+
+----
 Metric Trend: down
 
 Target: Top 9
 
 Baseline: 20%
 
-Previous Target Value: 24%
+Target Value: 24%
 
 Previous Trend: Flat
 
-Previous Peer Rank: 6
 
-Previous State Rank (og): 18
 
 ### Value
 
@@ -46,7 +62,7 @@ Previous State Rank (og): 18
 
 ### Data
 
-![aces map](./aces_map.PNG)
+![aces map](./images/aces_map.PNG)
 
 
 ### Source
@@ -61,12 +77,12 @@ Previous State Rank (og): 18
 
 [Indicator Link](https://indicators.texas2036.org/indicator/88)
 
-![aces indicator](./indicator_aces.PNG)
+![aces indicator](./images/indicator_aces.PNG)
 
 
 ### DataLab Page
 
 [DataLab Link](https://datalab.texas2036.org/ivihssb/adverse-childhood-experiences-in-u-s?accesskey=jxfyob)
 
-![aces](./datalab_aces.PNG)
+![aces](./images/datalab_aces.PNG)
 

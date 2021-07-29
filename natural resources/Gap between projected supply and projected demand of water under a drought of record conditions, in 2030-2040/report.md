@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Texas
 
+
+----
+
 Date: 
 
 Latest Value:  
@@ -24,12 +27,19 @@ State Rank:
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 
 
 Previous Value: 
 
 Previous State Rank: 
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: 
 
 Target: 2.3 M acre-feet/year
@@ -37,13 +47,11 @@ Target: 2.3 M acre-feet/year
 
 Baseline: 5.6
 
-Previous Target Value: 2.3
+Target Value: 2.3
 
 Previous Trend: Worsening
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 

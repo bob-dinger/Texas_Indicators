@@ -1,13 +1,24 @@
-# Commute choice
-Percent of workers using any mode to access work except single-occupancy vehicles
-## Transportation
-### Goal: Mobility of individuals
-Texans can travel to their destinations effectively and efficiently
-### Type: Primary indicator
-Updated: yes
-Data Release Date: 
+# Commute choice
+
+Percent of workers using any mode to access work except single-occupancy vehicles
+
+## Transportation
+
+### Goal: Mobility of individuals
+
+Texans can travel to their destinations effectively and efficiently
+
+### Type: Primary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -17,25 +28,30 @@ State Rank: 28
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 19.44%
 
 Previous State Rank: 29
 
+Previous Peer Rank: 10
+
+
+----
 Metric Trend: flat
 
 Target: Top 6
 
 Baseline: 18%
 
-Previous Target Value: 23%
+Target Value: 23%
 
 Previous Trend: Flat
 
-Previous Peer Rank: 10
 
-Previous State Rank (og): 31
 
 ### Value
 

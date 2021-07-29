@@ -1,13 +1,24 @@
-# Share of oil and gas production
-Total oil and gas production in Texas, as a percent of total US production
-## Land
-### Goal: Energy production
-Texas leads in energy production with responsible natural resource stewardship
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+# Share of oil and gas production
+
+Total oil and gas production in Texas, as a percent of total US production
+
+## Land
+
+### Goal: Energy production
+
+Texas leads in energy production with responsible natural resource stewardship
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -17,25 +28,30 @@ State Rank: 1
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 35.18%
 
 Previous State Rank: 1
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -45,10 +61,10 @@ Previous State Rank (og):
 
 ### Data
 
-![percent_oilgas](./percent_oilgas.PNG)
+![percent_oilgas](./images/percent_oilgas.PNG)
 
 
-![oilshare](./oilgas_share.PNG)
+![oilshare](./images/oilgas_share.PNG)
 
 ### Source
 

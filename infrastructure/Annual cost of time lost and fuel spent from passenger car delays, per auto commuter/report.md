@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Metros
 
+
+----
+
 Date: 2020
 
 Latest Value: $1,097 
@@ -24,25 +27,30 @@ State Rank:
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: $1,635
 
 Previous State Rank: 
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 922
 
 Baseline: 981
 
-Previous Target Value: 922
+Target Value: 922
 
 Previous Trend: Worsening
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -54,15 +62,15 @@ Previous State Rank (og):
 
 2020
 
-![data2020](./2020_costpercommuter.PNG)
+![data2020](./images/2020_costpercommuter.PNG)
 
 2019
 
-![data2019](./2019_costpercommuter.PNG)
+![data2019](./images/2019_costpercommuter.PNG)
 
 2018
 
-![data2018](./2018_TX_congestioncost.PNG)
+![data2018](./images/2018_TX_congestioncost.PNG)
 
 ### Source
 

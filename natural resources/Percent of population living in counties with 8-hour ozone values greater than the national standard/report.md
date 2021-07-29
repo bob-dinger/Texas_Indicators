@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Counties
 
+
+----
+
 Date: 2015
 
 Latest Value: 54.30% 
@@ -24,25 +27,30 @@ State Rank:
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 
 
 Previous Value: 
 
 Previous State Rank: 
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: 
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -52,7 +60,7 @@ Previous State Rank (og):
 
 ### Data
 
-![sdfd](./ozone.PNG)
+![sdfd](./images/ozone.PNG)
 
 ### Source
 

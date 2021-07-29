@@ -17,6 +17,9 @@ Data Release Date:
 
 Comparisons: States
 
+
+----
+
 Date: 2020
 
 Latest Value: 17.20% 
@@ -25,25 +28,30 @@ State Rank: 13
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 16.5%
 
 Previous State Rank: 12
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -53,9 +61,9 @@ Previous State Rank (og):
 
 ### Data
 
-![data](./data_depression.PNG)
+![data](./images/data_depression.PNG)
 
-![map](./map_depression.PNG)
+![map](./images/map_depression.PNG)
 
 ### Source
 

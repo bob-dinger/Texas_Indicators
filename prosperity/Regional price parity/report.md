@@ -16,6 +16,9 @@ Data Release Date: Annually - December 15, 2020
 
 Comparisons: States
 
+
+----
+
 Date: 2019
 
 Latest Value: 96.5 
@@ -24,25 +27,30 @@ State Rank: 27
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 96.5
 
 Previous State Rank: 28
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -52,9 +60,9 @@ Previous State Rank (og):
 
 ### Data
 
-![sdfd](./data_rpp.PNG)
+![sdfd](./images/data_rpp.PNG)
 
-![csd](./data_rpp2.PNG)
+![csd](./images/data_rpp2.PNG)
 
 
 ### Source
@@ -69,7 +77,7 @@ Previous State Rank (og):
 
 [Indicator Link](https://indicators.texas2036.org/indicator/32)
 
-![dd](./indicator_rpp.PNG)
+![dd](./images/indicator_rpp.PNG)
 
 
 
@@ -78,5 +86,5 @@ Previous State Rank (og):
 [DataLab Link](https://datalab.texas2036.org/uzafrsd/regional-price-parities?accesskey=ronummf)
 
 
-![sdcd](./datalab_rpp.PNG)
+![sdcd](./images/datalab_rpp.PNG)
 

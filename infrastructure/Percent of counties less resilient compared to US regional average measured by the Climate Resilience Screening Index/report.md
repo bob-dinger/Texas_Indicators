@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Counties
 
+
+----
+
 Date: 2020
 
 Latest Value: 39.37% 
@@ -24,25 +27,30 @@ State Rank:
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: 61.02%
 
 Previous State Rank: 
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: up
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 

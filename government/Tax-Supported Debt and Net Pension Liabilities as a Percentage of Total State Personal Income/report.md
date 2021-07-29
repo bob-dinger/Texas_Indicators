@@ -16,6 +16,9 @@ Data Release Date: October 2020
 
 Comparisons: States
 
+
+----
+
 Date: 2019
 
 Latest Value: 1.1% 
@@ -24,25 +27,30 @@ State Rank: 12
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 
 
 Previous Value: 
 
 Previous State Rank: N/A
 
+Previous Peer Rank: #9
+
+
+----
 Metric Trend: 
 
 Target: Top 3
 
 Baseline: 7.10%
 
-Previous Target Value: 5.20%
+Target Value: 5.20%
 
 Previous Trend: Improving
 
-Previous Peer Rank: #9
 
-Previous State Rank (og): #28
 
 ### Value
 
@@ -52,7 +60,7 @@ Previous State Rank (og): #28
 
 ### Data
 
-![tx](./tx_debt.PNG)
+![tx](./images/tx_debt.PNG)
 
 ### Source
 

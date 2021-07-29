@@ -1,14 +1,25 @@
 # State budget impact
-
-Medicaid expenditures as percent of state budget
-## Health Outcomes
-### Goal: Value-driven system
-Texas has a high-value health care system that optimizes cost and delivers results
-### Type: Secondary indicator
-Updated: yes
-Data Release Date: 
+
+
+Medicaid expenditures as percent of state budget
+
+## Health Outcomes
+
+### Goal: Value-driven system
+
+Texas has a high-value health care system that optimizes cost and delivers results
+
+### Type: Secondary indicator
+
+Updated: yes
+
+Data Release Date: 
+
 
 Comparisons: States
+
+
+----
 
 Date: 2019
 
@@ -18,25 +29,30 @@ State Rank: 35
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2018
 
 Previous Value: 29.4%
 
 Previous State Rank: 34
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: flat
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -46,9 +62,9 @@ Previous State Rank (og):
 
 ### Data
 
-![data](./data_medicaid.PNG)
+![data](./images/data_medicaid.PNG)
 
-![map](./map_medicaid.PNG)
+![map](./images/map_medicaid.PNG)
 
 
 ### Source

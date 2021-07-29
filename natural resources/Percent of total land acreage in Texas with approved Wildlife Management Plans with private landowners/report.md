@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Texas
 
+
+----
+
 Date: 2019
 
 Latest Value: 18.47% 
@@ -24,25 +27,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2017
 
 Previous Value: 18.81%
 
 Previous State Rank: N/A
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -56,13 +64,13 @@ Previous State Rank (og):
 
 31,750,655.00
 
-![asd](./2019_privateacres.PNG)
+![asd](./images/2019_privateacres.PNG)
 
 2017:
 
 32,328,036.00
 
-![asd](./2017_privateacres.PNG)
+![asd](./images/2017_privateacres.PNG)
 
 Texas - Total Acres
 171,891,840

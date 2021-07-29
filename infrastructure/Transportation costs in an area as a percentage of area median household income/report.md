@@ -1,15 +1,56 @@
-# Transportation costs in an area as a percentage of area median household income
+# Transportation Affordability Index
+
+Transportation costs in an area as a percentage of area median household income
+
+## Transportation
+
+### Goal: Mobility of individuals
+
+Texans can travel to their destinations effectively and efficiently
+
+### Type: Secondary indicator
+
+Updated: no
+
+Data Release Date: 
+
+Comparisons: States
 
 
-## Infrastructure
+----
 
-### Primary Indicator
+Date: 
 
-### Goal
+Latest Value:  
 
-Population health
+State Rank: 
 
-Texans live long, healthy, and productive lives
+Peer Rank: 
+
+
+----
+
+Previous Date: 
+
+Previous Value: 
+
+Previous State Rank: 
+
+Previous Peer Rank: 
+
+
+----
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Target Value: 
+
+Previous Trend: 
+
+
 
 ### Value
 
@@ -21,10 +62,18 @@ Texans live long, healthy, and productive lives
 
 ### Source
 
+
+
 ### Notes
+
+
 
 
 ### Indicator Page
 
 
+
+
 ### DataLab Page
+
+

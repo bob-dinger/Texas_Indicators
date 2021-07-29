@@ -16,6 +16,9 @@ Data Release Date:
 
 Comparisons: Texas
 
+
+----
+
 Date: 2020
 
 Latest Value: -3.02% 
@@ -24,25 +27,30 @@ State Rank: N/A
 
 Peer Rank: 
 
+
+----
+
 Previous Date: 2019
 
 Previous Value: -.04%
 
 Previous State Rank: 
 
+Previous Peer Rank: 
+
+
+----
 Metric Trend: down
 
 Target: 
 
 Baseline: 
 
-Previous Target Value: 
+Target Value: 
 
 Previous Trend: 
 
-Previous Peer Rank: 
 
-Previous State Rank (og): 
 
 ### Value
 
@@ -54,16 +62,16 @@ Previous State Rank (og):
 
 2020:
 
-![2020](./2020.PNG)
+![2020](./images/2020.PNG)
 
 2019:
 
-![2019](./2019.PNG)
+![2019](./images/2019.PNG)
 
 
 2021 (for reference, note February)
 
-![2021](./2021.PNG)
+![2021](./images/2021.PNG)
 
 ### Source
 
