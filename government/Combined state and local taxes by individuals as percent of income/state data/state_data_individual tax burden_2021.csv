@@ -1,52 +1,52 @@
-State,Rank_2021,Value_2021,Rank_2020,Value_2020
-Alabama,30,4.81,30,4.82
-Alaska,1,10,1,10
-Arizona,17,5.49,17,5.51
-Arkansas,41,4.18,40,4.07
-California,49,2.53,49,2.54
-Colorado,14,5.84,14,5.85
-Connecticut,44,3.87,43,3.88
-Delaware,42,4.05,41,4.06
-Florida,1,10,1,10
-Georgia,36,4.56,36,4.53
-Hawaii,47,3.51,47,3.52
-Idaho,26,5.01,26,5.03
-Illinois,13,5.85,13,5.87
-Indiana,15,5.77,15,5.74
-Iowa,40,4.29,42,4.03
-Kansas,24,5.07,23,5.09
-Kentucky,18,5.47,18,5.47
-Louisiana,32,4.71,32,4.73
-Maine,22,5.13,22,5.14
-Maryland,45,3.64,45,3.67
-Massachusetts,11,5.94,11,5.96
-Michigan,12,5.93,12,5.95
-Minnesota,46,3.59,46,3.61
-Mississippi,27,4.89,27,4.9
-Missouri,23,5.1,24,5.07
-Montana,25,5.02,25,5.03
-Nebraska,21,5.15,21,5.16
-Nevada,5,8.4,5,8.43
-New Hampshire,9,6.37,9,6.39
-New Jersey,50,1.86,50,1.86
-New Mexico,31,4.8,31,4.81
-New York,48,3.05,48,3.06
-North Carolina,16,5.71,16,5.73
-North Dakota,20,5.23,20,5.24
-Ohio,43,3.96,44,3.86
-Oklahoma,33,4.64,33,4.66
-Oregon,38,4.42,38,4.43
-Pennsylvania,19,5.41,19,5.38
-Rhode Island,29,4.86,29,4.88
-South Carolina,34,4.62,34,4.63
-South Dakota,1,10,1,10
-Tennessee,8,7.07,8,7.09
-Texas,6,7.88,6,7.9
-Utah,10,6.08,10,6.1
-Vermont,39,4.36,39,4.37
-Virginia,35,4.6,35,4.62
-Washington,6,7.88,6,7.9
-West Virginia,28,4.88,28,4.9
-Wisconsin,37,4.5,37,4.51
-Wyoming,1,10,1,10
-District of Columbia,45,3.67,45,3.68
+,State,Rank_2021,Value_2021,Rank_2020,Value_2020
+0,Alabama,30,4.81,30,4.82
+1,Alaska,1,10.0,1,10.0
+2,Arizona,17,5.49,17,5.51
+3,Arkansas,41,4.18,40,4.07
+4,California,49,2.53,49,2.54
+5,Colorado,14,5.84,14,5.85
+6,Connecticut,44,3.87,43,3.88
+7,Delaware,42,4.05,41,4.06
+8,Florida,1,10.0,1,10.0
+9,Georgia,36,4.56,36,4.53
+10,Hawaii,47,3.51,47,3.52
+11,Idaho,26,5.01,26,5.03
+12,Illinois,13,5.85,13,5.87
+13,Indiana,15,5.77,15,5.74
+14,Iowa,40,4.29,42,4.03
+15,Kansas,24,5.07,23,5.09
+16,Kentucky,18,5.47,18,5.47
+17,Louisiana,32,4.71,32,4.73
+18,Maine,22,5.13,22,5.14
+19,Maryland,45,3.64,45,3.67
+20,Massachusetts,11,5.94,11,5.96
+21,Michigan,12,5.93,12,5.95
+22,Minnesota,46,3.59,46,3.61
+23,Mississippi,27,4.89,27,4.9
+24,Missouri,23,5.1,24,5.07
+25,Montana,25,5.02,25,5.03
+26,Nebraska,21,5.15,21,5.16
+27,Nevada,5,8.4,5,8.43
+28,New Hampshire,9,6.37,9,6.39
+29,New Jersey,50,1.86,50,1.86
+30,New Mexico,31,4.8,31,4.81
+31,New York,48,3.05,48,3.06
+32,North Carolina,16,5.71,16,5.73
+33,North Dakota,20,5.23,20,5.24
+34,Ohio,43,3.96,44,3.86
+35,Oklahoma,33,4.64,33,4.66
+36,Oregon,38,4.42,38,4.43
+37,Pennsylvania,19,5.41,19,5.38
+38,Rhode Island,29,4.86,29,4.88
+39,South Carolina,34,4.62,34,4.63
+40,South Dakota,1,10.0,1,10.0
+41,Tennessee,8,7.07,8,7.09
+42,Texas,6,7.88,6,7.9
+43,Utah,10,6.08,10,6.1
+44,Vermont,39,4.36,39,4.37
+45,Virginia,35,4.6,35,4.62
+46,Washington,6,7.88,6,7.9
+47,West Virginia,28,4.88,28,4.9
+48,Wisconsin,37,4.5,37,4.51
+49,Wyoming,1,10.0,1,10.0
+50,District of Columbia,45,3.67,45,3.68

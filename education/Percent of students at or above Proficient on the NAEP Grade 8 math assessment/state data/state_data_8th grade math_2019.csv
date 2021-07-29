@@ -1,55 +1,55 @@
-State,Value_2019
-Massachusetts,47
-DoDEA,41
-New Jersey,44
-Minnesota,44
-Wisconsin,41
-New Hampshire,38
-South Dakota,39
-Virginia,38
-Vermont,38
-Wyoming,37
-Connecticut,39
-Idaho,37
-Washington,40
-Ohio,38
-Indiana,37
-North Dakota,37
-Pennsylvania,39
-Nebraska,37
-Utah,37
-Colorado,37
-Montana,36
-North Carolina,37
-Illinois,34
-Maine,34
-Kansas,33
-Iowa,33
-National public,33
-Missouri,32
-New York,34
-Michigan,31
-Maryland,33
-Tennessee,31
-Arizona,31
-Texas,30
-Oregon,31
-Georgia,31
-Florida,31
-Kentucky,29
-Delaware,29
-Oklahoma,26
-South Carolina,29
-Rhode Island,29
-California,29
-Hawaii,28
-Arkansas,27
-Alaska,29
-Nevada,26
-Mississippi,24
-West Virginia,24
-Louisiana,23
-District of Columbia,23
-New Mexico,21
-Alabama,21
-Puerto Rico,1
+,State,Value_2019
+0,Massachusetts,47
+1,DoDEA,41
+2,New Jersey,44
+3,Minnesota,44
+4,Wisconsin,41
+5,New Hampshire,38
+6,South Dakota,39
+7,Virginia,38
+8,Vermont,38
+9,Wyoming,37
+10,Connecticut,39
+11,Idaho,37
+12,Washington,40
+13,Ohio,38
+14,Indiana,37
+15,North Dakota,37
+16,Pennsylvania,39
+17,Nebraska,37
+18,Utah,37
+19,Colorado,37
+20,Montana,36
+21,North Carolina,37
+22,Illinois,34
+23,Maine,34
+24,Kansas,33
+25,Iowa,33
+26,National public,33
+27,Missouri,32
+28,New York,34
+29,Michigan,31
+30,Maryland,33
+31,Tennessee,31
+32,Arizona,31
+33,Texas,30
+34,Oregon,31
+35,Georgia,31
+36,Florida,31
+37,Kentucky,29
+38,Delaware,29
+39,Oklahoma,26
+40,South Carolina,29
+41,Rhode Island,29
+42,California,29
+43,Hawaii,28
+44,Arkansas,27
+45,Alaska,29
+46,Nevada,26
+47,Mississippi,24
+48,West Virginia,24
+49,Louisiana,23
+50,District of Columbia,23
+51,New Mexico,21
+52,Alabama,21
+53,Puerto Rico,1

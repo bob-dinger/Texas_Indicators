@@ -1,51 +1,51 @@
-State Name,Value_2019,Value_2020
-Alabama,54.25,46.81
-Alaska,98.25,215.15
-Arizona,15.25,24.34
-Arkansas,48.23,45.9
-California,71.89,69.87
-Colorado,51.25,55.3
-Connecticut,32.47,35.01
-Delaware,34.31,36.77
-Florida,18.62,19.59
-Georgia,27.35,27.78
-Hawaii,127.36,125.62
-Idaho,85.26,84.95
-Illinois,30.21,32.53
-Indiana,15.08,15
-Iowa,82.78,85.37
-Kansas,13.01,14.73
-Kentucky,35.46,35.89
-Louisiana,24.81,25.58
-Maine,27.37,33.82
-Maryland,43.13,45.07
-Massachusetts,83.44,86.76
-Michigan,15.17,17.3
-Minnesota,39.64,106.83
-Mississippi,15.56,15.9
-Missouri,7.13,7.06
-Montana,21.73,18.91
-Nebraska,38.49,40.9
-Nevada,10.76,12.19
-New Hampshire,21.4,23.61
-New Jersey,29.21,31.25
-New Mexico,139.6,151.15
-New York,83.21,84.87
-North Carolina,14.93,15.05
-North Dakota,58.6,61.44
-Ohio,14.01,15.8
-Oklahoma,43.61,55.89
-Oregon,35.25,35.11
-Pennsylvania,15.06,14.99
-Rhode Island,57.26,59.16
-South Carolina,27.03,27.51
-South Dakota,35.48,36.04
-Tennessee,51.24,55.38
-Texas,17.16,20.41
-Utah,33.02,35.46
-Vermont,49.2,52.61
-Virginia,39.6,36.26
-Washington,45.62,47.95
-West Virginia,58.74,62.83
-Wisconsin,17.38,17.67
-Wyoming,50.44,28.74
+,State,Value_2019,Value_2020
+0,Alabama,54.25,46.81
+1,Alaska,98.25,215.15
+2,Arizona,15.25,24.34
+3,Arkansas,48.23,45.9
+4,California,71.89,69.87
+5,Colorado,51.25,55.3
+6,Connecticut,32.47,35.01
+7,Delaware,34.31,36.77
+8,Florida,18.62,19.59
+9,Georgia,27.35,27.78
+10,Hawaii,127.36,125.62
+11,Idaho,85.26,84.95
+12,Illinois,30.21,32.53
+13,Indiana,15.08,15.0
+14,Iowa,82.78,85.37
+15,Kansas,13.01,14.73
+16,Kentucky,35.46,35.89
+17,Louisiana,24.81,25.58
+18,Maine,27.37,33.82
+19,Maryland,43.13,45.07
+20,Massachusetts,83.44,86.76
+21,Michigan,15.17,17.3
+22,Minnesota,39.64,106.83
+23,Mississippi,15.56,15.9
+24,Missouri,7.13,7.06
+25,Montana,21.73,18.91
+26,Nebraska,38.49,40.9
+27,Nevada,10.76,12.19
+28,New Hampshire,21.4,23.61
+29,New Jersey,29.21,31.25
+30,New Mexico,139.6,151.15
+31,New York,83.21,84.87
+32,North Carolina,14.93,15.05
+33,North Dakota,58.6,61.44
+34,Ohio,14.01,15.8
+35,Oklahoma,43.61,55.89
+36,Oregon,35.25,35.11
+37,Pennsylvania,15.06,14.99
+38,Rhode Island,57.26,59.16
+39,South Carolina,27.03,27.51
+40,South Dakota,35.48,36.04
+41,Tennessee,51.24,55.38
+42,Texas,17.16,20.41
+43,Utah,33.02,35.46
+44,Vermont,49.2,52.61
+45,Virginia,39.6,36.26
+46,Washington,45.62,47.95
+47,West Virginia,58.74,62.83
+48,Wisconsin,17.38,17.67
+49,Wyoming,50.44,28.74

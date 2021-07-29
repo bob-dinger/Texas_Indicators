@@ -1,53 +1,53 @@
-Year,State,Point estimate
-2018,National,6.7
-2018,AL,6.8
-2018,AK,5.9
-2018,AZ,6.6
-2018,AR,6.6
-2018,CA,6.3
-2018,CO,7.1
-2018,CT,6.8
-2018,DE,6.7
-2018,DC,7.3
-2018,FL,6.7
-2018,GA,6.7
-2018,HI,6.4
-2018,ID,6.6
-2018,IL,6.7
-2018,IN,6.3
-2018,IA,6.8
-2018,KS,6.7
-2018,KY,6.7
-2018,LA,6.3
-2018,ME,6.6
-2018,MD,7.3
-2018,MA,7.4
-2018,MI,6.5
-2018,MN,6.8
-2018,MS,6.5
-2018,MO,6.7
-2018,MT,6.5
-2018,NE,7.3
-2018,NV,6.1
-2018,NH,6.8
-2018,NJ,6.6
-2018,NM,6.2
-2018,NY,6.9
-2018,NC,6.7
-2018,ND,6.8
-2018,OH,6.1
-2018,OK,6.6
-2018,OR,6.7
-2018,PA,6.7
-2018,RI,7.2
-2018,SC,6.7
-2018,SD,6.3
-2018,TN,6.8
-2018,TX,6.5
-2018,UT,7.1
-2018,VT,7.2
-2018,VA,7.2
-2018,WA,6.5
-2018,WV,6.1
-2018,WI,6.8
-2018,WY,6.4
+,Year,State,Point estimate
+0,2018,,6.7
+1,2018,Alabama,6.8
+2,2018,Alaska,5.9
+3,2018,Arizona,6.6
+4,2018,Arkansas,6.6
+5,2018,California,6.3
+6,2018,Colorado,7.1
+7,2018,Connecticut,6.8
+8,2018,Delaware,6.7
+9,2018,,7.3
+10,2018,Florida,6.7
+11,2018,Georgia,6.7
+12,2018,Hawaii,6.4
+13,2018,Idaho,6.6
+14,2018,Illinois,6.7
+15,2018,Indiana,6.3
+16,2018,Iowa,6.8
+17,2018,Kansas,6.7
+18,2018,Kentucky,6.7
+19,2018,Louisiana,6.3
+20,2018,Maine,6.6
+21,2018,Maryland,7.3
+22,2018,Massachusetts,7.4
+23,2018,Michigan,6.5
+24,2018,Minnesota,6.8
+25,2018,Mississippi,6.5
+26,2018,Missouri,6.7
+27,2018,Montana,6.5
+28,2018,Nebraska,7.3
+29,2018,Nevada,6.1
+30,2018,New Hampshire,6.8
+31,2018,New Jersey,6.6
+32,2018,New Mexico,6.2
+33,2018,New York,6.9
+34,2018,North Carolina,6.7
+35,2018,North Dakota,6.8
+36,2018,Ohio,6.1
+37,2018,Oklahoma,6.6
+38,2018,Oregon,6.7
+39,2018,Pennsylvania,6.7
+40,2018,Rhode Island,7.2
+41,2018,South Carolina,6.7
+42,2018,South Dakota,6.3
+43,2018,Tennessee,6.8
+44,2018,Texas,6.5
+45,2018,Utah,7.1
+46,2018,Vermont,7.2
+47,2018,Virginia,7.2
+48,2018,Washington,6.5
+49,2018,West Virginia,6.1
+50,2018,Wisconsin,6.8
+51,2018,Wyoming,6.4

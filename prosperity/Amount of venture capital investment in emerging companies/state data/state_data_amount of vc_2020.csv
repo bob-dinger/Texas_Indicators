@@ -1,53 +1,53 @@
-State,Value_2020
-California,"$67,375 "
-New York,"$16,206 "
-Massachusetts,"$15,108 "
-Washington,"$3,745 "
-Texas,"$3,358 "
-North Carolina,"$2,970 "
-Florida,"$2,905 "
-Illinois,"$2,831 "
-Colorado,"$2,314 "
-Georgia,"$1,925 "
-Pennsylvania,"$1,631 "
-New Jersey,"$1,558 "
-Minnesota,"$1,525 "
-Maryland,"$1,129 "
-Utah,$953 
-Ohio,$951 
-Virginia,$804 
-Connecticut,$712 
-Missouri,$687 
-Michigan,$549 
-Tennessee,$542 
-DC,$410 
-Arizona,$394 
-Oregon,$379 
-Indiana,$225 
-Wisconsin,$213 
-Delaware,$209 
-Kentucky,$199 
-Nebraska,$186 
-Nevada,$180 
-Louisiana,$145 
-Iowa,$142 
-New Hampshire,$119 
-Alabama,$102 
-Idaho,$87 
-Kansas,$72 
-Rhode Island,$52 
-Vermont,$50 
-South Carolina,$47 
-Wyoming,$45 
-Montana,$44 
-South Dakota,$40 
-New Mexico,$37 
-Maine,$18 
-Oklahoma,$17 
-Hawaii,$16 
-Arkansas,$5 
-North Dakota,$2 
-PR,$1 
-West Virginia,$0 
-Alaska,$0 
-Mississippi,$0 
+,State,Value_2020
+0,California,"$67,375 "
+1,New York,"$16,206 "
+2,Massachusetts,"$15,108 "
+3,Washington,"$3,745 "
+4,Texas,"$3,358 "
+5,North Carolina,"$2,970 "
+6,Florida,"$2,905 "
+7,Illinois,"$2,831 "
+8,Colorado,"$2,314 "
+9,Georgia,"$1,925 "
+10,Pennsylvania,"$1,631 "
+11,New Jersey,"$1,558 "
+12,Minnesota,"$1,525 "
+13,Maryland,"$1,129 "
+14,Utah,$953 
+15,Ohio,$951 
+16,Virginia,$804 
+17,Connecticut,$712 
+18,Missouri,$687 
+19,Michigan,$549 
+20,Tennessee,$542 
+21,DC,$410 
+22,Arizona,$394 
+23,Oregon,$379 
+24,Indiana,$225 
+25,Wisconsin,$213 
+26,Delaware,$209 
+27,Kentucky,$199 
+28,Nebraska,$186 
+29,Nevada,$180 
+30,Louisiana,$145 
+31,Iowa,$142 
+32,New Hampshire,$119 
+33,Alabama,$102 
+34,Idaho,$87 
+35,Kansas,$72 
+36,Rhode Island,$52 
+37,Vermont,$50 
+38,South Carolina,$47 
+39,Wyoming,$45 
+40,Montana,$44 
+41,South Dakota,$40 
+42,New Mexico,$37 
+43,Maine,$18 
+44,Oklahoma,$17 
+45,Hawaii,$16 
+46,Arkansas,$5 
+47,North Dakota,$2 
+48,PR,$1 
+49,West Virginia,$0 
+50,Alaska,$0 
+51,Mississippi,$0 

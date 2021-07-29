@@ -14,9 +14,9 @@ Updated: yes
 
 Data Release Date:
 
-Date: 
-
 Comparisons: States
+
+----
 
 Date: 2020
 
@@ -35,10 +35,6 @@ Previous Value: $43,203
 Previous State Rank: N/A
 
 Previous Peer Rank: 
-
-
-Previous Peer Rank: 
-
 
 ----
 Metric Trend: up

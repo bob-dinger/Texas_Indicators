@@ -1,51 +1,51 @@
-State,Rank_2020,Value_2020,Rank_2017
-Massachusetts,1,90,1
-California,2,82.2,2
-Utah,3,77.7,9
-Maryland,4,75.8,6
-Washington,5,75.2,3
-Virginia,6,74.9,4
-New York,7,72.8,11
-Colorado,8,72.4,7
-Connecticut,9,71.5,10
-New Jersey,10,69.7,8
-Minnesota,11,69.4,12
-Delaware,12,68.5,5
-Illinois,13,68.1,16
-Texas,14,67.9,17
-Oregon,15,67.5,13
-Georgia,16,64.4,19
-Michigan,17,63.5,15
-New Hampshire,18,62.9,14
-North Carolina,19,62.1,22
-Arizona,20,62,21
-Pennsylvania,21,61.6,23
-Florida,22,58.7,24
-Rhode Island,23,58.2,20
-Vermont,24,58,18
-Missouri,25,58,28
-Nevada,26,57,31
-Ohio,27,55.9,25
-Kansas,28,55.8,30
-Indiana,29,54.9,34
-Tennessee,30,54.8,32
-Nebraska,31,54.7,27
-Idaho,32,54.4,29
-Wisconsin,33,53.8,26
-South Carolina,33,53.2,35
-Iowa,35,52.3,37
-New Mexico,36,50.4,33
-Maine,37,50,36
-North Dakota,38,49.4,38
-Kentucky,39,49,39
-Louisiana,40,47.8,46
-South Dakota,41,47.8,41
-Alabama,42,47.8,44
-Alaska,43,46.9,42
-Montana,44,45.7,43
-Wyoming,45,45.4,47
-Hawaii,46,45.2,40
-West Virginia,47,44.7,48
-Oklahoma,48,44,45
-Arkansas,49,39.8,49
-Mississippi,50,37.1,50
+,State,Rank_2020,Value_2020,Rank_2017
+0,Massachusetts,1,90.0,1
+1,California,2,82.2,2
+2,Utah,3,77.7,9
+3,Maryland,4,75.8,6
+4,Washington,5,75.2,3
+5,Virginia,6,74.9,4
+6,New York,7,72.8,11
+7,Colorado,8,72.4,7
+8,Connecticut,9,71.5,10
+9,New Jersey,10,69.7,8
+10,Minnesota,11,69.4,12
+11,Delaware,12,68.5,5
+12,Illinois,13,68.1,16
+13,Texas,14,67.9,17
+14,Oregon,15,67.5,13
+15,Georgia,16,64.4,19
+16,Michigan,17,63.5,15
+17,New Hampshire,18,62.9,14
+18,North Carolina,19,62.1,22
+19,Arizona,20,62.0,21
+20,Pennsylvania,21,61.6,23
+21,Florida,22,58.7,24
+22,Rhode Island,23,58.2,20
+23,Vermont,24,58.0,18
+24,Missouri,25,58.0,28
+25,Nevada,26,57.0,31
+26,Ohio,27,55.9,25
+27,Kansas,28,55.8,30
+28,Indiana,29,54.9,34
+29,Tennessee,30,54.8,32
+30,Nebraska,31,54.7,27
+31,Idaho,32,54.4,29
+32,Wisconsin,33,53.8,26
+33,South Carolina,33,53.2,35
+34,Iowa,35,52.3,37
+35,New Mexico,36,50.4,33
+36,Maine,37,50.0,36
+37,North Dakota,38,49.4,38
+38,Kentucky,39,49.0,39
+39,Louisiana,40,47.8,46
+40,South Dakota,41,47.8,41
+41,Alabama,42,47.8,44
+42,Alaska,43,46.9,42
+43,Montana,44,45.7,43
+44,Wyoming,45,45.4,47
+45,Hawaii,46,45.2,40
+46,West Virginia,47,44.7,48
+47,Oklahoma,48,44.0,45
+48,Arkansas,49,39.8,49
+49,Mississippi,50,37.1,50

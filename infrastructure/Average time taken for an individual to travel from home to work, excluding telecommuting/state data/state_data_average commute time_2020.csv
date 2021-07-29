@@ -1,53 +1,53 @@
-State,Value_2020
-South Dakota,17.2minutes
-North Dakota,17.3minutes
-Wyoming,17.9minutes
-Montana,18.3minutes
-Nebraska,18.8minutes
-Alaska,19.1minutes
-Iowa,19.3minutes
-Kansas,19.4minutes
-Idaho,21.1minutes
-Arkansas,21.7minutes
-Oklahoma,21.9minutes
-Utah,21.9minutes
-Wisconsin,22.2minutes
-New Mexico,22.3minutes
-Vermont,23.3minutes
-Kentucky,23.6minutes
-Minnesota,23.7minutes
-Ohio,23.7minutes
-Indiana,23.8minutes
-Missouri,23.9minutes
-Oregon,23.9minutes
-Maine,24.2minutes
-Michigan,24.6minutes
-Nevada,24.6minutes
-Mississippi,24.8minutes
-North Carolina,24.8minutes
-Alabama,24.9minutes
-Rhode Island,25.2minutes
-Tennessee,25.2minutes
-Arizona,25.7minutes
-Louisiana,25.7minutes
-Colorado,25.8minutes
-West Virginia,25.9minutes
-South Carolina,25minutes
-Delaware,26.3minutes
-Connecticut,26.6minutes
-Texas,26.6minutes
-Pennsylvania,27.2minutes
-Hawaii,27.5minutes
-New Hampshire,27.5minutes
-Florida,27.8minutes
-Virginia,28.7minutes
-Georgia,28.8minutes
-Washington,28minutes
-Illinois,29.2minutes
-Puerto Rico,29.3minutes
-California,29.8minutes
-Massachusetts,30.2minutes
-District of Columbia,30.8minutes
-New Jersey,32.2minutes
-Maryland,33.2minutes
-New York,33.6minutes
+,State,Value_2020
+0,South Dakota,17.2minutes
+1,North Dakota,17.3minutes
+2,Wyoming,17.9minutes
+3,Montana,18.3minutes
+4,Nebraska,18.8minutes
+5,Alaska,19.1minutes
+6,Iowa,19.3minutes
+7,Kansas,19.4minutes
+8,Idaho,21.1minutes
+9,Arkansas,21.7minutes
+10,Oklahoma,21.9minutes
+11,Utah,21.9minutes
+12,Wisconsin,22.2minutes
+13,New Mexico,22.3minutes
+14,Vermont,23.3minutes
+15,Kentucky,23.6minutes
+16,Minnesota,23.7minutes
+17,Ohio,23.7minutes
+18,Indiana,23.8minutes
+19,Missouri,23.9minutes
+20,Oregon,23.9minutes
+21,Maine,24.2minutes
+22,Michigan,24.6minutes
+23,Nevada,24.6minutes
+24,Mississippi,24.8minutes
+25,North Carolina,24.8minutes
+26,Alabama,24.9minutes
+27,Rhode Island,25.2minutes
+28,Tennessee,25.2minutes
+29,Arizona,25.7minutes
+30,Louisiana,25.7minutes
+31,Colorado,25.8minutes
+32,West Virginia,25.9minutes
+33,South Carolina,25minutes
+34,Delaware,26.3minutes
+35,Connecticut,26.6minutes
+36,Texas,26.6minutes
+37,Pennsylvania,27.2minutes
+38,Hawaii,27.5minutes
+39,New Hampshire,27.5minutes
+40,Florida,27.8minutes
+41,Virginia,28.7minutes
+42,Georgia,28.8minutes
+43,Washington,28minutes
+44,Illinois,29.2minutes
+45,Puerto Rico,29.3minutes
+46,California,29.8minutes
+47,Massachusetts,30.2minutes
+48,District of Columbia,30.8minutes
+49,New Jersey,32.2minutes
+50,Maryland,33.2minutes
+51,New York,33.6minutes

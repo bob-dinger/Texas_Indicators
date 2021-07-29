@@ -16,7 +16,6 @@ Data Release Date: October 2020
 
 Comparisons: States
 
-
 ----
 
 Date: 2019
