@@ -1,0 +1,65 @@
+﻿Indicator,Per person state public health funding
+Source,"<div><em>Shortchanging America's Health, Investing in America's Health</em>, <em>The Impact of Chronic Underfunding on America's Public Health System</em>, Trust for America's Health (TFAH).<br />
+<br />
+</div>
+<div><em>Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico</em>, U.S. Census Bureau, Population Division.<br />
+</div>
+<br />
+Suggested Citation:<br />
+SHADAC analysis of [DATA SOURCE], State Health Compare, SHADAC, University of Minnesota, statehealthcompare.shadac.org, Accessed [DATE]."
+Notes,Dollar amount represents state per capita public health funding during the fiscal year. Figures represent state funding only. Data not available for 2006.
+Description,Per capita public health funding in each state.
+
+
+Fips,Location,TimeFrame,Data Type,Data,MOE
+01,Alabama,2019,Dollars,54.25,
+02,Alaska,2019,Dollars,98.25,
+04,Arizona,2019,Dollars,15.25,
+05,Arkansas,2019,Dollars,48.23,
+06,California,2019,Dollars,71.89,
+08,Colorado,2019,Dollars,51.25,
+09,Connecticut,2019,Dollars,32.47,
+10,Delaware,2019,Dollars,34.31,
+11,Dist. of Columbia,2019,Dollars,363.18,
+12,Florida,2019,Dollars,18.62,
+13,Georgia,2019,Dollars,27.35,
+15,Hawaii,2019,Dollars,127.36,
+16,Idaho,2019,Dollars,85.26,
+17,Illinois,2019,Dollars,30.21,
+18,Indiana,2019,Dollars,15.08,
+19,Iowa,2019,Dollars,82.78,
+20,Kansas,2019,Dollars,13.01,
+21,Kentucky,2019,Dollars,35.46,
+22,Louisiana,2019,Dollars,24.81,
+23,Maine,2019,Dollars,27.37,
+24,Maryland,2019,Dollars,43.13,
+25,Massachusetts,2019,Dollars,83.44,
+26,Michigan,2019,Dollars,15.17,
+27,Minnesota,2019,Dollars,39.64,
+28,Mississippi,2019,Dollars,15.56,
+29,Missouri,2019,Dollars,7.13,
+30,Montana,2019,Dollars,21.73,
+31,Nebraska,2019,Dollars,38.49,
+32,Nevada,2019,Dollars,10.76,
+33,New Hampshire,2019,Dollars,21.4,
+34,New Jersey,2019,Dollars,29.21,
+35,New Mexico,2019,Dollars,139.6,
+36,New York,2019,Dollars,83.21,
+37,North Carolina,2019,Dollars,14.93,
+38,North Dakota,2019,Dollars,58.6,
+39,Ohio,2019,Dollars,14.01,
+40,Oklahoma,2019,Dollars,43.61,
+41,Oregon,2019,Dollars,35.25,
+42,Pennsylvania,2019,Dollars,15.06,
+44,Rhode Island,2019,Dollars,57.26,
+45,South Carolina,2019,Dollars,27.03,
+46,South Dakota,2019,Dollars,35.48,
+47,Tennessee,2019,Dollars,51.24,
+48,Texas,2019,Dollars,17.16,
+49,Utah,2019,Dollars,33.02,
+50,Vermont,2019,Dollars,49.2,
+51,Virginia,2019,Dollars,39.6,
+53,Washington,2019,Dollars,45.62,
+54,West Virginia,2019,Dollars,58.74,
+55,Wisconsin,2019,Dollars,17.38,
+56,Wyoming,2019,Dollars,50.44,

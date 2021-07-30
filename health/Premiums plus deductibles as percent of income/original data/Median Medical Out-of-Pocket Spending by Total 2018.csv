@@ -1,0 +1,86 @@
+﻿Indicator,Median Medical Out-of-Pocket Spending by Total
+Source,"<span style="font-size: 18px;">SHADAC analysis of the Current Population Survey's Annual Social and Economic Supplements (CPS) public use microdata files.<br />
+<br />
+Suggested Citation:<br />
+SHADAC analysis of [DATA SOURCE], State Health Compare, SHADAC, University of Minnesota, statehealthcompare.shadac.org, Accessed [DATE].</span>"
+Notes,"<div></div>
+<span style="font-size: 18px;">
+<normal>
+</normal>
+</span>
+<div><span style="font-size: 18px;">Family defined as a Health Insurance Unit (HIU), based on individuals who would likely be considered a family unit in determining eligibility for either private or public coverage. The margin of error (MOE) represents the uncertainty of an estimate due to sampling variability; the calculated MOE is 95%. N/A indicates that data were not available or suppressed because the number of sample cases was too small.</span></div>
+<div><span style="font-size: 18px;"><br />
+</span></div>
+<div><span style="font-size: 18px;">Data collection for the 2020 CPS (2019 estimates) was impacted by the COVID-19 pandemic, which likely caused measurable non-response bias. Users should treat 2019 estimates with caution. More information is available in Census Working Paper <a href="https://www.census.gov/library/working-papers/2020/demo/SEHSD-WP2020-10.html">SEHSD WP2020-10</a>.<br />
+</span></div>
+<span style="font-size: 18px;">
+</span>
+<div><span style="font-size: 18px;"><br />
+</span>
+</div>
+<span style="font-size: 18px;">
+</span>
+<div><span style="font-size: 18px;">For this analysis, we estimated OOP costs for individuals using the median as the rate of measure for each state, as using the average or mean may be distorted by a few outliers representing particularly high rates of OOP spending.
+</span></div>
+<span style="font-size: 18px;">
+</span>"
+Description,"<div></div>
+<span style="font-size: 18px;">
+Annual median family medical out-of-pocket spending, including premiums, for individuals in the civilian non-institutionalized population. &ldquo;Out-of-pocket&rdquo; (OOP) is the term used to describe the costs of health care that are not covered by health insurance but paid for out of an individual&rsquo;s own resources. These costs include premiums and medical expenses not covered by their medical plan, including copays for doctor and dentist visits, diagnostic tests, prescription medicine, glasses and contacts, and medical supplies.<br />
+<br />
+</span>"
+
+
+Fips,Location,TimeFrame,Data Type,Data,MOE
+01,Alabama,2018,Dollars,1350,323.39999999999998
+02,Alaska,2018,Dollars,1200,411.59999999999997
+04,Arizona,2018,Dollars,1900,303.8
+05,Arkansas,2018,Dollars,1800,245
+06,California,2018,Dollars,1000,83.3
+08,Colorado,2018,Dollars,2400,431.2
+09,Connecticut,2018,Dollars,2800,294
+10,Delaware,2018,Dollars,2000,392
+11,Dist. of Columbia,2018,Dollars,1400,220.5
+12,Florida,2018,Dollars,1200,196
+13,Georgia,2018,Dollars,1500,220.5
+15,Hawaii,2018,Dollars,1200,196
+16,Idaho,2018,Dollars,2284,274.39999999999998
+17,Illinois,2018,Dollars,2600,356.23
+18,Indiana,2018,Dollars,2335,372.4
+19,Iowa,2018,Dollars,2520,431.2
+20,Kansas,2018,Dollars,2690,441
+21,Kentucky,2018,Dollars,1150,352.8
+22,Louisiana,2018,Dollars,1000,171.5
+23,Maine,2018,Dollars,2000,490
+24,Maryland,2018,Dollars,2600,503.23
+25,Massachusetts,2018,Dollars,2850,330.75
+26,Michigan,2018,Dollars,2100,289.10000000000002
+27,Minnesota,2018,Dollars,3580,490
+28,Mississippi,2018,Dollars,1200,196
+29,Missouri,2018,Dollars,2400,343
+30,Montana,2018,Dollars,2240,367.5
+31,Nebraska,2018,Dollars,3200,463.53999999999996
+32,Nevada,2018,Dollars,1300,269.5
+33,New Hampshire,2018,Dollars,3200,382.2
+34,New Jersey,2018,Dollars,2400,387.09999999999997
+35,New Mexico,2018,Dollars,800,212.17
+36,New York,2018,Dollars,800,139.65
+37,North Carolina,2018,Dollars,1800,274.39999999999998
+38,North Dakota,2018,Dollars,3000,401.8
+39,Ohio,2018,Dollars,2570,372.4
+40,Oklahoma,2018,Dollars,1500,245
+41,Oregon,2018,Dollars,2260,245
+42,Pennsylvania,2018,Dollars,2200,294
+44,Rhode Island,2018,Dollars,2300,544.88
+45,South Carolina,2018,Dollars,2350,318.5
+46,South Dakota,2018,Dollars,3200,1029
+47,Tennessee,2018,Dollars,1772,262.14999999999998
+48,Texas,2018,Dollars,1700,191.1
+49,Utah,2018,Dollars,2800,357.7
+50,Vermont,2018,Dollars,2790,313.60000000000002
+51,Virginia,2018,Dollars,2160,308.7
+53,Washington,2018,Dollars,2000,290.08
+54,West Virginia,2018,Dollars,1540,256.76
+55,Wisconsin,2018,Dollars,3200,285.18
+56,Wyoming,2018,Dollars,2750,857.5
+US,United States,2018,Dollars,1800,9.8000000000000007

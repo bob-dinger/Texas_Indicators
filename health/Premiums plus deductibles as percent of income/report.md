@@ -14,9 +14,7 @@ Updated: no
 
 Data Release Date: 
 
-
 Comparisons: States
-
 
 ----
 
@@ -28,7 +26,6 @@ State Rank:
 
 Peer Rank: 
 
-
 ----
 
 Previous Date: 
@@ -38,7 +35,6 @@ Previous Value:
 Previous State Rank: 
 
 Previous Peer Rank: 
-
 
 ----
 Metric Trend: 
@@ -62,6 +58,8 @@ Previous Trend:
 ### Data
 
 ### Source
+
+[Shadac](http://statehealthcompare.shadac.org/map/229/median-medical-outofpocket-spending-by-total#a/27/263)
 
 ### Notes
 

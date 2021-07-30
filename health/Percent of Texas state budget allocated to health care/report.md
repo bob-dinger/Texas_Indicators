@@ -1,38 +1,36 @@
-# Direct state spend per capita
+# Public health spend
 
-State's direct expenditures on health care per capita
+State budget allocation for public health per capita
 
 ## Health Outcomes
 
-### Goal: Value-driven system
+### Goal: Public health
 
-Texas has a high-value health care system that optimizes cost and delivers results
+Texans and their communities are empowered to adopt healthy lifestyles
 
 ### Type: Secondary indicator
 
-Updated: no
+Updated: yes
 
 Data Release Date: 
 
-Comparisons: States
-
+Comparisons: Texas
 
 ----
 
-Date: 
+Date: 2020
 
-Latest Value:  
+Latest Value:  24.4%
 
 State Rank: 
 
 Peer Rank: 
 
-
 ----
 
-Previous Date: 
+Previous Date: 2019
 
-Previous Value: 
+Previous Value: 23.5%
 
 Previous State Rank: 
 
@@ -62,7 +60,10 @@ Previous Trend:
 
 ### Source
 
+[TX Legislative Budget Board](http://sbp.lbb.state.tx.us/SBPMain.aspx)
+
 ### Notes
+
 
 
 ### Indicator Page

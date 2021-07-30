@@ -68,6 +68,8 @@ Previous Trend: Improving
 
 [Shadac](http://statehealthcompare.shadac.org/map/117/per-person-state-public-health-funding#a/32/154)
 
+[KFF](https://www.kff.org/other/state-indicator/average-annual-percent-growth-in-health-care-expenditures-by-state-of-residence/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D)
+
 ### Notes
 
 
