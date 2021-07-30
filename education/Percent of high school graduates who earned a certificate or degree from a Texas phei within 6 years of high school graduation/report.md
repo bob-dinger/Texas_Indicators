@@ -8,7 +8,7 @@ Percent of high school graduates who earned a certificate or degree from a Texas
 
 Texas students earn a postsecondary credential to access the jobs of today and tomorrow
 
-### Primary Indicator
+### Type: Primary indicator
 
 Updated: yes
 
@@ -20,21 +20,21 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value: 55.0%
+Latest Value: 0.55
 
-State Rank: 31
+State Rank: 32
 
-Peer Rank: 
+Peer Rank: 11
 
 ----
 
 Previous Date: 2019
 
-Previous Value: 53.7%
+Previous Value: 0.537
 
-Previous State Rank:  31 
+Previous State Rank:  11
 
-Previous Peer Rank: 
+Previous Peer Rank: 11
 
 ----
 Metric Trend: flat

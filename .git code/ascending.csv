@@ -1,139 +1,140 @@
-education,Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution,ascending,
-education,Educational Attainment of Migrants vs Texas,ascending,
-education,Median earnings of high school graduates who earned an Associate's or Bachelor's degree from a Texas public higher education institution,ascending,
-education,Number of seats in quality accredited childcare centers,ascending,
-education,"Percent of annual graduates demonstrating college, career, or military readiness",ascending,
-education,Percent of eligible 3- and 4-year-olds enrolled in public Pre-K,ascending,
-education,Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation,ascending,
-education,Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation,ascending,
-education,Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation and returned,ascending,
-education,Percent of population age 25-34 with a postsecondary credential,ascending,
-education,Percent of public Pre-K students ready for Kindergarten,ascending,
-education,"Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects",ascending,
-education,Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment,ascending,
-education,Percent of students at or above Proficient on the NAEP Grade 4 reading assessment,ascending,
-education,Percent of students at or above Proficient on the NAEP Grade 8 math assessment,ascending,
-education,Percent of students graduating high school within 4 years,ascending,
-education,Percent of working population earning a mid- or high-wage,ascending,
-government,Combined state and local taxes by business as percent of pre-tax gross operation margin,descending,
-government,Combined state and local taxes by individuals as percent of income,descending,
-government,Percent of adults who volunteer,ascending,
-government,Percent of voting-age population who vote in major elections,ascending,
-government,State ranking on Govtech Digital States Survey,ascending,
-government,Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income,descending,
-government,Turnover rate of state employees,descending,
-health,Average annual percent increase in per person health care expenditures in Texas,descending,
-health,Average number of mentally unhealthy days within the last 30 days reported by adults,descending,
-health,Average number of physically unhealthy days within the last 30 days reported by adults,descending,
-health,"Injury or death of population less than age 18 due to maltreatment per 100,000 population",descending,
-health,Medicaid expenditures as percent of state budget,descending,
-health,"Number of births per 1,000 females ages 15-19",descending,
-health,"Number of deaths due to drug injury per 100,000 population",descending,
-health,"Number of infant deaths before age 1 per 1,000 live births",descending,
-health,Number of years from birth a person is expected to live,ascending,
-health,Percent of adults ages 65 to 75 who reported receiving colorectal cancer screening within the recommended time period,ascending,
-health,Percent of adults and children who are obese,descending,
-health,"Percent of adults diagnosed with a depressive disorder including depression, major depression, dysthymia, or minor depression",descending,
-health,Percent of adults who report having a personal health care provider,ascending,
-health,Percent of adults who report needing to see a doctor in past year but could not due to cost,descending,
-health,Percent of adults who reported either binge or chronic drinking,descending,
-health,Percent of adults who reported no physical activity,descending,
-health,Percent of adults who reported smoking daily or some days,descending,
-health,Percent of children ages 19-35 months who received recommended vaccines,ascending,
-health,Percent of infants weighing 5.5 lb at birth,descending,
-health,"Percent of population who report having one or more of the following chronic conditions—diabetes, cardiovascular disease, and asthma",descending,
-health,Percent of population without health insurance,descending,
-health,Percent of Texas state budget allocated to health care,ascending,
-health,Personal Health Expenditures,descending,
-health,"Potentially avoidable hospital visits among adults per 1,000 insurance enrollees",descending,
-health,"Premature death from treatable medical conditions deaths per 100,000 population",descending,
-health,Premiums plus deductibles as percent of income,descending,
-health,Ratio of population to dental health providers in a county,descending,
-health,Ratio of population to mental health providers in a county,descending,
-health,Ratio of population to primary care providers in a county,descending,
-health,State budget allocation for public health per capita,ascending,
-health,the percentage of adults who reported that they received the flu vaccine within the past 12 months,ascending,
-infrastructure,Additional costs of moving power due to physical limitations of transmission infrastructure,descending,
-infrastructure,"Annual cost of time lost and fuel spent from passenger car delays, per auto commuter",descending,
-infrastructure,Average price paid for electricity across all end user sectors,descending,
-infrastructure,"Average time taken for an individual to travel from home to work, excluding telecommuting",descending,
-infrastructure,Influenza and pneumonia mortality Number of deaths in Texas whose underlying,descending,
-infrastructure,Measured using time; the amount of time shippers should budget to be on-time for 19 out of 20 trips,descending,
-infrastructure,"Measured using Travel Time Index, as a ratio of peak period travel time to free-flow travel time",descending,
-infrastructure,"Miles of road on interstate highways, other freeways and expressways, principal arterial, and minor arterial roads considered good",ascending,
-infrastructure,National Health Security Preparedness Index,ascending,
-infrastructure,Number of combined passenger and freight railway accidents,descending,
-infrastructure,Number of fatalities on roads involving at least one motor vehicle per 100 million vehicle miles traveled,descending,
-infrastructure,Percent difference between the forecasted total generation available and the forecasted peak demand in the following year,descending,
-infrastructure,Percent of bridges on national highway system rated in good or fair condition,ascending,
-infrastructure,"Percent of community anchor institutions (e.g., schools, libraries, hospitals) served by fixed broadband of at least 1 Gbps",ascending,
-infrastructure,Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index,descending,
-infrastructure,Percent of households with subscription to fixed broadband service of any speed,ascending,
-infrastructure,Percent of population with access to fixed broadband at an acceptable speed of 25 mbps or higher will shift to 1Gbps download speeds in future,ascending,
-infrastructure,Percent of population with access to only 1 fixed broadband provider,ascending,
-infrastructure,Percent of students attending public schools with at least 1 Mbps of bandwidth per student,ascending,
-infrastructure,Percent of workers using any mode to access work except single-occupancy vehicles,ascending,
-infrastructure,Percent of workers who access work by telecommuting,ascending,
-infrastructure,Percent of workers who access work by walking and biking,ascending,
-infrastructure,Total freight flows moved through Texas by all modes of transit in ton-miles,ascending,
-infrastructure,Transportation costs in an area as a percentage of area median household income,ascending,
-infrastructure,Using container dwell time; the average amount of time a container sits idle in a port,ascending,
-infrastructure,Using Level of Service; grading from A to F of traffic operating conditions on Texas Highway Freight Network,ascending,
-justice,Average cost per inmate,descending,
-justice,Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas,descending,
-justice,Corrections expenditures as percent of total state general funds expenditures,descending,
-justice,"Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education",descending,
-justice,Criminal Justice spend per capita,descending,
-justice,Incidents of domestic violence,descending,
-justice,"Injury or death of population less than age 18 due to maltreatment per 100,000 population",descending,
-justice,"Number of people homeless per 10,000 population",descending,
-justice,"Number of property crimes reported per 100,000 population",descending,
-justice,"Number of violent crimes reported per 100,000 population",descending,
-justice,Percent of children under age 17 who experienced two or more ACEs,descending,
-justice,Percent of households paying 50 percent of income for housing,descending,
-justice,Percent of households with limited or uncertain access to food,descending,
-justice,Percent of individuals released from incarceration who are rearrested within three years,descending,
-justice,Percent of population below the supplemental poverty line,descending,
-justice,Percent of population living in food deserts,descending,
-justice,Percent of TDCJ budget allocated to prison diversions,ascending,
-justice,"The number of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 people",descending,
-justice,The U.S. Chambers Institute for Legal Reform conducts a survey of in-house general counsel,descending,
-natural resources,"Amount of residential water used per day per capita, delivered through Texas water utilities",descending,
-natural resources,"Amount of water used for irrigation, per acre of cropland in Texas",ascending,
-natural resources,"Average amount of ground and surface water used for irrigation, per acre of farmland",ascending,
-natural resources,"Average amount of ground and surface water used for livestock, per head of livestock",ascending,
-natural resources,Energy content generated from renewable sources in-state,ascending,
-natural resources,"Energy content of oil, natural gas, coal, and nuclear energy extracted from the ground or generated in-state",ascending,
-natural resources,"Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040",descending,
-natural resources,Gas disposed through venting and flaring per unit of oil and gas produced,descending,
-natural resources,"Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population",ascending,
-natural resources,Net farm income measured by revenue less expenses from production in the current year,ascending,
-natural resources,"Number of acres preserved in the Public Land System or through easements per 1,000 Texans",ascending,
-natural resources,Number of days out of total reported days with an Air Quality Index (AQI) rating from Unhealthy for Certain Groups to Hazardous,descending,
-natural resources,Number of official hunting licenses and fishing licenses purchased through the Texas Department of Parks and Wildlife,ascending,
-natural resources,"Number of total visits to Texas state parks per 1,000 Texans",ascending,
-natural resources,Percent of population living in areas that do not have attainment for all pollutants under current National Ambient Air Quality Standards (NAAQS),descending,
-natural resources,Percent of population living in counties with 8-hour ozone values greater than the national standard,descending,
-natural resources,Percent of population living in counties with annual particulate matter (PM) 2.5 values greater than the national standard,descending,
-natural resources,Percent of public water systems (PWS) not identified as a serious violator based on uncorrected violations,ascending,
-natural resources,"Percent of public water systems in compliance with major testing, monitoring, and reporting procedures",ascending,
-natural resources,Percent of surface water bodies inspected found to have major impairments,descending,
-natural resources,Percent of total land acreage in Texas with approved Wildlife Management Plans with private landowners,ascending,
-natural resources,Percentage of total US oil and gas exports originating from Texas,ascending,
-natural resources,Quantity of carbon produced in-state from generating one unit of energy,descending,
-natural resources,"Total oil and gas production in Texas, as a percent of total US production",ascending,
-natural resources,"Total renewable energy produced in-state, as a percent of total US production",ascending,
-natural resources,"Value of agricultural output from Texas, as a percent of total US agricultural output",ascending,
-prosperity,Amount of venture capital investment in emerging companies,ascending,
-prosperity,Annual percent change in real GDP,ascending,
-prosperity,Cost burden rates for household renter and household owners,descending,
-prosperity,Gini index of income inequality,descending,
-prosperity,Net domestic migration gain or loss,ascending,
-prosperity,Number of Fortune 500 headquarters,ascending,
-prosperity,Number of Inc. 5000 headquarters,ascending,
-prosperity,Number of new small businesses,ascending,
-prosperity,Quality of Life ranking on Forbes Best States for Business Index,ascending,
-prosperity,Ranking on Gallup National Health and Well-Being Index,ascending,
-prosperity,Ranking on ITIF State New Economy Index,ascending,
-prosperity,Real per capita personal income and income growth,ascending,
-prosperity,Regional price parity,descending,
+policy_area,indicator,direction
+education,Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution,descending
+education,Educational Attainment of Migrants vs Texas,descending
+education,Median earnings of high school graduates who earned an Associate's or Bachelor's degree from a Texas public higher education institution,descending
+education,Number of seats in quality accredited childcare centers,descending
+education,"Percent of annual graduates demonstrating college, career, or military readiness",descending
+education,Percent of eligible 3- and 4-year-olds enrolled in public Pre-K,descending
+education,Percent of high school graduates who earned a certificate or degree from a Texas phei within 6 years of high school graduation,descending
+education,Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation,descending
+education,Percent of high school graduates who enrolled in a Texas phei the fall semester following high school graduation and returned,descending
+education,Percent of population age 25-34 with a postsecondary credential,descending
+education,Percent of public Pre-K students ready for Kindergarten,descending
+education,"Percent of students at or above Meets Grade Level on the STAAR assessments for all grades, all subjects",descending
+education,Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading assessment,descending
+education,Percent of students at or above Proficient on the NAEP Grade 4 reading assessment,descending
+education,Percent of students at or above Proficient on the NAEP Grade 8 math assessment,descending
+education,Percent of students graduating high school within 4 years,descending
+education,Percent of working population earning a mid- or high-wage,descending
+government,Combined state and local taxes by business as percent of pre-tax gross operation margin,ascending
+government,Combined state and local taxes by individuals as percent of income,ascending
+government,Percent of adults who volunteer,descending
+government,Percent of voting-age population who vote in major elections,descending
+government,State ranking on Govtech Digital States Survey,descending
+government,Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income,ascending
+government,Turnover rate of state employees,ascending
+health,Average annual percent increase in per person health care expenditures in Texas,ascending
+health,Average number of mentally unhealthy days within the last 30 days reported by adults,ascending
+health,Average number of physically unhealthy days within the last 30 days reported by adults,ascending
+health,"Injury or death of population less than age 18 due to maltreatment per 100,000 population",ascending
+health,Medicaid expenditures as percent of state budget,ascending
+health,"Number of births per 1,000 females ages 15-19",ascending
+health,"Number of deaths due to drug injury per 100,000 population",ascending
+health,"Number of infant deaths before age 1 per 1,000 live births",ascending
+health,Number of years from birth a person is expected to live,descending
+health,Percent of adults ages 65 to 75 who reported receiving colorectal cancer screening within the recommended time period,descending
+health,Percent of adults and children who are obese,ascending
+health,"Percent of adults diagnosed with a depressive disorder including depression, major depression, dysthymia, or minor depression",ascending
+health,Percent of adults who report having a personal health care provider,descending
+health,Percent of adults who report needing to see a doctor in past year but could not due to cost,ascending
+health,Percent of adults who reported either binge or chronic drinking,ascending
+health,Percent of adults who reported no physical activity,ascending
+health,Percent of adults who reported smoking daily or some days,ascending
+health,Percent of children ages 19-35 months who received recommended vaccines,descending
+health,Percent of infants weighing 5.5 lb at birth,ascending
+health,"Percent of population who report having one or more of the following chronic conditions—diabetes, cardiovascular disease, and asthma",ascending
+health,Percent of population without health insurance,ascending
+health,Percent of Texas state budget allocated to health care,descending
+health,Personal Health Expenditures,ascending
+health,"Potentially avoidable hospital visits among adults per 1,000 insurance enrollees",ascending
+health,"Premature death from treatable medical conditions deaths per 100,000 population",ascending
+health,Premiums plus deductibles as percent of income,ascending
+health,Ratio of population to dental health providers in a county,ascending
+health,Ratio of population to mental health providers in a county,ascending
+health,Ratio of population to primary care providers in a county,ascending
+health,State budget allocation for public health per capita,descending
+health,the percentage of adults who reported that they received the flu vaccine within the past 12 months,descending
+infrastructure,Additional costs of moving power due to physical limitations of transmission infrastructure,ascending
+infrastructure,"Annual cost of time lost and fuel spent from passenger car delays, per auto commuter",ascending
+infrastructure,Average price paid for electricity across all end user sectors,ascending
+infrastructure,"Average time taken for an individual to travel from home to work, excluding telecommuting",ascending
+infrastructure,Influenza and pneumonia mortality Number of deaths in Texas whose underlying,ascending
+infrastructure,Measured using time; the amount of time shippers should budget to be on-time for 19 out of 20 trips,ascending
+infrastructure,"Measured using Travel Time Index, as a ratio of peak period travel time to free-flow travel time",ascending
+infrastructure,"Miles of road on interstate highways, other freeways and expressways, principal arterial, and minor arterial roads considered good",descending
+infrastructure,National Health Security Preparedness Index,descending
+infrastructure,Number of combined passenger and freight railway accidents,ascending
+infrastructure,Number of fatalities on roads involving at least one motor vehicle per 100 million vehicle miles traveled,ascending
+infrastructure,Percent difference between the forecasted total generation available and the forecasted peak demand in the following year,ascending
+infrastructure,Percent of bridges on national highway system rated in good or fair condition,descending
+infrastructure,"Percent of community anchor institutions (e.g., schools, libraries, hospitals) served by fixed broadband of at least 1 Gbps",descending
+infrastructure,Percent of counties less resilient compared to US regional average measured by the Climate Resilience Screening Index,ascending
+infrastructure,Percent of households with subscription to fixed broadband service of any speed,descending
+infrastructure,Percent of population with access to fixed broadband at an acceptable speed of 25 mbps or higher will shift to 1Gbps download speeds in future,descending
+infrastructure,Percent of population with access to only 1 fixed broadband provider,descending
+infrastructure,Percent of students attending public schools with at least 1 Mbps of bandwidth per student,descending
+infrastructure,Percent of workers using any mode to access work except single-occupancy vehicles,descending
+infrastructure,Percent of workers who access work by telecommuting,descending
+infrastructure,Percent of workers who access work by walking and biking,descending
+infrastructure,Total freight flows moved through Texas by all modes of transit in ton-miles,descending
+infrastructure,Transportation costs in an area as a percentage of area median household income,descending
+infrastructure,Using container dwell time; the average amount of time a container sits idle in a port,descending
+infrastructure,Using Level of Service; grading from A to F of traffic operating conditions on Texas Highway Freight Network,descending
+justice,Average cost per inmate,ascending
+justice,Average number of calls answered or people served per day by 87 domestic violence assistance organizations in Texas,ascending
+justice,Corrections expenditures as percent of total state general funds expenditures,ascending
+justice,"Count of legal restrictions that limit people with criminal records from accessing employment, occupational licensing, housing, voting, and education",ascending
+justice,Criminal Justice spend per capita,ascending
+justice,Incidents of domestic violence,ascending
+justice,"Injury or death of population less than age 18 due to maltreatment per 100,000 population",ascending
+justice,"Number of people homeless per 10,000 population",ascending
+justice,"Number of property crimes reported per 100,000 population",ascending
+justice,"Number of violent crimes reported per 100,000 population",ascending
+justice,Percent of children under age 17 who experienced two or more ACEs,ascending
+justice,Percent of households paying 50 percent of income for housing,ascending
+justice,Percent of households with limited or uncertain access to food,ascending
+justice,Percent of individuals released from incarceration who are rearrested within three years,ascending
+justice,Percent of population below the supplemental poverty line,ascending
+justice,Percent of population living in food deserts,ascending
+justice,Percent of TDCJ budget allocated to prison diversions,descending
+justice,"The number of sentenced prisoners under the jurisdiction of state or federal correctional authorities per 100,000 people",ascending
+justice,The U.S. Chambers Institute for Legal Reform conducts a survey of in-house general counsel,ascending
+natural resources,"Amount of residential water used per day per capita, delivered through Texas water utilities",ascending
+natural resources,"Amount of water used for irrigation, per acre of cropland in Texas",descending
+natural resources,"Average amount of ground and surface water used for irrigation, per acre of farmland",descending
+natural resources,"Average amount of ground and surface water used for livestock, per head of livestock",descending
+natural resources,Energy content generated from renewable sources in-state,descending
+natural resources,"Energy content of oil, natural gas, coal, and nuclear energy extracted from the ground or generated in-state",descending
+natural resources,"Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040",ascending
+natural resources,Gas disposed through venting and flaring per unit of oil and gas produced,ascending
+natural resources,"Market value in dollars of all sold crop, livestock, and animal products produced in-state, divided by state population",descending
+natural resources,Net farm income measured by revenue less expenses from production in the current year,descending
+natural resources,"Number of acres preserved in the Public Land System or through easements per 1,000 Texans",descending
+natural resources,Number of days out of total reported days with an Air Quality Index (AQI) rating from Unhealthy for Certain Groups to Hazardous,ascending
+natural resources,Number of official hunting licenses and fishing licenses purchased through the Texas Department of Parks and Wildlife,descending
+natural resources,"Number of total visits to Texas state parks per 1,000 Texans",descending
+natural resources,Percent of population living in areas that do not have attainment for all pollutants under current National Ambient Air Quality Standards (NAAQS),ascending
+natural resources,Percent of population living in counties with 8-hour ozone values greater than the national standard,ascending
+natural resources,Percent of population living in counties with annual particulate matter (PM) 2.5 values greater than the national standard,ascending
+natural resources,Percent of public water systems (PWS) not identified as a serious violator based on uncorrected violations,descending
+natural resources,"Percent of public water systems in compliance with major testing, monitoring, and reporting procedures",descending
+natural resources,Percent of surface water bodies inspected found to have major impairments,ascending
+natural resources,Percent of total land acreage in Texas with approved Wildlife Management Plans with private landowners,descending
+natural resources,Percentage of total US oil and gas exports originating from Texas,descending
+natural resources,Quantity of carbon produced in-state from generating one unit of energy,ascending
+natural resources,"Total oil and gas production in Texas, as a percent of total US production",descending
+natural resources,"Total renewable energy produced in-state, as a percent of total US production",descending
+natural resources,"Value of agricultural output from Texas, as a percent of total US agricultural output",descending
+prosperity,Amount of venture capital investment in emerging companies,descending
+prosperity,Annual percent change in real GDP,descending
+prosperity,Cost burden rates for household renter and household owners,ascending
+prosperity,Gini index of income inequality,ascending
+prosperity,Net domestic migration gain or loss,descending
+prosperity,Number of Fortune 500 headquarters,descending
+prosperity,Number of Inc. 5000 headquarters,descending
+prosperity,Number of new small businesses,descending
+prosperity,Quality of Life ranking on Forbes Best States for Business Index,descending
+prosperity,Ranking on Gallup National Health and Well-Being Index,descending
+prosperity,Ranking on ITIF State New Economy Index,descending
+prosperity,Real per capita personal income and income growth,descending
+prosperity,Regional price parity,ascending

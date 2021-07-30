@@ -18,13 +18,13 @@ Comparisons: States
 
 ----
 
-Date: 2020
+Date: 2018
 
-Latest Value: 1,432 
+Latest Value: 510
 
-State Rank:  
+State Rank: 19
 
-Peer Rank: 
+Peer Rank: 2
 
 ----
 

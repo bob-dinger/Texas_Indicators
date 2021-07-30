@@ -22,19 +22,19 @@ Date: 2021
 
 Latest Value: 7.88
 
-State Rank: 6
+State Rank: 45
 
-Peer Rank: 
+Peer Rank: 11
 
 ----
 
-Previous Date: 2020
+Previous Date:  2020
 
 Previous Value: 7.9
 
-Previous State Rank: 6 
+Previous State Rank:   11
 
-Previous Peer Rank: 5
+Previous Peer Rank: 11
 
 
 Metric Trend: flat

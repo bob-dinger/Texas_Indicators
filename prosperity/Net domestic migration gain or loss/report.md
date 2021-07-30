@@ -22,22 +22,22 @@ Comparisons: States
 
 Date: 2019
 
-Latest Value: 114,818 
+Latest Value: 114818
 
-State Rank: 2
+State Rank: 3
 
-Peer Rank: 
+Peer Rank: 2
 
 
 ----
 
-Previous Date: 2018
+Previous Date:  2018
 
-Previous Value: 80,607
+Previous Value: 80607
 
-Previous State Rank: 2
+Previous State Rank:   3
 
-Previous Peer Rank: 
+Previous Peer Rank: 2
 
 
 ----

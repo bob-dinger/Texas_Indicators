@@ -1,4 +1,4 @@
-# First-year earnings of postsecondary graduates
+# First-year earnings
 
 Average first-year earnings of graduates who earned a certificate or degree from a Texas public higher education institution
 
@@ -58,8 +58,6 @@ Previous Trend:
 ### Data
 
 ![First Year Earnings](./images/earnings_2017_grads.PNG)
-
-Previous Year:
 
 ![First Year Earnings](./images/earnings_2016_grads.PNG)
 

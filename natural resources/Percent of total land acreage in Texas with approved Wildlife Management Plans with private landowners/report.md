@@ -1,4 +1,4 @@
-# Wildlife Management Plans with private landowners
+# Wildlife Plans with private landowners
 
 Percent of total land acreage in Texas with approved Wildlife Management Plans with private landowners
 

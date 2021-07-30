@@ -19,13 +19,13 @@ Comparisons: States
 
 ----
 
-Date: 
+Date: 2019
 
-Latest Value:  
+Latest Value: 8.5
 
-State Rank: N/A
+State Rank: 23
 
-Peer Rank: 
+Peer Rank: 5
 
 
 ----
@@ -34,7 +34,7 @@ Previous Date:
 
 Previous Value: 
 
-Previous State Rank: N/A
+Previous State Rank: 
 
 Previous Peer Rank: 
 

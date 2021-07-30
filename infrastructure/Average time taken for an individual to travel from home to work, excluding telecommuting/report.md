@@ -19,13 +19,13 @@ Comparisons: States
 
 ----
 
-Date: 2019
+Date: 2020
 
-Latest Value: 26.6 min 
+Latest Value: 26.6
 
-State Rank: 37
+State Rank: 36
 
-Peer Rank: 
+Peer Rank: 4
 
 
 ----

@@ -21,22 +21,22 @@ Comparisons: States
 
 Date: 2018
 
-Latest Value: $1,077.88 
+Latest Value: 1077.88
 
-State Rank: 44
+State Rank: 43
 
-Peer Rank: 
+Peer Rank: 12
 
 
 ----
 
-Previous Date: 2017
+Previous Date:  2017
 
-Previous Value: $1,032.58
+Previous Value: 1032.58
 
-Previous State Rank: 48
+Previous State Rank:   12
 
-Previous Peer Rank: 
+Previous Peer Rank: 12
 
 
 ----

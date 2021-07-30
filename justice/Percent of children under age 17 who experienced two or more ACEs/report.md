@@ -1,6 +1,5 @@
 # Adverse Childhood Experiences
 
-
 Percent of children under age 17 who experienced two or more ACEs
 
 ## Justice & Safety
@@ -21,24 +20,24 @@ Comparisons: States
 
 ----
 
-Date: 2019
+Date: 2020
 
-Latest Value: 19.4 
+Latest Value: 15.3
 
-State Rank: 22
+State Rank: 21
 
-Peer Rank: 
+Peer Rank: 8
 
 
 ----
 
-Previous Date: 2018
+Previous Date:  2019
 
-Previous Value: 16.8
+Previous Value: 19.9
 
-Previous State Rank: 12
+Previous State Rank:   8
 
-Previous Peer Rank: 6
+Previous Peer Rank: 7
 
 
 ----

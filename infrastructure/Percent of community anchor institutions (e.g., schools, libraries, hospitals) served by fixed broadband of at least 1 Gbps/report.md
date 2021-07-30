@@ -1,4 +1,6 @@
-# Percent of state agencies sharing data with other agencies (e.g., through shared enterprise systems)
+# Access at community anchor institutions
+
+Percent of community anchor institutions (e.g., schools, libraries, hospitals) served by fixed broadband of at least 1 Gbps
 
 ## Resiliency
 
@@ -14,7 +16,6 @@ Data Release Date:
 
 Comparisons: States
 
-
 ----
 
 Date: 
@@ -24,7 +25,6 @@ Latest Value:
 State Rank: 
 
 Peer Rank: 
-
 
 ----
 

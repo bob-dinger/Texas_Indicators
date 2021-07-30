@@ -18,23 +18,23 @@ Comparisons: States
 
 ----
 
-Date: 
+Date: 2019
 
-Latest Value:  
+Latest Value: 1900
 
-State Rank: 
+State Rank: 13
 
-Peer Rank: 
+Peer Rank: 5
 
 ----
 
-Previous Date: 
+Previous Date:  2018
 
-Previous Value: 
+Previous Value: 1700
 
-Previous State Rank: 
+Previous State Rank:   5
 
-Previous Peer Rank: 
+Previous Peer Rank: 5
 
 ----
 Metric Trend: 

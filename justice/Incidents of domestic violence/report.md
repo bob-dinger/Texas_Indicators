@@ -1,6 +1,5 @@
 # Domestic violence
 
-
 Incidents of domestic violence
 
 ## Justice & Safety
@@ -16,7 +15,6 @@ Updated: yes
 Data Release Date: 
 
 Comparisons: Texas
-
 
 ----
 

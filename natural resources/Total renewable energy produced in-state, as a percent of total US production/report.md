@@ -22,22 +22,22 @@ Comparisons: States
 
 Date: 2019
 
-Latest Value: 8.35% 
+Latest Value: 0.083537565
 
 State Rank: 2
 
-Peer Rank: 
+Peer Rank: 2
 
 
 ----
 
-Previous Date: 2018
+Previous Date:  2018
 
-Previous Value: 7.82%
+Previous Value: 0.0782715
 
-Previous State Rank: 3
+Previous State Rank:   2
 
-Previous Peer Rank: 
+Previous Peer Rank: 3
 
 
 ----

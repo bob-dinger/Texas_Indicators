@@ -1,4 +1,4 @@
-# ​Earnings of postsecondary graduates age 25-30
+# ​Earnings of grads age 25-30
 
 Median earnings of high school graduates who earned an Associate's or Bachelor's degree from a Texas public higher education institution
 

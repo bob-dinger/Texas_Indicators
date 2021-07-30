@@ -22,22 +22,22 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value: 19.3% 
+Latest Value: 19.3
 
 State Rank: 33
 
-Peer Rank: 
+Peer Rank: 10
 
 
 ----
 
-Previous Date: 2019
+Previous Date:  2019
 
-Previous Value: 18.7%
+Previous Value: 18.7
 
-Previous State Rank: 33
+Previous State Rank:   10
 
-Previous Peer Rank: 
+Previous Peer Rank: 10
 
 
 ----

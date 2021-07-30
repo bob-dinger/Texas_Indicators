@@ -21,22 +21,22 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value: $20.41 
+Latest Value: 20.41
 
-State Rank: 38
+State Rank: 12
 
-Peer Rank: 
+Peer Rank: 5
 
 
 ----
 
-Previous Date: 2019
+Previous Date:  2019
 
-Previous Value: $17.16
+Previous Value: 17.16
 
-Previous State Rank: 40
+Previous State Rank:   5
 
-Previous Peer Rank: 5
+Previous Peer Rank: 4
 
 
 ----

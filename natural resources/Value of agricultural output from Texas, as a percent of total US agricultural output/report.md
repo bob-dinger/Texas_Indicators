@@ -20,21 +20,21 @@ Comparisons: States
 
 Date: 2019
 
-Latest Value: 5.9% 
+Latest Value: 5.9
 
-State Rank: 3
+State Rank: 4
 
-Peer Rank: 
+Peer Rank: 2
 
 ----
 
-Previous Date: 2018
+Previous Date:  2018
 
-Previous Value: 6.0%
+Previous Value: 6
 
-Previous State Rank: 3
+Previous State Rank:   2
 
-Previous Peer Rank: 
+Previous Peer Rank: 2
 
 ----
 Metric Trend: flat

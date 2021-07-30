@@ -23,20 +23,20 @@ Date: 2021
 
 Latest Value: 5.46
 
-State Rank: 11
+State Rank: 40
 
-Peer Rank: 
+Peer Rank: 10
 
 
 ----
 
-Previous Date: 2020
+Previous Date:  2020
 
 Previous Value: 5.5
 
-Previous State Rank: 12
+Previous State Rank:   10
 
-Previous Peer Rank: 7
+Previous Peer Rank: 10
 
 
 ----

@@ -25,7 +25,7 @@ Latest Value: 96.5
 
 State Rank: 27
 
-Peer Rank: 
+Peer Rank: 4
 
 
 ----
@@ -36,7 +36,7 @@ Previous Value: 96.5
 
 Previous State Rank: 28
 
-Previous Peer Rank: 
+Previous Peer Rank: 4
 
 
 ----
