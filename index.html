@@ -70,11 +70,9 @@ tr:nth-child(even) td {
  }
 
   .linkbox {
-  	width:30%;
   	height:150px;
   	background-color:blue;
   	border-radius:4px;
-  	float:left;
   	margin:10px;
   	padding:10px;
   	color:white;
@@ -84,13 +82,28 @@ tr:nth-child(even) td {
   	font-size:18px;
   	line-height: 150px;
    	text-align: center;
+	   
   }
   .linkbox a{
 	  color:white;
   }
 
-  #row1 #row2 {
-  width: 100%;
+  #row1 {
+	display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2px 1em;
+  width: 90%;
+  height:175px;
+ margin:0 auto;
+ color:white;
+ margin-bottom:10px;
+ }
+
+ #row2 {
+	display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2px 1em;
+  width: 90%;
   height:175px;
  margin:0 auto;
  color:white;
@@ -112,6 +125,9 @@ tr:nth-child(even) td {
  <div class="linkbox"><a href="./indicator_table.html">Full Table</a></div>
  </div>
 
+
+
+ <h1>_____________________</h1>
 <h1>Indicators</h1>
 <table><tr>
 <th class="ind_column">Indicator Name</th>
