@@ -1,53 +1,51 @@
 State,Rank_2020,Value_2020,Rank_2019,Value_2019
-Massachusetts,1,3.00%,1,0.028
-Rhode Island,2,4.10%,4,0.044
-Hawaii,3,4.20%,2,0.04
-Vermont,4,4.50%,3,0.043
-Minnesota,5,4.90%,4,0.044
-Iowa,6,5.00%,6,0.047
-New York,7,5.20%,12,0.056
-Wisconsin,8,5.70%,9,0.055
-Michigan,9,5.80%,7,0.053
-Pennsylvania,9,5.80%,9,0.055
-Connecticut,11,5.90%,8,0.054
-Maryland,12,6.00%,15,0.061
-New Hampshire,13,6.30%,14,0.058
-Kentucky,14,6.40%,9,0.055
-Delaware,15,6.60%,13,0.057
-Ohio,15,6.60%,16,0.063
-Washington,15,6.60%,16,0.063
-West Virginia,18,6.70%,16,0.063
-North Dakota,19,6.90%,22,0.074
-Oregon,20,7.20%,20,0.07
-Illinois,21,7.40%,19,0.069
-California,22,7.70%,21,0.072
-New Jersey,23,7.90%,24,0.076
-Virginia,23,7.90%,31,0.088
-Colorado,25,8.00%,23,0.075
-Maine,25,8.00%,25,0.081
-Montana,27,8.30%,30,0.084
-Nebraska,27,8.30%,28,0.083
-Indiana,29,8.70%,28,0.083
-Louisiana,30,8.90%,27,0.082
-Arkansas,31,9.10%,25,0.081
-Kansas,32,9.20%,31,0.088
-Alabama,33,9.70%,37,0.097
-Utah,33,9.70%,33,0.093
-Missouri,35,10.00%,33,0.093
-New Mexico,35,10.00%,33,0.093
-Tennessee,37,10.10%,38,0.098
-South Dakota,38,10.20%,36,0.095
-Idaho,39,10.80%,40,0.106
-South Carolina,39,10.80%,42,0.108
-Arizona,41,11.30%,39,0.104
-North Carolina,41,11.30%,41,0.107
-Nevada,43,11.40%,43,0.112
-Alaska,44,12.20%,47,0.132
-Wyoming,45,12.30%,44,0.114
-Mississippi,46,13.00%,45,0.121
-Florida,47,13.20%,46,0.13
-Georgia,48,13.40%,48,0.136
-Oklahoma,49,14.30%,49,0.142
-Texas,50,18.40%,50,0.175
-United States,•,9.20%,•,0.088
-District of Columbia,•,3.50%,•,0.035
+Massachusetts,1,0.03,1,0.028
+Rhode Island,2,0.04,4,0.044
+Hawaii,3,0.04,2,0.04
+Vermont,4,0.05,3,0.043
+Minnesota,5,0.05,4,0.044
+Iowa,6,0.05,6,0.047
+New York,7,0.05,12,0.056
+Wisconsin,8,0.06,9,0.055
+Michigan,9,0.06,7,0.053
+Pennsylvania,9,0.06,9,0.055
+Connecticut,11,0.06,8,0.054
+Maryland,12,0.06,15,0.061
+New Hampshire,13,0.06,14,0.058
+Kentucky,14,0.06,9,0.055
+Delaware,15,0.07,13,0.057
+Ohio,15,0.07,16,0.063
+Washington,15,0.07,16,0.063
+West Virginia,18,0.07,16,0.063
+North Dakota,19,0.07,22,0.074
+Oregon,20,0.07,20,0.07
+Illinois,21,0.07,19,0.069
+California,22,0.08,21,0.072
+New Jersey,23,0.08,24,0.076
+Virginia,23,0.08,31,0.088
+Colorado,25,0.08,23,0.075
+Maine,25,0.08,25,0.081
+Montana,27,0.08,30,0.084
+Nebraska,27,0.08,28,0.083
+Indiana,29,0.09,28,0.083
+Louisiana,30,0.09,27,0.082
+Arkansas,31,0.09,25,0.081
+Kansas,32,0.09,31,0.088
+Alabama,33,0.10,37,0.097
+Utah,33,0.10,33,0.093
+Missouri,35,0.10,33,0.093
+New Mexico,35,0.10,33,0.093
+Tennessee,37,0.10,38,0.098
+South Dakota,38,0.10,36,0.095
+Idaho,39,0.11,40,0.106
+South Carolina,39,0.11,42,0.108
+Arizona,41,0.11,39,0.104
+North Carolina,41,0.11,41,0.107
+Nevada,43,0.11,43,0.112
+Alaska,44,0.12,47,0.132
+Wyoming,45,0.12,44,0.114
+Mississippi,46,0.13,45,0.121
+Florida,47,0.13,46,0.13
+Georgia,48,0.13,48,0.136
+Oklahoma,49,0.14,49,0.142
+Texas,50,0.18,50,0.175

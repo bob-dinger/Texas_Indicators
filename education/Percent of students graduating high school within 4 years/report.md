@@ -14,8 +14,7 @@ Updated: yes
 
 Data Release Date: 
 
-Comparisons: States
-
+Comparisons: Texas
 
 ----
 
@@ -27,7 +26,6 @@ State Rank: N/A
 
 Peer Rank: 
 
-
 ----
 
 Previous Date: 2019
@@ -37,7 +35,6 @@ Previous Value: 90%
 Previous State Rank: N/A
 
 Previous Peer Rank: 
-
 
 ----
 Metric Trend: flat
