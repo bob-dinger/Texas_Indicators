@@ -24,7 +24,7 @@ Latest Value: 45%
 
 State Rank: N/A (Texas Only Variable)
 
-Peer Rank:  N/A (Texas Only Variable)
+Peer Rank:  N/A 
 
 ----
 
@@ -32,9 +32,9 @@ Previous Date: 2018
 
 Previous Value: 43%
 
-Previous State Rank:  N/A (Texas Only Variable)
+Previous State Rank:  N/A
 
-Previous Peer Rank:  N/A (Texas Only Variable)
+Previous Peer Rank:  N/A
 
 ----
 Metric Trend: flat
