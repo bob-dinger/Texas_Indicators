@@ -22,7 +22,7 @@ Date: 2020
 
 Latest Value: 90% 
 
-State Rank: N/A
+State Rank: N/A (Texas Only Comparison)
 
 Peer Rank: 
 

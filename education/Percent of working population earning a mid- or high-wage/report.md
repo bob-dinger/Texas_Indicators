@@ -10,7 +10,7 @@ Texans have the knowledge and skills to access careers enabling economic securit
 
 ### Type: Primary indicator
 
-Updated: no | <a href="./notes.md#first-link">Link to Header</a>
+Updated: no (Need to figure out exactly which variable to use from UW Alice Report)
 
 Data Release Date: 
 
@@ -21,12 +21,11 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value:  
+Latest Value: N/A (Need to figure out exactly which variable to use from UW Alice Report)
 
 State Rank: N/A
 
-Peer Rank: 
-
+Peer Rank: N/A
 
 ----
 

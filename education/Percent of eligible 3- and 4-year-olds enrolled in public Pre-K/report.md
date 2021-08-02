@@ -23,9 +23,9 @@ Date: 2020
 
 Latest Value: 53.2% 
 
-State Rank: N/A
+State Rank: N/A (Texas Only variable)
 
-Peer Rank: 
+Peer Rank: N/A
 
 
 ----

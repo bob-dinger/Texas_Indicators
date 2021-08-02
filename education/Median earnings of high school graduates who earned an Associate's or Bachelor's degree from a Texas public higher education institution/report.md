@@ -18,13 +18,13 @@ Comparisons: Texas
 
 ----
 
-Date: 
+Date: 2018 (variable from TEA has not been updated since 2018)
 
-Latest Value: 
+Latest Value: N/A
 
-State Rank: 
+State Rank: N/A
 
-Peer Rank: 
+Peer Rank: N/A
 
 ----
 

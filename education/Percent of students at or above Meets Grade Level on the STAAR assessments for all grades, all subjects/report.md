@@ -21,11 +21,11 @@ Comparisons: Texas
 
 Date: 2019
 
-Latest Value: 50% 
+Latest Value: 50% (2020 data not collected - no testing)
 
-State Rank: N/A
+State Rank: N/A (Texas Only)
 
-Peer Rank: 
+Peer Rank: N/A
 
 
 ----

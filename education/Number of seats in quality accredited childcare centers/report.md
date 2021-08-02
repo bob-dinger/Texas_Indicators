@@ -21,7 +21,7 @@ Comparisons: Texas
 
 Date: 
 
-Latest Value:  
+Latest Value: N/A (Need to calculate from several sources)
 
 State Rank: N/A
 

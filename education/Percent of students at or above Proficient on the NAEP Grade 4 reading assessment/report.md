@@ -16,10 +16,9 @@ Data Release Date:
 
 Comparisons: States
 
-
 ----
 
-Date: 2019
+Date: 2019 (no update-taken every 2 years)
 
 Latest Value: 30
 

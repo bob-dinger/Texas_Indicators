@@ -16,17 +16,15 @@ Data Release Date:
 
 Comparisons: Texas
 
-
 ----
 
-Date: 2019
+Date: 2019 (2020 data not collected - no testing)
 
 Latest Value: 45% 
 
-State Rank: N/A
+State Rank: N/A (Texas Only Variable)
 
-Peer Rank: 
-
+Peer Rank:  N/A (Texas Only Variable)
 
 ----
 
@@ -34,10 +32,9 @@ Previous Date: 2018
 
 Previous Value: 43%
 
-Previous State Rank: N/A
+Previous State Rank:  N/A (Texas Only Variable)
 
-Previous Peer Rank: N/A
-
+Previous Peer Rank:  N/A (Texas Only Variable)
 
 ----
 Metric Trend: flat

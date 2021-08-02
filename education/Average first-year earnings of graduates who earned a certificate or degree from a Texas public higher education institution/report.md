@@ -22,9 +22,9 @@ Date: 2020
 
 Latest Value: $44,260 
 
-State Rank: N/A
+State Rank: N/A (Texas Only Variable)
 
-Peer Rank: 
+Peer Rank:  N/A
 
 ----
 
@@ -34,7 +34,7 @@ Previous Value: $43,203
 
 Previous State Rank: N/A
 
-Previous Peer Rank: 
+Previous Peer Rank: N/A
 
 ----
 Metric Trend: up
