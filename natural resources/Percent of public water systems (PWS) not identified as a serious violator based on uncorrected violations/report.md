@@ -21,7 +21,7 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value: 93.73 
+Latest Value: 93.73 (need to make sure variable is calculated correctly)
 
 State Rank: N/A
 

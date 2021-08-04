@@ -14,14 +14,13 @@ Updated: no
 
 Data Release Date: 
 
-Comparisons: States
-
+Comparisons: Metros
 
 ----
 
 Date: 
 
-Latest Value:  
+Latest Value: N/A (variable is for metros. Need to know how to calculate for Texas)
 
 State Rank: 
 

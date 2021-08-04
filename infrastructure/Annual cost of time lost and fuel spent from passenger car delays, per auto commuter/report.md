@@ -16,12 +16,11 @@ Data Release Date:
 
 Comparisons: Metros
 
-
 ----
 
 Date: 2020
 
-Latest Value: $1,097 
+Latest Value: $1,097 (value is by metro, we can average all the metros in Texas or take a single one, like Houston)
 
 State Rank: 
 

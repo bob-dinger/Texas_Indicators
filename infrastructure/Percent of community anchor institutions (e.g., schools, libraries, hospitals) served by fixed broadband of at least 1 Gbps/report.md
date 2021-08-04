@@ -20,7 +20,7 @@ Comparisons: States
 
 Date: 
 
-Latest Value: 
+Latest Value: N/A (ew report has not been issued)
 
 State Rank: 
 

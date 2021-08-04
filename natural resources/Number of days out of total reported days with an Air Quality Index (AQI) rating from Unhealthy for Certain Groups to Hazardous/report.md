@@ -16,17 +16,15 @@ Data Release Date:
 
 Comparisons: Counties
 
-
 ----
 
 Date: 2020
 
-Latest Value: 241 
+Latest Value: 241 (data is spotty, variable is at county level, no TX counties listed)
 
 State Rank: 
 
 Peer Rank: 
-
 
 ----
 

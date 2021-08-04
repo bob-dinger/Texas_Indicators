@@ -21,7 +21,7 @@ Comparisons: Counties
 
 Date: 2018
 
-Latest Value: 60% 
+Latest Value: 60%  (data is spotty, variable is at county level, no TX counties listed)
 
 State Rank: 
 

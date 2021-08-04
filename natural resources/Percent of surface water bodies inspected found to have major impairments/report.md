@@ -21,7 +21,7 @@ Comparisons: Texas
 
 Date: 2020
 
-Latest Value: 1009 
+Latest Value: 1009  (need to make sure variable is calculated correctly)
 
 State Rank: 
 

@@ -23,7 +23,7 @@ Date: 2020
 
 Latest Value: 39.37% 
 
-State Rank: 
+State Rank: N/A (need to calculate for all states - difficult)
 
 Peer Rank: 
 

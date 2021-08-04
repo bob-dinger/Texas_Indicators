@@ -14,15 +14,13 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: States
-
 
 ----
 
 Date: 2017
 
-Latest Value: 3.79 
+Latest Value: 3.79 (has not been updated since 2017)
 
 State Rank: 28
 

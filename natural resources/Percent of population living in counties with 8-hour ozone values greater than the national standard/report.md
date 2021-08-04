@@ -21,7 +21,7 @@ Comparisons: Counties
 
 Date: 2015
 
-Latest Value: 54.30% 
+Latest Value: 54.30%  (data is spotty, variable is at county level, no TX counties listed)
 
 State Rank: 
 

@@ -21,7 +21,7 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value:  
+Latest Value: N/A (not found)
 
 State Rank: 
 

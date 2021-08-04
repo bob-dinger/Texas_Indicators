@@ -16,12 +16,11 @@ Data Release Date:
 
 Comparisons: States
 
-
 ----
 
-Date: 2018
+Date: 2018 (census of agriculture, irrigation has not been updated)
 
-Latest Value: 416,481.22 
+Latest Value: 416,481.22
 
 State Rank: N/A
 

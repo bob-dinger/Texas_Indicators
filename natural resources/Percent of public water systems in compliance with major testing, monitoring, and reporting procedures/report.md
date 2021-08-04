@@ -21,7 +21,7 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value: 67.08% 
+Latest Value: 67.08%  (need to make sure variable is calculated correctly)
 
 State Rank: N/A
 

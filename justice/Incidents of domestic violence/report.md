@@ -20,7 +20,7 @@ Comparisons: Texas
 
 Date: 2019
 
-Latest Value: 196,902 
+Latest Value: 196,902
 
 State Rank: N/A
 

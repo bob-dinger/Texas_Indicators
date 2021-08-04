@@ -21,7 +21,7 @@ Comparisons: States
 
 Date: 
 
-Latest Value: 
+Latest Value: N/A (report not updated since last strategic framework)
 
 State Rank: 
 

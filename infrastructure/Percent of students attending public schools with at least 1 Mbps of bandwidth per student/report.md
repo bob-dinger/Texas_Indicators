@@ -21,7 +21,7 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value: 34% 
+Latest Value: 34% (new source)
 
 State Rank: 20
 

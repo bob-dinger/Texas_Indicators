@@ -21,7 +21,7 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value:  
+Latest Value: N/A (not calculated for the new urban mobility report - they did not get enough data during covid)
 
 State Rank: 
 

@@ -16,17 +16,15 @@ Data Release Date:
 
 Comparisons: Texas
 
-
 ----
 
 Date: 2019
 
 Latest Value: 18.47% 
 
-State Rank: N/A
+State Rank: N/A (Texas only)
 
 Peer Rank: 
-
 
 ----
 

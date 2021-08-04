@@ -10,16 +10,15 @@ Texas leads in agricultural production with responsible natural resource steward
 
 ### Type: Secondary indicator
 
-Updated: no (last update: 2017)
+Updated: no
 
 Data Release Date: 
 
 Comparisons: States
 
-
 ----
 
-Date: 2017
+Date: 2017  (last updated in 2017)
 
 Latest Value:  
 

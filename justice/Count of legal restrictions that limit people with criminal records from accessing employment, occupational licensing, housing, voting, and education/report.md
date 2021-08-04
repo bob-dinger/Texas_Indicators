@@ -31,7 +31,7 @@ Peer Rank:
 
 ----
 
-Previous Date: N/A
+Previous Date: N/A (this is a dynamic list, not an annual report so past is not available)
 
 Previous Value: N/A
 

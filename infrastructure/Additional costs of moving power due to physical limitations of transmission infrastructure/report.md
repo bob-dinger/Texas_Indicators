@@ -20,7 +20,7 @@ Comparisons: Texas
 
 Date: 2020
 
-Latest Value:  
+Latest Value: N/A (need to find specific variable within ERCOT PDF report)
 
 State Rank: 
 

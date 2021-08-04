@@ -16,12 +16,11 @@ Data Release Date:
 
 Comparisons: Texas
 
-
 ----
 
 Date: 
 
-Latest Value:  
+Latest Value: N/A (need to figure out how to find variable from PDF report)
 
 State Rank: 
 
