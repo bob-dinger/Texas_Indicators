@@ -84,7 +84,45 @@ tr:nth-child(even) td {
  .redrow{
 	 border:1px solid red;
  }
- </style><h1>Indicators by Policy Area</h1>
+   .linkbox {
+  	height:150px;
+  	background-color:blue;
+  	border-radius:4px;
+  	margin:10px;
+  	padding:10px;
+  	color:white;
+  	border:1px solid red;
+  	text-align:center;
+  	vertical-align:middle;
+  	font-size:18px;
+  	line-height: 150px;
+   	text-align: center;
+	   
+  }
+  .linkbox a{
+	  color:white;
+  }
+
+  #row1 {
+	display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2px 1em;
+  width: 90%;
+  height:175px;
+ margin:0 auto;
+ color:white;
+ margin-bottom:10px;
+ }
+
+ #row2 {
+	display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  grid-gap: 2px 1em;
+  width: 90%;
+  height:175px;
+ margin:0 auto;
+ color:white;
+ }</style><div id="hoverbox"></div><h1>Indicators by Policy Area</h1>
 <h2>education</h2>
 <table><tr>
 <th class="ind_column">Indicator Name</th>
@@ -2571,3 +2609,27 @@ tr:nth-child(even) td {
 </tr>
 </table>
 
+<script>
+	
+function show_hover(e){
+	
+	var comparendo = e.target.dataset.message;
+	
+
+	var x = e.pageX;
+	var y = e.pageY;
+
+	var hov = document.getElementById("hoverbox");
+	hov.style.visibility = "visible";
+	hov.style.left = x;
+	hov.style.top = y;
+	hov.textContent = e.target.dataset.message;
+
+}
+
+function hide_hover()
+{
+	var hov = document.getElementById("hoverbox");
+	hov.style.visibility = "hidden";
+}
+</script></html>
