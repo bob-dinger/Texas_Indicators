@@ -83,7 +83,7 @@ tr:nth-child(even) td {
 
  .redrow{
 	 border:1px solid red;
- }
+	 }
  img{
  	display: block;
 	margin-left: auto;
@@ -93,11 +93,8 @@ tr:nth-child(even) td {
  text-align:center;
  color:lightgray;
  }
-
  </style>
 
-
-<div id="hoverbox"></div>
 <h1>Indicators by Type</h1>
 <h2>Primary</h2>
 
@@ -785,13 +782,12 @@ tr:nth-child(even) td {
 <td> States</td>
 <td> 2020</td>
 <td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='not found)'> N/A </td>
-<td> N/A</td>
-<td> N/A</td>
+<td> </td>
+<td> </td>
 <td> 2019</td>
-<td> N/A</td>
-<td> N/A</td>
+<td> </td>
+<td> </td>
 <td> 1</td>
-<td> N/A</td>
 <td> Rank 1</td>
 <td> 1.2</td>
 <td> 1.2</td>
@@ -1110,7 +1106,6 @@ tr:nth-child(even) td {
 <td> </td>
 <td> </td>
 <td> </td>
-<td> </td>
 </tr>
 <tr>
 <td><a href="./natural resources/Percent of public water systems (PWS) not identified as a serious violator based on uncorrected violations/report.html">Drinking water attainment</a></td>
@@ -1190,7 +1185,6 @@ tr:nth-child(even) td {
 <td> </td>
 <td> N/A</td>
 <td> 7</td>
-<td> </td>
 <td> #1</td>
 <td> 15</td>
 <td> #1</td>
@@ -1198,27 +1192,4 @@ tr:nth-child(even) td {
 </tr>
 </table>
 
-<br/><br/><br/><br/><br/><br/><br/><br/><script>
-
-function show_hover(e){
-
-	var comparendo = e.target.dataset.message;
-
-
-	var x = e.pageX;
-	var y = e.pageY;
-
-	var hov = document.getElementById("hoverbox");
-	hov.style.visibility = "visible";
-	hov.style.left = x;
-	hov.style.top = y;
-	hov.textContent = e.target.dataset.message;
-
-}
-
-function hide_hover()
-{
-	var hov = document.getElementById("hoverbox");
-	hov.style.visibility = "hidden";
-}
-</script></body></html>
+<br/><br/><br/><br/><br/><br/><br/><br/>
