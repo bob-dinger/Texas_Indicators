@@ -10,36 +10,35 @@ Texans have the knowledge and skills to access careers enabling economic securit
 
 ### Type: Primary indicator
 
-Updated: no (Need to figure out exactly which variable to use from UW Alice Report)
+Updated: yes
 
 Data Release Date: 
 
 Comparisons: States
 
-
 ----
 
-Date: 2020
+Date: 2018
 
-Latest Value: N/A (Need to figure out exactly which variable to use from UW Alice Report)
+Latest Value: 44%
 
-State Rank: N/A
+State Rank: 37
 
 Peer Rank: N/A
 
 ----
 
-Previous Date: 2019
+Previous Date: 2016
 
-Previous Value: 
+Previous Value: 42%
 
 Previous State Rank: N/A
 
-Previous Peer Rank: 10
+Previous Peer Rank: 
 
 
 ----
-Metric Trend: 
+Metric Trend: down
 
 Target: Top 3
 
@@ -61,6 +60,9 @@ Previous Trend: Flat
 ### Data
 
 ### Source
+
+[National Comparison](https://www.unitedforalice.org/national-comparison)
+
 [United Way - ALICE Report](2020ALICEReport_TX_FINAL.pdf)
 
 [Previous Source](https://www.brookings.edu/research/meet-the-low-wage-workforce/)

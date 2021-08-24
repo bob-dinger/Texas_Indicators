@@ -10,7 +10,7 @@ Texans can rely on a sufficient water supply
 
 ### Type: Primary indicator
 
-Updated: no
+Updated: yes
 
 Data Release Date: 
 
@@ -18,28 +18,28 @@ Comparisons: Texas
 
 ----
 
-Date: 
+Date: 2020
 
-Latest Value: N/A (need to figure out how to find variable from PDF report)
+Latest Value: 3,116,261
 
-State Rank: 
+State Rank: N/A
 
-Peer Rank: 
-
-
-----
-
-Previous Date: 
-
-Previous Value: 
-
-Previous State Rank: 
-
-Previous Peer Rank: 
+Peer Rank: N/A
 
 
 ----
-Metric Trend: 
+
+Previous Date: 2017
+
+Previous Value: 4,759,781
+
+Previous State Rank: N/A 
+
+Previous Peer Rank: N/A
+
+
+----
+Metric Trend: up
 
 Target: 2.3 M acre-feet/year
 40% reduction in 2030-2040 annual projected gap (equal to 2.3 M acre-feet/year)
@@ -61,6 +61,8 @@ Previous Trend: Worsening
 ### Data
 
 ### Source
+
+[Water Plan](https://texasstatewaterplan.org/statewide)
 
 [2022 State Water Plan](https://2022.texasstatewaterplan.org/statewide)
 

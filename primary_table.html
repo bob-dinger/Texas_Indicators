@@ -67,6 +67,23 @@ tr:nth-child(even) td {
  	background-color:#a1454a !important;
 	color: white !important;
  }
+ 
+ 
+ 
+  #hoverbox{
+	z-index: 5;
+	position:absolute;
+	background-color:white;
+	border:1px solid red;
+	border-radius: 4px;
+	visibility: hidden;
+	color:black;
+	padding:5px;
+ }
+
+ .redrow{
+	 border:1px solid red;
+ }
  </style><h1>Indicators by Type</h1>
 <h2>Primary</h2>
 <table><tr>
@@ -74,8 +91,8 @@ tr:nth-child(even) td {
 <th>Policy Area</th>
 <th>Goal</th>
 <th>Type</th>
-<th>Comp</th>
 <th>Updated</th>
+<th>Comp</th>
 <th>Year</th>
 <th>Value</th>
 <th>Rank</th>
@@ -105,7 +122,7 @@ tr:nth-child(even) td {
 <td> 0.537</td>
 <td>  11</td>
 <td> 11</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> </td>
 <td> 32%</td>
 <td> 80%</td>
@@ -118,7 +135,7 @@ tr:nth-child(even) td {
 <td> Primary </td>
 <td>yes</td>
 <td> States</td>
-<td> 2019</td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='no update-taken every 2 years)'> 2019 </td>
 <td> 30</td>
 <td> 44</td>
 <td> 12</td>
@@ -126,7 +143,7 @@ tr:nth-child(even) td {
 <td> 29%</td>
 <td> 45</td>
 <td> 12</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> Top 3</td>
 <td> 30%</td>
 <td> 38%</td>
@@ -137,17 +154,17 @@ tr:nth-child(even) td {
 <td>education</td>
 <td> Jobs</td>
 <td> Primary </td>
-<td class="not_updated">no</td>
+<td>yes</td>
 <td> States</td>
-<td> 2020</td>
-<td>  </td>
+<td> 2018</td>
+<td> 44%</td>
+<td> 37</td>
+<td> N/A</td>
+<td> 2016</td>
+<td> 42%</td>
 <td> N/A</td>
 <td> </td>
-<td> 2019</td>
-<td> </td>
-<td> N/A</td>
-<td> 10</td>
-<td> </td>
+<td class="down"> down</td>
 <td> Top 3</td>
 <td> 58%</td>
 <td> 60%</td>
@@ -168,7 +185,7 @@ tr:nth-child(even) td {
 <td> 5.5</td>
 <td>   10</td>
 <td> 10</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 6</td>
 <td> </td>
 <td> N/A</td>
@@ -189,7 +206,7 @@ tr:nth-child(even) td {
 <td> 7.9</td>
 <td>   11</td>
 <td> 11</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 3</td>
 <td> </td>
 <td> N/A</td>
@@ -210,7 +227,7 @@ tr:nth-child(even) td {
 <td> 48.4</td>
 <td>   12</td>
 <td> 12</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> Top 9</td>
 <td> 48.4</td>
 <td> 53%</td>
@@ -223,15 +240,15 @@ tr:nth-child(even) td {
 <td> Primary </td>
 <td>yes</td>
 <td> States</td>
+<td> 2020</td>
+<td> 1.192</td>
+<td> 8</td>
+<td> 3</td>
 <td> 2019</td>
-<td> 1.1</td>
-<td> 10</td>
-<td> 2</td>
-<td> </td>
-<td> </td>
-<td> N/A</td>
-<td> </td>
-<td> </td>
+<td> 1.161</td>
+<td> 8</td>
+<td> 3</td>
+<td class="flat"> flat</td>
 <td> Top 3</td>
 <td> 7.10%</td>
 <td> 5.20%</td>
@@ -252,7 +269,7 @@ tr:nth-child(even) td {
 <td> 20.3%</td>
 <td> N/A</td>
 <td> </td>
-<td> up</td>
+<td class="up"> up</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -273,7 +290,7 @@ tr:nth-child(even) td {
 <td> 17.16</td>
 <td>   5</td>
 <td> 4</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 3</td>
 <td> 5.1</td>
 <td> 3.5%</td>
@@ -294,7 +311,7 @@ tr:nth-child(even) td {
 <td> 78.4</td>
 <td>   8</td>
 <td> 9</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> Top 3</td>
 <td> 78.5</td>
 <td> 80.5</td>
@@ -315,7 +332,7 @@ tr:nth-child(even) td {
 <td> 34.8</td>
 <td>   11</td>
 <td> 12</td>
-<td> down</td>
+<td class="down"> down</td>
 <td> Top 6</td>
 <td> 35% (adults); 32% (children)</td>
 <td> 31%</td>
@@ -336,7 +353,7 @@ tr:nth-child(even) td {
 <td> 68.2</td>
 <td>   12</td>
 <td> 12</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 3</td>
 <td> 68%</td>
 <td> 80%</td>
@@ -357,7 +374,7 @@ tr:nth-child(even) td {
 <td> 16.8</td>
 <td>   12</td>
 <td> 11</td>
-<td> down</td>
+<td class="down"> down</td>
 <td> Top 3</td>
 <td> 17%</td>
 <td> 11%</td>
@@ -378,7 +395,7 @@ tr:nth-child(even) td {
 <td> 14.4</td>
 <td>   7</td>
 <td> 4</td>
-<td> down</td>
+<td class="down"> down</td>
 <td> Top 6</td>
 <td> 14%</td>
 <td> 15%</td>
@@ -399,7 +416,7 @@ tr:nth-child(even) td {
 <td> 75.7</td>
 <td>   11</td>
 <td> 7</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -420,7 +437,7 @@ tr:nth-child(even) td {
 <td> 8.4</td>
 <td>   6</td>
 <td> 5</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 3</td>
 <td> 8.4%</td>
 <td> 8.1%</td>
@@ -441,7 +458,7 @@ tr:nth-child(even) td {
 <td> 9.6%</td>
 <td> N/A</td>
 <td> </td>
-<td> up</td>
+<td class="up"> up</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -462,7 +479,7 @@ tr:nth-child(even) td {
 <td> 0.175</td>
 <td>   12</td>
 <td> 12</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 3</td>
 <td> 18%</td>
 <td> 6.4%</td>
@@ -483,7 +500,7 @@ tr:nth-child(even) td {
 <td> 53.2</td>
 <td>   8</td>
 <td> 9</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> Top 3</td>
 <td> 7.2</td>
 <td> 5.9</td>
@@ -504,7 +521,7 @@ tr:nth-child(even) td {
 <td> 7,240</td>
 <td> 22</td>
 <td> 10</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 3</td>
 <td> 95</td>
 <td> 71</td>
@@ -525,7 +542,7 @@ tr:nth-child(even) td {
 <td> 111.8</td>
 <td>   1</td>
 <td> 1</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 3</td>
 <td> 960:1</td>
 <td> 310:1</td>
@@ -546,7 +563,7 @@ tr:nth-child(even) td {
 <td> 182.6</td>
 <td>   2</td>
 <td> 2</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> Top 3</td>
 <td> 1,660:1</td>
 <td> 1,230:1</td>
@@ -567,7 +584,7 @@ tr:nth-child(even) td {
 <td> 26.4</td>
 <td>   9</td>
 <td> 12</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> Top 6</td>
 <td> 43%</td>
 <td> 48%</td>
@@ -581,14 +598,14 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> Metros</td>
 <td> 2020</td>
-<td> $1,097 </td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='value is by metro, we can average all the metros in Texas or take a single one, like Houston)'> $1,097 </td>
 <td> </td>
 <td> </td>
 <td> 2019</td>
 <td> $1,635</td>
 <td> </td>
 <td> </td>
-<td> up</td>
+<td class="up"> up</td>
 <td> 922</td>
 <td> 981</td>
 <td> 922</td>
@@ -609,7 +626,7 @@ tr:nth-child(even) td {
 <td> 8.48</td>
 <td>   2</td>
 <td> 2</td>
-<td> down</td>
+<td class="down"> down</td>
 <td> Top 6</td>
 <td> 8.5</td>
 <td> 9.6</td>
@@ -623,14 +640,14 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> States</td>
 <td> 2019</td>
-<td> 6.7 </td>
+<td> 6.7</td>
 <td> 13</td>
 <td> </td>
 <td> 2018</td>
-<td> 6.6</td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='2020 value is not comparable to their previous versions)'> 6.6 </td>
 <td> 19</td>
 <td> 9</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> Top 6</td>
 <td> 6.5</td>
 <td> 6.7</td>
@@ -651,7 +668,7 @@ tr:nth-child(even) td {
 <td> 1.29</td>
 <td> 34</td>
 <td> 11</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 9</td>
 <td> 1.29</td>
 <td> 1.17</td>
@@ -665,14 +682,14 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> Texas</td>
 <td> 2020</td>
-<td> -3.02% </td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='need to make sure this was calculated correctly from source materials)'> -3.02% </td>
 <td> N/A</td>
 <td> </td>
 <td> 2019</td>
 <td> -.04%</td>
 <td> </td>
 <td> </td>
-<td> down</td>
+<td class="down"> down</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -693,7 +710,7 @@ tr:nth-child(even) td {
 <td> 0.845139408</td>
 <td>   6</td>
 <td> 8</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> Top 6</td>
 <td> 66%</td>
 <td> 71%</td>
@@ -714,7 +731,7 @@ tr:nth-child(even) td {
 <td> 85.7</td>
 <td>   12</td>
 <td> 9</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -735,7 +752,7 @@ tr:nth-child(even) td {
 <td> 80.7</td>
 <td>   3</td>
 <td> 2</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 6</td>
 <td> 18%</td>
 <td> 23%</td>
@@ -749,14 +766,13 @@ tr:nth-child(even) td {
 <td class="not_updated">no</td>
 <td> States</td>
 <td> 2020</td>
-<td>  </td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='not found)'> N/A </td>
 <td> </td>
 <td> </td>
 <td> 2019</td>
 <td> </td>
 <td> </td>
 <td> 1</td>
-<td> </td>
 <td> Rank 1</td>
 <td> 1.2</td>
 <td> 1.2</td>
@@ -769,15 +785,15 @@ tr:nth-child(even) td {
 <td> Primary </td>
 <td>yes</td>
 <td> States</td>
-<td> 2018</td>
-<td> 510</td>
-<td> 19</td>
-<td> 2</td>
-<td> N/A</td>
-<td> N/A</td>
-<td> N/A</td>
-<td> </td>
-<td> N/A</td>
+<td> 2017</td>
+<td> $628</td>
+<td> 21</td>
+<td> 3</td>
+<td> 2016</td>
+<td> $595.74</td>
+<td> 20</td>
+<td> 3</td>
+<td class="flat"> flat</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -798,7 +814,7 @@ tr:nth-child(even) td {
 <td> 2,363.2</td>
 <td> N/A</td>
 <td> 7</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 9</td>
 <td> 2370</td>
 <td> 2464</td>
@@ -819,7 +835,7 @@ tr:nth-child(even) td {
 <td> 411</td>
 <td>   11</td>
 <td> 11</td>
-<td> down</td>
+<td class="down"> down</td>
 <td> Top 9</td>
 <td> 411</td>
 <td> 397</td>
@@ -840,7 +856,7 @@ tr:nth-child(even) td {
 <td> 19.9</td>
 <td>   8</td>
 <td> 7</td>
-<td> down</td>
+<td class="down"> down</td>
 <td> Top 9</td>
 <td> 20%</td>
 <td> 24%</td>
@@ -861,7 +877,7 @@ tr:nth-child(even) td {
 <td> 16.8</td>
 <td> 12</td>
 <td> </td>
-<td> down</td>
+<td class="down"> down</td>
 <td> Below national average</td>
 <td> 63%</td>
 <td> 68%</td>
@@ -882,7 +898,7 @@ tr:nth-child(even) td {
 <td> 14.2</td>
 <td>   9</td>
 <td> 9</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 3</td>
 <td> 14.2%</td>
 <td> 10.8%</td>
@@ -893,17 +909,17 @@ tr:nth-child(even) td {
 <td>justice</td>
 <td> Justice system</td>
 <td> Primary </td>
-<td class="not_updated">no</td>
+<td>yes</td>
 <td> States</td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> 2019</td>
+<td> 67.1</td>
 <td> 38</td>
-<td> 7</td>
-<td> </td>
+<td> 6</td>
+<td> 2017</td>
+<td> 64.3</td>
+<td> 39</td>
+<td> 8</td>
+<td class="flat"> flat</td>
 <td> Top 3</td>
 <td> 67.1%</td>
 <td> 71%</td>
@@ -916,15 +932,15 @@ tr:nth-child(even) td {
 <td> Primary </td>
 <td>yes</td>
 <td> States</td>
-<td> 2018</td>
-<td> 416,481.22 </td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='census of agriculture, irrigation has not been updated)'> 2018 </td>
+<td> 416,481.22</td>
 <td> N/A</td>
 <td> </td>
 <td> 2013</td>
 <td> 525,596.20</td>
 <td> N/A</td>
 <td> </td>
-<td> up</td>
+<td class="up"> up</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -945,7 +961,7 @@ tr:nth-child(even) td {
 <td> 900822</td>
 <td>   2</td>
 <td> 3</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> Rank 1</td>
 <td> 786</td>
 <td> 1120</td>
@@ -966,7 +982,7 @@ tr:nth-child(even) td {
 <td> 19716932</td>
 <td> 1</td>
 <td> 1</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Rank 1</td>
 <td> 16,800</td>
 <td> 16800</td>
@@ -977,17 +993,17 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Sufficient water</td>
 <td> Primary </td>
-<td class="not_updated">no</td>
+<td>yes</td>
 <td> Texas</td>
-<td> </td>
-<td>  </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> 2020</td>
+<td> 3,116,261</td>
+<td> N/A</td>
+<td> N/A</td>
+<td> 2017</td>
+<td> 4,759,781</td>
+<td> N/A </td>
+<td> N/A</td>
+<td class="up"> up</td>
 <td> 2.3 M acre-feet/year</td>
 <td> 5.6</td>
 <td> 2.3</td>
@@ -1008,7 +1024,7 @@ tr:nth-child(even) td {
 <td> 868.2653254</td>
 <td>   7</td>
 <td> 8</td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> Top 6</td>
 <td> $730</td>
 <td> $820</td>
@@ -1029,7 +1045,7 @@ tr:nth-child(even) td {
 <td> 27.87</td>
 <td> </td>
 <td> N/A</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> 68</td>
 <td> 68</td>
 <td> N/A</td>
@@ -1050,7 +1066,7 @@ tr:nth-child(even) td {
 <td> 342.76</td>
 <td> N/A</td>
 <td> </td>
-<td> down</td>
+<td class="down"> down</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1064,8 +1080,7 @@ tr:nth-child(even) td {
 <td class="not_updated">no</td>
 <td> Counties</td>
 <td> 2018</td>
-<td> 60% </td>
-<td> </td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='data is spotty, variable is at county level, no TX counties listed)'> 60%  </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1085,14 +1100,14 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> States</td>
 <td> 2020</td>
-<td> 93.73 </td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='need to make sure variable is calculated correctly)'> 93.73 </td>
 <td> N/A</td>
 <td> </td>
 <td> 2019</td>
 <td> 93.38</td>
 <td> N/A</td>
 <td> </td>
-<td> flat</td>
+<td class="flat"> flat</td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1113,7 +1128,7 @@ tr:nth-child(even) td {
 <td> 50.8</td>
 <td>   4</td>
 <td> 8</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> Top 3</td>
 <td> 50</td>
 <td> 48</td>
@@ -1134,7 +1149,7 @@ tr:nth-child(even) td {
 <td> -0.5</td>
 <td>   4</td>
 <td> 12</td>
-<td> up</td>
+<td class="up"> up</td>
 <td> #1</td>
 <td> 4%</td>
 <td> 4%</td>
@@ -1148,14 +1163,13 @@ tr:nth-child(even) td {
 <td class="not_updated">no</td>
 <td> States</td>
 <td> </td>
-<td>  </td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='has not been updated since last strategic framework)'> N/A </td>
 <td> N/A</td>
 <td> </td>
 <td> </td>
 <td> </td>
 <td> N/A</td>
 <td> 7</td>
-<td> </td>
 <td> #1</td>
 <td> 15</td>
 <td> #1</td>

@@ -18,27 +18,27 @@ Comparisons: States
 
 ----
 
-Date: 2018
+Date: 2017
 
-Latest Value: 510
+Latest Value: $628
 
-State Rank: 19
+State Rank: 21
 
-Peer Rank: 2
-
-----
-
-Previous Date: N/A
-
-Previous Value: N/A
-
-Previous State Rank: N/A
-
-Previous Peer Rank: 
+Peer Rank: 3
 
 ----
 
-Metric Trend: N/A
+Previous Date: 2016
+
+Previous Value: $595.74
+
+Previous State Rank: 20
+
+Previous Peer Rank: 3
+
+----
+
+Metric Trend: flat
 
 Target: 
 
@@ -59,6 +59,8 @@ Previous Trend:
 ### Data
 
 ### Source
+
+[BJS](https://bjs.ojp.gov/library/publications/justice-expenditures-and-employment-united-states-2017)
 
 [MoneyGeek](https://www.moneygeek.com/living/state-policing-corrections-spending/)
 

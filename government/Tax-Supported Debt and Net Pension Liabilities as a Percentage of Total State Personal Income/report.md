@@ -18,27 +18,26 @@ Comparisons: States
 
 ----
 
-Date: 2019
+Date: 2020
 
-Latest Value: 1.1
+Latest Value: 1.192
 
-State Rank: 10
+State Rank: 8
 
-Peer Rank: 2
-
-----
-
-Previous Date: 
-
-Previous Value: 
-
-Previous State Rank: N/A
-
-Previous Peer Rank: 
-
+Peer Rank: 3
 
 ----
-Metric Trend: 
+
+Previous Date: 2019
+
+Previous Value: 1.161
+
+Previous State Rank: 8
+
+Previous Peer Rank: 3
+
+----
+Metric Trend: flat
 
 Target: Top 3
 
@@ -63,6 +62,12 @@ Previous Trend: Improving
 ### Source
 
 [Fitch](https://www.grsconsulting.com/2020/10/28/fitch-ratings-releases-2020-state-liability-report/)
+
+[Federal Reserve](https://www.federalreserve.gov/releases/z1/dataviz/household_debt/state/map/#year:2019)
+
+[Pew](https://www.pewtrusts.org/en/research-and-analysis/data-visualizations/2019/a-tool-for-better-debt-comparisons)
+
+[Texas - Debt Affordability Study 2021](http://www.brb.texas.gov/pub/bfo/DAS2021.pdf)
 
 ### Notes
 

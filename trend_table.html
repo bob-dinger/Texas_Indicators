@@ -67,6 +67,23 @@ tr:nth-child(even) td {
  	background-color:#a1454a !important;
 	color: white !important;
  }
+ 
+ 
+ 
+  #hoverbox{
+	z-index: 5;
+	position:absolute;
+	background-color:white;
+	border:1px solid red;
+	border-radius: 4px;
+	visibility: hidden;
+	color:black;
+	padding:5px;
+ }
+
+ .redrow{
+	 border:1px solid red;
+ }
  </style><h1>Indicators by Type</h1>
 <h2>up</h2>
 <table><tr>
@@ -93,12 +110,12 @@ tr:nth-child(even) td {
 <td> Texas</td>
 <td> 2020</td>
 <td> $44,260 </td>
-<td> N/A</td>
-<td> </td>
+<td> N/A (Texas Only Variable)</td>
+<td>  N/A</td>
 <td> 2019</td>
 <td> $43,203</td>
 <td> N/A</td>
-<td> </td>
+<td> N/A</td>
 <td> up</td>
 </tr>
 <tr>
@@ -125,8 +142,8 @@ tr:nth-child(even) td {
 <td> Texas</td>
 <td> 2020</td>
 <td> 53.2% </td>
+<td> N/A (Texas Only variable)</td>
 <td> N/A</td>
-<td> </td>
 <td> 2019</td>
 <td> 52.4%</td>
 <td> N/A</td>
@@ -139,7 +156,7 @@ tr:nth-child(even) td {
 <td> Primary </td>
 <td>yes</td>
 <td> States</td>
-<td> 2019</td>
+<td> 2019 (no update-taken every 2 years)</td>
 <td> 30</td>
 <td> 44</td>
 <td> 12</td>
@@ -174,11 +191,11 @@ tr:nth-child(even) td {
 <td> 2020</td>
 <td> A- </td>
 <td> 6</td>
-<td> </td>
+<td> 3</td>
 <td> 2018</td>
 <td> B</td>
 <td> 25</td>
-<td> </td>
+<td> 8</td>
 <td> up</td>
 </tr>
 <tr>
@@ -348,7 +365,7 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> Metros</td>
 <td> 2020</td>
-<td> $1,097 </td>
+<td> $1,097 (value is by metro, we can average all the metros in Texas or take a single one, like Houston)</td>
 <td> </td>
 <td> </td>
 <td> 2019</td>
@@ -380,7 +397,7 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> States</td>
 <td> 2017</td>
-<td> 3.79 </td>
+<td> 3.79 (has not been updated since 2017)</td>
 <td> 28</td>
 <td> </td>
 <td> 2016</td>
@@ -396,11 +413,11 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> States</td>
 <td> 2019</td>
-<td> 6.7 </td>
+<td> 6.7</td>
 <td> 13</td>
 <td> </td>
 <td> 2018</td>
-<td> 6.6</td>
+<td> 6.6 (2020 value is not comparable to their previous versions)</td>
 <td> 19</td>
 <td> 9</td>
 <td> up</td>
@@ -429,7 +446,7 @@ tr:nth-child(even) td {
 <td> Counties</td>
 <td> 2020</td>
 <td> 39.37% </td>
-<td> </td>
+<td> N/A (need to calculate for all states - difficult)</td>
 <td> </td>
 <td> 2019</td>
 <td> 61.02%</td>
@@ -492,7 +509,7 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> States</td>
 <td> 2020</td>
-<td> 34% </td>
+<td> 34% (new source)</td>
 <td> 20</td>
 <td> </td>
 <td> 2019</td>
@@ -524,7 +541,7 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> Texas</td>
 <td> 2019</td>
-<td> 196,902 </td>
+<td> 196,902</td>
 <td> N/A</td>
 <td> </td>
 <td> 2018</td>
@@ -571,8 +588,8 @@ tr:nth-child(even) td {
 <td> Primary </td>
 <td>yes</td>
 <td> States</td>
-<td> 2018</td>
-<td> 416,481.22 </td>
+<td> 2018 (census of agriculture, irrigation has not been updated)</td>
+<td> 416,481.22</td>
 <td> N/A</td>
 <td> </td>
 <td> 2013</td>
@@ -595,6 +612,22 @@ tr:nth-child(even) td {
 <td> 900822</td>
 <td>   2</td>
 <td> 3</td>
+<td> up</td>
+</tr>
+<tr>
+<td><a href="./natural resources/Gap between projected supply and projected demand of water under a drought of record conditions in 2030-2040/report.html">Water shortage</a></td>
+<td> Sufficient water</td>
+<td> Primary </td>
+<td>yes</td>
+<td> Texas</td>
+<td> 2020</td>
+<td> 3,116,261</td>
+<td> N/A</td>
+<td> N/A</td>
+<td> 2017</td>
+<td> 4,759,781</td>
+<td> N/A </td>
+<td> N/A</td>
 <td> up</td>
 </tr>
 <tr>
@@ -636,7 +669,7 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> Counties</td>
 <td> 2020</td>
-<td> 241 </td>
+<td> 241 (data is spotty, variable is at county level, no TX counties listed)</td>
 <td> </td>
 <td> </td>
 <td> 2019</td>
@@ -668,7 +701,7 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> States</td>
 <td> 2020</td>
-<td> 67.08% </td>
+<td> 67.08%  (need to make sure variable is calculated correctly)</td>
 <td> N/A</td>
 <td> </td>
 <td> 2019</td>
@@ -825,6 +858,22 @@ tr:nth-child(even) td {
 <td> down</td>
 </tr>
 <tr>
+<td><a href="./education/Percent of working population earning a mid- or high-wage/report.html">Living wages</a></td>
+<td> Jobs</td>
+<td> Primary </td>
+<td>yes</td>
+<td> States</td>
+<td> 2018</td>
+<td> 44%</td>
+<td> 37</td>
+<td> N/A</td>
+<td> 2016</td>
+<td> 42%</td>
+<td> N/A</td>
+<td> </td>
+<td> down</td>
+</tr>
+<tr>
 <td><a href="./health/Number of deaths due to drug injury per 100000 population/report.html">Drug deaths</a></td>
 <td> Public health</td>
 <td> Secondary </td>
@@ -943,7 +992,7 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> Texas</td>
 <td> 2020</td>
-<td> -3.02% </td>
+<td> -3.02% (need to make sure this was calculated correctly from source materials)</td>
 <td> N/A</td>
 <td> </td>
 <td> 2019</td>
@@ -1103,7 +1152,7 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> Texas</td>
 <td> 2020</td>
-<td> 1009 </td>
+<td> 1009  (need to make sure variable is calculated correctly)</td>
 <td> </td>
 <td> </td>
 <td> 2018</td>
@@ -1120,7 +1169,7 @@ tr:nth-child(even) td {
 <td> Texas</td>
 <td> 2019</td>
 <td> 18.47% </td>
-<td> N/A</td>
+<td> N/A (Texas only)</td>
 <td> </td>
 <td> 2017</td>
 <td> 18.81%</td>
@@ -1266,9 +1315,9 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> Texas</td>
 <td> 2019</td>
-<td> 50% </td>
+<td> 50% (2020 data not collected - no testing)</td>
+<td> N/A (Texas Only)</td>
 <td> N/A</td>
-<td> </td>
 <td> 2018</td>
 <td> 48%</td>
 <td> N/A</td>
@@ -1281,14 +1330,14 @@ tr:nth-child(even) td {
 <td> Secondary </td>
 <td>yes</td>
 <td> Texas</td>
-<td> 2019</td>
+<td> 2019 (2020 data not collected - no testing)</td>
 <td> 45% </td>
-<td> N/A</td>
-<td> </td>
+<td> N/A (Texas Only Variable)</td>
+<td>  N/A </td>
 <td> 2018</td>
 <td> 43%</td>
-<td> N/A</td>
-<td> N/A</td>
+<td>  N/A</td>
+<td>  N/A</td>
 <td> flat</td>
 </tr>
 <tr>
@@ -1299,7 +1348,7 @@ tr:nth-child(even) td {
 <td> Texas</td>
 <td> 2020</td>
 <td> 90% </td>
-<td> N/A</td>
+<td> N/A (Texas Only Comparison)</td>
 <td> </td>
 <td> 2019</td>
 <td> 90%</td>
@@ -1353,6 +1402,22 @@ tr:nth-child(even) td {
 <td> N/A</td>
 <td> N/A</td>
 <td> </td>
+<td> flat</td>
+</tr>
+<tr>
+<td><a href="./government/Tax-Supported Debt and Net Pension Liabilities as a Percentage of Total State Personal Income/report.html">Long-Term Liabilities</a></td>
+<td> Wisely managed state spending</td>
+<td> Primary </td>
+<td>yes</td>
+<td> States</td>
+<td> 2020</td>
+<td> 1.192</td>
+<td> 8</td>
+<td> 3</td>
+<td> 2019</td>
+<td> 1.161</td>
+<td> 8</td>
+<td> 3</td>
 <td> flat</td>
 </tr>
 <tr>
@@ -1612,6 +1677,22 @@ tr:nth-child(even) td {
 <td> flat</td>
 </tr>
 <tr>
+<td><a href="./justice/Criminal Justice spend per capita/report.html">Criminal Justice Spending</a></td>
+<td> Justice system</td>
+<td> Primary </td>
+<td>yes</td>
+<td> States</td>
+<td> 2017</td>
+<td> $628</td>
+<td> 21</td>
+<td> 3</td>
+<td> 2016</td>
+<td> $595.74</td>
+<td> 20</td>
+<td> 3</td>
+<td> flat</td>
+</tr>
+<tr>
 <td><a href="./justice/Number of people homeless per 10000 population/report.html">Homeless population</a></td>
 <td> Safety net</td>
 <td> Secondary </td>
@@ -1692,6 +1773,22 @@ tr:nth-child(even) td {
 <td> flat</td>
 </tr>
 <tr>
+<td><a href="./justice/The U.S. Chambers Institute for Legal Reform conducts a survey of in-house general counsel/report.html">State Lawsuit Climate</a></td>
+<td> Justice system</td>
+<td> Primary </td>
+<td>yes</td>
+<td> States</td>
+<td> 2019</td>
+<td> 67.1</td>
+<td> 38</td>
+<td> 6</td>
+<td> 2017</td>
+<td> 64.3</td>
+<td> 39</td>
+<td> 8</td>
+<td> flat</td>
+</tr>
+<tr>
 <td><a href="./natural resources/Energy content of oil natural gas coal and nuclear energy extracted from the ground or generated in-state/report.html">Traditional energy production</a></td>
 <td> Energy production</td>
 <td> Primary </td>
@@ -1730,7 +1827,7 @@ tr:nth-child(even) td {
 <td>yes</td>
 <td> States</td>
 <td> 2020</td>
-<td> 93.73 </td>
+<td> 93.73 (need to make sure variable is calculated correctly)</td>
 <td> N/A</td>
 <td> </td>
 <td> 2019</td>

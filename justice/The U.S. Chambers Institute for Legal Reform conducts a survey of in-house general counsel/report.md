@@ -10,37 +10,36 @@ Texans are served effectively, efficiently, and impartially by the justice syste
 
 ### Type: Primary indicator
 
-Updated: no
+Updated: yes
 
 Data Release Date: 
 
 Comparisons: States
 
+----
+
+Date: 2019
+
+Latest Value: 67.1
+
+State Rank: 38
+
+Peer Rank: 6
+
 
 ----
 
-Date: 
+Previous Date: 2017
 
-Latest Value: N/A (report not updated since last strategic framework)
+Previous Value: 64.3
 
-State Rank: 
+Previous State Rank: 39
 
-Peer Rank: 
-
-
-----
-
-Previous Date: 
-
-Previous Value: 
-
-Previous State Rank: 38
-
-Previous Peer Rank: 7
+Previous Peer Rank: 8
 
 
 ----
-Metric Trend: 
+Metric Trend: flat
 
 Target: Top 3
 
@@ -49,7 +48,6 @@ Baseline: 67.1%
 Target Value: 71%
 
 Previous Trend: Improving
-
 
 
 
@@ -68,6 +66,8 @@ Previous Trend: Improving
 [2019 LAWSUIT CLIMATE SURVEY: RANKING THE STATES](./2019_Lawsuit_Climate_Survey_-_Ranking_the_States.pdf)
 
 [Institute Web Page](https://instituteforlegalreform.com/research/2019-lawsuit-climate-survey-ranking-the-states/)
+
+[2017 Lawsuit Report](https://instituteforlegalreform.com/research/2017-lawsuit-climate-survey-ranking-the-states/)
 
 ### Notes
 
