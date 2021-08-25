@@ -1,12 +1,12 @@
-# Govtech index
+# Taxpayer ROI
 
 Ranking on taxpayer ROI index contrasting quality of public services to state and local taxes per capita
 
 ## Government Functioning
 
-### Goal: Customer service
+### Goal: Wisely managed state spending
 
-Texas people and businesses can access the public services they want and need through user-centric channels
+Texas strategically manages state expenditures to deliver the best value to taxpayers
 
 ### Type: Primary indicator
 

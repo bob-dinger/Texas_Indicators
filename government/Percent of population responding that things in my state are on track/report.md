@@ -1,12 +1,12 @@
-# Govtech index
+# Confidence
 
 Percent of population responding that things in my state are on track
 
-## Government Functioning
+## Engagement
 
-### Goal: Customer service
+### Goal: Confidence in government
 
-Texas people and businesses can access the public services they want and need through user-centric channels
+Texans have confidence in the public institutions that serve them
 
 ### Type: Primary indicator
 

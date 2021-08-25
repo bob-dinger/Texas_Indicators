@@ -1,12 +1,12 @@
-# Govtech index
+# Fiscal Sustainability
 
 Ranking on Mercatus Center State Fiscal Rankings
 
 ## Government Functioning
 
-### Goal: Customer service
+### Goal: Broad, stable revenue base
 
-Texas people and businesses can access the public services they want and need through user-centric channels
+Texas people and businesses contribute taxes and fees to meet strategic needs and remain competitive as we grow and change
 
 ### Type: Primary indicator
 

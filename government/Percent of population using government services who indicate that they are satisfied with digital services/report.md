@@ -1,4 +1,4 @@
-# Govtech index
+# User satisfaction
 
 Percent of population using government services who indicate that they are satisfied with digital services
 
