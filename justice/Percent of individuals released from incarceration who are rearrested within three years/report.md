@@ -17,23 +17,22 @@ Data Release Date: January 2021
 
 Comparisons: Texas
 
-
 ----
 
-Date: 2020
+Date: 2017
 
-Latest Value: 19.4 
+Latest Value: 63%
 
-State Rank: 22
+State Rank:
 
 Peer Rank: 
 
 
 ----
 
-Previous Date: 2019
+Previous Date: 2016
 
-Previous Value: 16.8
+Previous Value: 62.5%
 
 Previous State Rank: 12
 
@@ -61,6 +60,7 @@ Previous Trend: Flat
 
 ### Data
 
+![recidivism](./images/recidivism2.PNG)
 
 
 ### Source

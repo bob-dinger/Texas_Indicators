@@ -8,7 +8,7 @@ Criminal justice spend per capita
 
 Texans are served effectively, efficiently, and impartially by the justice system
 
-### Type: Primary indicator
+### Type: Secondary indicator
 
 Updated: yes
 
