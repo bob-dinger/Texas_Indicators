@@ -8,7 +8,7 @@ Ranking on Mercatus Center State Fiscal Rankings
 
 Texas people and businesses can access the public services they want and need through user-centric channels
 
-### Type: Secondary indicator
+### Type: Primary indicator
 
 Updated: no
 

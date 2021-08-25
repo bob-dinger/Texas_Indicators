@@ -8,7 +8,7 @@ Percent of population using government services who indicate that they are satis
 
 Texas people and businesses can access the public services they want and need through user-centric channels
 
-### Type: Secondary indicator
+### Type: Primary indicator
 
 Updated: no
 

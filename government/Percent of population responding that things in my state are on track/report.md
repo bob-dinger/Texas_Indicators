@@ -8,7 +8,7 @@ Percent of population responding that things in my state are on track
 
 Texas people and businesses can access the public services they want and need through user-centric channels
 
-### Type: Secondary indicator
+### Type: Primary indicator
 
 Updated: no
 
