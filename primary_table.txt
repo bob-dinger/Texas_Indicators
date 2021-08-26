@@ -1,0 +1,17 @@
+ img{
+ 	display: block;
+	margin-left: auto;
+  	margin-right: auto;
+ }
+ p{
+ text-align:center;
+ color:lightgray;
+ }
+ </style>
+<div id="hoverbox"></div>	
+<h1>Indicators by Type</h1>
+<h2>Primary</h2>
+
+<p>___________________</p>
+<img src="primary_trends.PNG"></img>
+<p>___________________</p>

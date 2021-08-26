@@ -18,13 +18,13 @@ Comparisons: States
 
 ----
 
-Date: 
+Date: 2020
 
 Latest Value:  
 
-State Rank: 
+State Rank: 7
 
-Peer Rank: 
+Peer Rank: 4
 
 
 ----
@@ -59,12 +59,11 @@ Previous Trend:
 
 ### Data
 
+
+
 ### Source
 
-https://wallethub.com/edu/state-taxpayer-roi-report/3283
-https://taxfoundation.org/publications/state-local-tax-burden-rankings/
-https://www.fa-mag.com/news/states-with-the-best-taxpayer-roi-63373.html
-https://www.thestreet.com/personal-finance/taxpayers-return-on-investment-best-and-worst-states
+[WalletHub](https://wallethub.com/edu/state-taxpayer-roi-report/3283)
 
 ### Notes
 

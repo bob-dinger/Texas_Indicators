@@ -1,0 +1,278 @@
+<style>
+    h1, h2{
+    text-align:center;
+    padding:10px;
+    }
+    body {
+      color: #666;
+      font: 14px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;
+    }
+    table {
+        border-collapse: separate;
+        border-spacing: 0;
+        width: 90%;
+        margin: 0 auto;
+    
+    }
+    th,
+    td {
+    padding: 4px;
+    }
+    th {
+    background: #35438f;
+      color: #fff;
+      text-align: center;
+    }
+    tr:first-child th:first-child {
+        border-top-left-radius: 6px;
+    }
+    tr:first-child th:last-child {
+        border-top-right-radius: 6px;
+    }
+    td {
+        border-right: 1px solid #c6c9cc;
+      border-bottom: 1px solid #c6c9cc;
+      text-align: center;
+    }
+    td:first-child {
+        border-left: 1px solid #c6c9cc;
+    }
+    tr:last-child td:first-child {
+        border-bottom-left-radius: 6px;
+    }
+    tr:last-child td:last-child {
+        border-bottom-right-radius: 6px;
+    }
+    
+    tr:nth-child(even) td {
+        background: #eaeaed;
+    }
+    
+    .up {
+        background-color:#48a150 !important;
+        color:white;
+     }
+     .down {
+        background-color:#a1454a !important;
+        color:white;
+     }
+     .flat {
+        background-color:#486fa1 !important;
+        color:white;
+     }
+     .ind_column {
+         width:350px;
+     }
+      .not_updated {
+         background-color:#a1454a !important;
+        color: white !important;
+     }
+    
+    
+    
+      #hoverbox{
+        z-index: 5;
+        position:absolute;
+        background-color:white;
+        border:1px solid red;
+        border-radius: 4px;
+        visibility: hidden;
+        color:black;
+        padding:5px;
+     }
+    
+     .redrow{
+         border:1px solid red;
+     }
+     img{
+         display: block;
+        margin-left: auto;
+          margin-right: auto;
+     }
+     p{
+     text-align:center;
+     color:lightgray;
+     }
+     </style>
+    <div id="hoverbox"></div>
+    <h1>Indicators by Type</h1>
+    <h2>Primary</h2>
+    
+    <p>___________________</p>
+    <img src="primary_trends.PNG"></img>
+    <p>___________________</p>
+    <table><tr>
+    <th class="ind_column">Indicator Name</th>
+    <th>Policy Area</th>
+    <th>Goal</th>
+    <th>Type</th>
+    <th>Updated</th>
+    <th>Comp</th>
+    <th>Year</th>
+    <th>Value</th>
+    <th>Rank</th>
+    <th>Peer Rank</th>
+    <th>Previous Year</th>
+    <th>Previous Value</th>
+    <th>Previous Rank</th>
+    <th>Previous Peer Rank</th>
+    <th>Metric Trend</th>
+    <th>Target</th>
+    <th>Baseline</th>
+    <th>Target Value</th>
+    <th>Previous Trend</th>
+    </tr>
+
+    <tr>
+    <td><a href="./justice/Number of property crimes reported per 100000 population/report.html">Property crime rate</a></td>
+    <td>justice</td>
+    <td> Public safety</td>
+    <td> Primary </td>
+    <td>yes</td>
+    <td> Texas</td>
+    <td> 2019</td>
+    <td> 2,391 </td>
+    <td> 15</td>
+    <td> </td>
+    <td> 2018</td>
+    <td> 2,363.2</td>
+    <td> N/A</td>
+    <td> 7</td>
+    <td class="flat"> flat</td>
+    <td> Top 9</td>
+    <td> 2370</td>
+    <td> 2464</td>
+    <td> Improving</td>
+    </tr>
+    <tr>
+    <td><a href="./justice/Number of violent crimes reported per 100000 population/report.html">Violent crime rate</a></td>
+    <td>justice</td>
+    <td> Public safety</td>
+    <td> Primary </td>
+    <td>yes</td>
+    <td> States</td>
+    <td> 2020</td>
+    <td> 419</td>
+    <td> 35</td>
+    <td> 11</td>
+    <td>  2019</td>
+    <td> 411</td>
+    <td>   11</td>
+    <td> 11</td>
+    <td class="down"> down</td>
+    <td> Top 9</td>
+    <td> 411</td>
+    <td> 397</td>
+    <td> Flat</td>
+    </tr>
+    <tr>
+    <td><a href="./justice/Percent of children under age 17 who experienced two or more ACEs/report.html">Adverse Childhood Experiences</a></td>
+    <td>justice</td>
+    <td> Protection for the vulnerable</td>
+    <td> Primary </td>
+    <td>yes</td>
+    <td> States</td>
+    <td> 2020</td>
+    <td> 15.3</td>
+    <td> 21</td>
+    <td> 8</td>
+    <td>  2019</td>
+    <td> 19.9</td>
+    <td>   8</td>
+    <td> 7</td>
+    <td class="down"> down</td>
+    <td> Top 9</td>
+    <td> 20%</td>
+    <td> 24%</td>
+    <td> Flat</td>
+    </tr>
+    <tr>
+    <td><a href="./justice/Percent of individuals released from incarceration who are rearrested within three years/report.html">Recidivism</a></td>
+    <td>justice</td>
+    <td> Justice system</td>
+    <td> Primary </td>
+    <td>yes</td>
+    <td> Texas</td>
+    <td> 2017</td>
+    <td> 63%</td>
+    <td></td>
+    <td> </td>
+    <td> 2016</td>
+    <td> 62.5%</td>
+    <td> 12</td>
+    <td> </td>
+    <td class="down"> down</td>
+    <td> Below national average</td>
+    <td> 63%</td>
+    <td> 68%</td>
+    <td> Flat</td>
+    </tr>
+    <tr>
+    <td><a href="./justice/Percent of population below the supplemental poverty line/report.html">Supplemental poverty rate</a></td>
+    <td>justice</td>
+    <td> Safety net</td>
+    <td> Primary </td>
+    <td>yes</td>
+    <td> States</td>
+    <td> 2019</td>
+    <td> 13.7</td>
+    <td> 44</td>
+    <td> 9</td>
+    <td>  2018</td>
+    <td> 14.2</td>
+    <td>   9</td>
+    <td> 9</td>
+    <td class="flat"> flat</td>
+    <td> Top 3</td>
+    <td> 14.2%</td>
+    <td> 10.8%</td>
+    <td> Worsening</td>
+    </tr>
+    <tr>
+    <td><a href="./justice/The U.S. Chambers Institute for Legal Reform conducts a survey of in-house general counsel/report.html">State Lawsuit Climate</a></td>
+    <td>justice</td>
+    <td> Justice system</td>
+    <td> Primary </td>
+    <td>yes</td>
+    <td> States</td>
+    <td> 2019</td>
+    <td> 67.1</td>
+    <td> 38</td>
+    <td> 6</td>
+    <td> 2017</td>
+    <td> 64.3</td>
+    <td> 39</td>
+    <td> 8</td>
+    <td class="flat"> flat</td>
+    <td> Top 3</td>
+    <td> 67.1%</td>
+    <td> 71%</td>
+    <td> Improving</td>
+    </tr>
+
+    </table>
+    
+    <br/><br/><br/><br/><br/><br/><br/><br/><script>
+    
+    function show_hover(e){
+    
+        var comparendo = e.target.dataset.message;
+    
+    
+        var x = e.pageX;
+        var y = e.pageY;
+    
+        var hov = document.getElementById("hoverbox");
+        hov.style.visibility = "visible";
+        hov.style.left = x;
+        hov.style.top = y;
+        hov.textContent = e.target.dataset.message;
+    
+    }
+    
+    function hide_hover()
+    {
+        var hov = document.getElementById("hoverbox");
+        hov.style.visibility = "hidden";
+    }
+    </script></body></html>
