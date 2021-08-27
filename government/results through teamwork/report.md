@@ -1,12 +1,12 @@
-# proven modern methods metric
+# results through teamwork
 
 TBD
 
 ## Government Functioning
 
-### Goal: Proven modern methods in data and analytics, IT, HR, and procurement
+### Goal: Aligned accountability
 
-Texas government uses data-driven and proven modern methods to drive towards shared goals
+Texas officials at all levels collaborate well when it matters most
 
 ### Type: Primary indicator
 
@@ -15,6 +15,7 @@ Updated: yes
 Data Release Date: 
 
 Comparisons: Texas
+
 
 ----
 

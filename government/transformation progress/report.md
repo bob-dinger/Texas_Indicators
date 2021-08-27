@@ -1,12 +1,12 @@
-# aligned accountability metric
+# transformation progress
 
 TBD
 
 ## Government Functioning
 
-### Goal: Aligned accountability
+### Goal: Proven modern methods in data and analytics IT HR and procurement
 
-Texas officials at all levels collaborate well when it matters most
+Texas government uses data-driven and proven modern methods to drive towards shared goals
 
 ### Type: Primary indicator
 
@@ -15,7 +15,6 @@ Updated: yes
 Data Release Date: 
 
 Comparisons: Texas
-
 
 ----
 
