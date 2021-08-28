@@ -10,7 +10,7 @@ Texas government uses data-driven and proven modern methods to drive towards sha
 
 ### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 

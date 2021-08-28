@@ -10,7 +10,7 @@ Texas officials at all levels collaborate well when it matters most
 
 ### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 

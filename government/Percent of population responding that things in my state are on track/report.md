@@ -29,25 +29,25 @@ Peer Rank:
 
 ----
 
-Previous Date: 
+Previous Date: 2018-2019
 
-Previous Value: 
+Previous Value: 43%
 
-Previous State Rank: 
+Previous State Rank: 19
 
-Previous Peer Rank: 
+Previous Peer Rank: 2
 
 
 ----
 Metric Trend: 
 
-Target: 
+Target: Top 9
 
-Baseline: 
+Baseline: 35%
 
-Target Value: 
+Target Value:  
 
-Previous Trend: 
+Previous Trend: flat
 
 
 
