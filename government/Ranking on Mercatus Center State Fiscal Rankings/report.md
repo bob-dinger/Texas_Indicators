@@ -29,7 +29,7 @@ Peer Rank:
 
 ----
 
-Previous Date: 2019
+Previous Date: 2018
 
 Previous Value: 
 
@@ -57,13 +57,18 @@ Previous Trend: Flat
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |       |           |            |         |            |        |        | 
 
+
+
 ### Data
 
 ### Source
 
-
+[Previous Source - 2018 Mercatus State Rankings](https://www.mercatus.org/publications/urban-economics/state-fiscal-rankings)
 
 ### Notes
+
+There's no update to the Mercatus state rankings for 2020. I've put the previous source above. They have 2016 report data on that previous source link as well. 
+
 
 ### Indicator Page
 

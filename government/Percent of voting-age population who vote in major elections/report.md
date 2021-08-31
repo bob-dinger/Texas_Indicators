@@ -16,28 +16,25 @@ Data Release Date:
 
 Comparisons: States
 
-
 ----
 
 Date: 2020
 
-Latest Value: 48.4
+Latest Value: 63.9%
 
-State Rank: 46
+State Rank: 37
 
-Peer Rank: 12
-
+Peer Rank: 11
 
 ----
 
-Previous Date:  2019
+Previous Date:  2016
 
-Previous Value: 48.4
+Previous Value: 55.4%
 
-Previous State Rank:   12
+Previous State Rank: 46
 
 Previous Peer Rank: 12
-
 
 ----
 Metric Trend: up
@@ -50,17 +47,22 @@ Target Value: 53%
 
 Previous Trend: Improving
 
-
-
+<!-- 
 ### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020       |    60.4%   |      44     |    2016     |    51.1%     |     46     |   up       | 
+|   2020       |    60.4%   |      44     |    2016     |    51.1%     |     46     |   up       |  -->
 
 ### Data
 
+![vr](./images/voting_rates.PNG)
+
 ### Source
+
+[census - 2020](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-585.html)
+
+[census - 2016](https://www.census.gov/data/tables/time-series/demo/voting-and-registration/p20-580.html)
 
 [Census](https://www.census.gov/topics/public-sector/voting.html)
 

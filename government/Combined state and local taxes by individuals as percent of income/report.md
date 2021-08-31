@@ -71,6 +71,9 @@ Previous Trend: Worsening
 
 ### Notes
 
+
+
+
 ### Indicator Page
 
 [Indicator Link](https://indicators.texas2036.org/indicator/117)
