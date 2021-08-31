@@ -65,6 +65,8 @@ Previous Trend:
 
 ### Notes
 
+This metric is in the spreadsheet of original metrics, but there is no source or previous value indicated (says TBD under source).
+
 ### Indicator Page
 
 N/A

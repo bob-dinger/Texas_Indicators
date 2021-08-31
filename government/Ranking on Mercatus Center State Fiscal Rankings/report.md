@@ -67,7 +67,7 @@ Previous Trend: Flat
 
 ### Notes
 
-There's no update to the Mercatus state rankings for 2020. I've put the previous source above. They have 2016 report data on that previous source link as well. 
+There's no update to the Mercatus state rankings for 2020. I've noted the previous source above. They have 2016 report data on that previous source link as well. 
 
 
 ### Indicator Page

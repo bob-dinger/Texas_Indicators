@@ -25,7 +25,7 @@ Latest Value: 18.6%
 
 State Rank: N/A
 
-Peer Rank: 
+Peer Rank: N/A
 
 
 ----
@@ -36,8 +36,7 @@ Previous Value: 20.3%
 
 Previous State Rank: N/A
 
-Previous Peer Rank: 
-
+Previous Peer Rank: N/A
 
 ----
 Metric Trend: up

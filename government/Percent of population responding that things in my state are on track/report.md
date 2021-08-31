@@ -61,9 +61,11 @@ Previous Trend: flat
 
 ### Source
 
-
+[Previous Source - Reuters](https://polling.reuters.com/#!response/CP1B/type/smallest/dates/20180409-20190409/collapsed/false)
 
 ### Notes
+
+I can't find an updated numbers for this metric from Reuters, and can't find the previous source either (previous source listed above is in the original spreadsheet).
 
 ### Indicator Page
 
