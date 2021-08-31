@@ -16,7 +16,6 @@ Data Release Date:
 
 Comparisons: Texas
 
-
 ----
 
 Date: 
