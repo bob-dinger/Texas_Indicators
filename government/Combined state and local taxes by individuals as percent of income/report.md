@@ -63,15 +63,21 @@ Previous Trend: Worsening
 
 [Tax Foundation](https://taxfoundation.org/2021-state-business-tax-climate-index/)
 
-<!-- [Wallet Hub](https://wallethub.com/edu/states-with-highest-lowest-tax-burden/20494)
+[Wallet Hub](https://wallethub.com/edu/states-with-highest-lowest-tax-burden/20494)
 
 [Tax Policy Center](https://www.taxpolicycenter.org/statistics/state-and-local-tax-revenue-percentage-personal-income)
 
-[tpc](https://www.taxpolicycenter.org/statistics/state-and-local-tax-revenue-percentage-personal-income) -->
+[tpc](https://www.taxpolicycenter.org/statistics/state-and-local-tax-revenue-percentage-personal-income)
 
 ### Notes
 
+The link at the top under 'Source' above is an index from the tax foundation, not an absolute percentage as had been reported before. The tax foundation has a value for every year from 2014 to 2021. 
 
+Here is a description of the individual tax burden component of their index: 
+
+The individual income tax rate subindex measures the impact of tax rates on the marginal dollar of individual income using three criteria: the top tax rate, the graduated rate structure, and the standard deductions and exemptions which are treated as a zero percent tax bracket. The rates and brackets used are for a single taxpayer, not a couple filing a joint return.
+
+The individual income tax base subindex takes into account measures enacted to prevent double taxation, whether the code is indexed for inflation, and how the tax code treats married couples compared to singles. States that score well protect married couples from being taxed more severely than if they had filed as two single individuals. They also protect taxpayers from double taxation by recognizing LLCs and S corporations under the individual tax code and indexing their brackets, exemptions, and deductions for inflation.
 
 
 ### Indicator Page

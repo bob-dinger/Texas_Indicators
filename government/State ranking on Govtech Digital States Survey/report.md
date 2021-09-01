@@ -65,6 +65,8 @@ Previous Trend:
 
 ### Notes
 
+
+
 ### Indicator Page
 
 N/A
