@@ -16,7 +16,6 @@ Data Release Date:
 
 Comparisons: States
 
-
 ----
 
 Date: 2018
@@ -26,7 +25,6 @@ Latest Value: 79.2
 State Rank: 25
 
 Peer Rank: 8
-
 
 ----
 
@@ -67,12 +65,14 @@ Previous Trend: Flat
 
 ### Source
 
-[U.S. State Life Tables, 2018](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-1-508.pdf)
+[County Health Rankings - 2021 Report](https://www.countyhealthrankings.org/sites/default/files/media/document/CHR2021_TX.pdf)
+
+<!-- [U.S. State Life Tables, 2018](https://www.cdc.gov/nchs/data/nvsr/nvsr70/nvsr70-1-508.pdf)
 
 https://www.cdc.gov/nchs/pressroom/sosmap/life_expectancy/life_expectancy.htm
 
 by state, 1979-2016
-https://cdn.jamanetwork.com/ama/content_public/journal/jama/938283/jsc190006supp1_prod.pdf?Expires=2147483647&Signature=Jf3AfNo~8yhdMy2mBSCzAe5qqt8tpe0tfMxhf~jAuJpM5fKlieW3BNnQp-GHMpA8aRPAttLr38l5FShvdvjj5MAC42GtZUGTpH9wSE372PRvL7UXecBPEh21owmfe3GkFCBblkFaYYRSghRlMdll-96UUKW3PuELFfecxTidHOuOiLhta2ns3hiQfD5oFqPy6a6gF00Wk61qCzsP0E3JsDEQ1m5bdi6GpiBL5uaRJm892dq-OpqRMnr9exwHysnUxujENdtrkN4PkOghnwWjBhKmgRrT3dd-W-MQFryjXx-uMbRlje8WsSMS~SDJY8Dp-gqDFbIDCZM6uICDcabuFg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA
+https://cdn.jamanetwork.com/ama/content_public/journal/jama/938283/jsc190006supp1_prod.pdf?Expires=2147483647&Signature=Jf3AfNo~8yhdMy2mBSCzAe5qqt8tpe0tfMxhf~jAuJpM5fKlieW3BNnQp-GHMpA8aRPAttLr38l5FShvdvjj5MAC42GtZUGTpH9wSE372PRvL7UXecBPEh21owmfe3GkFCBblkFaYYRSghRlMdll-96UUKW3PuELFfecxTidHOuOiLhta2ns3hiQfD5oFqPy6a6gF00Wk61qCzsP0E3JsDEQ1m5bdi6GpiBL5uaRJm892dq-OpqRMnr9exwHysnUxujENdtrkN4PkOghnwWjBhKmgRrT3dd-W-MQFryjXx-uMbRlje8WsSMS~SDJY8Dp-gqDFbIDCZM6uICDcabuFg__&Key-Pair-Id=APKAIE5G5CRDK6RD3PGA -->
 
 [Wikipedia](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_life_expectancy)
 

@@ -10,33 +10,31 @@ Texas has a high-value health care system that optimizes cost and delivers resul
 
 ### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 
 Comparisons: States
 
+----
+
+Date: N/A
+
+Latest Value: N/A
+
+State Rank: N/A
+
+Peer Rank: N/A
 
 ----
 
-Date: 2020
+Previous Date:  2014
 
-Latest Value: 20.41
+Previous Value: 6.9%
 
-State Rank: 12
+Previous State Rank: 41
 
-Peer Rank: 5
-
-
-----
-
-Previous Date:  2019
-
-Previous Value: 17.16
-
-Previous State Rank:   5
-
-Previous Peer Rank: 4
+Previous Peer Rank: 11
 
 
 ----
@@ -66,12 +64,18 @@ Previous Trend: Improving
 
 ### Source
 
+[Previous Source](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence)
+
+
 [Shadac](http://statehealthcompare.shadac.org/map/117/per-person-state-public-health-funding#a/32/154)
 
 [KFF](https://www.kff.org/other/state-indicator/average-annual-percent-growth-in-health-care-expenditures-by-state-of-residence/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D)
 
+
+
 ### Notes
 
+Cannot find an updated number for this metric.
 
 
 ### Indicator Page

@@ -1,4 +1,4 @@
-# Tobacco use
+# Smoking
 
 Percent of adults who reported smoking daily or some days
 

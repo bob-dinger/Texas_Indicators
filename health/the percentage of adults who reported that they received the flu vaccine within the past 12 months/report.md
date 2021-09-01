@@ -16,30 +16,28 @@ Data Release Date:
 
 Comparisons: States
 
-
 ----
 
 Date: 2020
 
-Latest Value: 40
+Latest Value: 42.2%
 
 State Rank: 40
 
 Peer Rank: 9
 
-
 ----
 
 Previous Date:  2019
 
-Previous Value: 26.4
+Previous Value: 43.2%
 
-Previous State Rank:   9
+Previous State Rank: 9
 
 Previous Peer Rank: 12
 
-
 ----
+
 Metric Trend: up
 
 Target: Top 6
@@ -61,18 +59,27 @@ Previous Trend: Mixed
 ### Data
 
 
-![map](./images/map_flu.PNG)
+<!-- ![map](./images/map_flu.PNG)
 
-![data](./images/data_flu.PNG)
+![data](./images/data_flu.PNG) -->
 
+![2020](./images/2019-2020_fluVaccine.jpg)
+
+![2019](./images/2019-2019_fluVaccine.jpg)
 
 ### Source
 
+[CDC - 2019-2020](https://www.cdc.gov/flu/fluvaxview/coverage-1920estimates.htm)
+
+[CDC - 2018-2019](https://www.cdc.gov/flu/fluvaxview/coverage-1819estimates.htm)
+
+
+<!-- 
 [County Health Rankings](https://www.countyhealthrankings.org/sites/default/files/media/document/CHR2021_TX.pdf)
 
 [County Health Rankings - 2020](https://www.countyhealthrankings.org/sites/default/files/media/document/CHR2020_TX_0.pdf)
 
-[AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/flu_vaccine/state/ALL)
+[AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/flu_vaccine/state/ALL) -->
 
 ### Notes
 

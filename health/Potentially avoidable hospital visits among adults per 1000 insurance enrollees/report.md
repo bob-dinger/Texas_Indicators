@@ -14,9 +14,7 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: States
-
 
 ----
 
@@ -72,7 +70,13 @@ Previous Trend: Mixed
 
 ### Notes
 
+2020 number:
 
+Discharges following hospitalization for diabetes with short- or long-term complications, uncontrolled diabetes without complications, diabetes with lower-extremity amputation, chronic obstructive pulmonary disease, angina without a procedure, asthma, hypertension, heart failure, dehydration, bacterial pneumonia or urinary tract infection per 100,000 Medicare enrollees ages 18 and older continuously enrolled in Medicare fee-for-service Part A
+
+2019 number:
+
+Number of discharges for ambulatory care-sensitive conditions per 1,000 Medicare enrollees
 
 ### Indicator Page
 

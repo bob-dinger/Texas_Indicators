@@ -8,7 +8,7 @@ Percent of population who report having one or more of the following chronic con
 
 Texans live long, healthy, and productive lives
 
-### Type: Primary indicator
+### Type: Secondary indicator
 
 Updated: yes
 

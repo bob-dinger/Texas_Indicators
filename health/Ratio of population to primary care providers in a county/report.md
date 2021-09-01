@@ -1,4 +1,4 @@
-# Availability of physical health care providers 
+# Availability of primary care providers 
 
 Ratio of population to primary care providers in a county
 
@@ -16,31 +16,28 @@ Data Release Date:
 
 Comparisons: States
 
-
 ----
 
-Date: 2020
+Date: 2018
 
-Latest Value: 191.7
+Latest Value: 1640:1
 
 State Rank: 3
 
 Peer Rank: 2
 
-
 ----
 
-Previous Date:  2019
+Previous Date:  2017
 
-Previous Value: 182.6
+Previous Value: 1640:1
 
 Previous State Rank:   2
 
 Previous Peer Rank: 2
 
-
 ----
-Metric Trend: up
+Metric Trend: flat
 
 Target: Top 3
 

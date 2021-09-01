@@ -1,4 +1,4 @@
-# Immunizations
+# Childhood Immunizations
 
 Percent of children ages 19-35 months who received recommended vaccines
 
@@ -14,26 +14,23 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: States
-
 
 ----
 
 Date: 2020
 
-Latest Value: 72.1
+Latest Value: 72.1%
 
 State Rank: 43
 
 Peer Rank: 11
 
-
 ----
 
 Previous Date:  2019
 
-Previous Value: 75.7
+Previous Value: 75.7%
 
 Previous State Rank:   11
 
@@ -76,6 +73,17 @@ https://www.cdc.gov/vaccines/imz-managers/coverage/childvaxview/interactive-repo
 
 
 ### Notes
+
+2020 Number:
+
+Definition: Percentage of children who received by age 35 months all recommended doses of the combined 7-vaccine series: diphtheria and tetanus toxoids and acellular pertussis (DTaP) vaccine; measles, mumps and rubella (MMR) vaccine; poliovirus vaccine; Haemophilus influenzae type b (Hib) vaccine; hepatitis B (HepB) vaccine; varicella vaccine; and pneumococcal conjugate vaccine (PCV)
+Data Source & Year(s): CDC, National Immunization Survey-Child (Birth Cohort), 2016-2017
+Suggested Citation: America's Health Rankings analysis of CDC, National Immunization Survey-Child (Birth Cohort), United Health Foundation, AmericasHealthRankings.org, Accessed 2021.
+
+2019:
+
+
+
 
 
 ### Indicator Page

@@ -1,4 +1,4 @@
-# Persons with usual primary care provider
+# Persons with usual source of care
 
 Percent of adults who report having a "personal" health care provider
 
@@ -15,7 +15,6 @@ Updated: yes
 Data Release Date: 
 
 Comparisons: States
-
 
 ----
 

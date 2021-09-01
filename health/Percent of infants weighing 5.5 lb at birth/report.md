@@ -19,7 +19,7 @@ Comparisons: States
 
 ----
 
-Date: 2020
+Date: 2018
 
 Latest Value: 8.5
 
@@ -30,7 +30,7 @@ Peer Rank: 6
 
 ----
 
-Previous Date:  2019
+Previous Date:  2017
 
 Previous Value: 8.4
 
