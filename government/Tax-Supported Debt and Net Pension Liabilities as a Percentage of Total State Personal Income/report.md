@@ -18,23 +18,23 @@ Comparisons: States
 
 ----
 
-Date: 2020
+Date: 2019
 
-Latest Value: 1.192
+Latest Value: 6.1
 
-State Rank: 8
+State Rank: 29
 
-Peer Rank: 3
+Peer Rank: 9
 
 ----
 
-Previous Date: 2019
+Previous Date: 2018
 
-Previous Value: 1.161
+Previous Value:
 
-Previous State Rank: 8
+Previous State Rank: 
 
-Previous Peer Rank: 3
+Previous Peer Rank: 
 
 ----
 Metric Trend: flat
@@ -70,6 +70,8 @@ Previous Trend: Improving
 [Texas - Debt Affordability Study 2021](http://www.brb.texas.gov/pub/bfo/DAS2021.pdf)
 
 ### Notes
+
+This metric has a 2020 number, but it is behind a paywall at Fitch, so we need to pay for it. The value for 2019 is the Debt + Adjusted NPL - the far right column in the image above. 
 
 
 ### Indicator Page

@@ -67,6 +67,8 @@ Previous Trend:
 
 ### Notes
 
+This indicator is listed as TBD in the original indicator spreadsheet. 
+
 ### Indicator Page
 
 N/A
