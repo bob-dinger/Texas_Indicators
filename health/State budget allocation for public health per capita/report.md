@@ -20,9 +20,9 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value: 20.41
+Latest Value: $20.41
 
-State Rank: 39
+State Rank: 38
 
 Peer Rank: 8
 
@@ -30,15 +30,15 @@ Peer Rank: 8
 
 Previous Date:  2019
 
-Previous Value: 17.16
+Previous Value: $17.16
 
-Previous State Rank:   8
+Previous State Rank: 40
 
 Previous Peer Rank: 9
 
-
 ----
-Metric Trend: 
+
+Metric Trend: up
 
 Target: 
 
@@ -64,7 +64,12 @@ Previous Trend:
 
 ### Notes
 
+Shortchanging America's Health, Investing in America's Health, The Impact of Chronic Underfunding on America's Public Health System, Trust for America's Health (TFAH).
 
+Annual Estimates of the Resident Population for the United States, Regions, States, and Puerto Rico, U.S. Census Bureau, Population Division.
+
+Suggested Citation:
+SHADAC analysis of [DATA SOURCE], State Health Compare, SHADAC, University of Minnesota, statehealthcompare.shadac.org, Accessed [DATE].
 
 ### Indicator Page
 

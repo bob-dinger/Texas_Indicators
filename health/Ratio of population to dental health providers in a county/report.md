@@ -14,9 +14,7 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: States
-
 
 ----
 
@@ -24,23 +22,22 @@ Date: 2020
 
 Latest Value: 51.7
 
-State Rank: 11
+State Rank: 39
 
-Peer Rank: 3
+Peer Rank: 10
 
+----
+
+Previous Date:  2018
+
+Previous Value: 52.9
+
+Previous State Rank: 33
+
+Previous Peer Rank: 9
 
 ----
 
-Previous Date:  2019
-
-Previous Value: 50.8
-
-Previous State Rank:   3
-
-Previous Peer Rank: 4
-
-
-----
 Metric Trend: down
 
 Target: 
@@ -50,7 +47,6 @@ Baseline:
 Target Value: 
 
 Previous Trend: 
-
 
 
 ### Value
@@ -71,6 +67,16 @@ Previous Trend:
 [AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/dental_provider/state/ALL?edition-year=2020)
 
 ### Notes
+
+Definition: Number of general dentists and advanced practice dental therapists per 100,000 population
+
+Latest Number:
+
+U.S. HHS, Centers for Medicare & Medicaid Services, National Plan and Provider Enumeration System, September 2020
+
+Previous Number:
+
+American Dental Association, 2018
 
 
 ### Indicator Page

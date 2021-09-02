@@ -22,9 +22,9 @@ Date: 2018
 
 Latest Value: 1640:1
 
-State Rank: 3
+State Rank: 50
 
-Peer Rank: 2
+Peer Rank: 12
 
 ----
 
@@ -32,9 +32,9 @@ Previous Date:  2017
 
 Previous Value: 1640:1
 
-Previous State Rank:   2
+Previous State Rank: 50
 
-Previous Peer Rank: 2
+Previous Peer Rank: 12
 
 ----
 Metric Trend: flat

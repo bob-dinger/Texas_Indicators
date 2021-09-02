@@ -20,28 +20,27 @@ Comparisons: States
 
 ----
 
-Date: 2020
+Date: 2018
 
-Latest Value: 7126
+Latest Value: 7,126
 
-State Rank: 20
+State Rank: 21
 
 Peer Rank: 6
 
-
 ----
 
-Previous Date: 2019
+Previous Date: 2017
 
 Previous Value: 7,240
 
 Previous State Rank: 22
 
-Previous Peer Rank: 10
-
+Previous Peer Rank: 7
 
 ----
-Metric Trend: flat
+
+Metric Trend: up
 
 Target: Top 3
 
@@ -72,6 +71,18 @@ Previous Trend: Flat
 
 
 ### Notes
+
+Latest Number:
+
+CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files, 2018
+
+Definition: Number of years of potential life lost before age 75 per 100,000 population, one year estimate
+
+
+Previous Number:
+
+CDC WONDER Online Database, Underlying Cause of Death, Multiple Cause of Death files, 2017
+
 
 
 ### Indicator Page

@@ -18,7 +18,7 @@ Comparisons: States
 
 ----
 
-Date: 2020
+Date: 2018
 
 Latest Value: 4656
 
@@ -26,14 +26,13 @@ State Rank: 32
 
 Peer Rank: 8
 
-
 ----
 
-Previous Date:  2019
+Previous Date:  2015
 
 Previous Value: 53.2
 
-Previous State Rank:   8
+Previous State Rank: 34
 
 Previous Peer Rank: 9
 
@@ -70,11 +69,15 @@ Previous Trend: Mixed
 
 ### Notes
 
-2020 number:
+Latest number:
+
+U.S. HHS, Centers for Medicare & Medicaid Services, Office of Minority Health's Mapping Medicare Disparities (MMD) Tool , 2018
 
 Discharges following hospitalization for diabetes with short- or long-term complications, uncontrolled diabetes without complications, diabetes with lower-extremity amputation, chronic obstructive pulmonary disease, angina without a procedure, asthma, hypertension, heart failure, dehydration, bacterial pneumonia or urinary tract infection per 100,000 Medicare enrollees ages 18 and older continuously enrolled in Medicare fee-for-service Part A
 
-2019 number:
+Previous number:
+
+The Dartmouth Atlas of Health Care, 2015
 
 Number of discharges for ambulatory care-sensitive conditions per 1,000 Medicare enrollees
 

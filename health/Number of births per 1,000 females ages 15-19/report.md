@@ -41,7 +41,7 @@ Previous Peer Rank: 12
 
 
 ----
-Metric Trend: up
+Metric Trend: flat
 
 Target: 
 

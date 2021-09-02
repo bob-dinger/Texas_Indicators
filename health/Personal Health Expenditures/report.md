@@ -27,14 +27,13 @@ State Rank: 43
 
 Peer Rank: 12
 
-
 ----
 
 Previous Date:  2017
 
 Previous Value: 1032.58
 
-Previous State Rank:   12
+Previous State Rank: 43
 
 Previous Peer Rank: 12
 

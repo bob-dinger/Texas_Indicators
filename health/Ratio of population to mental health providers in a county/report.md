@@ -34,7 +34,7 @@ Previous Date:  2019
 
 Previous Value: 880:1
 
-Previous State Rank:   50
+Previous State Rank:  50
 
 Previous Peer Rank: 12
 

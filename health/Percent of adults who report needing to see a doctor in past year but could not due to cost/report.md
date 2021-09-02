@@ -1,6 +1,5 @@
 # Texans unable to get care due to medical cost
 
-
 Percent of adults who report needing to see a doctor in past year but could not due to cost
 
 ## Health Affordability
@@ -15,33 +14,30 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: States
-
 
 ----
 
-Date: 2020
+Date: 2019
 
-Latest Value: 18.8
+Latest Value: 18.8%
 
-State Rank: 51
+State Rank: 50
 
 Peer Rank: 12
-
 
 ----
 
 Previous Date:  2019
 
-Previous Value: 16.8
+Previous Value: 16.8%
 
-Previous State Rank:   12
+Previous State Rank: 48
 
 Previous Peer Rank: 11
 
-
 ----
+
 Metric Trend: down
 
 Target: Top 3
@@ -51,8 +47,6 @@ Baseline: 17%
 Target Value: 11%
 
 Previous Trend: Improving
-
-
 
 ### Value
 

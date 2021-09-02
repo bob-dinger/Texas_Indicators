@@ -32,7 +32,7 @@ Previous Date:  2018
 
 Previous Value: 34.8%
 
-Previous State Rank:  41
+Previous State Rank:  40
 
 Previous Peer Rank: 12
 
