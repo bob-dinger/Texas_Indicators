@@ -39,7 +39,8 @@ Previous State Rank:  50
 Previous Peer Rank: 12
 
 ----
-Metric Trend: down
+
+Metric Trend: flat
 
 Target: Top 3
 
