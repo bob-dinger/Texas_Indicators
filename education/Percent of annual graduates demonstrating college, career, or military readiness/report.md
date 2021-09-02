@@ -8,14 +8,13 @@ Percent of annual graduates demonstrating college, career, or military readiness
 
 Texas students graduate high school ready for postsecondary success
 
-### Type: Secondary indicator
+### Type: Primary indicator
 
 Updated: yes
 
 Data Release Date: 
 
 Comparisons: Texas
-
 
 ----
 
