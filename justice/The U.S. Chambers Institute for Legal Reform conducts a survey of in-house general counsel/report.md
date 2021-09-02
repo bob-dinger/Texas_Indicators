@@ -10,7 +10,7 @@ Texans are served effectively, efficiently, and impartially by the justice syste
 
 ### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 
@@ -37,9 +37,9 @@ Previous State Rank: 39
 
 Previous Peer Rank: 8
 
-
 ----
-Metric Trend: flat
+
+Metric Trend: up
 
 Target: Top 3
 
@@ -71,7 +71,9 @@ Previous Trend: Improving
 
 ### Notes
 
-Source has not been updated.
+This one hasn't changed since the SF. 
+
+I haven't been able to find any info on if they're doing a 2021 report.
 
 ### Indicator Page
 

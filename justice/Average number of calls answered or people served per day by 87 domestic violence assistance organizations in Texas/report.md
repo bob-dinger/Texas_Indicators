@@ -79,6 +79,8 @@ Previous Trend:
 
 ### Notes
 
+For the fifteenth consecutive year, on September 10, 2020, the National Network to End Domestic Violence (NNEDV) conducted our Domestic Violence Counts Survey: a one-day, unduplicated count of adults and children seeking domestic violence services in the United States. This annual survey documents the number of individuals who sought services in a single 24-hour period, as well as the types of services requested, the number of service requests that went unmet due to a lack of resources, and the issues and barriers that domestic violence programs face as they strive to provide services to victims of domestic violence.
+
 
 ### Indicator Page
 

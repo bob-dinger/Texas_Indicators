@@ -85,6 +85,11 @@ $279.2 Billion
 
 ### Notes
 
+
+The link above takes you to an interactive visual to look at revenue and expenditures for Texas. 
+
+Select Expenditures at the top left.
+
 "Select All Expenditures" to get sum of total expenditures. 
 
 "Public Safety and Corrections" to get the expenditure for corrections.

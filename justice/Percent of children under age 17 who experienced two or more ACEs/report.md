@@ -14,13 +14,11 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: States
-
 
 ----
 
-Date: 2020
+Date: 2019
 
 Latest Value: 15.3
 
@@ -31,7 +29,7 @@ Peer Rank: 8
 
 ----
 
-Previous Date:  2019
+Previous Date:  2018
 
 Previous Value: 19.9
 
@@ -70,7 +68,7 @@ Previous Trend: Flat
 
 ### Notes
 
-
+No Notes. Standard source.
 
 ### Indicator Page
 

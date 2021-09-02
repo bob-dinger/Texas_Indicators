@@ -60,17 +60,26 @@ Previous Trend: Flat
 
 ### Data
 
-![recidivism](./images/recidivism2.PNG)
+<!-- ![recidivism](./images/recidivism2.PNG) -->
 
 
 ### Source
 
 [TX Legislative Budget Board - Statewide Criminal and Juvenile Justice - Recidivism and Revocation Rates](https://www.lbb.state.tx.us/documents/publications/policy_report/6293_cjda_recidivism-revocation.pdf)
 
-
+https://worldpopulationreview.com/state-rankings/recidivism-rates-by-state
 
 ### Notes
 
+Latest number I have is from a Texas report, so we can't get state comparisons. I couldn't find one consecutive year report with all the states. 
+
+Choice of source I think comes down to wanting the comparison or having a reliable update every year for a standard number.
+
+There are a few sources/reports that cover every state, but not every year:
+
+[Here is one from 2018](https://vadoc.virginia.gov/media/1363/vadoc-state-recidivism-comparison-report-2018-12.pdf)
+
+[The sentencing project has one for 2019](https://www.sentencingproject.org/the-facts/#map)
 
 
 

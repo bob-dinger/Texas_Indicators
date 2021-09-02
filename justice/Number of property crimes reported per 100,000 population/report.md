@@ -83,6 +83,11 @@ Total Property Crimes:
 
 ### Notes
 
+The numbers used are from the top source, with property crime rates for Texas for 2018 and 2019. 
+
+The Statista link has all states for 2019, but no other years for that same stat.
+
+And it looks like the FBI has these rates for each state for 2018 & 2019 so that might be the best source. 
 
 
 ### Indicator Page

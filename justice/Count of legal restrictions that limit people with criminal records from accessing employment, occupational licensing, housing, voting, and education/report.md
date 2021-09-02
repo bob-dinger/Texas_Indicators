@@ -65,6 +65,8 @@ Previous Trend:
 
 ### Source
 
+[NICCC](https://niccc.nationalreentryresourcecenter.org/)
+
 [TX Summary](https://csgjusticecenter.org/publications/after-the-sentence-more-consequences/state-reports/state/?usState=texas)
 
 [Council of State Governments - Justice Center](https://csgjusticecenter.org/publications/after-the-sentence-more-consequences/state-reports/)
@@ -72,6 +74,8 @@ Previous Trend:
 
 
 ### Notes
+
+The source at the top above is a database of restrictions that can't be queried by year so we can't get past values.
 
 ### Indicator Page
 
