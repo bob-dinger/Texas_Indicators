@@ -4,7 +4,7 @@ Influenza and pneumonia mortality Number of deaths in Texas whose underlying
 
 ## Infrastructure
 
-### Goal: Resiliency
+### Goal: hazard readiness
 
 Texas is ready to address the human, economic, and environmental consequences of natural disasters and hazards
 
