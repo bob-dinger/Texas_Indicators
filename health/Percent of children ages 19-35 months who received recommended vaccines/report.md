@@ -28,17 +28,17 @@ Peer Rank: 11
 
 ----
 
-Previous Date:  2019
+Previous Date:  2017
 
-Previous Value: 75.7%
+Previous Value: 67.8%
 
-Previous State Rank:   11
+Previous State Rank:   41
 
-Previous Peer Rank: 7
+Previous Peer Rank: 8
 
 
 ----
-Metric Trend: flat
+Metric Trend: down
 
 Target: 
 
@@ -82,7 +82,9 @@ Suggested Citation: America's Health Rankings analysis of CDC, National Immuniza
 
 2019:
 
-
+Definition: Percentage of children ages 19-35 months who received recommended doses of diphtheria, tetanus and acellular pertussis (DTaP); measles, mumps and rubella (MMR); polio; Haemophilus influenzae type b (Hib); hepatitis B; varicella; and pneumococcal conjugate vaccines
+Data Source & Year(s): CDC, National Immunization Survey-Child, 2017
+Suggested Citation: America's Health Rankings analysis of CDC, National Immunization Survey-Child, United Health Foundation, AmericasHealthRankings.org, Accessed 2021.
 
 
 

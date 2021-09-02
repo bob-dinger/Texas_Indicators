@@ -20,7 +20,7 @@ Comparisons: States
 
 Date: 2019
 
-Latest Value: 6.1
+Latest Value: 6.1%
 
 State Rank: 29
 
@@ -46,7 +46,6 @@ Baseline: 7.10%
 Target Value: 5.20%
 
 Previous Trend: Improving
-
 
 
 ### Value

@@ -30,11 +30,11 @@ Peer Rank: N/A
 
 Previous Date:  2014
 
-Previous Value: 6.9%
+Previous Value: 5.1%
 
-Previous State Rank: 41
+Previous State Rank: 37
 
-Previous Peer Rank: 11
+Previous Peer Rank: 7
 
 
 ----
@@ -42,7 +42,7 @@ Metric Trend: flat
 
 Target: Top 3
 
-Baseline: 5.1
+Baseline: 5.1%
 
 Target Value: 3.5%
 
