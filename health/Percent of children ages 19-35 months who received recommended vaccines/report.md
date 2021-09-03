@@ -4,9 +4,9 @@ Percent of children ages 19-35 months who received recommended vaccines
 
 ## Health Outcomes
 
-### Goal: Value-driven system
+### Goal: Public health
 
-Texas has a high-value health care system that optimizes cost and delivers results
+Texans and their communities are empowered to adopt healthy lifestyles
 
 ### Type: Primary indicator
 
