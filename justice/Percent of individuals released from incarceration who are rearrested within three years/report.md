@@ -34,7 +34,7 @@ Previous Date: 2016
 
 Previous Value: 62.5%
 
-Previous State Rank: 12
+Previous State Rank:
 
 Previous Peer Rank: 
 
