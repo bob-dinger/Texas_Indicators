@@ -67,7 +67,7 @@ Previous Trend: Worsening
 ### Source
 
 
-[Census - The Supplemental Poverty Measure: 2019](./p60-272.pdf)
+[Census - The Supplemental Poverty Measure: 2019](./original_data/p60-272.pdf)
 
 [2019 Source](https://www.census.gov/library/publications/2020/demo/p60-272.html)
 

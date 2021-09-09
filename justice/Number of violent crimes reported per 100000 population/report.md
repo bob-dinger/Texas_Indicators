@@ -20,7 +20,7 @@ Comparisons: States
 
 ----
 
-Date: 2020
+Date: 2019
 
 Latest Value: 419
 
@@ -31,9 +31,9 @@ Peer Rank: 11
 
 ----
 
-Previous Date:  2019
+Previous Date:  2018
 
-Previous Value: 411
+Previous Value: 412.9
 
 Previous State Rank:   11
 
@@ -41,7 +41,7 @@ Previous Peer Rank: 11
 
 
 ----
-Metric Trend: down
+Metric Trend: flat
 
 Target: Top 9
 
@@ -50,7 +50,6 @@ Baseline: 411
 Target Value: 397
 
 Previous Trend: Flat
-
 
 
 ### Value
@@ -67,7 +66,12 @@ Previous Trend: Flat
 
 ### Source
 
-[AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/Crime/state/ALL)
+[FBI - Crime in 2019](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-5)
+
+[FBI - Crime in 2018](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/table-5)
+
+<!-- 
+[AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/Crime/state/ALL) -->
 
 ### Notes
 
