@@ -21,9 +21,9 @@ Comparisons: Texas
 
 Date: 2019
 
-Latest Value: 2,391 
+Latest Value: 2,390.7
 
-State Rank: 15
+State Rank: 36
 
 Peer Rank: 10
 
@@ -31,9 +31,9 @@ Peer Rank: 10
 
 Previous Date: 2018
 
-Previous Value: 2,379
+Previous Value: 2,367.2
 
-Previous State Rank: N/A
+Previous State Rank: 28
 
 Previous Peer Rank: 7
 

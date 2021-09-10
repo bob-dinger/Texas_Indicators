@@ -1,6 +1,5 @@
 # Violent crime rate
 
-
 Number of violent crimes reported per 100,000 population
 
 ## Justice & Safety
@@ -33,7 +32,7 @@ Previous Date:  2018
 
 Previous Value: 410.9
 
-Previous State Rank:   11
+Previous State Rank: 33
 
 Previous Peer Rank: 11
 

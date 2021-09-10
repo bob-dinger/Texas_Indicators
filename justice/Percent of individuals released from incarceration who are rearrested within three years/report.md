@@ -1,6 +1,5 @@
 # Recidivism
 
-
 Percent of individuals released from incarceration who are rearrested within three years
 
 ## Justice & Safety
@@ -26,7 +25,6 @@ Latest Value: 63%
 State Rank:
 
 Peer Rank: 
-
 
 ----
 
