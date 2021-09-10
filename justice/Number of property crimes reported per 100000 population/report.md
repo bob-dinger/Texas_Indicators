@@ -1,6 +1,5 @@
 # Property crime rate
 
-
 Number of property crimes reported per 100,000 population
 
 ## Justice & Safety
@@ -26,8 +25,7 @@ Latest Value: 2,391
 
 State Rank: 15
 
-Peer Rank: 
-
+Peer Rank: 10
 
 ----
 
@@ -39,9 +37,9 @@ Previous State Rank: N/A
 
 Previous Peer Rank: 7
 
-
 ----
-Metric Trend: flat
+
+Metric Trend: down
 
 Target: Top 9
 
@@ -50,8 +48,6 @@ Baseline: 2370
 Target Value: 2464
 
 Previous Trend: Improving
-
-
 
 ### Value
 
@@ -71,6 +67,11 @@ Total Property Crimes:
 
 ### Source
 
+[FBI - Crime in 2019](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-5)
+
+[FBI - Crime in 2018](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/table-5)
+
+<!-- 
 [Texas Crime Report - 2019](https://www.dps.texas.gov/sites/default/files/documents/crimereports/19/cit2019.pdf)
 
 [Statista](https://www.statista.com/statistics/232575/property-crime-rate-in-the-us-by-state/)
@@ -79,7 +80,7 @@ Total Property Crimes:
 
 [FBI - 2019 Crime Report](https://ucr.fbi.gov/crime-in-the-u.s/2019/crime-in-the-u.s.-2019/topic-pages/tables/table-5)
 
-[FBI - 2018 Report](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/table-5)
+[FBI - 2018 Report](https://ucr.fbi.gov/crime-in-the-u.s/2018/crime-in-the-u.s.-2018/topic-pages/tables/table-5) -->
 
 ### Notes
 

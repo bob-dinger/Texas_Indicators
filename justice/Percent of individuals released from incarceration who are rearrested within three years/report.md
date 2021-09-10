@@ -38,9 +38,9 @@ Previous State Rank:
 
 Previous Peer Rank: 
 
-
 ----
-Metric Trend: down
+
+Metric Trend: flat
 
 Target: Below national average
 
