@@ -16,30 +16,28 @@ Data Release Date: Quarterly
 
 Comparisons: States
 
-
 ----
 
 Date: 2021
 
-Latest Value: 3.4
+Latest Value: 3.4%
 
 State Rank: 19
 
 Peer Rank: 4
 
-
 ----
 
 Previous Date:  2020
 
-Previous Value: -0.5
+Previous Value: -0.5%
 
 Previous State Rank:   4
 
 Previous Peer Rank: 12
 
-
 ----
+
 Metric Trend: up
 
 Target: #1

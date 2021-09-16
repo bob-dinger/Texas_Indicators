@@ -10,12 +10,11 @@ Texans have clean air
 
 ### Type: Primary indicator
 
-Updated: no (last updated in 2015)
+Updated: no
 
 Data Release Date: 
 
 Comparisons: Counties
-
 
 ----
 
@@ -27,7 +26,6 @@ State Rank:
 
 Peer Rank: 
 
-
 ----
 
 Previous Date: 
@@ -37,7 +35,6 @@ Previous Value:
 Previous State Rank: 
 
 Previous Peer Rank: 
-
 
 ----
 Metric Trend: 

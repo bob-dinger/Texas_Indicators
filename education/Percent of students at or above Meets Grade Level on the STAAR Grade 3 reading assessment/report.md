@@ -8,9 +8,9 @@ Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading a
 
 Texas students graduate high school ready for postsecondary success
 
-### Type: Secondary indicator
+### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 
@@ -37,7 +37,7 @@ Previous State Rank:  N/A
 Previous Peer Rank:  N/A
 
 ----
-Metric Trend: flat
+Metric Trend: up
 
 Target: 80%
 

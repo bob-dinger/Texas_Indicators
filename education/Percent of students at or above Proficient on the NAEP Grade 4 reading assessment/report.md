@@ -26,7 +26,6 @@ State Rank: 44
 
 Peer Rank: 12
 
-
 ----
 
 Previous Date: 2017

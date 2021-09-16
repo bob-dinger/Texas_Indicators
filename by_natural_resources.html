@@ -1,0 +1,322 @@
+<style>
+h1, h2{
+text-align:center;
+padding:10px;
+}
+body {
+  color: #666;
+  font: 14px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;
+}
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+	width: 90%;
+	margin: 0 auto;
+	
+}
+th,
+td {
+padding: 4px;
+}
+th {
+background: #35438f;
+  color: #fff;
+  text-align: center;
+}
+tr:first-child th:first-child {
+	border-top-left-radius: 6px;
+}
+tr:first-child th:last-child {
+	border-top-right-radius: 6px;
+}
+td {
+	border-right: 1px solid #c6c9cc;
+  border-bottom: 1px solid #c6c9cc;
+  text-align: center;
+}
+td:first-child {
+	border-left: 1px solid #c6c9cc;
+}
+tr:last-child td:first-child {
+	border-bottom-left-radius: 6px;
+}
+tr:last-child td:last-child {
+	border-bottom-right-radius: 6px;
+}
+
+tr:nth-child(even) td {
+	background: #eaeaed;
+}
+
+.up {
+	background-color:#48a150 !important;
+	color:white;
+ }
+ .down {
+	background-color:#a1454a !important;
+	color:white;
+ }
+ .flat {
+	background-color:#486fa1 !important;
+	color:white;
+ }
+ .ind_column {
+ 	width:350px;
+ }
+  .not_updated {
+ 	background-color:#a1454a !important;
+	color: white !important;
+ }
+ 
+ 
+ 
+  #hoverbox{
+	z-index: 5;
+	position:absolute;
+	background-color:white;
+	border:1px solid red;
+	border-radius: 4px;
+	visibility: hidden;
+	color:black;
+	padding:5px;
+ }
+
+ .redrow{
+	 border:1px solid red;
+ }
+ </style><h1>Indicators</h1>
+<table><tr>
+<th>Goal #</th>
+<th class="ind_column">Indicator Name</th>
+<th>Policy Area</th>
+<th>Topic</th>
+<th>Goal</th>
+<th>Type</th>
+<th>Updated</th>
+<th>Comp</th>
+<th>Year</th>
+<th>Value</th>
+<th>Rank</th>
+<th>Peer Rank</th>
+<th>Previous Year</th>
+<th>Previous Value</th>
+<th>Previous Rank</th>
+<th>Previous Peer Rank</th>
+<th>Metric Trend</th>
+</tr>
+<tr>
+<td>19</td>
+<td><a href="./natural resources/Percent of population living in areas that do not have attainment for all pollutants under current National Ambient Air Quality Standards (NAAQS)/report.html">Air quality non-attainment</a></td>
+<td>natural resources</td>
+<td>Air</td>
+<td> Quality of air</td>
+<td> Primary </td>
+<td> no</td>
+<td> Counties</td>
+<td> 2018</td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='data is spotty, variable is at county level, no TX counties listed)'> 60%  </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>20</td>
+<td><a href="./natural resources/Gap between projected supply and projected demand of water under a drought of record conditions in 2030-2040/report.html">Water shortage</a></td>
+<td>natural resources</td>
+<td>Water</td>
+<td> Sufficient water</td>
+<td> Primary </td>
+<td> yes</td>
+<td> Texas</td>
+<td> 2020</td>
+<td> 3,116,261</td>
+<td> N/A</td>
+<td> N/A</td>
+<td> 2017</td>
+<td> 4,759,781</td>
+<td> N/A </td>
+<td> N/A</td>
+<td class="up"> up</td>
+</tr>
+<tr>
+<td>21</td>
+<td><a href="./natural resources/Percent of public water systems (PWS) not identified as a serious violator based on uncorrected violations/report.html">Drinking water attainment</a></td>
+<td>natural resources</td>
+<td>Water</td>
+<td> Quality of water</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2020</td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='need to make sure variable is calculated correctly)'> 93.73 </td>
+<td> N/A</td>
+<td> </td>
+<td> 2019</td>
+<td> 93.38</td>
+<td> N/A</td>
+<td> </td>
+<td class="flat"> flat</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="./natural resources/Number of acres preserved in the Public Land System or through easements per 1000 Texans/report.html">Preserved acres</a></td>
+<td>natural resources</td>
+<td>Land</td>
+<td> Parks and wildlife</td>
+<td> Primary </td>
+<td> no</td>
+<td> States</td>
+<td> 2017</td>
+<td> 29.99 </td>
+<td> N/A</td>
+<td> N/A</td>
+<td> 2012</td>
+<td> 27.87</td>
+<td> N/A</td>
+<td> N/A</td>
+<td class="up"> up</td>
+</tr>
+<tr>
+<td>22</td>
+<td><a href="./natural resources/Number of total visits to Texas state parks per 1000 Texans/report.html">Park utilization</a></td>
+<td>natural resources</td>
+<td>Land</td>
+<td> Parks and wildlife</td>
+<td> Primary </td>
+<td> no</td>
+<td> Texas</td>
+<td> 2019</td>
+<td> 296.89 </td>
+<td> N/A</td>
+<td>  N/A</td>
+<td> 2017</td>
+<td> 342.76</td>
+<td> N/A</td>
+<td>  N/A</td>
+<td class="down"> down</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="./natural resources/Amount of water used for irrigation per acre of cropland in Texas/report.html">Agricuture water efficiency</a></td>
+<td>natural resources</td>
+<td>Land</td>
+<td> Agricultural production</td>
+<td> Primary </td>
+<td> no</td>
+<td> States</td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='census of agriculture, irrigation has not been updated)'> 2018 </td>
+<td> 416,481.22</td>
+<td> N/A</td>
+<td> </td>
+<td> 2013</td>
+<td> 525,596.20</td>
+<td> N/A</td>
+<td> </td>
+<td class="up"> up</td>
+</tr>
+<tr>
+<td>23</td>
+<td><a href="./natural resources/Market value in dollars of all sold crop livestock and animal products produced in-state divided by state population/report.html">Agricultural output per capita</a></td>
+<td>natural resources</td>
+<td>Land</td>
+<td> Agricultural production</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2019</td>
+<td> 839.8277673</td>
+<td> 29</td>
+<td> 7</td>
+<td>  2018</td>
+<td> 868.2653254</td>
+<td>   7</td>
+<td> 8</td>
+<td class="up"> up</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="./natural resources/Energy content generated from renewable sources in-state/report.html">Renewable energy production</a></td>
+<td>natural resources</td>
+<td>Land</td>
+<td> Energy production</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2019</td>
+<td> 962899</td>
+<td> 2</td>
+<td> 2</td>
+<td>  2018</td>
+<td> 900822</td>
+<td>   2</td>
+<td> 3</td>
+<td class="up"> up</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="./natural resources/Energy content of oil natural gas coal and nuclear energy extracted from the ground or generated in-state/report.html">Traditional energy production</a></td>
+<td>natural resources</td>
+<td>Land</td>
+<td> Energy production</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2019</td>
+<td> 22,509.1 </td>
+<td> 1</td>
+<td> 1</td>
+<td> 2018</td>
+<td> 19716932</td>
+<td> 1</td>
+<td> 1</td>
+<td class="flat"> flat</td>
+</tr>
+<tr>
+<td>24</td>
+<td><a href="./natural resources/Quantity of carbon produced in-state from generating one unit of energy/report.html">Carbon Intensity</a></td>
+<td>natural resources</td>
+<td>Land</td>
+<td> Energy production</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2018</td>
+<td> 49</td>
+<td> 15</td>
+<td> 4</td>
+<td>  2017</td>
+<td> 50.8</td>
+<td>   4</td>
+<td> 8</td>
+<td class="up"> up</td>
+</tr>
+</table>
+
+<script>
+	
+function show_hover(e){
+	
+	var comparendo = e.target.dataset.message;
+	
+
+	var x = e.pageX;
+	var y = e.pageY;
+
+	var hov = document.getElementById("hoverbox");
+	hov.style.visibility = "visible";
+	hov.style.left = x;
+	hov.style.top = y;
+	hov.textContent = e.target.dataset.message;
+
+}
+
+function hide_hover()
+{
+	var hov = document.getElementById("hoverbox");
+	hov.style.visibility = "hidden";
+}
+</script></body></html>

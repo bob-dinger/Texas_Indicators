@@ -16,31 +16,28 @@ Data Release Date:
 
 Comparisons: States
 
+----
+
+Date: 2019
+
+Latest Value: 2
+
+State Rank: 2
+
+Peer Rank: 2
 
 ----
 
-Date: 
+Previous Date: 2018
 
-Latest Value: N/A (has not been updated since last strategic framework)
+Previous Value: 3
 
-State Rank: N/A
+Previous State Rank: 3
 
-Peer Rank: 
-
-
-----
-
-Previous Date: 
-
-Previous Value: 
-
-Previous State Rank: N/A
-
-Previous Peer Rank: 7
-
+Previous Peer Rank: 2
 
 ----
-Metric Trend: 
+Metric Trend: flat
 
 Target: #1
 
@@ -62,6 +59,8 @@ Previous Trend: Mixed
 
 
 ### Source
+
+[Forbes](https://www.forbes.com/best-states-for-business/list/)
 
 ### Notes
 

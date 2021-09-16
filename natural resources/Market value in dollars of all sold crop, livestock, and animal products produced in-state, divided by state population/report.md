@@ -16,7 +16,6 @@ Data Release Date: February 5, 2021
 
 Comparisons: States
 
-
 ----
 
 Date: 2019
@@ -26,7 +25,6 @@ Latest Value: 839.8277673
 State Rank: 29
 
 Peer Rank: 7
-
 
 ----
 
@@ -38,9 +36,9 @@ Previous State Rank:   7
 
 Previous Peer Rank: 8
 
-
 ----
-Metric Trend: flat
+
+Metric Trend: up
 
 Target: Top 6
 

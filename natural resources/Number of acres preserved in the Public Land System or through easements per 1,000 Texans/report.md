@@ -10,7 +10,7 @@ Texas enhances and protects its state parks, and public and private open spaces 
 
 ### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 
@@ -23,10 +23,9 @@ Date: 2017
 
 Latest Value: 29.99 
 
-State Rank: 
+State Rank: N/A
 
-Peer Rank: 
-
+Peer Rank: N/A
 
 ----
 
@@ -34,7 +33,7 @@ Previous Date: 2012
 
 Previous Value: 27.87
 
-Previous State Rank: 
+Previous State Rank: N/A
 
 Previous Peer Rank: N/A
 

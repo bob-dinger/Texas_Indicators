@@ -34,7 +34,7 @@ Previous Value: 42%
 
 Previous State Rank: N/A
 
-Previous Peer Rank: 
+Previous Peer Rank: N/A
 
 
 ----

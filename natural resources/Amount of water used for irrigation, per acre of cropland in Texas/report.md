@@ -10,7 +10,7 @@ Texas leads in agricultural production with responsible natural resource steward
 
 ### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 
@@ -25,7 +25,6 @@ Latest Value: 416,481.22
 State Rank: N/A
 
 Peer Rank: 
-
 
 ----
 
@@ -105,6 +104,8 @@ https://www.nass.usda.gov/Publications/AgCensus/2017/Online_Resources/Farm_and_R
 [Previous Source](https://www.nass.usda.gov/Publications/AgCensus/2017/Online_Resources/Farm_and_Ranch_Irrigation_Survey/fris_1_0007_0007.pdf )
 
 ### Notes
+
+Census of agriculture hasn't been updated since 2018.
 
 
 ### Indicator Page

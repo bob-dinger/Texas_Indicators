@@ -1,0 +1,170 @@
+<style>
+h1, h2{
+text-align:center;
+padding:10px;
+}
+body {
+  color: #666;
+  font: 14px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;
+}
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+	width: 90%;
+	margin: 0 auto;
+	
+}
+th,
+td {
+padding: 4px;
+}
+th {
+background: #35438f;
+  color: #fff;
+  text-align: center;
+}
+tr:first-child th:first-child {
+	border-top-left-radius: 6px;
+}
+tr:first-child th:last-child {
+	border-top-right-radius: 6px;
+}
+td {
+	border-right: 1px solid #c6c9cc;
+  border-bottom: 1px solid #c6c9cc;
+  text-align: center;
+}
+td:first-child {
+	border-left: 1px solid #c6c9cc;
+}
+tr:last-child td:first-child {
+	border-bottom-left-radius: 6px;
+}
+tr:last-child td:last-child {
+	border-bottom-right-radius: 6px;
+}
+
+tr:nth-child(even) td {
+	background: #eaeaed;
+}
+
+.up {
+	background-color:#48a150 !important;
+	color:white;
+ }
+ .down {
+	background-color:#a1454a !important;
+	color:white;
+ }
+ .flat {
+	background-color:#486fa1 !important;
+	color:white;
+ }
+ .ind_column {
+ 	width:350px;
+ }
+  .not_updated {
+ 	background-color:#a1454a !important;
+	color: white !important;
+ }
+ 
+ 
+ 
+  #hoverbox{
+	z-index: 5;
+	position:absolute;
+	background-color:white;
+	border:1px solid red;
+	border-radius: 4px;
+	visibility: hidden;
+	color:black;
+	padding:5px;
+ }
+
+ .redrow{
+	 border:1px solid red;
+ }
+ </style><h1>Indicators</h1>
+<table><tr>
+<th>Goal #</th>
+<th class="ind_column">Indicator Name</th>
+<th>Policy Area</th>
+<th>Topic</th>
+<th>Goal</th>
+<th>Type</th>
+<th>Updated</th>
+<th>Comp</th>
+<th>Year</th>
+<th>Value</th>
+<th>Rank</th>
+<th>Peer Rank</th>
+<th>Previous Year</th>
+<th>Previous Value</th>
+<th>Previous Rank</th>
+<th>Previous Peer Rank</th>
+<th>Metric Trend</th>
+</tr>
+<tr>
+<td>1</td>
+<td><a href="./prosperity/Annual percent change in real GDP/report.html">GDP growth</a></td>
+<td>prosperity</td>
+<td>Prosperity</td>
+<td> Economic growth</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2021</td>
+<td> 3.4%</td>
+<td> 19</td>
+<td> 4</td>
+<td>  2020</td>
+<td> -0.5%</td>
+<td>   4</td>
+<td> 12</td>
+<td class="up"> up</td>
+</tr>
+<tr>
+<td>2</td>
+<td><a href="./prosperity/Quality of Life ranking on Forbes Best States for Business Index/report.html">Quality of Life Index</a></td>
+<td>prosperity</td>
+<td>Prosperity</td>
+<td> Quality of life</td>
+<td> Primary </td>
+<td> no</td>
+<td> States</td>
+<td> 2019</td>
+<td> 2</td>
+<td> 2</td>
+<td> 2</td>
+<td> 2018</td>
+<td> 3</td>
+<td> 3</td>
+<td> 2</td>
+<td class="flat"> flat</td>
+</tr>
+</table>
+
+<script>
+	
+function show_hover(e){
+	
+	var comparendo = e.target.dataset.message;
+	
+
+	var x = e.pageX;
+	var y = e.pageY;
+
+	var hov = document.getElementById("hoverbox");
+	hov.style.visibility = "visible";
+	hov.style.left = x;
+	hov.style.top = y;
+	hov.textContent = e.target.dataset.message;
+
+}
+
+function hide_hover()
+{
+	var hov = document.getElementById("hoverbox");
+	hov.style.visibility = "hidden";
+}
+</script></body></html>

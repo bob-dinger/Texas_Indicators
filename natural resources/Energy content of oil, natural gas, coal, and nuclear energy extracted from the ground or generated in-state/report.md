@@ -25,7 +25,7 @@ Latest Value: 22,509.1
 
 State Rank: 1
 
-Peer Rank: 
+Peer Rank: 1
 
 
 ----
