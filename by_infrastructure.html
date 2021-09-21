@@ -1,0 +1,303 @@
+<style>
+h1, h2{
+text-align:center;
+padding:10px;
+}
+body {
+  color: #666;
+  font: 14px/24px "Open Sans", "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", Sans-Serif;
+}
+table {
+	border-collapse: separate;
+	border-spacing: 0;
+	width: 90%;
+	margin: 0 auto;
+	
+}
+th,
+td {
+padding: 4px;
+}
+th {
+background: #35438f;
+  color: #fff;
+  text-align: center;
+}
+tr:first-child th:first-child {
+	border-top-left-radius: 6px;
+}
+tr:first-child th:last-child {
+	border-top-right-radius: 6px;
+}
+td {
+	border-right: 1px solid #c6c9cc;
+  border-bottom: 1px solid #c6c9cc;
+  text-align: center;
+}
+td:first-child {
+	border-left: 1px solid #c6c9cc;
+}
+tr:last-child td:first-child {
+	border-bottom-left-radius: 6px;
+}
+tr:last-child td:last-child {
+	border-bottom-right-radius: 6px;
+}
+
+tr:nth-child(even) td {
+	background: #eaeaed;
+}
+
+.up {
+	background-color:#48a150 !important;
+	color:white;
+ }
+ .down {
+	background-color:#a1454a !important;
+	color:white;
+ }
+ .flat {
+	background-color:#486fa1 !important;
+	color:white;
+ }
+ .ind_column {
+ 	width:350px;
+ }
+  .not_updated {
+ 	background-color:#a1454a !important;
+	color: white !important;
+ }
+ 
+ 
+ 
+  #hoverbox{
+	z-index: 5;
+	position:absolute;
+	background-color:white;
+	border:1px solid red;
+	border-radius: 4px;
+	visibility: hidden;
+	color:black;
+	padding:5px;
+ }
+
+ .redrow{
+	 border:1px solid red;
+ }
+ </style><h1>Indicators</h1>
+<table><tr>
+<th>Goal #</th>
+<th class="ind_column">Indicator Name</th>
+<th>Policy Area</th>
+<th>Topic</th>
+<th>Goal</th>
+<th>Type</th>
+<th>Updated</th>
+<th>Comp</th>
+<th>Year</th>
+<th>Value</th>
+<th>Rank</th>
+<th>Peer Rank</th>
+<th>Previous Year</th>
+<th>Previous Value</th>
+<th>Previous Rank</th>
+<th>Previous Peer Rank</th>
+<th>Metric Trend</th>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="./infrastructure/Annual cost of time lost and fuel spent from passenger car delays per auto commuter/report.html">Cost of congestion</a></td>
+<td>infrastructure</td>
+<td>Transportation</td>
+<td> Mobility of individuals</td>
+<td> Primary </td>
+<td> yes</td>
+<td> Metros</td>
+<td> 2020</td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='value is by metro, we can average all the metros in Texas or take a single one, like Houston)'> $1,097 </td>
+<td> </td>
+<td> </td>
+<td> 2019</td>
+<td> $1,635</td>
+<td> </td>
+<td> </td>
+<td class="up"> up</td>
+</tr>
+<tr>
+<td>13</td>
+<td><a href="./infrastructure/Percent of workers using any mode to access work except single-occupancy vehicles/report.html">Commute choice</a></td>
+<td>infrastructure</td>
+<td>Transportation</td>
+<td> Mobility of individuals</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2020</td>
+<td> 80.1</td>
+<td> 22</td>
+<td> 3</td>
+<td>  2019</td>
+<td> 80.7</td>
+<td>   3</td>
+<td> 2</td>
+<td class="flat"> flat</td>
+</tr>
+<tr>
+<td>14</td>
+<td><a href="./infrastructure/Total freight flows moved through Texas by all modes of transit in ton-miles/report.html">Total freight movement</a></td>
+<td>infrastructure</td>
+<td>Transportation</td>
+<td> Mobility of goods</td>
+<td> Primary </td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='data hasn't been updated since 2017)'> no </td>
+<td> States</td>
+<td> 2020</td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='not found)'> N/A </td>
+<td> N/A</td>
+<td> N/A</td>
+<td> 2019</td>
+<td> N/A</td>
+<td> N/A</td>
+<td> 1</td>
+<td> N/A</td>
+</tr>
+<tr>
+<td>15</td>
+<td><a href="./infrastructure/Number of fatalities on roads involving at least one motor vehicle per 100 million vehicle miles traveled/report.html">Traffic fatality rate</a></td>
+<td>infrastructure</td>
+<td>Transportation</td>
+<td> Safety</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2019</td>
+<td> 1.25</td>
+<td> 34</td>
+<td> 11</td>
+<td> 2017</td>
+<td> 1.29</td>
+<td> 34</td>
+<td> 11</td>
+<td class="flat"> flat</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="./infrastructure/Percent of households with subscription to fixed broadband service of any speed/report.html">Broadband subscription</a></td>
+<td>infrastructure</td>
+<td>Digital</td>
+<td> Digital connectivity</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2019</td>
+<td> 0.862637487</td>
+<td> 23</td>
+<td> 6</td>
+<td>  2018</td>
+<td> 0.845139408</td>
+<td>   6</td>
+<td> 8</td>
+<td class="up"> up</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="./infrastructure/Percent of population with access to fixed broadband at an acceptable speed of 25 mbps or higher will shift to 1Gbps download speeds in future/report.html">Broadband coverage</a></td>
+<td>infrastructure</td>
+<td>Digital</td>
+<td> Digital connectivity</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2020</td>
+<td> 86.7</td>
+<td> 37</td>
+<td> 12</td>
+<td>  2019</td>
+<td> 85.7</td>
+<td>   12</td>
+<td> 9</td>
+<td class="up"> up</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="./infrastructure/Average price paid for electricity across all end user sectors/report.html">Electricity prices</a></td>
+<td>infrastructure</td>
+<td>Energy</td>
+<td> Energy distribution</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2019</td>
+<td> 8.6</td>
+<td> 8</td>
+<td> 2</td>
+<td>  2018</td>
+<td> 8.48</td>
+<td>   2</td>
+<td> 2</td>
+<td class="down"> down</td>
+</tr>
+<tr>
+<td>17</td>
+<td><a href="./infrastructure/Percent difference between the forecasted total generation available and the forecasted peak demand in the following year/report.html">Electricity sufficiency</a></td>
+<td>infrastructure</td>
+<td>Energy</td>
+<td> Energy distribution</td>
+<td> Primary </td>
+<td> yes</td>
+<td> Texas</td>
+<td> 2020</td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='need to make sure this was calculated correctly from source materials)'> -3.02% </td>
+<td> N/A</td>
+<td> </td>
+<td> 2019</td>
+<td> -.04%</td>
+<td> </td>
+<td> </td>
+<td class="down"> down</td>
+</tr>
+<tr>
+<td>18</td>
+<td><a href="./infrastructure/National Health Security Preparedness Index/report.html">Emergency preparedness</a></td>
+<td>infrastructure</td>
+<td>Resiliency</td>
+<td> Hazard readiness</td>
+<td> Primary </td>
+<td> yes</td>
+<td> States</td>
+<td> 2019</td>
+<td> 6.7</td>
+<td> 13</td>
+<td> </td>
+<td> 2018</td>
+<td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='2020 value is not comparable to their previous versions)'> 6.6 </td>
+<td> 19</td>
+<td> 9</td>
+<td class="up"> up</td>
+</tr>
+</table>
+
+<script>
+	
+function show_hover(e){
+	
+	var comparendo = e.target.dataset.message;
+	
+
+	var x = e.pageX;
+	var y = e.pageY;
+
+	var hov = document.getElementById("hoverbox");
+	hov.style.visibility = "visible";
+	hov.style.left = x;
+	hov.style.top = y;
+	hov.textContent = e.target.dataset.message;
+
+}
+
+function hide_hover()
+{
+	var hov = document.getElementById("hoverbox");
+	hov.style.visibility = "hidden";
+}
+</script></body></html>

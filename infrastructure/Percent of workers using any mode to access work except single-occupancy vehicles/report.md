@@ -14,33 +14,30 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: States
-
 
 ----
 
 Date: 2020
 
-Latest Value: 80.1
+Latest Value: 80.1%
 
 State Rank: 22
 
 Peer Rank: 3
 
-
 ----
 
 Previous Date:  2019
 
-Previous Value: 80.7
+Previous Value: 80.7%
 
 Previous State Rank:   3
 
 Previous Peer Rank: 2
 
-
 ----
+
 Metric Trend: flat
 
 Target: Top 6

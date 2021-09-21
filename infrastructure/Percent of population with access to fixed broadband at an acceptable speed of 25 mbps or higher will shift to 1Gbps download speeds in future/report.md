@@ -14,9 +14,7 @@ Updated: yes
 
 Data Release Date: 
 
-
 Comparisons: States
-
 
 ----
 
@@ -28,7 +26,6 @@ State Rank: 37
 
 Peer Rank: 12
 
-
 ----
 
 Previous Date:  2019
@@ -39,8 +36,8 @@ Previous State Rank:   12
 
 Previous Peer Rank: 9
 
-
 ----
+
 Metric Trend: up
 
 Target: 

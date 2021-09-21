@@ -37,6 +37,7 @@ Previous State Rank: N/A
 Previous Peer Rank: 1
 
 ----
+
 Metric Trend: N/A
 
 Target: Rank 1

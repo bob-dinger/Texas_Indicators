@@ -26,8 +26,8 @@ State Rank:
 
 Peer Rank: 
 
-
 ----
+
 
 Previous Date: 2019
 
@@ -37,8 +37,8 @@ Previous State Rank:
 
 Previous Peer Rank: 
 
-
 ----
+
 Metric Trend: up
 
 Target: 922
