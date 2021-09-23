@@ -1,6 +1,6 @@
-# 4rd grade reading
+# 4rd grade math
 
-Percent of students at or above Proficient on the NAEP Grade 4 reading assessment
+Percent of students at or above Proficient on the NAEP Grade 4 math assessment
 
 ## Education
 
@@ -18,35 +18,35 @@ Comparisons: States
 
 ----
 
-Date: 2019 (no update-taken every 2 years)
+Date: 
 
-Latest Value: 30
+Latest Value: 
 
-State Rank: 44
+State Rank: 
 
-Peer Rank: 12
-
-----
-
-Previous Date: 2017
-
-Previous Value: 29%
-
-Previous State Rank: 45
-
-Previous Peer Rank: 12
-
+Peer Rank: 
 
 ----
-Metric Trend: up
 
-Target: Top 3
+Previous Date: 
 
-Baseline: 30%
+Previous Value: 
 
-Target Value: 38%
+Previous State Rank: 
 
-Previous Trend: Flat
+Previous Peer Rank: 
+
+
+----
+Metric Trend: 
+
+Target: 
+
+Baseline: 
+
+Target Value: 
+
+Previous Trend: 
 
 
 
@@ -54,36 +54,27 @@ Previous Trend: Flat
 
 | Year        |  Value      | Rank        | Previous Year| Previous Value| Previous Rank  | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2019     |    30%      | 42          |      2017   |   29%       |    45       |    up      | 
+|         |         |          |       |         |           |         |
 
-### **Data**
-
-![4th grade reading](./images/4th grade reading.PNG)
-
-![4th grade math](./images/tx_4th_grade_reading.PNG)
+### Data
 
 
-### **Source**
 
-[NAEP](https://www.nationsreportcard.gov/profiles/stateprofile?chort=1&sub=RED&sj=AL&sfj=NP&st=AP&year=2019R3)
 
-[NAEP](https://www.nationsreportcard.gov/ndecore/xplore/NDE)
+### Source
 
-[NAEP Map](https://www.nationsreportcard.gov/reading/states/scores/?grade=4)
 
-### **Notes**
+
+### Notes
+
 NAEP Assessment is every 2 years (previous was 2019)
 
 
 ### Indicator Page
 
-[Indicator Page](https://indicators.texas2036.org/indicator/35)
 
-![4th grade math - indicator](./images/indicators_4th grade reading.PNG)
 
 
 ### DataLab Page
 
-[DataLab Link](https://datalab.texas2036.org/igxywpc/national-assessment-of-educational-progress-naep-assessments-of-united-states?accesskey=xojlwjb)
 
-![4th grade math - indicator](./images/datalab_4th grade reading.PNG)
