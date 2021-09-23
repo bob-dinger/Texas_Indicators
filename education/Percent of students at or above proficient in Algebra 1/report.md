@@ -1,6 +1,6 @@
-# 4rd grade reading
+# Algebra 1
 
-Percent of students at or above Proficient on the NAEP Grade 4 reading assessment
+Percent of students meet grade level on Alebgra 1 EOC
 
 ## Education
 
@@ -18,35 +18,36 @@ Comparisons: States
 
 ----
 
-Date: 2019 (no update-taken every 2 years)
+Date: 2019
 
-Latest Value: 30
+Latest Value: 61%
 
-State Rank: 44
+State Rank: N/A
 
-Peer Rank: 12
+Peer Rank: N/A
 
 ----
 
-Previous Date: 2017
+Previous Date: 2018
 
-Previous Value: 29%
+Previous Value: 55%
 
-Previous State Rank: 45
+Previous State Rank: N/A
 
-Previous Peer Rank: 12
+Previous Peer Rank: N/A
 
 ----
 
 Metric Trend: up
 
-Target: Top 3
+Target: 
 
-Baseline: 30%
+Baseline: 
 
-Target Value: 38%
+Target Value: 
 
-Previous Trend: Flat
+Previous Trend: 
+
 
 ### Value
 
@@ -54,14 +55,14 @@ Previous Trend: Flat
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     |    30%      | 42          |      2017   |   29%       |    45       |    up      | 
 
-### Data
+### **Data**
 
 ![4th grade reading](./images/4th grade reading.PNG)
 
 ![4th grade math](./images/tx_4th_grade_reading.PNG)
 
 
-### Source
+### **Source**
 
 [NAEP](https://www.nationsreportcard.gov/profiles/stateprofile?chort=1&sub=RED&sj=AL&sfj=NP&st=AP&year=2019R3)
 
@@ -69,7 +70,7 @@ Previous Trend: Flat
 
 [NAEP Map](https://www.nationsreportcard.gov/reading/states/scores/?grade=4)
 
-### Notes
+### **Notes**
 NAEP Assessment is every 2 years (previous was 2019)
 
 

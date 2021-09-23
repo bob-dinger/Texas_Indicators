@@ -32,13 +32,13 @@ Previous Date:  2019
 
 Previous Value: 85.7
 
-Previous State Rank:   12
+Previous State Rank: 31
 
 Previous Peer Rank: 9
 
 ----
 
-Metric Trend: up
+Metric Trend: down
 
 Target: 
 
@@ -47,8 +47,6 @@ Baseline:
 Target Value: 
 
 Previous Trend: 
-
-
 
 ### Value
 

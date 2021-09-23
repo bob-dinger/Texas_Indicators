@@ -22,7 +22,7 @@ Date: 2019
 
 Latest Value: 8.6
 
-State Rank: 8
+State Rank: 9
 
 Peer Rank: 2
 
@@ -32,13 +32,13 @@ Previous Date:  2018
 
 Previous Value: 8.48
 
-Previous State Rank:   2
+Previous State Rank: 8
 
 Previous Peer Rank: 2
 
 ----
 
-Metric Trend: down
+Metric Trend: flat
 
 Target: Top 6
 

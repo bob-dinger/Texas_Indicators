@@ -20,25 +20,25 @@ Comparisons: States
 
 Date: 2019
 
-Latest Value: 6.7
+Latest Value: 67
 
-State Rank: 13
+State Rank: 26
 
-Peer Rank: 
+Peer Rank: 8
 
 ----
 
 Previous Date: 2018
 
-Previous Value: 6.6 (2020 value is not comparable to their previous versions)
+Previous Value: 6.5
 
-Previous State Rank: 19
+Previous State Rank: 35
 
-Previous Peer Rank: 9
+Previous Peer Rank: 8
 
 ----
 
-Metric Trend: up
+Metric Trend: flat
 
 Target: Top 6
 
@@ -74,6 +74,9 @@ https://nhspi.org/wp-content/uploads/2019/05/NHSPI_2019_Measures.pdf
 
 
 ### Notes
+
+The 2020 Index is the seventh in a series of annual releases of data and analysis on national preparedness.  The first two Index releases in December 2013 and December 2014 were supported by the U.S. Centers for Disease Control and Prevention and developed through a collaborative effort of more than 30 organizations led by the Association of State and Territorial Health Officials (ASTHO), the Oak Ridge Associated Universities (ARAU), the University of Pittsburgh Medical Center, and Johns Hopkins University. This work generated broad stakeholder input that created the Index’s overall design and structure, and demonstrated the overall utility of the Index as a measurement tool.  In January 2015, responsibility for the Index transferred to the Robert Wood Johnson Foundation, and key enhancements were made to the Index measures and methodology to extend its utility as a measurement tool.  **Results from the 2020 Index are not directly comparable to prior releases of the Index;** however, the 2020 Index release includes results for seven consecutive annual periods dating back to 2013, thereby allowing for valid comparisons over time.   
+
 
 
 ### Indicator Page

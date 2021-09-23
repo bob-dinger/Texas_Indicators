@@ -69,7 +69,7 @@ Previous Trend: Improving
 
 ### Notes
 
-
+Change in GDP was calculated from the first quarter of 2020 to the first quarter of 2021.
 
 ### Indicator Page
 

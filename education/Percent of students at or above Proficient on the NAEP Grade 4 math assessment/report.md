@@ -36,8 +36,8 @@ Previous State Rank: 45
 
 Previous Peer Rank: 12
 
-----
 
+----
 Metric Trend: up
 
 Target: Top 3
@@ -48,20 +48,22 @@ Target Value: 38%
 
 Previous Trend: Flat
 
+
+
 ### Value
 
 | Year        |  Value      | Rank        | Previous Year| Previous Value| Previous Rank  | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     |    30%      | 42          |      2017   |   29%       |    45       |    up      | 
 
-### Data
+### **Data**
 
 ![4th grade reading](./images/4th grade reading.PNG)
 
 ![4th grade math](./images/tx_4th_grade_reading.PNG)
 
 
-### Source
+### **Source**
 
 [NAEP](https://www.nationsreportcard.gov/profiles/stateprofile?chort=1&sub=RED&sj=AL&sfj=NP&st=AP&year=2019R3)
 
@@ -69,7 +71,7 @@ Previous Trend: Flat
 
 [NAEP Map](https://www.nationsreportcard.gov/reading/states/scores/?grade=4)
 
-### Notes
+### **Notes**
 NAEP Assessment is every 2 years (previous was 2019)
 
 

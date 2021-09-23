@@ -32,7 +32,7 @@ Previous Date:  2018
 
 Previous Value: 0.845139408
 
-Previous State Rank:   6
+Previous State Rank: 24
 
 Previous Peer Rank: 8
 
