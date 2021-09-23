@@ -10,7 +10,7 @@ Texas children get a strong early start to succeed in school and life
 
 ### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 
@@ -18,27 +18,27 @@ Comparisons: States
 
 ----
 
-Date: 
+Date: 2019
 
-Latest Value: 
+Latest Value: 44%
 
-State Rank: 
+State Rank: 16
 
-Peer Rank: 
-
-----
-
-Previous Date: 
-
-Previous Value: 
-
-Previous State Rank: 
-
-Previous Peer Rank: 
-
+Peer Rank: 5
 
 ----
-Metric Trend: 
+
+Previous Date: 2017
+
+Previous Value: 41%
+
+Previous State Rank: 23
+
+Previous Peer Rank: 7
+
+
+----
+Metric Trend: up
 
 Target: 
 
