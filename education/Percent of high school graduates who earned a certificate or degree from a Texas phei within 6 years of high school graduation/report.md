@@ -10,7 +10,7 @@ Texas students earn a postsecondary credential to access the jobs of today and t
 
 ### Type: Primary indicator
 
-Updated: yes
+Updated: no
 
 Data Release Date: 
 
@@ -18,13 +18,13 @@ Comparisons: States
 
 ----
 
-Date: 2020
+Date: 
 
-Latest Value: 0.55
+Latest Value: 
 
-State Rank: 32
+State Rank: 
 
-Peer Rank: 11
+Peer Rank: 
 
 ----
 
@@ -37,7 +37,7 @@ Previous State Rank:  11
 Previous Peer Rank: 11
 
 ----
-Metric Trend: flat
+Metric Trend: N/A
 
 Target: 
 

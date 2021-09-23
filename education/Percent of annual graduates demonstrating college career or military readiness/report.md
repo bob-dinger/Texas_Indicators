@@ -18,7 +18,7 @@ Comparisons: Texas
 
 ----
 
-Date: 2020
+Date: 2019
 
 Latest Value: 72.9% 
 
@@ -28,7 +28,7 @@ Peer Rank: N/A
 
 ----
 
-Previous Date: 2019
+Previous Date: 2018
 
 Previous Value: 65.5%
 
@@ -67,6 +67,7 @@ Previous Trend:
 ### Notes:
 Associated variable from TAPR is from SGRAD1 Table, variable is SA0GP19R = District 2019 College, Career, & Military Ready Graduates: All Students Rate
 
+Strategic Framework is updating to use this metric instead of the previous calculation of college ready.
 
 ### Indicator Page
 

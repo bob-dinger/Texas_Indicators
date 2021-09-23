@@ -24,7 +24,7 @@ Latest Value: 44%
 
 State Rank: 37
 
-Peer Rank: N/A
+Peer Rank: 8
 
 ----
 

@@ -18,9 +18,9 @@ Comparisons: States
 
 ----
 
-Date: 2019
+Date: 2021 (Spring 2021)
 
-Latest Value: 61%
+Latest Value: 41%
 
 State Rank: N/A
 
@@ -28,9 +28,9 @@ Peer Rank: N/A
 
 ----
 
-Previous Date: 2018
+Previous Date: 2019 (Spring 2019)
 
-Previous Value: 55%
+Previous Value: 62%
 
 Previous State Rank: N/A
 
@@ -38,7 +38,7 @@ Previous Peer Rank: N/A
 
 ----
 
-Metric Trend: up
+Metric Trend: down
 
 Target: 
 

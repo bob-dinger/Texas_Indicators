@@ -20,11 +20,11 @@ Comparisons: States
 
 Date: 2019 (no update-taken every 2 years)
 
-Latest Value: 30
+Latest Value: N/A
 
-State Rank: 44
+State Rank: 
 
-Peer Rank: 12
+Peer Rank: 
 
 ----
 
@@ -38,7 +38,7 @@ Previous Peer Rank: 12
 
 ----
 
-Metric Trend: up
+Metric Trend: N/A
 
 Target: Top 3
 

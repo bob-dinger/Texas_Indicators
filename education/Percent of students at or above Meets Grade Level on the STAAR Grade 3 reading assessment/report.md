@@ -4,9 +4,9 @@ Percent of students at or above Meets Grade Level on the STAAR Grade 3 reading a
 
 ## Education
 
-### Goal: K-12
+### Goal: Early childhood
 
-Texas students graduate high school ready for postsecondary success
+Texas children get a strong early start to succeed in school and life
 
 ### Type: Primary indicator
 
@@ -18,9 +18,9 @@ Comparisons: Texas
 
 ----
 
-Date: 2019 (2020 data not collected - no testing)
+Date: 2021
 
-Latest Value: 45% 
+Latest Value: 38% 
 
 State Rank: N/A (Texas Only Variable)
 
@@ -28,16 +28,16 @@ Peer Rank:  N/A
 
 ----
 
-Previous Date: 2018
+Previous Date: 2019
 
-Previous Value: 43%
+Previous Value: 44%
 
 Previous State Rank:  N/A
 
 Previous Peer Rank:  N/A
 
 ----
-Metric Trend: up
+Metric Trend: down
 
 Target: 80%
 
