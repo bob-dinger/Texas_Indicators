@@ -1,6 +1,6 @@
-# Empty Goal 7 Indicator
+# Workforce Needs
 
-Indicator to be added for Goal 7
+Workforce needs goal indicator
 
 ## Education
 

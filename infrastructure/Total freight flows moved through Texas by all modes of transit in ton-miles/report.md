@@ -18,7 +18,7 @@ Comparisons: States
 
 ----
 
-Date: 2020
+Date: N/A
 
 Latest Value: N/A (not found)
 
@@ -28,11 +28,11 @@ Peer Rank: N/A
 
 ----
 
-Previous Date: 2019
+Previous Date: 2018
 
-Previous Value: N/A
+Previous Value: 1,173,126.5 ton-miles
 
-Previous State Rank: N/A
+Previous State Rank: 1
 
 Previous Peer Rank: 1
 

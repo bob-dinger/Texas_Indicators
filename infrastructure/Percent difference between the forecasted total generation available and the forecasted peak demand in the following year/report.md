@@ -78,7 +78,7 @@ Previous Trend:
 
 ### Indicator Page
 
-N/A
+[Indicator Link](https://indicators.texas2036.org/topics/4)
 
 ### DataLab Page
 
