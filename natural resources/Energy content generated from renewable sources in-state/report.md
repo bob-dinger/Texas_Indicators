@@ -20,7 +20,7 @@ Comparisons: States
 
 Date: 2019
 
-Latest Value: 962899
+Latest Value: 962.9
 
 State Rank: 2
 
@@ -43,7 +43,7 @@ Metric Trend: up
 
 Target: Rank 1
 
-Baseline: 786
+Baseline: 786 (2017)
 
 Target Value: 1120
 
@@ -75,6 +75,12 @@ Previous Trend: Improving
 Table P5B
 
 ### Notes
+
+2015- 582669	
+2016- 708726	
+2017 - 809867	
+2018 - 900822	
+2019 - 962899
 
 
 ### Indicator Page

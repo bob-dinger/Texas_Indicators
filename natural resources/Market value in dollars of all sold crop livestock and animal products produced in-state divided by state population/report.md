@@ -42,7 +42,7 @@ Metric Trend: up
 
 Target: Top 6
 
-Baseline: $730
+Baseline: $731 (2018)
 
 Target Value: $820
 
@@ -57,6 +57,23 @@ Previous Trend: Mixed
 |   2019       | $839.83       |   28    |      2018   |   $868.27     |    29   |    flat     | 
 
 ### Data
+
+gross receipts of farms (nominal, current dollars)
+
+2020 - 25,118,219
+2019 - 23,987,902
+2018 - 24,175,483
+
+tx population
+2020 - 29,145,505
+2019 - 29,000,000
+2018 - 28,630,000
+
+
+[from here](https://data.ers.usda.gov/reports.aspx?ID=17830#P1de29a5f7b444160aab73defd9ca40d3_2_109iT0R0x43)
+2020 - 23,128,824
+2019 - 23,553,646
+2018 - 24,598,062
 
 
 

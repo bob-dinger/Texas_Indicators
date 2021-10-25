@@ -20,7 +20,7 @@ Comparisons: States
 
 Date: 2018 (census of agriculture, irrigation has not been updated)
 
-Latest Value: 416,481.22
+Latest Value: 1.31
 
 State Rank: N/A
 
@@ -38,7 +38,7 @@ Previous Peer Rank:
 
 
 ----
-Metric Trend: up
+Metric Trend: N/A
 
 Target: 
 
@@ -71,7 +71,7 @@ gallons applied (1000s)
 acres irrigated:
 2,053
 gallons applied (1000s)
-1,079,049
+1,079,049  
 
 ### Source
 

@@ -24,7 +24,7 @@ Latest Value: 93.73 (need to make sure variable is calculated correctly)
 
 State Rank: N/A
 
-Peer Rank: 
+Peer Rank: 11
 
 ----
 
@@ -34,7 +34,7 @@ Previous Value: 93.38
 
 Previous State Rank: N/A
 
-Previous Peer Rank: 
+Previous Peer Rank: 11
 
 ----
 
@@ -58,13 +58,45 @@ Previous Trend:
 
 ### Data
 
+
+2020
+
+ca - 0.1
+co - 4.1
+fl - 2.0
+ga - 1.4
+il - 10.5
+ny - 1
+nc - 0
+oh - 1.5
+tx - 6
+pa - 4.2
+wa - 1.2
+va - 2.8
+
+
+2019
+
+ca - .2
+co - 6
+fl - 1.9
+ga - 1.9
+il - 10
+ny - 2.2
+nc - 0 
+oh - 1.2
+tx - 6.2
+pa - 4.2
+wa - 2.4
+va - 1.1
+
 ### Source
 
 [EPA - Drinking Water Dashboard](https://echo.epa.gov/trends/comparative-maps-dashboards/drinking-water-dashboard?state=Texas&view=activity&criteria=basic&yearview=FY)
 
 ### Notes
 
-Need to add other states.
+Go the above url, look at bottom left chart, export -> formatted data to get percentage serious violators.
 
 
 ### Indicator Page

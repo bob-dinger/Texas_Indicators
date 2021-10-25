@@ -36,15 +36,15 @@ Previous Value: 50.8
 
 Previous State Rank:   4
 
-Previous Peer Rank: 8
+Previous Peer Rank: 4
 
 
 ----
-Metric Trend: up
+Metric Trend: flat
 
 Target: Top 3
 
-Baseline: 50
+Baseline: 50.5 (2016)
 
 Target Value: 48
 

@@ -29,9 +29,9 @@ Peer Rank:  N/A
 
 ----
 
-Previous Date: 2017
+Previous Date: 2018
 
-Previous Value: 342.76
+Previous Value: 306
 
 Previous State Rank: N/A
 
@@ -43,7 +43,7 @@ Metric Trend: down
 
 Target: 
 
-Baseline: 
+Baseline: 306 (2018)
 
 Target Value: 
 
@@ -67,6 +67,8 @@ Previous Trend:
 2017:
 
 ![2019](./images/2017_parkvisits.PNG)
+
+2017 - 342.76
 
 8,771,744 - 2018 visits
 

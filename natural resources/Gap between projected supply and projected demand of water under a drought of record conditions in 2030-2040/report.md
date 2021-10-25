@@ -1,4 +1,4 @@
-# Water shortage
+# Water supply
 
 Gap between projected supply and projected demand of water under a drought of record conditions, in 2030-2040
 
@@ -18,20 +18,19 @@ Comparisons: Texas
 
 ----
 
-Date: 2020
+Date: 2022
 
-Latest Value: 3,116,261
+Latest Value: 4.744 million acre-feet
 
 State Rank: N/A
 
 Peer Rank: N/A
 
-
 ----
 
 Previous Date: 2017
 
-Previous Value: 4,759,781
+Previous Value: 5.634 million acre-feet
 
 Previous State Rank: N/A 
 
@@ -39,7 +38,7 @@ Previous Peer Rank: N/A
 
 
 ----
-Metric Trend: up
+Metric Trend: down
 
 Target: 2.3 M acre-feet/year
 40% reduction in 2030-2040 annual projected gap (equal to 2.3 M acre-feet/year)

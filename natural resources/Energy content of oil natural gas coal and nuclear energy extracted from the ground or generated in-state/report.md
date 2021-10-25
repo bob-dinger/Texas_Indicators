@@ -27,24 +27,22 @@ State Rank: 1
 
 Peer Rank: 1
 
-
 ----
 
 Previous Date: 2018
 
-Previous Value: 19716932
+Previous Value: 19,716.93
 
 Previous State Rank: 1
 
 Previous Peer Rank: 1
 
-
 ----
-Metric Trend: flat
+Metric Trend: up
 
 Target: Rank 1
 
-Baseline: 16,800
+Baseline: 16787 billion BTU (2017)
 
 Target Value: 16800
 

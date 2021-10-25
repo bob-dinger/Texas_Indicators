@@ -17,7 +17,7 @@ Data Release Date:
 Comparisons: Texas
 
 ----
-
+   
 Date: 2020
 
 Latest Value: -3.02% (need to make sure this was calculated correctly from source materials)
@@ -26,7 +26,7 @@ State Rank: N/A
 
 Peer Rank: 
 
-----
+-----
 
 Previous Date: 2019
 
