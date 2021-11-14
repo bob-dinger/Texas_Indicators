@@ -31,7 +31,7 @@ Peer Rank: 2
 
 Previous Date:  2018
 
-Previous Value: 900822
+Previous Value: 900.82
 
 Previous State Rank:   2
 
@@ -43,7 +43,7 @@ Metric Trend: up
 
 Target: Rank 1
 
-Baseline: 786 (2017)
+Baseline: 809.867 (2017)
 
 Target Value: 1120
 
@@ -66,7 +66,7 @@ Previous Trend: Improving
 ![ren](./images/renewables.PNG)
 
 
-### Source
+### Source  
 
 [EIA - SEDS](https://www.eia.gov/state/seds/seds-data-complete.php?sid=US#StatisticsIndicators)
 

@@ -16,7 +16,7 @@ Data Release Date:
 
 Comparisons: Texas
 
-----
+----  
 
 Date: 2022
 
@@ -69,6 +69,7 @@ Previous Trend: Worsening
 
 ### Notes
 
+2030 potential needs from 2017 & 2022 Texas state water plan.
 
 ### Indicator Page
 

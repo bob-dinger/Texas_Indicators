@@ -20,7 +20,7 @@ Comparisons: Metros
 
 Date: 2020
 
-Latest Value: $1066.40
+Latest Value: $861.48
 
 State Rank: 
 
@@ -30,21 +30,21 @@ Peer Rank:
 
 Previous Date: 2019
 
-Previous Value: $1653.12
+Previous Value: 
 
-Previous State Rank: 
+Previous State Rank: $1325.45
 
 Previous Peer Rank: 
 
 ----
 
-Metric Trend: up
+Metric Trend: down
 
-Target: 922
+Target: $922
 
-Baseline: 981
+Baseline: $1325.45
 
-Target Value: 922
+Target Value: $922
 
 Previous Trend: Worsening
 

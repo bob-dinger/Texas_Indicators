@@ -49,7 +49,7 @@ Target Value:
 
 Previous Trend: 
 
-
+  
 
 ### Value
 

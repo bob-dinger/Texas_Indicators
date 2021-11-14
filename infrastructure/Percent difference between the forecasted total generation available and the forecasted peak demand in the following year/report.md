@@ -18,9 +18,9 @@ Comparisons: Texas
 
 ----
    
-Date: 2020
+Date: 2022
 
-Latest Value: -3.02% (need to make sure this was calculated correctly from source materials)
+Latest Value: 28.8%
 
 State Rank: N/A
 
@@ -28,9 +28,9 @@ Peer Rank:
 
 -----
 
-Previous Date: 2019
+Previous Date: 2020
 
-Previous Value: -.04%
+Previous Value: 11%
 
 Previous State Rank: 
 
@@ -38,7 +38,7 @@ Previous Peer Rank:
 
 ----
 
-Metric Trend: down
+Metric Trend: up
 
 Target: 
 

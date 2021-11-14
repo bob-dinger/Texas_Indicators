@@ -18,13 +18,13 @@ Comparisons: Counties
 
 ----
 
-Date: 2018
+Date: 2021
 
-Latest Value: 60%  (data is spotty, variable is at county level, no TX counties listed)
+Latest Value: 60.03%
 
 State Rank: 
 
-Peer Rank: 
+Peer Rank: 7
 
 ----
 
