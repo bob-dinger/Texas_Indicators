@@ -38,7 +38,7 @@ Previous Peer Rank:
 
 
 ----
-Metric Trend: 
+Metric Trend: N/A
 
 Target: 
 

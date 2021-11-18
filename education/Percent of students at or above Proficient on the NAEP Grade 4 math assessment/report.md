@@ -18,27 +18,27 @@ Comparisons: States
 
 ----
 
-Date: 2019
+Date: N/A
 
-Latest Value: 44%
+Latest Value: N/A
 
-State Rank: 16
+State Rank: N/A
 
-Peer Rank: 5
-
-----
-
-Previous Date: 2017
-
-Previous Value: 41%
-
-Previous State Rank: 23
-
-Previous Peer Rank: 7
-
+Peer Rank: N/A
 
 ----
-Metric Trend: up
+
+Previous Date: 2019
+
+Previous Value: 44%
+
+Previous State Rank: 16
+
+Previous Peer Rank: 5
+
+
+----
+Metric Trend: N/A
 
 Target: 
 

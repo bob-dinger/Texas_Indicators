@@ -4,7 +4,7 @@ Percent of students meet grade level on Alebgra 1 EOC
 
 ## Education
 
-### Goal: Early childhood
+### Goal: K-12
 
 Texas children get a strong early start to succeed in school and life
 

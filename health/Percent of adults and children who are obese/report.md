@@ -22,7 +22,7 @@ Date: 2019
 
 Latest Value: 34.0%
 
-State Rank: 32
+State Rank: 31
 
 Peer Rank: 11
 

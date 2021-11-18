@@ -38,7 +38,7 @@ Previous Peer Rank:
 
 ----
 
-Metric Trend: down
+Metric Trend: up
 
 Target: $922
 

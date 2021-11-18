@@ -42,7 +42,7 @@ Metric Trend: flat
 
 Target: Below national average
 
-Baseline: 63%
+Baseline: 62.8% (2015)
 
 Target Value: 68%
 

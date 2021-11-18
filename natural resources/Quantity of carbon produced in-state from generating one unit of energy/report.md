@@ -16,7 +16,6 @@ Data Release Date:
 
 Comparisons: States
 
-
 ----
 
 Date: 2018
@@ -26,7 +25,6 @@ Latest Value: 49
 State Rank: 15
 
 Peer Rank: 4
-
 
 ----
 
@@ -38,8 +36,8 @@ Previous State Rank:   4
 
 Previous Peer Rank: 4
 
-
 ----
+
 Metric Trend: flat
 
 Target: Top 3

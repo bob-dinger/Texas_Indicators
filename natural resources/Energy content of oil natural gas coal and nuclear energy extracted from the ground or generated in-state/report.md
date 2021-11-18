@@ -21,7 +21,7 @@ Comparisons: States
 
 Date: 2019
 
-Latest Value: 22,509.1 
+Latest Value: 22,509
 
 State Rank: 1
 
