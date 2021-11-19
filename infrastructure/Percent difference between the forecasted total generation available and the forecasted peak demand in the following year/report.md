@@ -24,7 +24,7 @@ Latest Value: 28.8%
 
 State Rank: N/A
 
-Peer Rank: 
+Peer Rank: N/A
 
 -----
 
@@ -32,9 +32,9 @@ Previous Date: 2020
 
 Previous Value: 11%
 
-Previous State Rank: 
+Previous State Rank: N/A
 
-Previous Peer Rank: 
+Previous Peer Rank: N/A
 
 ----
 
@@ -50,9 +50,9 @@ Previous Trend:
 
 ### Value
 
-| Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
+<!-- | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      |    -3.02%   |    N/A      |      2019   |   -.04%     |             |   down    | 
+|   2020      |    -3.02%   |    N/A      |      2019   |   -.04%     |             |   down    |  -->
 
 ### Data
 

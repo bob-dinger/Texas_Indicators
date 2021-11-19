@@ -54,9 +54,9 @@ Previous Trend: Flat
 
 ### Value
 
-|Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
+<!-- |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|    2020     |   123.7     |    49       |    2019    |    111.8      |   49     |    flat   |
+|    2020     |   123.7     |    49       |    2019    |    111.8      |   49     |    flat   | -->
 
 ### Data
 
@@ -66,7 +66,9 @@ Previous Trend: Flat
 
 ### Source
 
-[AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/MHP/state/ALL)
+<!-- [AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/MHP/state/ALL) -->
+
+[CountyHealthRankings](https://www.countyhealthrankings.org/sites/default/files/media/document/CHR2021_TX.pdf)
 
 ### Notes
 

@@ -47,13 +47,11 @@ Target Value: 1,230:1
 
 Previous Trend: Flat
 
-
-
 ### Value
 
-|Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
+<!-- |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020      |    191.7     |    47     |    2019     |      113.5    |   45    |    up   |
+|   2020      |    191.7     |    47     |    2019     |      113.5    |   45    |    up   | -->
 
 ### Data
 
@@ -63,7 +61,9 @@ Previous Trend: Flat
 
 ### Source
 
-[AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/PCP_NPPES/state/ALL?edition-year=2020)
+[CountyHealthRankings](https://www.countyhealthrankings.org/sites/default/files/media/document/CHR2021_TX.pdf)
+
+<!-- [AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/PCP_NPPES/state/ALL?edition-year=2020) -->
 
 ### Notes
 

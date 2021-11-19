@@ -18,26 +18,26 @@ Comparisons: States
 
 ----
 
-Date: 
+Date: 2018
 
-Latest Value: 
+Latest Value: 31.5%
 
-State Rank: 
+State Rank: N/A
 
-Peer Rank: 
-
-----
-
-Previous Date: 2019
-
-Previous Value: 0.537
-
-Previous State Rank:  11
-
-Previous Peer Rank: 11
+Peer Rank: N/A
 
 ----
-Metric Trend: N/A
+
+Previous Date: 2017
+
+Previous Value: 32.2%
+
+Previous State Rank:  N/A
+
+Previous Peer Rank: N/A
+
+----
+Metric Trend: down
 
 Target: 
 
@@ -50,9 +50,9 @@ Previous Trend: flat
 
 ### Value
 
-| Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
+<!-- | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
-|   2020     | 55.0%      |     31   |     2019    |    53.7%  | 31        | flat       | 
+|   2020     | 55.0%      |     31   |     2019    |    53.7%  | 31        | flat       |  -->
 
 ### Data
 

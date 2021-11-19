@@ -30,11 +30,11 @@ Peer Rank: N/A
 
 Previous Date:  2014
 
-Previous Value: 5.1%
+Previous Value: 6.9%
 
-Previous State Rank: 37
+Previous State Rank: 39
 
-Previous Peer Rank: 7
+Previous Peer Rank: 11
 
 
 ----
@@ -67,7 +67,7 @@ Previous Trend: Improving
 [Previous Source](https://www.cms.gov/Research-Statistics-Data-and-Systems/Statistics-Trends-and-Reports/NationalHealthExpendData/NationalHealthAccountsStateHealthAccountsResidence)
 
 
-[Shadac](http://statehealthcompare.shadac.org/map/117/per-person-state-public-health-funding#a/32/154)
+<!-- [Shadac](http://statehealthcompare.shadac.org/map/117/per-person-state-public-health-funding#a/32/154) -->
 
 [KFF](https://www.kff.org/other/state-indicator/average-annual-percent-growth-in-health-care-expenditures-by-state-of-residence/?currentTimeframe=0&sortModel=%7B%22colId%22:%22Location%22,%22sort%22:%22asc%22%7D)
 

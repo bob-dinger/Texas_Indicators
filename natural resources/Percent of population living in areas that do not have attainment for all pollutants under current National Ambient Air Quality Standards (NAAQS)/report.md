@@ -22,22 +22,22 @@ Date: 2021
 
 Latest Value: 60.03%
 
-State Rank: 
+State Rank: N/A
 
 Peer Rank: 7
 
 ----
 
-Previous Date: 
+Previous Date: N/A
 
-Previous Value: 
+Previous Value: N/A
 
-Previous State Rank: 
+Previous State Rank: N/A 
 
-Previous Peer Rank: 
+Previous Peer Rank: N/A
 
 ----
-Metric Trend: 
+Metric Trend: Flat
 
 Target: 
 
