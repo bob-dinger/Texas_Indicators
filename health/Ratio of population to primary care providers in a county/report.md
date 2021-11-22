@@ -56,9 +56,7 @@ Previous Trend: Flat
 -->
 ### Data
 
-![map](./images/map_primary.PNG)
-
-![data](./images/data_primary.PNG)
+![primary](./images/primary_2021.PNG)
 
 ### Source
 

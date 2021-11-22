@@ -61,9 +61,8 @@ Previous Trend: Flat
 -->
 ### Data
 
-![map](./images/map_mental.PNG)
+![mental](./images/mental_2021.PNG)
 
-![data](./images/data_mental.PNG)
 
 ### Source
 

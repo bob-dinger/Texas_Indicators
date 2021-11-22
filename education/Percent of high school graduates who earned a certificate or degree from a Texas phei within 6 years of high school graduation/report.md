@@ -57,16 +57,21 @@ Previous Trend: flat
 -->
 ### Data
 
-2020
+![data](./imagesps_completion.PNG)
+
+<!-- 2020
 ![2020](./images/6year_2020.PNG)
 
 2019
-![2020](./images/6year_2019.PNG)
+![2020](./images/6year_2019.PNG) -->
 
 
 ### Source
 
-[Texas Higher Education Almanac - 2020](http://reportcenter.highered.texas.gov/agency-publication/almanac/2020-texas-public-higher-education-almanac/)
+[TEA](https://rptsvr1.tea.texas.gov/cgi/sas/broker?_service=marykay&_debug=0&single=N&batch=N&app=PUBLIC&ptype=H&_program=perfrept.perfmast.sas&level=state&search=distnum&namenum=&prgopt=2019/tapr/ps_outcomes_sum.sas)
+
+<!-- 
+[Texas Higher Education Almanac - 2020](http://reportcenter.highered.texas.gov/agency-publication/almanac/2020-texas-public-higher-education-almanac/) -->
 
 ### Notes
 

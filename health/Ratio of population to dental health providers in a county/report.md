@@ -58,14 +58,14 @@ Previous Trend:
 -->
 ### Data
 
-![map](./images/map_dentists.PNG)
-
-![DATA](./images/data_dentists.PNG)
+![dental](./images/dental_2021.PNG)
 
 
 ### Source
 
-[AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/dental_provider/state/ALL?edition-year=2020)
+[CountyHealthRankings](https://www.countyhealthrankings.org/sites/default/files/media/document/CHR2021_TX.pdf)
+
+<!-- [AmericasHealthRankings](https://www.americashealthrankings.org/explore/annual/measure/dental_provider/state/ALL?edition-year=2020) -->
 
 ### Notes
 
