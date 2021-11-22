@@ -48,12 +48,13 @@ Target Value: 80%
 Previous Trend: flat
 
 
-### Value
+<!--### Value
 
 <!-- | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020     | 55.0%      |     31   |     2019    |    53.7%  | 31        | flat       |  -->
 
+-->
 ### Data
 
 2020

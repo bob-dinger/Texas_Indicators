@@ -52,12 +52,13 @@ Previous Trend: Flat
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020       | 7,126      |  21         |      2019   |   7,240      |      22    |    flat       | 
 
+-->
 ### Data
 
 ![map](./images/map_premature.PNG)

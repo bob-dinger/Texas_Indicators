@@ -53,12 +53,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |             |     .48     | 38        |             |      .48       | 37        | flat       | 
 
+-->
 ### Data
 
 ![dd](./images/gini.PNG)

@@ -50,12 +50,13 @@ Previous Trend: Mixed
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |  8.60       |  9          |      2019   |   8.48      |      8      |    down    | 
 
+-->
 ### Data
 
 ### Source

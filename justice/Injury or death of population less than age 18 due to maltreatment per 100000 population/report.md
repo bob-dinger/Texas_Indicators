@@ -51,12 +51,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2017     |  2.5     | N/A         |   2015     |   3.0       | N/A         |   down       | 
 
+-->
 ### Data
 
 ![dsd](./images/maltreatment.PNG)

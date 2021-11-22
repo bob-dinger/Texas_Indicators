@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |   433       | 2           |     2019    |     471     | 2           |    flat      | 
 
+-->
 ### Data
 
 

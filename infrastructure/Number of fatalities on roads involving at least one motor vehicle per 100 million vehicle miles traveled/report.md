@@ -50,13 +50,14 @@ Previous Trend: Improving
 
 
 
-### Value
+<!--### Value
 
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019      |  1.25      |    33       |      2018   |   1.29      |          |    flat       | 
 
+-->
 ### Data
 
 ![VMT](./images/vmt.PNG)

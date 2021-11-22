@@ -51,12 +51,13 @@ Previous Trend: Worsening
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |    $1,097    |             |      2019   |    $1,635     |             |    up     | 
 
+-->
 ### Data
 
 2020

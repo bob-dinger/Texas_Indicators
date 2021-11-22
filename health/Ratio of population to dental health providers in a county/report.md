@@ -49,12 +49,13 @@ Target Value:
 Previous Trend: 
 
 
-### Value
+<!--### Value
 
 |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |    51.7     |    39       |    2019     |    52.9     |    33   |    down    |
 
+-->
 ### Data
 
 ![map](./images/map_dentists.PNG)

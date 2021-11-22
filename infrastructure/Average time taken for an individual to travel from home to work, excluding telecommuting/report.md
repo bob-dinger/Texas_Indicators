@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019      | 26.6 min    |  37         |      2018   |    26.4 min |     37      |    flat    | 
 
+-->
 ### Data
 
 ### Source

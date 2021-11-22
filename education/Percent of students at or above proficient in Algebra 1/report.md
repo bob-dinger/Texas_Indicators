@@ -49,7 +49,7 @@ Target Value:
 Previous Trend: 
 
 
-### Value
+<!--### Value
 
 | Year        |  Value      | Rank        | Previous Year| Previous Value| Previous Rank  | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
@@ -81,6 +81,7 @@ NAEP Assessment is every 2 years (previous was 2019)
 ![4th grade math - indicator](./images/indicators_4th grade reading.PNG)
 
 
+-->
 ### DataLab Page
 
 [DataLab Link](https://datalab.texas2036.org/igxywpc/national-assessment-of-educational-progress-naep-assessments-of-united-states?accesskey=xojlwjb)

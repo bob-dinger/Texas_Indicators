@@ -54,12 +54,13 @@ Previous Trend: Worsening
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     |      13.7   | 45        |    2018     |      14.2    |   43    | flat      | 
 
+-->
 ### Data
 
 ![data](./images/spm_data.PNG)

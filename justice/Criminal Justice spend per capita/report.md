@@ -50,12 +50,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2018     |    $510     | 24        |             |             | N/A         |       | 
 
+-->
 ### Data
 
 ### Source

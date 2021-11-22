@@ -53,12 +53,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020     | 10.7        |  6        |      2019    |   10.3    | 4       |    down       | 
 
+-->
 ### Data
 
 ![map](./images/map_drugdeaths.PNG)

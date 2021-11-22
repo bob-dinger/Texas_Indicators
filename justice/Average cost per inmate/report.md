@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |     $69.27  | N/A         |    2019     |     $64.35   | N/A        | down       | 
 
+-->
 ### Data
 
 ![CostInmate](./images/costperinmate.PNG)

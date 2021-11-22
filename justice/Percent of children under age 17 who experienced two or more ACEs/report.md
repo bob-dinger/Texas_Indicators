@@ -51,12 +51,13 @@ Previous Trend: Flat
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     |     19.4   | 22         |    2018     |      16.8   |   12      | down      | 
 
+-->
 ### Data
 
 ![aces map](./images/aces_map.PNG)

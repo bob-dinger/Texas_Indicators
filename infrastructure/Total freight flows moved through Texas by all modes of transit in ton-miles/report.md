@@ -48,12 +48,13 @@ Target Value: 1.2
 
 Previous Trend: Improving
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |             |             |      2019   |             |             |            | 
 
+-->
 ### Data
 
 ### Source

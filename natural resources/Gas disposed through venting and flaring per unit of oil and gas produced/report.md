@@ -52,13 +52,14 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019      |   251,186   |             |    2018     |   238,054   |             |    down    | 
 
 
+-->
 ### Data
 
 ![vented](./images/vented.PNG)

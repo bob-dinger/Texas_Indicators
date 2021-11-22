@@ -50,12 +50,13 @@ Previous Trend: Flat
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |     19.4   | 22         |    2019    |      16.8   |   12      | down      | 
 
+-->
 ### Data
 
 <!-- ![recidivism](./images/recidivism2.PNG) -->

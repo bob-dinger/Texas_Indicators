@@ -53,13 +53,14 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |     5,950   | N/A         |     2019    |    6,437    | N/A         |   down      | 
 
 
+-->
 ### Data
 
 

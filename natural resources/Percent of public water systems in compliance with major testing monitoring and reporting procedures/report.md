@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |     67.08%    |    N/A     |   2019     |   65.81%    |      N/A    |    up      |
 
+-->
 ### Data
 
 2020 = 3158 with violations

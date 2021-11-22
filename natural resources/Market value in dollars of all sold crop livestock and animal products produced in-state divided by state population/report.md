@@ -50,12 +50,13 @@ Previous Trend: Mixed
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019       | $839.83       |   28    |      2018   |   $868.27     |    29   |    flat     | 
 
+-->
 ### Data
 
 gross receipts of farms (nominal, current dollars)

@@ -51,12 +51,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2017       | 3.79      |  28        |      2016   |   5.44      |      33   |    up       | 
 
+-->
 ### Data
 
 ![urban](./images/urban.PNG)

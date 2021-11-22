@@ -53,7 +53,7 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
@@ -61,6 +61,7 @@ Previous Trend:
 
 \* 1,000s
 
+-->
 ### Data
 
 ![farmincome](./images/farmincome.PNG)

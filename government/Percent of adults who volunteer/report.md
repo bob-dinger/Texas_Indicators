@@ -53,12 +53,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020       | 28.4%       |  36         |      N/A   |   N/A      |      N/A    |    flat       | 
 
+-->
 ### Data
 
 ![map](./images/map_volunteer.PNG)

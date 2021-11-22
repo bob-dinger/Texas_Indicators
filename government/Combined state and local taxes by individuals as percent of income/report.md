@@ -49,12 +49,13 @@ Previous Trend: Worsening
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2018       |    8.88%    |    17      |    2017     |   8.68%     |    15       |  flat     | 
 
+-->
 ### Data
 
 ![data tax](./images/data_tax.PNG)

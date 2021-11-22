@@ -49,12 +49,13 @@ Target Value:
 Previous Trend: 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020       | 8.1%       |  9         |      2019   |   9.6%      |     N/A      |    up       | 
 
+-->
 ### Data
 
 ![map](./images/map_chronic.PNG)

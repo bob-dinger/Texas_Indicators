@@ -50,12 +50,13 @@ Previous Trend: Flat
 
 
 
-### Value
+<!--### Value
 
 |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |   79.2      |     25      |    2010     |     78.4    |     30      |     up     |
 
+-->
 ### Data
 
 ![sd](./images/le_grid.PNG)

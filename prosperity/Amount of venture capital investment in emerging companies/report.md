@@ -50,12 +50,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |   $3,168    | 5         |   2019      |      $3,358       | 5        | flat        | 
 
+-->
 ### Data
 
 [Spreadsheet](./regional-aggr-data-q1-2021.xlsx)

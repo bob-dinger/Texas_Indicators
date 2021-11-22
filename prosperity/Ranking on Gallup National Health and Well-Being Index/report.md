@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |     N/A     | 35          |     2019    |     N/A     | 25         | down        | 
 
+-->
 ### Data
 
 ![well](./images/data_wellbeing.PNG)

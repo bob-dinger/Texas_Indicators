@@ -50,13 +50,14 @@ Previous Trend: Flat
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |         | N/A         |    2019     |         | N/A         |           | 
 
 
+-->
 ### Data
 
 ### Source

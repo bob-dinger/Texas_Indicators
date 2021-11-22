@@ -50,12 +50,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      | 93.73       |    N/A      |      2019   |   93.38     |    N/A      |    flat    | 
 
+-->
 ### Data
 
 

@@ -48,12 +48,13 @@ Target Value: 5.20%
 Previous Trend: Improving
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019      |     1.1%    |      12     |             |             | N/A         |          | 
 
+-->
 ### Data
 
 ![tx](./images/tx_debt.PNG)

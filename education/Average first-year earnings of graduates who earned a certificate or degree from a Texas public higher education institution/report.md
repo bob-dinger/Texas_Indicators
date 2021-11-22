@@ -49,12 +49,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     | $44,260       | N/A         |    2019     |    $43,203    | N/A         | up     | 
 
+-->
 ### Data
 
 ![First Year Earnings](./images/earnings_2017_grads.PNG)

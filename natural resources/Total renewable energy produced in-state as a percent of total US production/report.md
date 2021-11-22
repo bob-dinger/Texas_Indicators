@@ -53,12 +53,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year        |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019       | 8.35%       |     2      |      2018   |   7.82%      |      3     |    up      | 
 
+-->
 ### Data
 
 Share of Production by state:

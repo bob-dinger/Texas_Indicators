@@ -50,12 +50,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020       | 27.2%       |  32         |      2019   |   25.6%      |      35    |    flat       | 
 
+-->
 ### Data
 
 ![map](./images/map_inactivity.PNG)

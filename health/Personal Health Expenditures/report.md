@@ -51,12 +51,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2018     |  $1,077.88  |      44     |     2017    |             |             |            |
 
+-->
 ### Data
 
 ![se](./images/spendingbystate.PNG)

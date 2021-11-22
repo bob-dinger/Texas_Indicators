@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2018     |   617,016     |     N/A     |   2006     |   516,050     |    N/A    |     up     | 
 
+-->
 ### Data
 
 ### Source

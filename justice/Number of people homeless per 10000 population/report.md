@@ -49,12 +49,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |      27,229 | 4         |     2019    |   25,848    | 4        | flat       | 
 
+-->
 ### Data
 
 ![homeless](./images/homeless_counts.PNG)

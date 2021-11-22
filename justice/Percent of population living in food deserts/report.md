@@ -52,7 +52,7 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
@@ -62,6 +62,7 @@ Previous Trend:
  25,145,561
 
 
+-->
 ### Data
 
 [Food Access Research Atlas](./FoodAccessResearchAtlasData2019.xlsx)

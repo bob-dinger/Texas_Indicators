@@ -53,12 +53,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019     |   114,818   | 2        |   2018     |      80,607       | 2         | up        | 
 
+-->
 ### Data
 
 ![migration](./images/data_migration.PNG)

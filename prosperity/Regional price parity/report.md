@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     |    96.5     | 23          |    2018     |    96.5     | N/A         | flat       | 
 
+-->
 ### Data
 
 ![sdfd](./images/data_rpp.PNG)

@@ -49,12 +49,13 @@ Target Value: 397
 Previous Trend: Flat
 
 
-### Value
+<!--### Value
 
 |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |      2020   |   419       |   35        |   2019      |    411      |     34      |   down     |
 
+-->
 ### Data
 
 ![map](./images/map_violentcrime.PNG)

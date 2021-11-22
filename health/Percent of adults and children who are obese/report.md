@@ -50,12 +50,13 @@ Previous Trend: Worsening (adults); Improving (children)
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020       | 17.2%       |  12         |      2019   |   16.5%      |     N/A     |    down       | 
 
+-->
 ### Data
 
 ![map](./images/map_obesity.PNG)

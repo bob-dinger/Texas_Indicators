@@ -50,12 +50,13 @@ Previous Trend: Mixed
 
 
 
-### Value
+<!--### Value
 
 |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |   18.7%     |      50     |     2019    |   17.5%     |   50        |      flat  |
 
+-->
 ### Data
 
 ![map](./images/map_uninsured.PNG)

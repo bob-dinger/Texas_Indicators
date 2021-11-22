@@ -50,12 +50,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |    72.1%     |     42      |    2019      |     67.8     |     41     |   flat     |
 
+-->
 ### Data
 
 ![map](./images/map_immunizations.PNG)

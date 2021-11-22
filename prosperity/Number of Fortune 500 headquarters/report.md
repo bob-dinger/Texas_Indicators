@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |     2021    |   48        | 3           |   2020      |    49       |       3     |    flat    | 
 
+-->
 ### Data
 
 NY - 53

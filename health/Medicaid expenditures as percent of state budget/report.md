@@ -54,12 +54,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019    |    29.3%      |     35      |     2018    |    29.4%      |    34      |   flat      |
 
+-->
 ### Data
 
 ![data](./images/data_medicaid.PNG)

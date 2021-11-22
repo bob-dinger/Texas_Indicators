@@ -49,12 +49,13 @@ Previous Trend: Flat
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     | 45%         |     N/A      |    2018     |    43%     | N/A          | flat  |
 
+-->
 ### Data
 
 ### Source

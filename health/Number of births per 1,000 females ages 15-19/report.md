@@ -53,13 +53,14 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020       | 25.3       |  42         |      2019   |   27.6      |      44    |    up       | 
 
 
+-->
 ### Data
 
 ![map](./images/map_teenbirths.PNG)

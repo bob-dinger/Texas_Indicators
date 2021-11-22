@@ -48,12 +48,13 @@ Target Value:
 Previous Trend: 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019       | 5.9%       |  3         |      2018   |   6.0%      |      3    |    flat       | 
 
+-->
 ### Data
 
 ![farm](./images/farm.PNG)

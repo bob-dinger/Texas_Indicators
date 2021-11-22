@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2021     | 1.46%       |     N/A     |    2019     |  1.95%      |    N/A      |     flat   |
 
+-->
 ### Data
 
 2019:

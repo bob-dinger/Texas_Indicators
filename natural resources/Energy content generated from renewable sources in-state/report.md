@@ -51,7 +51,7 @@ Previous Trend: Improving
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
@@ -59,6 +59,7 @@ Previous Trend: Improving
 
 \* Billion BTU
 
+-->
 ### Data
 
 ![renewables](./images/2019_renewables.PNG)

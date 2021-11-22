@@ -48,12 +48,13 @@ Target Value: 11%
 
 Previous Trend: Improving
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     | 18.8%       |  50        |       2018   |    16.8%     | 48         |   down       | 
 
+-->
 ### Data
 
 ![data](./images/data_cost.PNG)

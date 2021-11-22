@@ -47,7 +47,8 @@ Target Value:
 
 Previous Trend: 
 
-### Value
+
+<!--### Value
 
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
@@ -55,6 +56,8 @@ Previous Trend:
 |     2019    |     .848    |     26      |    2018     |     .853    |     26      |     flat   | 
 
 
+
+-->
 ### Data
 
 ![migration](./images/migration.PNG)

@@ -50,12 +50,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019      |   18.47%    |   N/A      |    2017     |   18.81%    |    N/A       |    down    | 
 
+-->
 ### Data
 
 2019:

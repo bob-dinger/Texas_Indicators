@@ -53,12 +53,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020    |     1,432      | N/A         |     N/A      |    N/A     | N/A         |   N/A    | 
 
+-->
 ### Data
 
 ![screenshot](./images/barriers.PNG)

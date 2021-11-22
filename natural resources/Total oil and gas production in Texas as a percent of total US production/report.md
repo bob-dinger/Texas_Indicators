@@ -53,12 +53,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019       | 33.69%     |  1         |      2018   |  35.18%      |      1    |    flat       | 
 
+-->
 ### Data
 
 ![percent_oilgas](./images/percent_oilgas.PNG)

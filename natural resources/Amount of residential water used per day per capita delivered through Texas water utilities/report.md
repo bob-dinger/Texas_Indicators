@@ -49,7 +49,7 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
@@ -57,6 +57,7 @@ Previous Trend:
 
 \* gallons
 
+-->
 ### Data
 
 ![2018](./images/2018_water.PNG)

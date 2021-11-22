@@ -50,12 +50,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year        |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     |     3.0%     | N/A         |   2018      |     4.4%     | N/A         |  down    | 
 
+-->
 ### Data
 
 ![map](./images/incomegrowthmap.png)

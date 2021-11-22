@@ -50,12 +50,13 @@ Previous Trend: Flat
 
 
 
-### Value
+<!--### Value
 
 | Year        |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      | 68.1%       | 47           |    2018    |   68.2%    | 48         |   flat    | 
 
+-->
 ### Data
 
 ![map](./images/map_personal.PNG)

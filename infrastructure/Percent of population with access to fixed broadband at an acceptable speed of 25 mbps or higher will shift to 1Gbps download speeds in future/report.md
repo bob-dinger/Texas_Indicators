@@ -48,12 +48,13 @@ Target Value:
 
 Previous Trend: 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019       |  94.1%        |  13         |      2018   |  92.7%     |          |    up       | 
 
+-->
 ### Data
 
 ### Source

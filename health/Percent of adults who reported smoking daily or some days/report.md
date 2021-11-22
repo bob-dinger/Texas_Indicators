@@ -50,12 +50,13 @@ Previous Trend: Flat
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020       | 14.7%       |  16         |      2019   |   14.4%      |      12    |    down       | 
 
+-->
 ### Data
 
 ![map](./images/map_smoking.PNG)

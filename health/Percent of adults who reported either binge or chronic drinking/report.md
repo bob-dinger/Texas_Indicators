@@ -49,12 +49,13 @@ Target Value:
 Previous Trend: 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020       | 19.3%       |  33         |      2019   |   18.7%      |      33    |    flat       | 
 
+-->
 ### Data
 
 ![map](./images/map_drinking.PNG)

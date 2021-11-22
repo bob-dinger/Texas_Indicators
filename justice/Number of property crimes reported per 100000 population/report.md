@@ -49,12 +49,13 @@ Target Value: 2464
 
 Previous Trend: Improving
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     |   2,391     |     15      |     2018    |    2,363.2  |    N/A      |     flat   |
 
+-->
 ### Data
 
 ![img](./images/propertycrime.PNG)

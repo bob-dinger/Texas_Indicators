@@ -48,12 +48,13 @@ Target Value:
 
 Previous Trend: 
 
-### Value
+<!--### Value
 
 <!-- | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |    -3.02%   |    N/A      |      2019   |   -.04%     |             |   down    |  -->
 
+-->
 ### Data
 
 2020:

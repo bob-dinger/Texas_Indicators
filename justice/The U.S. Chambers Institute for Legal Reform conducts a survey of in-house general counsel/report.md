@@ -50,12 +50,13 @@ Previous Trend: Improving
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |             |  67.1 (2019)         | 38        |             |    N/A       | 39         |   flat       | 
 
+-->
 ### Data
 
 ![laws](./images/lawsuits.PNG)

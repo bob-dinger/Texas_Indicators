@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     | 53.2%      | N/A         |   2019      |    52.4%  | N/A         | up       | 
 
+-->
 ### Data
 ![Pre-K Eligible Enrolled](./images/prek.PNG)
 

@@ -49,12 +49,13 @@ Target Value:
 Previous Trend: 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2021     | 66.2%        |  47         |     2019   |   66.2%      | 47          |   flat     | 
 
+-->
 ### Data
 
 ![map](./images/map_colo.PNG)

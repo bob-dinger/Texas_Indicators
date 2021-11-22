@@ -52,12 +52,13 @@ Previous Trend: Worsening
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2016      |    8.31%    |      18     |    2015     |    8.2%     |      16     |    flat    | 
 
+-->
 ### Data
 
 ![tax burden](./images/taxburden.PNG)

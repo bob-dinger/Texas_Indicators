@@ -48,12 +48,13 @@ Target Value: 71%
 
 Previous Trend: Improving
 
-### Value
+<!--### Value
 
 <!-- | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019       | 86.26%     |     22      |      2018   |   84.51%    |      25     |    up      |  -->
 
+-->
 ### Data
 
 ![data](./images/broad.PNG)

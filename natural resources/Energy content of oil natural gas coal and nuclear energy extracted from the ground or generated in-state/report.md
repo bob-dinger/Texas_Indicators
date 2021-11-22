@@ -51,12 +51,13 @@ Previous Trend: Mixed
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2019      |     22,509.1|     1       |      2018   |   19716932  |    1        |   flat     | 
 
+-->
 ### Data
 
 ![fossil](./images/fossil.PNG)

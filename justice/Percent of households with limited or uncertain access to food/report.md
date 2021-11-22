@@ -53,13 +53,14 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     |    13.1%    | 43          |    2016   |   14.3%     | 36          | flat       | 
 
 
+-->
 ### Data
 
 ![sdf](data_insecurity.PNG)

@@ -48,12 +48,13 @@ Target Value: 53%
 Previous Trend: Improving
 
 <!-- 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020       |    60.4%   |      44     |    2016     |    51.1%     |     46     |   up       |  -->
 
+-->
 ### Data
 
 ![vr](./images/voting_rates.PNG)

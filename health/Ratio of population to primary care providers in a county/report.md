@@ -47,12 +47,13 @@ Target Value: 1,230:1
 
 Previous Trend: Flat
 
-### Value
+<!--### Value
 
 <!-- |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |    191.7     |    47     |    2019     |      113.5    |   45    |    up   | -->
 
+-->
 ### Data
 
 ![map](./images/map_primary.PNG)

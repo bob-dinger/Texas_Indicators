@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |    67.9     | 14          |    2017     |             | 17          | up         | 
 
+-->
 ### Data
 
 ![data](./images/neweconomy.PNG)

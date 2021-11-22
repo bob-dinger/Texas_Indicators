@@ -52,12 +52,13 @@ Previous Trend: Flat
 
 
 
-### Value
+<!--### Value
 
 <!-- |Year         |  Value      | Rank        | Previous Year| Previous Value | Previous Rank  | Trend| 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |   123.7     |    49       |    2019    |    111.8      |   49     |    flat   | -->
 
+-->
 ### Data
 
 ![map](./images/map_mental.PNG)

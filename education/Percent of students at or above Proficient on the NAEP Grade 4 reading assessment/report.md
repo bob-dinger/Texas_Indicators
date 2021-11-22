@@ -48,12 +48,13 @@ Target Value: 38%
 
 Previous Trend: Flat
 
-### Value
+<!--### Value
 
 | Year        |  Value      | Rank        | Previous Year| Previous Value| Previous Rank  | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2019     |    30%      | 42          |      2017   |   29%       |    45       |    up      | 
 
+-->
 ### Data
 
 ![4th grade reading](./images/4th grade reading.PNG)

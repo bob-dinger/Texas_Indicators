@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |      34%    |     20     |      2019   |     31%      |    N/A      |    up      | 
 
+-->
 ### Data
 
 ![tx](./images/students.PNG)

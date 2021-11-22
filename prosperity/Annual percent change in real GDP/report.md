@@ -50,12 +50,13 @@ Previous Trend: Improving
 
 
 
-### Value
+<!--### Value
 
 | Year |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |    -4.6%     | N/A         |    2019     |    2.7%    | N/A         | down        | 
 
+-->
 ### Data
 
 ![sdsd](./images/data_dgp.PNG)

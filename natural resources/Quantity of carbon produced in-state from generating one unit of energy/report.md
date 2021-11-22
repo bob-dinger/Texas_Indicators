@@ -50,12 +50,13 @@ Previous Trend: Flat
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2018       | 8.3       |  13         |      2017   |   8.2      |      19    |    up       | 
 
+-->
 ### Data  
 
 

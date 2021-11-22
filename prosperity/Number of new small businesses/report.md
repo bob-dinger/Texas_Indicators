@@ -52,12 +52,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year        |  Value      | Rank     | Previous Year   | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |    2020     |    155,849  |             |    2019     |    52,240     | N/A         | up        | 
 
+-->
 ### Data
 
 2020 total TX small businesses = 2,835,813

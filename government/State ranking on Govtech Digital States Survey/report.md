@@ -51,12 +51,13 @@ Previous Trend:
 
 
 
-### Value
+<!--### Value
 
 | Year      |  Value      | Rank        | Previous Year | Previous Value | Previous Rank | Trend | 
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | -----------|
 |   2020      |     A-      |      6      |    2018     |      B      |     25      |     up     | 
 
+-->
 ### Data
 
 ### Source
