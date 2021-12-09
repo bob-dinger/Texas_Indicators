@@ -30,9 +30,9 @@ Peer Rank: 9
 
 Previous Date: 2018
 
-Previous Value:
+Previous Value: 7.1%
 
-Previous State Rank: 
+Previous State Rank: 9
 
 Previous Peer Rank: 
 

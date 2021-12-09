@@ -18,13 +18,13 @@ Comparisons: States
 
 ----
 
-Date: 
+Date: N/A
 
-Latest Value:  
+Latest Value: N/A
 
-State Rank: 
+State Rank: N/A
 
-Peer Rank: 
+Peer Rank: N/A
 
 
 ----
