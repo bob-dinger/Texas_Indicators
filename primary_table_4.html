@@ -84,67 +84,30 @@ tr:nth-child(even) td {
  .redrow{
 	 border:1px solid red;
  }
-   .linkbox {
-  	height:150px;
-  	background-color:blue;
-  	border-radius:4px;
-  	margin:10px;
-  	padding:10px;
-  	color:white;
-  	border:1px solid red;
-  	text-align:center;
-  	vertical-align:middle;
-  	font-size:18px;
-  	line-height: 150px;
-   	text-align: center;
-	   
-  }
-  .linkbox a{
-	  color:white;
-  }
-
-  #row1 {
-	display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 2px 1em;
-  width: 90%;
-  height:175px;
- margin:0 auto;
- color:white;
- margin-bottom:10px;
+ img{
+ 	display: block;
+	margin-left: auto;
+  	margin-right: auto;
  }
+ p{
+ text-align:center;
+ color:lightgray;
+ }
+ </style>
+<div id="hoverbox"></div>	
+<h1>Indicators by Type</h1>
+<h2>Primary</h2>
 
- #row2 {
-	display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  grid-gap: 2px 1em;
-  width: 90%;
-  height:175px;
- margin:0 auto;
- color:white;
- }</style><h1> Texas 2036 Indicators Update</h1>
-	<hr>
-   
-	<div id="row1">
-	
-	 <div class="linkbox"><a href="./goal_table.html">By Goal</a></div>
-		
-	<div class="linkbox"><a href="./area_table.html">By Policy Area</a></div>
- <div class="linkbox"><a href="./comparison_table.html">By Comparison</a></div>
-		</div>
-		 <div id="row2">
-		 <div class="linkbox"><a href="./trend_table.html">By Trend</a></div>
-		<div class="linkbox"><a href="./type_table.html">By Type</a></div>				
-		<div class="linkbox"><a href = "./home_indicator_table.html">Full Table</a></div>						
-		</div>
-		<div id="hoverbox"></div>							 
-		<h1>_____________________</h1><h1>Indicators</h1>
+<p>___________________</p>
+<img src="primary_trends.PNG"></img>
+<p>___________________</p>
 <table><tr>
 <th>Goal #</th>
 <th class="ind_column">Indicator Name</th>
 <th>Policy Area</th>
 <th>Goal</th>
 <th>Type</th>
+<th>Updated</th>
 <th>Comp</th>
 <th>Year</th>
 <th>Value</th>
@@ -155,6 +118,10 @@ tr:nth-child(even) td {
 <th>Previous Rank</th>
 <th>Previous Peer Rank</th>
 <th>Metric Trend</th>
+<th>Target</th>
+<th>Baseline</th>
+<th>Target Value</th>
+<th>Previous Trend</th>
 </tr>
 <tr>
 <td>1</td>
@@ -162,6 +129,7 @@ tr:nth-child(even) td {
 <td>prosperity</td>
 <td> Economic growth</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2020</td>
 <td> -2.9%</td>
@@ -172,6 +140,10 @@ tr:nth-child(even) td {
 <td> 11</td>
 <td> 5</td>
 <td class="down"> down</td>
+<td> #1</td>
+<td> 4%</td>
+<td> 4%</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>2</td>
@@ -179,6 +151,7 @@ tr:nth-child(even) td {
 <td>prosperity</td>
 <td> Quality of life</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> 2019</td>
 <td> 15</td>
@@ -189,6 +162,10 @@ tr:nth-child(even) td {
 <td> N/A</td>
 <td> N/A</td>
 <td> N/A</td>
+<td> #1</td>
+<td> 15</td>
+<td> #1</td>
+<td> Mixed</td>
 </tr>
 <tr>
 <td>3</td>
@@ -196,6 +173,7 @@ tr:nth-child(even) td {
 <td>education</td>
 <td> Early childhood</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> Texas</td>
 <td> 2021</td>
 <td> 38% </td>
@@ -206,6 +184,10 @@ tr:nth-child(even) td {
 <td>  N/A</td>
 <td>  N/A</td>
 <td class="down"> down</td>
+<td> 80%</td>
+<td> 45%</td>
+<td> </td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>3</td>
@@ -213,6 +195,7 @@ tr:nth-child(even) td {
 <td>education</td>
 <td> Early childhood</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> N/A</td>
 <td> N/A</td>
@@ -223,6 +206,10 @@ tr:nth-child(even) td {
 <td> 16</td>
 <td> 5</td>
 <td> N/A</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>3</td>
@@ -230,6 +217,7 @@ tr:nth-child(even) td {
 <td>education</td>
 <td> Early childhood</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> N/A</td>
 <td> N/A</td>
@@ -240,6 +228,10 @@ tr:nth-child(even) td {
 <td> 44</td>
 <td> 12</td>
 <td> N/A</td>
+<td> Top 3</td>
+<td> 30%</td>
+<td> 38%</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>4</td>
@@ -247,6 +239,7 @@ tr:nth-child(even) td {
 <td>education</td>
 <td> K-12</td>
 <td> Primary </td>
+<td>yes</td>
 <td> Texas</td>
 <td> 2019</td>
 <td> 72.9% </td>
@@ -257,6 +250,10 @@ tr:nth-child(even) td {
 <td> N/A</td>
 <td> N/A</td>
 <td class="up"> up</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>4</td>
@@ -264,6 +261,7 @@ tr:nth-child(even) td {
 <td>education</td>
 <td> K-12</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='Spring 2021)'> 2021 </td>
 <td> 41%</td>
@@ -274,6 +272,10 @@ tr:nth-child(even) td {
 <td> N/A</td>
 <td> N/A</td>
 <td class="down"> down</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>5</td>
@@ -281,6 +283,7 @@ tr:nth-child(even) td {
 <td>education</td>
 <td> Postsecondary</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> 2018</td>
 <td> 31.5%</td>
@@ -291,6 +294,10 @@ tr:nth-child(even) td {
 <td>  N/A</td>
 <td> N/A</td>
 <td class="down"> down</td>
+<td> </td>
+<td> 32%</td>
+<td> 80%</td>
+<td> flat</td>
 </tr>
 <tr>
 <td>6</td>
@@ -298,6 +305,7 @@ tr:nth-child(even) td {
 <td>education</td>
 <td> Jobs</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2018</td>
 <td> 56%</td>
@@ -308,6 +316,10 @@ tr:nth-child(even) td {
 <td> N/A</td>
 <td> N/A</td>
 <td class="down"> down</td>
+<td> Top 3</td>
+<td> 58%</td>
+<td> 60%</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>7</td>
@@ -315,6 +327,7 @@ tr:nth-child(even) td {
 <td>education</td>
 <td> Workforce Needs</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> </td>
 <td> </td>
@@ -322,6 +335,10 @@ tr:nth-child(even) td {
 <td> </td>
 <td> </td>
 <td></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -332,6 +349,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Availability of health care</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 68.1%</td>
@@ -342,6 +360,10 @@ tr:nth-child(even) td {
 <td> 48</td>
 <td> 12</td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> 68%</td>
+<td> 80%</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>8</td>
@@ -349,6 +371,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Availability of health care</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2020</td>
 <td> 830:1</td>
@@ -359,6 +382,10 @@ tr:nth-child(even) td {
 <td>  50</td>
 <td> 12</td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> 960:1</td>
+<td> 310:1</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>8</td>
@@ -366,6 +393,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Availability of health care</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2018</td>
 <td> 1640:1</td>
@@ -376,6 +404,10 @@ tr:nth-child(even) td {
 <td> 50</td>
 <td> 12</td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> 1,660:1</td>
+<td> 1,230:1</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>8</td>
@@ -383,6 +415,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Availability of health care</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> N/A</td>
 <td> N/A</td>
@@ -393,6 +426,10 @@ tr:nth-child(even) td {
 <td></td>
 <td> </td>
 <td> N/A</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>9</td>
@@ -400,6 +437,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Affordability of health care</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 15.2%</td>
@@ -410,6 +448,10 @@ tr:nth-child(even) td {
 <td> 50</td>
 <td> 12</td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> 17%</td>
+<td> 11%</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>9</td>
@@ -417,6 +459,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Affordability of health care</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 18.4%</td>
@@ -427,6 +470,10 @@ tr:nth-child(even) td {
 <td> 50</td>
 <td> 12</td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> 18%</td>
+<td> 6.4%</td>
+<td> Mixed</td>
 </tr>
 <tr>
 <td>11</td>
@@ -434,9 +481,10 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Public health</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2018</td>
-<td> 79.1</td>
+<td> 79.2</td>
 <td> 25</td>
 <td> 8</td>
 <td>  2016</td>
@@ -444,6 +492,10 @@ tr:nth-child(even) td {
 <td> 30</td>
 <td> 8</td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> 79.1 (2016-2018)</td>
+<td> 80.5</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>11</td>
@@ -451,6 +503,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Public health</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 34.0%</td>
@@ -461,6 +514,10 @@ tr:nth-child(even) td {
 <td>  40</td>
 <td> 12</td>
 <td class="up"> up</td>
+<td> Top 6</td>
+<td> 35% (adults); 32% (children)</td>
+<td> 31%</td>
+<td> Worsening (adults); Improving (children)</td>
 </tr>
 <tr>
 <td>11</td>
@@ -468,6 +525,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Public health</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 14.7%</td>
@@ -478,6 +536,10 @@ tr:nth-child(even) td {
 <td> 12</td>
 <td> 4</td>
 <td class="down"> down</td>
+<td> Top 6</td>
+<td> 14%</td>
+<td> 15%</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>11</td>
@@ -485,6 +547,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Public health</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2017</td>
 <td> 72.1%</td>
@@ -495,6 +558,10 @@ tr:nth-child(even) td {
 <td>   41</td>
 <td> 9</td>
 <td class="down"> down</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>11</td>
@@ -502,6 +569,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Public health</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2018</td>
 <td> 8.5%</td>
@@ -512,6 +580,10 @@ tr:nth-child(even) td {
 <td> 26</td>
 <td> 5</td>
 <td class="down"> down</td>
+<td> Top 3</td>
+<td> 8.4%</td>
+<td> 8.1%</td>
+<td> Worsening</td>
 </tr>
 <tr>
 <td>11</td>
@@ -519,6 +591,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Public health</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2018</td>
 <td> 7,126</td>
@@ -529,6 +602,10 @@ tr:nth-child(even) td {
 <td> 22</td>
 <td> 7</td>
 <td class="up"> up</td>
+<td> Top 3</td>
+<td> 95</td>
+<td> 71</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>11</td>
@@ -536,6 +613,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Public health</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2020</td>
 <td> 42.2%</td>
@@ -546,6 +624,10 @@ tr:nth-child(even) td {
 <td> 38</td>
 <td> 8</td>
 <td class="down"> down</td>
+<td> Top 6</td>
+<td> 43%</td>
+<td> 48%</td>
+<td> Mixed</td>
 </tr>
 <tr>
 <td>12</td>
@@ -553,6 +635,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Value-driven system</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> N/A</td>
 <td> N/A</td>
@@ -563,6 +646,10 @@ tr:nth-child(even) td {
 <td> 39</td>
 <td> 11</td>
 <td> N/A</td>
+<td> Top 3</td>
+<td> 5.1%</td>
+<td> 3.5%</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>12</td>
@@ -570,6 +657,7 @@ tr:nth-child(even) td {
 <td>health</td>
 <td> Value-driven system</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2017</td>
 <td> 6.9</td>
@@ -580,6 +668,10 @@ tr:nth-child(even) td {
 <td> 36</td>
 <td> 9</td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> 7.2</td>
+<td> 5.9</td>
+<td> Mixed</td>
 </tr>
 <tr>
 <td>13</td>
@@ -587,6 +679,7 @@ tr:nth-child(even) td {
 <td>infrastructure</td>
 <td> Mobility of individuals</td>
 <td> Primary </td>
+<td>yes</td>
 <td> Metros</td>
 <td> 2020</td>
 <td> $861.48</td>
@@ -597,6 +690,10 @@ tr:nth-child(even) td {
 <td> $1325.45</td>
 <td> </td>
 <td class="up"> up</td>
+<td> $922</td>
+<td> $1325.45</td>
+<td> $922</td>
+<td> Worsening</td>
 </tr>
 <tr>
 <td>13</td>
@@ -604,6 +701,7 @@ tr:nth-child(even) td {
 <td>infrastructure</td>
 <td> Mobility of individuals</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2020</td>
 <td> 19.9%</td>
@@ -614,6 +712,10 @@ tr:nth-child(even) td {
 <td> 29</td>
 <td> 11</td>
 <td class="up"> up</td>
+<td> Top 6</td>
+<td> 18%</td>
+<td> 23%</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>14</td>
@@ -621,6 +723,7 @@ tr:nth-child(even) td {
 <td>infrastructure</td>
 <td> Mobility of goods</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> N/A</td>
 <td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='not found)'> N/A </td>
@@ -631,6 +734,10 @@ tr:nth-child(even) td {
 <td> 1</td>
 <td> 1</td>
 <td> N/A</td>
+<td> Rank 1</td>
+<td> 1.2</td>
+<td> 1.2</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>15</td>
@@ -638,6 +745,7 @@ tr:nth-child(even) td {
 <td>infrastructure</td>
 <td> Safety</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 1.25</td>
@@ -648,6 +756,10 @@ tr:nth-child(even) td {
 <td> 34</td>
 <td> 11</td>
 <td class="flat"> flat</td>
+<td> Top 9</td>
+<td> 1.29</td>
+<td> 1.17</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>16</td>
@@ -655,6 +767,7 @@ tr:nth-child(even) td {
 <td>infrastructure</td>
 <td> Digital connectivity</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 67.56%</td>
@@ -665,40 +778,32 @@ tr:nth-child(even) td {
 <td> 37</td>
 <td> 12</td>
 <td class="flat"> flat</td>
+<td> Top 6</td>
+<td> 66%</td>
+<td> 71%</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>16</td>
-<td><a href="./infrastructure/Percent of population with access to fixed broadband at an acceptable speed of 25 mbps (Connected Nation)/report.html">Broadband coverage (Connected Nation)</a></td>
+<td><a href="./infrastructure/Percent of population with access to fixed broadband at an acceptable speed of 25 mbps or higher will shift to 1Gbps download speeds in future/report.html">Broadband coverage</a></td>
 <td>infrastructure</td>
 <td> Digital connectivity</td>
 <td> Primary </td>
-<td> Texas</td>
-<td> 2020</td>
-<td> 96.78%</td>
-<td> N/A</td>
-<td> N/A</td>
-<td>  2019</td>
-<td> 96.27%</td>
-<td> N/A</td>
-<td> N/A</td>
-<td class="flat"> flat</td>
-</tr>
-<tr>
-<td>16</td>
-<td><a href="./infrastructure/Percent of population with access to fixed broadband at an acceptable speed of 25 mbps or higher will shift to 1Gbps download speeds in future/report.html">Broadband coverage (FCC)</a></td>
-<td>infrastructure</td>
-<td> Digital connectivity</td>
-<td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2020</td>
-<td> 95.8%</td>
+<td> 94.1%</td>
 <td> 37</td>
 <td> 10</td>
-<td>  2019</td>
-<td> 94.1%</td>
+<td>  2017</td>
+<td> 93%</td>
 <td> 31</td>
 <td> 10</td>
 <td class="flat"> flat</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>17</td>
@@ -706,6 +811,7 @@ tr:nth-child(even) td {
 <td>infrastructure</td>
 <td> Energy distribution</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2020</td>
 <td> $8.58</td>
@@ -716,6 +822,10 @@ tr:nth-child(even) td {
 <td> 9</td>
 <td> 2</td>
 <td class="flat"> flat</td>
+<td> Top 6</td>
+<td> 8.5</td>
+<td> 9.6</td>
+<td> Mixed</td>
 </tr>
 <tr>
 <td>17</td>
@@ -723,6 +833,7 @@ tr:nth-child(even) td {
 <td>infrastructure</td>
 <td> Energy distribution</td>
 <td> Primary </td>
+<td>yes</td>
 <td> Texas</td>
 <td> 2022</td>
 <td> 28.8%</td>
@@ -733,6 +844,10 @@ tr:nth-child(even) td {
 <td> N/A</td>
 <td> N/A</td>
 <td class="up"> up</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>18</td>
@@ -740,6 +855,7 @@ tr:nth-child(even) td {
 <td>infrastructure</td>
 <td> Hazard readiness</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 6.7</td>
@@ -750,6 +866,10 @@ tr:nth-child(even) td {
 <td> 35</td>
 <td> 8</td>
 <td class="flat"> flat</td>
+<td> Top 6</td>
+<td> 6.5</td>
+<td> 6.7</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>19</td>
@@ -757,16 +877,21 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Quality of air</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> Counties</td>
 <td> 2021</td>
-<td> 7.3</td>
+<td> 60.03%</td>
+<td> N/A</td>
+<td> 7</td>
 <td> N/A</td>
 <td> N/A</td>
-<td> 2020</td>
-<td> 8.8</td>
 <td> N/A </td>
 <td> N/A</td>
 <td> Flat</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>20</td>
@@ -774,6 +899,7 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Sufficient water</td>
 <td> Primary </td>
+<td>yes</td>
 <td> Texas</td>
 <td> 2022</td>
 <td> 4.744 million acre-feet</td>
@@ -784,6 +910,10 @@ tr:nth-child(even) td {
 <td> N/A </td>
 <td> N/A</td>
 <td class="down"> down</td>
+<td> 2.3 M acre-feet/year</td>
+<td> 5.6</td>
+<td> 2.3</td>
+<td> Worsening</td>
 </tr>
 <tr>
 <td>21</td>
@@ -791,6 +921,7 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Quality of water</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2020</td>
 <td> 94.1%</td>
@@ -801,6 +932,10 @@ tr:nth-child(even) td {
 <td> N/A</td>
 <td> 12</td>
 <td class="flat"> flat</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>22</td>
@@ -808,16 +943,21 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Parks and wildlife</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
-<td> 2021</td>
-<td> 111.14</td>
+<td> 2017</td>
+<td> 66.67</td>
+<td> N/A</td>
+<td> N/A</td>
+<td> 2018</td>
+<td> 75.54</td>
 <td> N/A</td>
 <td> N/A</td>
 <td> N/A</td>
+<td> 68</td>
+<td> 68</td>
 <td> N/A</td>
-<td> N/A</td>
-<td> N/A</td>
-<td> N/A</td>
+<td> Worsening</td>
 </tr>
 <tr>
 <td>22</td>
@@ -825,6 +965,7 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Parks and wildlife</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> Texas</td>
 <td> 2019</td>
 <td> 296.89 </td>
@@ -835,6 +976,10 @@ tr:nth-child(even) td {
 <td> N/A</td>
 <td>  N/A</td>
 <td class="down"> down</td>
+<td> </td>
+<td> 306 (2018)</td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>23</td>
@@ -842,6 +987,7 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Agricultural production</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td class="redrow" onmouseover="show_hover(event)" onmouseleave="hide_hover()" data-message='census of agriculture, irrigation has not been updated)'> 2018 </td>
 <td> 1.31</td>
@@ -852,6 +998,10 @@ tr:nth-child(even) td {
 <td> N/A</td>
 <td> </td>
 <td> N/A</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>23</td>
@@ -859,6 +1009,7 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Agricultural production</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> $839.8</td>
@@ -869,6 +1020,10 @@ tr:nth-child(even) td {
 <td> 27</td>
 <td> 8</td>
 <td class="up"> up</td>
+<td> Top 6</td>
+<td> $731 (2018)</td>
+<td> $820</td>
+<td> Mixed</td>
 </tr>
 <tr>
 <td>24</td>
@@ -876,6 +1031,7 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Energy production</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 962.9</td>
@@ -886,6 +1042,10 @@ tr:nth-child(even) td {
 <td>   2</td>
 <td> 3</td>
 <td class="up"> up</td>
+<td> Rank 1</td>
+<td> 809.867 (2017)</td>
+<td> 1120</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>24</td>
@@ -893,6 +1053,7 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Energy production</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 22,509</td>
@@ -903,6 +1064,10 @@ tr:nth-child(even) td {
 <td> 1</td>
 <td> 1</td>
 <td class="up"> up</td>
+<td> Rank 1</td>
+<td> 16787 billion BTU (2017)</td>
+<td> 16800</td>
+<td> Mixed</td>
 </tr>
 <tr>
 <td>24</td>
@@ -910,6 +1075,7 @@ tr:nth-child(even) td {
 <td>natural resources</td>
 <td> Energy production</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2018</td>
 <td> 49</td>
@@ -920,6 +1086,10 @@ tr:nth-child(even) td {
 <td>   4</td>
 <td> 4</td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> 50.5 (2016)</td>
+<td> 48</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>25</td>
@@ -927,6 +1097,7 @@ tr:nth-child(even) td {
 <td>justice</td>
 <td> Public safety</td>
 <td> Primary </td>
+<td>yes</td>
 <td> Texas</td>
 <td> 2019</td>
 <td> 2,390.7</td>
@@ -937,6 +1108,10 @@ tr:nth-child(even) td {
 <td> 28</td>
 <td> 7</td>
 <td class="down"> down</td>
+<td> Top 9</td>
+<td> 2370</td>
+<td> 2464</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>25</td>
@@ -944,6 +1119,7 @@ tr:nth-child(even) td {
 <td>justice</td>
 <td> Public safety</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 419</td>
@@ -954,6 +1130,10 @@ tr:nth-child(even) td {
 <td> 33</td>
 <td> 11</td>
 <td class="flat"> flat</td>
+<td> Top 9</td>
+<td> 411</td>
+<td> 397</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>26</td>
@@ -961,6 +1141,7 @@ tr:nth-child(even) td {
 <td>justice</td>
 <td> Protection for the vulnerable</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 19.4%</td>
@@ -971,6 +1152,10 @@ tr:nth-child(even) td {
 <td>   8</td>
 <td> 7</td>
 <td class="down"> down</td>
+<td> Top 9</td>
+<td> 20%</td>
+<td> 24%</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>27</td>
@@ -978,6 +1163,7 @@ tr:nth-child(even) td {
 <td>justice</td>
 <td> Safety net</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 13.7%</td>
@@ -988,6 +1174,10 @@ tr:nth-child(even) td {
 <td>   9</td>
 <td> 9</td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> 14.2%</td>
+<td> 10.8%</td>
+<td> Worsening</td>
 </tr>
 <tr>
 <td>28</td>
@@ -995,6 +1185,7 @@ tr:nth-child(even) td {
 <td>justice</td>
 <td> Justice system</td>
 <td> Primary </td>
+<td>yes</td>
 <td> Texas</td>
 <td> 2017</td>
 <td> 63%</td>
@@ -1005,6 +1196,10 @@ tr:nth-child(even) td {
 <td></td>
 <td> </td>
 <td class="flat"> flat</td>
+<td> Below national average</td>
+<td> 62.8% (2015)</td>
+<td> 68%</td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>28</td>
@@ -1012,6 +1207,7 @@ tr:nth-child(even) td {
 <td>justice</td>
 <td> Justice system</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> N/A</td>
 <td> N/A</td>
@@ -1022,6 +1218,10 @@ tr:nth-child(even) td {
 <td> 38</td>
 <td> 6</td>
 <td> N/A</td>
+<td> Top 3</td>
+<td> 67.1%</td>
+<td> 71%</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>29</td>
@@ -1029,6 +1229,7 @@ tr:nth-child(even) td {
 <td>government</td>
 <td> Confidence in government</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> </td>
 <td>  </td>
@@ -1039,23 +1240,10 @@ tr:nth-child(even) td {
 <td> 19</td>
 <td> 2</td>
 <td> </td>
-</tr>
-<tr>
-<td>29</td>
-<td><a href="./government/Percent of population using government services who indicate that they are satisfied with digital services/report.html">User satisfaction</a></td>
-<td>government</td>
-<td> Confidence in Government</td>
-<td> Primary </td>
-<td> States</td>
-<td> </td>
+<td> Top 9</td>
+<td> 35%</td>
 <td>  </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
-<td> </td>
+<td> flat</td>
 </tr>
 <tr>
 <td>30</td>
@@ -1063,6 +1251,7 @@ tr:nth-child(even) td {
 <td>government</td>
 <td> Civic engagement</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2020</td>
 <td> 63.9%</td>
@@ -1073,6 +1262,10 @@ tr:nth-child(even) td {
 <td> 46</td>
 <td> 12</td>
 <td class="up"> up</td>
+<td> Top 9</td>
+<td> 48.4</td>
+<td> 53%</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>31</td>
@@ -1080,6 +1273,7 @@ tr:nth-child(even) td {
 <td>government</td>
 <td> Broad stable revenue base</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2021</td>
 <td> 5.46</td>
@@ -1090,6 +1284,10 @@ tr:nth-child(even) td {
 <td>   10</td>
 <td> 10</td>
 <td class="flat"> flat</td>
+<td> Top 6</td>
+<td> </td>
+<td> N/A</td>
+<td> Worsening</td>
 </tr>
 <tr>
 <td>31</td>
@@ -1097,6 +1295,7 @@ tr:nth-child(even) td {
 <td>government</td>
 <td> Broad stable revenue base</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2021</td>
 <td> 7.88</td>
@@ -1107,6 +1306,10 @@ tr:nth-child(even) td {
 <td>   11</td>
 <td> 11</td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> </td>
+<td> N/A</td>
+<td> Worsening</td>
 </tr>
 <tr>
 <td>31</td>
@@ -1114,16 +1317,21 @@ tr:nth-child(even) td {
 <td>government</td>
 <td> Broad stable revenue base</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> </td>
 <td>  </td>
 <td> </td>
 <td> </td>
 <td> 2018</td>
-<td> 22</td>
+<td> </td>
 <td> 22</td>
 <td> 5</td>
 <td> </td>
+<td> Top 3</td>
+<td> </td>
+<td> </td>
+<td> Flat</td>
 </tr>
 <tr>
 <td>32</td>
@@ -1131,11 +1339,16 @@ tr:nth-child(even) td {
 <td>government</td>
 <td> Wisely managed state spending</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> States</td>
 <td> 2020</td>
 <td>  </td>
 <td> 7</td>
 <td> 4</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 <td> </td>
 <td> </td>
 <td> </td>
@@ -1148,6 +1361,7 @@ tr:nth-child(even) td {
 <td>government</td>
 <td> Wisely managed state spending</td>
 <td> Primary </td>
+<td>yes</td>
 <td> States</td>
 <td> 2019</td>
 <td> 6.1%</td>
@@ -1158,6 +1372,10 @@ tr:nth-child(even) td {
 <td> </td>
 <td> </td>
 <td class="flat"> flat</td>
+<td> Top 3</td>
+<td> 7.10%</td>
+<td> 5.20%</td>
+<td> Improving</td>
 </tr>
 <tr>
 <td>33</td>
@@ -1165,6 +1383,7 @@ tr:nth-child(even) td {
 <td>government</td>
 <td> Talent in government</td>
 <td> Primary </td>
+<td>yes</td>
 <td> Texas</td>
 <td> 2020</td>
 <td> 18.6% </td>
@@ -1175,6 +1394,10 @@ tr:nth-child(even) td {
 <td> N/A</td>
 <td> N/A</td>
 <td class="up"> up</td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>34</td>
@@ -1182,6 +1405,7 @@ tr:nth-child(even) td {
 <td>government</td>
 <td> Proven modern methods in data and analytics IT HR and procurement</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> Texas</td>
 <td> </td>
 <td></td>
@@ -1192,6 +1416,32 @@ tr:nth-child(even) td {
 <td></td>
 <td> </td>
 <td></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>35</td>
+<td><a href="./government/Percent of population using government services who indicate that they are satisfied with digital services/report.html">User satisfaction</a></td>
+<td>government</td>
+<td> Customer service</td>
+<td> Primary </td>
+<td class="not_updated">no</td>
+<td> States</td>
+<td> </td>
+<td>  </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 <tr>
 <td>36</td>
@@ -1199,6 +1449,7 @@ tr:nth-child(even) td {
 <td>government</td>
 <td> Aligned accountability</td>
 <td> Primary </td>
+<td class="not_updated">no</td>
 <td> Texas</td>
 <td> </td>
 <td></td>
@@ -1209,10 +1460,14 @@ tr:nth-child(even) td {
 <td></td>
 <td> </td>
 <td></td>
+<td> </td>
+<td> </td>
+<td> </td>
+<td> </td>
 </tr>
 </table>
 
-<script>
+<br/><br/><br/><br/><br/><br/><br/><br/><script>
 	
 function show_hover(e){
 	

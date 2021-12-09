@@ -20,7 +20,7 @@ Comparisons: States
 
 Date: 2018
 
-Latest Value: 79.2
+Latest Value: 79.1
 
 State Rank: 25
 

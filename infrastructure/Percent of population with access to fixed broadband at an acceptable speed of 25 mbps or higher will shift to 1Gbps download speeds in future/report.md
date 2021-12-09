@@ -1,4 +1,4 @@
-# Broadband coverage
+# Broadband coverage (FCC)
 
 Percent of population with access to fixed broadband at an acceptable speed of 25 mbps or higher will shift to 1Gbps download speeds in future
 
@@ -20,7 +20,7 @@ Comparisons: States
 
 Date: 2020
 
-Latest Value: 94.1%
+Latest Value: 95.8%
 
 State Rank: 37
 
@@ -28,9 +28,9 @@ Peer Rank: 10
 
 ----
 
-Previous Date:  2017
+Previous Date:  2019
 
-Previous Value: 93%
+Previous Value: 94.1%
 
 Previous State Rank: 31
 
@@ -59,9 +59,16 @@ Previous Trend:
 
 ### Source
 
-[FCC - 2020 Broadband Deployment Report](https://www.fcc.gov/reports-research/reports/broadband-progress-reports/2020-broadband-deployment-report)
+[2021 Broadband Deployment Report](https://www.fcc.gov/reports-research/reports/broadband-progress-reports/fourteenth-broadband-deployment-report)
+
+[2020 Broadband Deployment Report](https://www.fcc.gov/reports-research/reports/broadband-progress-reports/2020-broadband-deployment-report)
+
+
+<!-- [FCC Broadband Map](https://broadbandmap.fcc.gov/#/area-summary?version=dec2019&type=state&geoid=48&tech=acfosw&speed=25_3)
 
 [2020 Texas Report - Governor's Broadband Development Council](https://gov.texas.gov/uploads/files/press/2020_Texas_Report_-_Governors_Broadband_Development_Council.pdf)
+
+[FCC - 2020 Broadband Deployment Report](https://www.fcc.gov/reports-research/reports/broadband-progress-reports/2020-broadband-deployment-report) -->
 
 ### Notes
 

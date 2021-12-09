@@ -4,9 +4,9 @@ Percent of population using government services who indicate that they are satis
 
 ## Government Functioning
 
-### Goal: Customer service
+### Goal: Confidence in Government
 
-Texas people and businesses can access the public services they want and need through user-centric channels
+Texans have confidence in the public institutions that serve them
 
 ### Type: Primary indicator
 

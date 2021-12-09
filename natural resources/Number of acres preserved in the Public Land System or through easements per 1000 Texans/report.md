@@ -18,9 +18,9 @@ Comparisons: States
 
 ----
  
-Date: 2017
+Date: 2021
 
-Latest Value: 66.67
+Latest Value: 111.14
 
 State Rank: N/A
 
@@ -28,9 +28,9 @@ Peer Rank: N/A
 
 -----
 
-Previous Date: 2018
+Previous Date: N/A
 
-Previous Value: 75.54
+Previous Value: N/A
 
 Previous State Rank: N/A
 

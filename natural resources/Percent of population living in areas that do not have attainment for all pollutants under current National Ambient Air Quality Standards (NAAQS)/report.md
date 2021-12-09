@@ -1,6 +1,10 @@
 # Air quality non-attainment
 
-Percent of population living in areas that do not have attainment for all pollutants under current National Ambient Air Quality Standards (NAAQS)
+Average daily density of fine particulate matter in micrograms per cubic meter
+(PM2.5).
+
+<!-- 
+Percent of population living in areas that do not have attainment for all pollutants under current National Ambient Air Quality Standards (NAAQS) -->
 
 ## Air
 
@@ -20,17 +24,17 @@ Comparisons: Counties
 
 Date: 2021
 
-Latest Value: 60.03%
+Latest Value: 7.3
 
 State Rank: N/A
 
-Peer Rank: 7
+Peer Rank: N/A
 
 ----
 
-Previous Date: N/A
+Previous Date: 2020
 
-Previous Value: N/A
+Previous Value: 8.8
 
 Previous State Rank: N/A 
 
@@ -60,10 +64,12 @@ Previous Trend:
 
 ### Source
 
-last updated 2015
+[County Health Rankings](https://www.countyhealthrankings.org/sites/default/files/media/document/CHR2021_TX.pdf)
+
+<!-- last updated 2015
 [previous](https://www3.epa.gov/airquality/greenbook/ancl3.html)
 
-[Green Book](https://www3.epa.gov/airquality/greenbook/ancl3.html)
+[Green Book](https://www3.epa.gov/airquality/greenbook/ancl3.html) -->
 
 ### Notes
 
